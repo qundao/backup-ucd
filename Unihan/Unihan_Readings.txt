@@ -1,10 +1,10 @@
 #
 # Unihan_Readings.txt
-# Date: 2014-05-09 18:17:02 GMT [JHJ]
-# Unicode version: 7.0.0
+# Date: 2015-04-30 18:38:20 GMT [JHJ]
+# Unicode version: 8.0.0
 #
 # Unicode Character Database
-# Copyright (c) 1991-2014 Unicode, Inc.
+# Copyright (c) 1991-2015 Unicode, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 # For documentation, see http://www.unicode.org/reports/tr44/
 #
@@ -18253,7 +18253,7 @@ U+4950	kCantonese	mau4
 U+4950	kDefinition	(corrupted form of 鍪) cooking utensils used in ancient times; an iron pan, a helmet; a metal cap
 U+4950	kMandarin	móu
 U+4951	kCantonese	faan6
-U+4951	kDefinition	(corrupted form of 錽) a kind of decoration on the head of a horse; usually in a shape of an animal face, ornaments of a bridle or reins, to engrave incised inscriptions on copper or iron plate; to engrave on metal or wood
+U+4951	kDefinition	(corrupted form of 錽) a kind of decoration on the head of a horse; usually in a shape of an animal face, ornaments of a bridle or reins, to engrave incised inscriptions on copper or iron plate; to engrave on metal or wood; (mài) meitnerium
 U+4951	kMandarin	wàn
 U+4952	kCantonese	goeng6
 U+4952	kDefinition	lead ( a metal)
@@ -21230,7 +21230,7 @@ U+4CA3	kCantonese	zyu4
 U+4CA3	kDefinition	(simplified form) to fish; to seize
 U+4CA3	kMandarin	yú
 U+4CA4	kCantonese	zau2
-U+4CA4	kDefinition	(simplified form)
+U+4CA4	kDefinition	a kind of clam
 U+4CA5	kCantonese	gau1
 U+4CA5	kDefinition	(same as 鳩) the pigeon; the turtle dove
 U+4CA6	kCantonese	daai6
@@ -43125,7 +43125,7 @@ U+5972	kXHC1983	0281.020*,0281.021:duǒ
 U+5973	kCantonese	jyu5 neoi5 neoi6
 U+5973	kDefinition	woman, girl; feminine; rad. 38
 U+5973	kHangul	녀 여
-U+5973	kHanyuPinlu	n̈ǔ(1129) n̈u(37)
+U+5973	kHanyuPinlu	nǚ(1129) nü(37)
 U+5973	kHanyuPinyin	21023.230:nǚ,nǜ,rǔ
 U+5973	kJapaneseKun	ONNA ME MUSUME
 U+5973	kJapaneseOn	JO NYO NYOU
@@ -43540,7 +43540,7 @@ U+59B2	kTang	dɑt
 U+59B2	kVietnamese	dát
 U+59B2	kXHC1983	0189.140:dá
 U+59B3	kCantonese	lei5 naai5 nei5
-U+59B3	kDefinition	you (f.)
+U+59B3	kDefinition	you (female)
 U+59B3	kHanyuPinyin	21039.090:nǎi,nǐ
 U+59B3	kJapaneseKun	HAHA
 U+59B3	kJapaneseOn	DAI NAI DEI JI
@@ -53167,7 +53167,7 @@ U+5F8A	kXHC1983	0488.040:huái 0503.020:huí
 U+5F8B	kCantonese	leot6
 U+5F8B	kDefinition	statute, principle, regulation
 U+5F8B	kHangul	률 율
-U+5F8B	kHanyuPinlu	l̈ù(439)
+U+5F8B	kHanyuPinlu	lǜ(439)
 U+5F8B	kHanyuPinyin	20821.010:lǜ
 U+5F8B	kJapaneseKun	NORI
 U+5F8B	kJapaneseOn	RITSU RICHI
@@ -56457,7 +56457,7 @@ U+616D	kXHC1983	1382.080:yìn
 U+616E	kCantonese	leoi6
 U+616E	kDefinition	be concerned, worry about
 U+616E	kHangul	려
-U+616E	kHanyuPinlu	l̈ù(125)
+U+616E	kHanyuPinlu	lǜ(125)
 U+616E	kHanyuPinyin	42342.020:lǜ,lǘ
 U+616E	kJapaneseKun	OMONPAKA
 U+616E	kJapaneseOn	RYO ROKU
@@ -63967,7 +63967,7 @@ U+65C4	kXHC1983	0768.010:máo
 U+65C5	kCantonese	leoi5
 U+65C5	kDefinition	trip, journey; travel; traveler
 U+65C5	kHangul	려 여
-U+65C5	kHanyuPinlu	l̈ǔ(139)
+U+65C5	kHanyuPinlu	lǚ(139)
 U+65C5	kHanyuPinyin	32178.070:lǚ
 U+65C5	kJapaneseKun	TABI
 U+65C5	kJapaneseOn	RYO
@@ -74046,7 +74046,7 @@ U+6C25	kDefinition	xenon
 U+6C25	kHanyuPinyin	32011.090:xī
 U+6C25	kMandarin	xī
 U+6C26	kCantonese	hoi6
-U+6C26	kDefinition	fluorine
+U+6C26	kDefinition	helium
 U+6C26	kHanyuPinyin	32011.120:hài
 U+6C26	kJapaneseOn	GAI
 U+6C26	kMandarin	hài
@@ -74075,7 +74075,7 @@ U+6C2A	kHanyuPinyin	32012.020:kè
 U+6C2A	kMandarin	kè
 U+6C2A	kXHC1983	0643.010:kè
 U+6C2B	kCantonese	hing1
-U+6C2B	kDefinition	amonia; hydrogen nitride
+U+6C2B	kDefinition	hydrogen
 U+6C2B	kHanyuPinlu	qīng(13)
 U+6C2B	kHanyuPinyin	32013.010:qīng
 U+6C2B	kMandarin	qīng
@@ -74088,7 +74088,7 @@ U+6C2C	kMandarin	yà
 U+6C2C	kXHC1983	1321.041:yà
 U+6C2D	kMandarin	dōng
 U+6C2E	kCantonese	daam6
-U+6C2E	kDefinition	xenon
+U+6C2E	kDefinition	nitrogen
 U+6C2E	kHanyuPinlu	dàn(13)
 U+6C2E	kHanyuPinyin	32013.060:dàn
 U+6C2E	kJapaneseOn	TAN
@@ -76335,7 +76335,7 @@ U+6D83	kMandarin	kùn
 U+6D84	kHanyuPinyin	31624.020:pīng
 U+6D84	kMandarin	pīng
 U+6D85	kCantonese	nip6
-U+6D85	kDefinition	blacken; black mud, slime; tatto
+U+6D85	kDefinition	blacken; black mud, slime
 U+6D85	kHangul	열
 U+6D85	kHanyuPinyin	31623.020,31623.030:niè
 U+6D85	kJapaneseKun	SOMERU
@@ -81505,6 +81505,7 @@ U+70EB	kMandarin	tàng
 U+70EB	kXHC1983	1120.070:tàng
 U+70EC	kCantonese	zeon6
 U+70EC	kDefinition	cinders, ashes, embers; remnants
+U+70EC	kJapaneseOn	JIN
 U+70EC	kMandarin	jìn
 U+70EC	kXHC1983	0594.030:jìn
 U+70ED	kCantonese	jit6
@@ -85279,7 +85280,7 @@ U+7386	kMandarin	zī
 U+7387	kCantonese	leot6 seot1
 U+7387	kDefinition	to lead; ratio; rate; limit
 U+7387	kHangul	률 솔 율
-U+7387	kHanyuPinlu	l̈ù(173) shuài(58)
+U+7387	kHanyuPinlu	lǜ(173) shuài(58)
 U+7387	kHanyuPinyin	10289.030:shuài,lǜ,lüe
 U+7387	kJapaneseKun	HIKIIRU OOMUNE WARIAI
 U+7387	kJapaneseOn	RITSU SOTSU
@@ -90732,7 +90733,7 @@ U+76FC	kTang	pɛ̀n
 U+76FC	kXHC1983	0853.080:pàn
 U+76FD	kMandarin	fēng
 U+76FE	kCantonese	seon5 teon5
-U+76FE	kDefinition	shield; dutch guilder; Indonesia
+U+76FE	kDefinition	shield, shield-shaped object; currency sign for Dutch guilder
 U+76FE	kHangul	순
 U+76FE	kHanyuPinlu	dùn(279)
 U+76FE	kHanyuPinyin	42475.050:dùn,shǔn,yǔn
@@ -93177,6 +93178,7 @@ U+78B1	kJapaneseOn	KEN KAN SEN
 U+78B1	kMandarin	jiǎn
 U+78B1	kXHC1983	0552.080:jiǎn
 U+78B2	kCantonese	dai3
+U+78B2	kDefinition	tellurium
 U+78B2	kHanyuPinyin	42445.030:dì
 U+78B2	kJapaneseOn	TEI
 U+78B2	kMandarin	dì
@@ -94191,8 +94193,8 @@ U+7960	kVietnamese	từ
 U+7960	kXHC1983	0175.010:cí
 U+7961	kHanyuPinyin	42396.070:chái
 U+7961	kMandarin	chái
-U+7962	kCantonese	nei4
-U+7962	kDefinition	one's deceased father
+U+7962	kCantonese	nei4 nei5
+U+7962	kDefinition	one's deceased father; used as a synonum for U+4F60 你 when referring to deity
 U+7962	kHangul	니
 U+7962	kJapaneseKun	KATASHIRO
 U+7962	kJapaneseOn	DEI NAI NE
@@ -100743,7 +100745,7 @@ U+7D9F	kMandarin	lì
 U+7DA0	kCantonese	luk6
 U+7DA0	kDefinition	green; chlorine
 U+7DA0	kHangul	녹 록
-U+7DA0	kHanyuPinlu	l̈ù(220)
+U+7DA0	kHanyuPinlu	lǜ(220)
 U+7DA0	kJapaneseKun	MIDORI
 U+7DA0	kJapaneseOn	RYOKU ROKU
 U+7DA0	kKorean	LOK
@@ -101722,7 +101724,7 @@ U+7E36	kXHC1983	1486.011:zhí
 U+7E37	kCantonese	lau5 leoi5
 U+7E37	kDefinition	thread; detailed, precise
 U+7E37	kHangul	누 루
-U+7E37	kHanyuPinlu	l̈ǔ(18)
+U+7E37	kHanyuPinlu	lǚ(18)
 U+7E37	kHanyuPinyin	53442.120:lǚ
 U+7E37	kJapaneseKun	ITO
 U+7E37	kJapaneseOn	RU ROU
@@ -102846,7 +102848,7 @@ U+7EFE	kMandarin	wǎn
 U+7EFE	kXHC1983	1183.100:wǎn
 U+7EFF	kCantonese	luk6
 U+7EFF	kDefinition	green; chlorine
-U+7EFF	kHanyuPinlu	l̈ù(220)
+U+7EFF	kHanyuPinlu	lǜ(220)
 U+7EFF	kMandarin	lǜ
 U+7EFF	kXHC1983	0740.100:lù 0743.010:lǜ
 U+7F00	kCantonese	zeoi3 zyut3
@@ -102938,7 +102940,7 @@ U+7F14	kMandarin	dì
 U+7F14	kXHC1983	0233.090:dì
 U+7F15	kCantonese	leoi5
 U+7F15	kDefinition	thread; detailed, precise
-U+7F15	kHanyuPinlu	l̈ǔ(18)
+U+7F15	kHanyuPinlu	lǚ(18)
 U+7F15	kMandarin	lǚ
 U+7F15	kXHC1983	0741.060:lǚ
 U+7F16	kCantonese	pin1
@@ -111040,7 +111042,7 @@ U+8416	kCantonese	gun1 gwun1
 U+8416	kMandarin	wǎn
 U+8417	kMandarin	cè
 U+8418	kCantonese	loi6 noi6
-U+8418	kDefinition	naphthanlene
+U+8418	kDefinition	naphthalene
 U+8418	kHanyuPinyin	53231.100:nài
 U+8418	kMandarin	nài
 U+8418	kXHC1983	0814.100:nài
@@ -114191,7 +114193,7 @@ U+8650	kVietnamese	ngược
 U+8650	kXHC1983	0843.020:nüè
 U+8651	kCantonese	leoi6
 U+8651	kDefinition	be concerned, worry about
-U+8651	kHanyuPinlu	l̈ù(125)
+U+8651	kHanyuPinlu	lǜ(125)
 U+8651	kHanyuPinyin	42290.140:bì,lǜ
 U+8651	kMandarin	lǜ
 U+8651	kXHC1983	0742.050:lǜ
@@ -117625,7 +117627,8 @@ U+88AD	kDefinition	raid, attack; inherit
 U+88AD	kHanyuPinlu	xí(46)
 U+88AD	kMandarin	xí
 U+88AD	kXHC1983	1232.140:xí
-U+88AE	kCantonese	ji5
+U+88AE	kCantonese	nei5 ji5
+U+88AE	kDefinition	used as a synonum for U+4F60 你 when referring to deity
 U+88AE	kJapaneseOn	NE
 U+88AE	kMandarin	ni
 U+88AF	kCantonese	but6
@@ -117813,7 +117816,7 @@ U+88CD	kKorean	KON
 U+88CD	kMandarin	kǔn
 U+88CE	kCantonese	cing4
 U+88CE	kDefinition	to take off the clothes and expose the body. to carry in the girdle
-U+88CE	kHanyuPinyin	53094.040:chěng
+U+88CE	kHanyuPinyin	53094.040:chéng,chěng
 U+88CE	kJapaneseKun	HADAKA
 U+88CE	kJapaneseOn	TEI CHOU JOU
 U+88CE	kMandarin	chéng
@@ -130172,7 +130175,7 @@ U+90D0	kCantonese	kui2
 U+90D0	kDefinition	state in today's Henan province
 U+90D0	kMandarin	kuài
 U+90D0	kXHC1983	0657.060:kuài
-U+90D1	kCantonese	zeng6
+U+90D1	kCantonese	zeng6 zing6
 U+90D1	kDefinition	state in today's Henan; surname
 U+90D1	kHanyuPinlu	zhèng(16)
 U+90D1	kMandarin	zhèng
@@ -133040,7 +133043,7 @@ U+92C0	kJapaneseOn	TOU ZU
 U+92C0	kMandarin	tōu
 U+92C1	kCantonese	leoi5
 U+92C1	kDefinition	aluminum
-U+92C1	kHanyuPinlu	l̈ǔ(42)
+U+92C1	kHanyuPinlu	lǚ(42)
 U+92C1	kHanyuPinyin	64196.090:lǜ,lǚ
 U+92C1	kJapaneseKun	YASURI ARUMINYUUMU
 U+92C1	kJapaneseOn	RYO RO
@@ -134360,6 +134363,7 @@ U+93B5	kHanyuPinyin	64245.040:jiā
 U+93B5	kJapaneseKun	GARYUUMU
 U+93B5	kJapaneseOn	KA
 U+93B5	kMandarin	jiā
+U+93B6	kDefinition	Copernicium
 U+93B6	kHanyuPinyin	64239.070:gē
 U+93B6	kJapaneseKun	KOROMUBYUUMU
 U+93B6	kJapaneseOn	KA
@@ -135770,7 +135774,7 @@ U+94DC	kMandarin	tóng
 U+94DC	kXHC1983	1154.040:tóng
 U+94DD	kCantonese	leoi5
 U+94DD	kDefinition	aluminum
-U+94DD	kHanyuPinlu	l̈ǔ(42)
+U+94DD	kHanyuPinlu	lǚ(42)
 U+94DD	kMandarin	lǚ
 U+94DD	kXHC1983	0741.090:lǚ
 U+94DE	kMandarin	diào
@@ -143924,7 +143928,7 @@ U+9A61	kMandarin	lóng
 U+9A62	kCantonese	leoi4 lou4
 U+9A62	kDefinition	donkey, ass
 U+9A62	kHangul	려
-U+9A62	kHanyuPinlu	l̈ú(56)
+U+9A62	kHanyuPinlu	lǘ(56)
 U+9A62	kHanyuPinyin	74583.070:lǘ
 U+9A62	kJapaneseKun	USAGIUMA
 U+9A62	kJapaneseOn	RYO RO
@@ -144026,7 +144030,7 @@ U+9A73	kMandarin	bó
 U+9A73	kXHC1983	0084.140:bó
 U+9A74	kCantonese	leoi4 lou4
 U+9A74	kDefinition	donkey, ass
-U+9A74	kHanyuPinlu	l̈ú(56)
+U+9A74	kHanyuPinlu	lǘ(56)
 U+9A74	kMandarin	lǘ
 U+9A74	kXHC1983	0740.160:lǘ
 U+9A75	kCantonese	zong2
@@ -150956,6 +150960,20 @@ U+9FC8	kCantonese	ce1
 U+9FC9	kCantonese	wu1
 U+9FCA	kCantonese	zi2
 U+9FCB	kCantonese	hei1
+U+9FCD	kDefinition	hill; long and narrow highland; used in place names
+U+9FCD	kMandarin	gàng
+U+9FCE	kDefinition	(tǎ) place names in Guangdong and Zhejiang; (dá) cobblestone, water gate
+U+9FCE	kMandarin	tǎ
+U+9FCF	kDefinition	meitnerium
+U+9FCF	kMandarin	mài
+U+9FD0	kCantonese	zau2
+U+9FD0	kDefinition	a kind of clam
+U+9FD2	kDefinition	caraway
+U+9FD3	kDefinition	caraway
+U+9FD4	kDefinition	copernicium
+U+9FD4	kMandarin	gē
+U+9FD5	kDefinition	Danio chrysotaeniata
+U+9FD5	kMandarin	dān
 U+F900	kDefinition	how? what?
 U+F900	kHangul	개
 U+F900	kKorean	KAY
