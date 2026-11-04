@@ -1,5 +1,5 @@
-# BidiTest-6.3.0.txt
-# Date: 2013-09-14, 09:20:12 GMT [RP]
+# BidiTest-7.0.0.txt
+# Date: 2013-11-27, 09:54:24 GMT [MD]
 #
 # Unicode Character Database
 # Copyright (c) 1991-2013 Unicode, Inc.
