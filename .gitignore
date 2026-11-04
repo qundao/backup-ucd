@@ -6,5 +6,6 @@
 
 # ide
 temp/
+dist/
 *.gz
 *.zip

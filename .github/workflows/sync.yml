@@ -1,0 +1,274 @@
+name: Sync & Release UCD
+
+on:
+  # push:
+  #   branches:
+  #     - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ vars.VERSION }}
+  cancel-in-progress: false
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      # USER: ${{ github.repository_owner }}
+      VERSION: ${{ vars.VERSION }}
+      PATH_DIST: dist
+
+    steps:
+      # 1. Checkout
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      # 2. Check Release and Tag
+      - name: Check Release and Tag
+        id: check
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          if [[ -z "${VERSION:-}" ]]; then
+            echo "::error::VERSION is empty."
+            exit 1
+          fi
+
+          if [[ ! "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            echo "::error::Invalid VERSION: $VERSION"
+            exit 1
+          fi
+
+          TAG="v${VERSION}"
+
+          echo "Checking version: ${VERSION}"
+          echo "Checking tag: ${TAG}"
+
+          # Fetch remote tags
+          git fetch origin --tags --force
+
+          # Release already exists: stop all subsequent steps
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "mode=skip" >> "$GITHUB_OUTPUT"
+            echo "Release ${TAG} already exists."
+            echo "Nothing to do."
+            exit 0
+          fi
+
+          # Tag exists but Release does not:
+          # publish Release directly without downloading or modifying data
+          if git ls-remote --exit-code --tags origin \
+            "refs/tags/${TAG}" >/dev/null 2>&1; then
+
+            echo "mode=release" >> "$GITHUB_OUTPUT"
+            echo "Tag ${TAG} exists, but Release does not."
+            echo "Ready to publish Release."
+
+          else
+
+            echo "mode=sync" >> "$GITHUB_OUTPUT"
+            echo "Tag ${TAG} does not exist."
+            echo "Ready to download and synchronize data."
+
+          fi
+
+      # 3. Validate Branch
+      - name: Validate Branch
+        if: steps.check.outputs.mode == 'sync'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ "$GITHUB_REF_TYPE" != "branch" ]]; then
+            echo "::error::Data synchronization must run from a branch."
+            exit 1
+          fi
+
+      # 4. Download Data
+      - name: Download Data
+        if: steps.check.outputs.mode == 'sync'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE="https://www.unicode.org/Public/${VERSION}/ucd/"
+
+          mkdir -p "$PATH_DIST"
+
+          for name in UCD Unihan; do
+            file="${PATH_DIST}/${name}.zip"
+            url="${BASE}${name}.zip"
+
+            echo "Downloading: ${url}"
+
+            rm -f "$file"
+
+            curl \
+              --fail \
+              --location \
+              --retry 3 \
+              --retry-delay 2 \
+              --retry-all-errors \
+              --output "$file" \
+              "$url"
+
+            if [[ ! -s "$file" ]]; then
+              echo "::error::Empty download: ${file}"
+              exit 1
+            fi
+
+            # Validate ZIP integrity
+            unzip -tq "$file"
+
+            echo "Validated: ${file}"
+          done
+
+      # 5. Extract and Sync Data
+      - name: Sync Data
+        if: steps.check.outputs.mode == 'sync'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          TEMP_DIR="$(mktemp -d "${RUNNER_TEMP}/ucd.XXXXXX")"
+          trap 'rm -rf "$TEMP_DIR"' EXIT
+
+          UCD_DIR="${TEMP_DIR}/ucd"
+          UNIHAN_DIR="${TEMP_DIR}/unihan"
+
+          mkdir -p "$UCD_DIR" "$UNIHAN_DIR"
+
+          # Extract UCD
+          unzip -q "${PATH_DIST}/UCD.zip" -d "$UCD_DIR"
+
+          # Extract Unihan
+          unzip -q "${PATH_DIST}/Unihan.zip" -d "$UNIHAN_DIR"
+
+          # Detect Unihan archive layout
+          if [[ -d "${UNIHAN_DIR}/Unihan" ]]; then
+            UNIHAN_SOURCE="${UNIHAN_DIR}/Unihan"
+          else
+            UNIHAN_SOURCE="$UNIHAN_DIR"
+          fi
+
+          # Validate extracted data BEFORE deleting old data
+          if [[ ! -f "${UCD_DIR}/UnicodeData.txt" ]]; then
+            echo "::error::UnicodeData.txt not found in UCD.zip."
+            exit 1
+          fi
+
+          if [[ -z "$(find "$UNIHAN_SOURCE" -type f -print -quit)" ]]; then
+            echo "::error::Unihan archive contains no files."
+            exit 1
+          fi
+
+          # Clean old data
+          find . -mindepth 1 -maxdepth 1 \
+            ! -name '.git' \
+            ! -name '.github' \
+            ! -name '.gitignore' \
+            ! -name "$PATH_DIST" \
+            -exec rm -rf -- {} +
+
+          # Sync UCD to repository root
+          cp -a "${UCD_DIR}/." ./
+
+          # Sync Unihan to its own directory
+          mkdir -p ./Unihan
+          cp -a "${UNIHAN_SOURCE}/." ./Unihan/
+
+          # Final validation
+          test -f ./UnicodeData.txt
+          test -n "$(find ./Unihan -type f -print -quit)"
+
+          echo "Unicode ${VERSION} synchronization completed."
+
+      # 6. Commit Data and Create Tag
+      - name: Commit and Create Tag
+        if: steps.check.outputs.mode == 'sync'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          TAG="v${VERSION}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Add all changes
+          git add .
+
+          # Commit changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Add Unicode ${VERSION}"
+            echo "Data committed."
+          else
+            echo "No data changes."
+          fi
+
+          # Push commit to original repository branch
+          git push origin "HEAD:${GITHUB_REF}"
+
+          # Create and push version tag
+          git tag -a "$TAG" -m "Unicode ${VERSION}"
+
+          # Push tag to original repository
+          echo "git push tag"
+          git push origin "$TAG"
+          echo "Successfully pushed commit and tag: ${TAG}"
+
+      # 7. Create Release
+      - name: Create Release
+        if: |
+          steps.check.outputs.mode == 'sync' ||
+          steps.check.outputs.mode == 'release'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          TAG="v${VERSION}"
+
+          echo "Creating Release: ${TAG}"
+
+          if [[ "${{ steps.check.outputs.mode }}" == "sync" ]]; then
+
+            # New version: upload both downloaded archives
+            shopt -s nullglob
+            ZIP_FILES=("${PATH_DIST}"/*.zip)
+
+            if [[ ${#ZIP_FILES[@]} -ne 2 ]]; then
+              echo "::error::Expected 2 ZIP files."
+              exit 1
+            fi
+
+            gh release create "$TAG" \
+              "${ZIP_FILES[@]}" \
+              --title "Unicode ${VERSION}" \
+              --notes "Unicode Character Database ${VERSION}" \
+              --verify-tag
+
+          else
+
+            # Existing tag: publish Release directly
+            # No download, extraction or commit
+            gh release create "$TAG" \
+              --title "Unicode ${VERSION}" \
+              --notes "Unicode Character Database ${VERSION}" \
+              --verify-tag
+
+          fi
+
+          echo "Successfully published ${TAG}."
