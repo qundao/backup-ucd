@@ -1,7 +1,7 @@
 #
 # Unihan_Readings.txt
-# Date: 2018-05-18 02:15:26 GMT [JHJ]
-# Unicode version: 11.0.0
+# Date: 2018-11-09 21:36:19 GMT [JHJ]
+# Unicode version: 12.0.0
 #
 # Unicode Character Database
 # © 2018 Unicode®, Inc.
@@ -17004,7 +17004,7 @@ U+47C0	kDefinition	to walk
 U+47C0	kHanyuPinyin	53498.020:cāi
 U+47C0	kMandarin	cāi
 U+47C1	kDefinition	a foot-race
-U+47C1	kHanyuPinyin	53499.190:xiáo,chāo
+U+47C1	kHanyuPinyin	53499.190:xiāo,chāo
 U+47C1	kMandarin	xiáo
 U+47C2	kCantonese	man6
 U+47C2	kDefinition	slow; tardy
@@ -22799,7 +22799,7 @@ U+4E36	kJapaneseOn	CHU
 U+4E36	kKorean	CWU
 U+4E36	kMandarin	zhǔ
 U+4E37	kCantonese	baat3
-U+4E37	kDefinition	kwukyel
+U+4E37	kDefinition	“ears-out” component used in some Chinese characters (e.g. U+5151 兑); archaic form of U+516B 八; kwukyel, an archaic hanja-based writing system used in Korea before the invention of hangul
 U+4E37	kKorean	HA
 U+4E37	kMandarin	bā
 U+4E38	kCantonese	jyun2 jyun4
@@ -23013,14 +23013,14 @@ U+4E51	kJapaneseOn	GIN GON
 U+4E51	kKorean	IM
 U+4E51	kMandarin	yín
 U+4E52	kCantonese	bing1 ping1
-U+4E52	kDefinition	used with pong for ping pong
+U+4E52	kDefinition	used with “pong” (U+4E53 乓) for “ping pong”
 U+4E52	kHanyuPinlu	pīng(29)
 U+4E52	kHanyuPinyin	10038.030:pīng
 U+4E52	kJapaneseOn	HEI
 U+4E52	kMandarin	pīng
 U+4E52	kXHC1983	0878.060:pīng
 U+4E53	kCantonese	bam1 pong1
-U+4E53	kDefinition	used with ping for ping pong
+U+4E53	kDefinition	used with “ping” (U+4E52 乒) for “ping pong”
 U+4E53	kHanyuPinlu	pāng(29)
 U+4E53	kHanyuPinyin	10038.040:pāng
 U+4E53	kJapaneseOn	HAU
@@ -23330,7 +23330,7 @@ U+4E86	kTang	*leǔ leǔ
 U+4E86	kVietnamese	liễu
 U+4E86	kXHC1983	0684.060:le 0711.150:liǎo 0712.070:liào
 U+4E87	kCantonese	ding1 go3
-U+4E87	kDefinition	kwukyel hammer
+U+4E87	kDefinition	kwukyel (old Korean hanja-based script) for “hammer”
 U+4E87	kKorean	MA
 U+4E87	kMandarin	ma
 U+4E88	kCantonese	jyu4 jyu5
@@ -70121,7 +70121,7 @@ U+6953	kVietnamese	phong
 U+6954	kCantonese	sit3
 U+6954	kDefinition	wedge; gatepost; foreword
 U+6954	kHangul	설:0N
-U+6954	kHanyuPinyin	21242.070:xiē
+U+6954	kHanyuPinyin	21242.070:xiē,xiè
 U+6954	kJapaneseKun	KUSABI HOUDATE
 U+6954	kJapaneseOn	SETSU KETSU
 U+6954	kKorean	SEL
@@ -133164,7 +133164,7 @@ U+9267	kJapaneseOn	BOU
 U+9267	kMandarin	mǔ
 U+9267	kXHC1983	0806.040:mǔ
 U+9268	kCantonese	nei5 saai2 nip6
-U+9268	kDefinition	[nǐ] nihonium (element 113); silk string; [niè] (same as U+9477 鑷} tweezers; [xǐ] (same as U+9269 鉩) a seal
+U+9268	kDefinition	[nǐ] nihonium (element 113); silk string; [niè] (same as U+9477 鑷) tweezers; [xǐ] (same as U+9269 鉩) a seal
 U+9268	kHanyuPinyin	64188.040:nǐ,niě,xǐ
 U+9268	kJapaneseKun	ITOMAONOASHI
 U+9268	kJapaneseOn	DEI NAI
@@ -169998,6 +169998,7 @@ U+2574A	kHanyuPinyin	53044.110:fèi
 U+2574A	kMandarin	fèi
 U+2574B	kHanyuPinyin	53044.140:fèi
 U+2574B	kMandarin	fèi
+U+2574C	kHanyuPinyin	42588.020:jī
 U+2574D	kHanyuPinyin	42588.030:yù,wáng
 U+2574D	kMandarin	yù
 U+2574E	kVietnamese	gặt
