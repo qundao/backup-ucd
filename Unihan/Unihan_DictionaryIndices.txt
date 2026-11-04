@@ -1,10 +1,10 @@
 #
 # Unihan_DictionaryIndices.txt
-# Date: 2012-08-17 17:13:30 GMT [JHJ]
-# Unicode version: 6.2.0
+# Date: 2013-02-25 22:46:17 GMT [JHJ]
+# Unicode version: 6.3.0
 #
 # Unicode Character Database
-# Copyright (c) 1991-2012 Unicode, Inc.
+# Copyright (c) 1991-2013 Unicode, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 # For documentation, see http://www.unicode.org/reports/tr44/
 #
@@ -3414,7 +3414,7 @@ U+3827	kHanYu	10809.010
 U+3827	kIRGHanyuDaZidian	10809.010
 U+3827	kIRGKangXi	0323.050
 U+3828	kHanYu	10810.030
-U+3828	kIRGHanyuDaZidian	10810.020
+U+3828	kIRGHanyuDaZidian	10810.030
 U+3828	kIRGKangXi	0323.161
 U+3829	kHanYu	10283.041
 U+3829	kIRGHanyuDaZidian	10283.040
@@ -10079,7 +10079,6 @@ U+400A	kIRGHanyuDaZidian	42573.060
 U+400A	kIRGKangXi	0798.100
 U+400A	kSBGY	299.38 300.19
 U+400B	kHanYu	74611.051
-U+400B	kIRGHanyuDaZidian	74611.050
 U+400B	kIRGKangXi	0798.171
 U+400B	kLau	3450
 U+400C	kIRGKangXi	0798.211
@@ -64930,13 +64929,13 @@ U+5E2E	kDaeJaweon	0637.130
 U+5E2E	kFennIndex	383.06
 U+5E2E	kHanYu	10736.050
 U+5E2E	kIRGDaeJaweon	0637.130
-U+5E2E	kIRGDaiKanwaZiten	08928
+U+5E2E	kIRGDaiKanwaZiten	08900
 U+5E2E	kIRGHanyuDaZidian	10736.050
 U+5E2E	kIRGKangXi	0332.121
 U+5E2E	kKangXi	0332.121
 U+5E2E	kMatthews	4914
 U+5E2E	kMeyerWempe	2460
-U+5E2E	kMorohashi	08928
+U+5E2E	kMorohashi	08900
 U+5E2F	kDaeJaweon	0638.100
 U+5E2F	kHanYu	10739.120
 U+5E2F	kIRGDaeJaweon	0638.100
