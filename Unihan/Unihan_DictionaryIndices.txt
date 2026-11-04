@@ -1,10 +1,10 @@
 #
 # Unihan_DictionaryIndices.txt
-# Date: 2016-06-01 07:01:48 GMT [JHJ]
-# Unicode version: 9.0.0
+# Date: 2017-05-14 07:01:48 GMT [JHJ]
+# Unicode version: 10.0.0
 #
 # Unicode Character Database
-# © 1991-2016 Unicode®, Inc.
+# © 1991-2017 Unicode®, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 # For documentation, see http://www.unicode.org/reports/tr44/
 #
@@ -99069,7 +99069,6 @@ U+6ABD	kIRGHanyuDaZidian	21308.080
 U+6ABD	kIRGKangXi	0559.030
 U+6ABD	kKangXi	0559.030
 U+6ABD	kMorohashi	15748
-U+6ABD	kSBGY	423.26
 U+6ABE	kDaeJaweon	0948.200
 U+6ABE	kFennIndex	83.04
 U+6ABE	kGSR	0843b
@@ -99946,6 +99945,7 @@ U+6B1B	kKangXi	0564.170
 U+6B1B	kMatthews	4838
 U+6B1B	kMorohashi	15971
 U+6B1B	kNelson	2409
+U+6B1B	kSBGY	423.26
 U+6B1C	kDaeJaweon	0953.270
 U+6B1C	kHanYu	21327.010
 U+6B1C	kIRGDaeJaweon	0953.270
@@ -177499,7 +177499,7 @@ U+8956	kIRGKangXi	1125.170
 U+8956	kKangXi	1125.170
 U+8956	kKarlgren	7
 U+8956	kLau	2416
-U+8956	kMatthews	48
+U+8956	kMatthews	49
 U+8956	kMeyerWempe	2133
 U+8956	kMorohashi	34629
 U+8956	kNelson	4264
@@ -284466,7 +284466,6 @@ U+2570A	kIRGKangXi	0847.141
 U+2570B	kIRGKangXi	0847.141
 U+2570C	kIRGKangXi	0847.141
 U+2570C	kKarlgren	7
-U+2570C	kMatthews	48
 U+2570D	kHanYu	42409.020
 U+2570D	kIRGHanyuDaZidian	42409.020
 U+2570D	kIRGKangXi	0847.141
@@ -318108,8 +318107,6 @@ U+28B13	kIRGKangXi	1321.390
 U+28B14	kHanYu	64259.100
 U+28B14	kIRGHanyuDaZidian	64259.100
 U+28B14	kIRGKangXi	1322.020
-U+28B15	kHanYu	64262.060
-U+28B15	kIRGHanyuDaZidian	64262.060
 U+28B15	kIRGKangXi	1322.040
 U+28B15	kSBGY	082.19
 U+28B16	kHanYu	64259.140
@@ -318138,6 +318135,8 @@ U+28B1D	kHanYu	64254.050
 U+28B1D	kIRGHanyuDaZidian	64254.050
 U+28B1D	kIRGKangXi	1323.110
 U+28B1E	kIRGKangXi	1323.121
+U+28B1F	kHanYu	64262.060
+U+28B1F	kIRGHanyuDaZidian	64262.060
 U+28B1F	kIRGKangXi	1323.121
 U+28B20	kIRGKangXi	1323.121
 U+28B21	kIRGKangXi	1323.121

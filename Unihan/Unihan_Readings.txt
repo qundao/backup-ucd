@@ -1,10 +1,10 @@
 #
 # Unihan_Readings.txt
-# Date: 2016-06-01 07:01:48 GMT [JHJ]
-# Unicode version: 9.0.0
+# Date: 2017-05-14 07:01:48 GMT [JHJ]
+# Unicode version: 10.0.0
 #
 # Unicode Character Database
-# © 1991-2016 Unicode®, Inc.
+# © 1991-2017 Unicode®, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 # For documentation, see http://www.unicode.org/reports/tr44/
 #
@@ -31,6 +31,7 @@ U+3401	kCantonese	tim2
 U+3401	kDefinition	to lick; to taste, a mat, bamboo bark
 U+3401	kHanyuPinyin	10019.020:tiàn
 U+3401	kMandarin	tiàn
+U+3402	kCantonese	hei2
 U+3402	kDefinition	(J) non-standard form of U+559C 喜, to like, love, enjoy; a joyful thing
 U+3404	kMandarin	kuà
 U+3405	kCantonese	ng5
@@ -40,7 +41,7 @@ U+3406	kCantonese	zaan2
 U+3406	kDefinition	(corrupted form) to follow, to trust to; to put confidence in; to depend on, to turn around; to turn the body, (interchangeable 隱)
 U+3406	kHanyuPinyin	10038.080:yǐn
 U+3406	kMandarin	yǐn
-U+340C	kCantonese	zyu4
+U+340C	kCantonese	ji4
 U+340C	kDefinition	a tribe of savages in South China
 U+340C	kHanyuPinyin	10036.020:yí
 U+340C	kMandarin	yí
@@ -58,6 +59,7 @@ U+3424	kCantonese	kaau4
 U+3424	kDefinition	to implore; to beseech, to seek after, to beg; to pray
 U+3424	kHanyuPinyin	10263.070:dān,qiú
 U+3424	kMandarin	dān
+U+3427	kCantonese	dai6
 U+3427	kDefinition	(J) non-standard form of 第 U+7B2C, sequence, number; grade, degree
 U+3428	kCantonese	zeoi6
 U+3428	kDefinition	a kind of fish in legend (a record in old books)
@@ -502,7 +504,7 @@ U+34C2	kCantonese	kaau3 taau3
 U+34C2	kDefinition	(a variant of 寇) tyrannical; cruel, to rob; to plunder, banditti; thieves; highwaymen
 U+34C2	kMandarin	kòu
 U+34C3	kCantonese	dou3
-U+34C3	kDefinition	(standard form of 蜌 詫) to sacrifice by pouring out a libation of wine
+U+34C3	kDefinition	(standard form of U+8A6B 詫) to sacrifice by pouring out a libation of wine
 U+34C3	kHanyuPinyin	10305.070:dù
 U+34C3	kMandarin	dù
 U+34C4	kCantonese	saam2 zaam3
@@ -529,7 +531,7 @@ U+34CB	kCantonese	gung6
 U+34CB	kDefinition	to freeze; to congeal; to curdle
 U+34CB	kHanyuPinyin	10297.010:gòng
 U+34CB	kMandarin	gòng
-U+34CC	kCantonese	cang1 cang1 gwai3 ting4 tong3
+U+34CC	kCantonese	cang1 gwai3 ting4 tong3
 U+34CC	kDefinition	bitterly cold
 U+34CC	kHanyuPinyin	10297.090:chēng
 U+34CC	kMandarin	chēng
@@ -966,7 +968,7 @@ U+3550	kDefinition	inclined; slanting, to upset; to be overthrown, to collapse, 
 U+3550	kHanyuPinyin	10080.010:xiě,xiè
 U+3550	kMandarin	xiě
 U+3551	kCantonese	ceoi4 cyu4
-U+3551	kDefinition	(non-classical of 報) a kitchen, a sideboard with cupboard and drawers
+U+3551	kDefinition	(non-classical variant of U+53A8 厨) a kitchen, a sideboard with cupboard and drawers
 U+3551	kMandarin	chú
 U+3551	kXHC1983	0158.022:chú
 U+3552	kCantonese	faai1 waai4 waai6
@@ -1735,7 +1737,7 @@ U+3645	kCantonese	bou2
 U+3645	kDefinition	(same as 堡) a walled village, an earth-work; a petty military station, subdivision of a township; a ward in a city
 U+3645	kMandarin	bǎo
 U+3647	kCantonese	cuk1
-U+3647	kDefinition	the cattle and horses trampled on the field
+U+3647	kDefinition	place trampled by cattle and horses
 U+3647	kHanyuPinyin	10452.040:chù
 U+3647	kMandarin	chù
 U+3648	kCantonese	laa4
@@ -2702,7 +2704,7 @@ U+376B	kDefinition	shape of the sky
 U+376B	kHanyuPinyin	20951.020:lóng
 U+376B	kMandarin	lóng
 U+376D	kCantonese	sing2
-U+376D	kDefinition	(non-classical form) to awake ( from errors, illusions, etc. to come to one's sense, (interchangeable 惺) clever; wise, wavering; indecisive
+U+376D	kDefinition	(non-classical form) to awake (from errors, illusions, etc. to come to one's sense, (interchangeable 惺) clever; wise, wavering; indecisive
 U+376D	kHanyuPinyin	20955.020:xǐng
 U+376D	kMandarin	xǐng
 U+376E	kDefinition	to exile; to banish, beyond the borders
@@ -2902,7 +2904,7 @@ U+37A7	kCantonese	wui6
 U+37A7	kDefinition	(ancient form of 會) to meet, to gather, to be able, to understand
 U+37A7	kMandarin	huì
 U+37A8	kCantonese	zi1 zi2
-U+37A8	kDefinition	(corrupted form) name of a mountain ( the location is unknown)
+U+37A8	kDefinition	(corrupted form) name of a mountain (the location is unknown)
 U+37A8	kHanyuPinyin	10762.030:zǐ
 U+37A8	kMandarin	zǐ
 U+37A9	kCantonese	laam4
@@ -3112,7 +3114,7 @@ U+37E4	kHanyuPinyin	10783.090:lù
 U+37E4	kMandarin	lù
 U+37E4	kXHC1983	0740.060:lù
 U+37E5	kCantonese	caam1
-U+37E5	kDefinition	(simplified form of 嵾) uneven; rolling; rough; rugged, name of a mountain ( Wudangshan)
+U+37E5	kDefinition	(simplified form of 嵾) uneven; rolling; rough; rugged, name of a mountain (Wudangshan)
 U+37E6	kCantonese	wan6
 U+37E6	kDefinition	name of a mountain
 U+37E6	kMandarin	yùn
@@ -3739,7 +3741,7 @@ U+389B	kHanyuPinyin	20905.110:yàn,qiān
 U+389B	kMandarin	yàn
 U+389C	kCantonese	kong2
 U+389C	kDefinition	vast
-U+389C	kHanyuPinyin	20905.020:kàng
+U+389C	kHanyuPinyin	20905.020:kāng
 U+389C	kMandarin	kàng
 U+389D	kCantonese	sou1
 U+389D	kDefinition	cottage; a coarse house, house with flat roof
@@ -4251,6 +4253,7 @@ U+393D	kDefinition	(simplified form of 懤) grieved, pained
 U+393D	kMandarin	chóu
 U+393E	kCantonese	san3
 U+393E	kDefinition	not doing well; disappointed; very discouraged; frustrate (same as 憛) worried; anxious; apprehensive, to lose head; to lose self-possession
+U+393E	kHanyuPinyin	42319.070:sàn,tàn
 U+393E	kMandarin	sàn
 U+393F	kCantonese	jim1
 U+393F	kDefinition	to love; to be fond of, love; affection; kindness, willingly; willing, joyous; happy, to fail to remember; to forget
@@ -5478,7 +5481,7 @@ U+3A96	kDefinition	sound of beating, to strike, sound of an object dropping into
 U+3A96	kHanyuPinyin	21465.140:lù
 U+3A96	kMandarin	lù
 U+3A97	kCantonese	tau2
-U+3A97	kDefinition	(a dialect) to open (a parcel; abundle or a package); to unroll ( a scroll, etc.); (Cant.) to rest, catch one's breath
+U+3A97	kDefinition	(a dialect) to open (a parcel; abundle or a package); to unroll (a scroll, etc.); (Cant.) to rest, catch one's breath
 U+3A97	kHanyuPinyin	21465.070:tǒu
 U+3A97	kMandarin	tǒu
 U+3A98	kCantonese	lim5
@@ -5626,7 +5629,7 @@ U+3AC2	kDefinition	to chop or cut (wood)
 U+3AC2	kHanyuPinyin	32027.090:zhù
 U+3AC2	kMandarin	zhù
 U+3AC3	kCantonese	zin2
-U+3AC3	kDefinition	flags flying, long bands or ribbons attached to flags, streamers, etc. ( ancient form of 偃) to cease; to desist from
+U+3AC3	kDefinition	flags flying, long bands or ribbons attached to flags, streamers, etc. (ancient form of 偃) to cease; to desist from
 U+3AC3	kHanyuPinyin	32174.010:yǎn
 U+3AC3	kMandarin	yǎn
 U+3AC3	kTang	*qiu qo
@@ -6126,7 +6129,7 @@ U+3B6A	kDefinition	a shrub (plant); dense growth of trees
 U+3B6A	kHanyuPinyin	21210.100:fū
 U+3B6A	kMandarin	fū
 U+3B6B	kCantonese	co4 cyun4
-U+3B6B	kDefinition	a fruit tree ( plum), (same as 菆) hemp stalks, a mat
+U+3B6B	kDefinition	a fruit tree (plum), (same as 菆) hemp stalks, a mat
 U+3B6B	kHanyuPinyin	21217.050:cuó,cuán
 U+3B6B	kMandarin	cuó
 U+3B6C	kCantonese	tou5 zyu1
@@ -6141,7 +6144,7 @@ U+3B6E	kDefinition	(corrupted form of 桚) a kind of liquor container, to squeez
 U+3B6E	kHanyuPinyin	21222.080:zuò,zǎn
 U+3B6E	kMandarin	zuò
 U+3B6F	kCantonese	cit3
-U+3B6F	kDefinition	tree with small leaves, mushroom; fungus, mould, ror mildew
+U+3B6F	kDefinition	tree with small leaves; mushroom
 U+3B6F	kHanyuPinyin	21210.040:zhé,dié
 U+3B6F	kMandarin	zhé
 U+3B70	kCantonese	zyu1
@@ -6189,7 +6192,7 @@ U+3B7F	kDefinition	oblique angle, a post to tie cattle and horses to
 U+3B7F	kHanyuPinyin	21232.050:áng
 U+3B7F	kMandarin	áng
 U+3B80	kCantonese	haam4
-U+3B80	kDefinition	tool to clear out ( as a drain) the water, (same as 函) a case; a small box
+U+3B80	kDefinition	tool to clear out (as a drain) the water, (same as 函) a case; a small box
 U+3B80	kHanyuPinyin	21242.010:hán
 U+3B80	kMandarin	hán
 U+3B81	kCantonese	ngau4
@@ -6212,7 +6215,7 @@ U+3B85	kDefinition	a kind of tree
 U+3B85	kHanyuPinyin	21234.010:zhuī
 U+3B85	kMandarin	zhuī
 U+3B86	kCantonese	zit6
-U+3B86	kDefinition	(an ancient form) (same as 瓾) eaves sprouting from the stump of a tree; shoots from an old stump, a large (a species of oak) from the bark of which a yellow dye is produced
+U+3B86	kDefinition	(an ancient form) (same as 𣡌) leaves sprouting from the stump of a tree; shoots from an old stump, a large (a species of oak) from the bark of which a yellow dye is produced
 U+3B86	kMandarin	niè
 U+3B87	kCantonese	tim3
 U+3B87	kDefinition	(standard form of 掭) (same as 栝) a builder's frame for measuring, juniper, a poker (for stirring fire, a cylinder part on the old style of wooden doors
@@ -6234,7 +6237,7 @@ U+3B8E	kCantonese	bui1
 U+3B8E	kDefinition	(non-classical form of U+76C3 盃 U+676F 杯) cup; a tumbler; a glass
 U+3B8F	kCantonese	noi6
 U+3B8F	kDefinition	(same as 柰) a fruit tree; a crab-apple, for which the second from is strictly used, leaves sprouting from the stump of a tree; shoots from an old stump
-U+3B8F	kHanyuPinyin	21244.040:nài,nì,nà 80020.040:nà,nài,nì
+U+3B8F	kHanyuPinyin	21244.040:nài,nì,nà
 U+3B8F	kMandarin	nài
 U+3B90	kCantonese	sing2
 U+3B90	kDefinition	a rack or a stand with three sticks to cross each other, a chopping board
@@ -6293,7 +6296,7 @@ U+3B9D	kDefinition	angle steel, legs of a table
 U+3B9D	kHanyuPinyin	21253.040:hé
 U+3B9D	kMandarin	hé
 U+3B9E	kCantonese	zit3
-U+3B9E	kDefinition	the square peck-shaped box half-way up a Chinese flagstaff
+U+3B9E	kDefinition	(same as U+6976 楶) a wooden block or bracket on top of a column
 U+3B9E	kMandarin	jié
 U+3B9F	kCantonese	nin5
 U+3B9F	kDefinition	a whetstone, (a dialect) a corner; a nook; a crack; an opening; a cleft
@@ -6325,7 +6328,7 @@ U+3BA7	kDefinition	a tree, a fruit
 U+3BA7	kHanyuPinyin	21266.080:wū,wēn
 U+3BA7	kMandarin	wū
 U+3BA8	kCantonese	zik1
-U+3BA8	kDefinition	Codium macronatum
+U+3BA8	kDefinition	China cypress
 U+3BA8	kHanyuPinyin	21264.010:jì
 U+3BA8	kMandarin	jì
 U+3BA9	kCantonese	sik1
@@ -7266,7 +7269,7 @@ U+3CB7	kCantonese	daam6
 U+3CB7	kDefinition	(old translated form) nitrogen (symbol N)
 U+3CB7	kMandarin	dàn
 U+3CB8	kCantonese	kap1
-U+3CB8	kDefinition	dried up ( of waterway; the channel of a river; a pond, etc.)
+U+3CB8	kDefinition	dried up (of waterway; the channel of a river; a pond, etc.)
 U+3CB8	kHanyuPinyin	31546.070:xī
 U+3CB8	kMandarin	xī
 U+3CB8	kVietnamese	ướt
@@ -7402,7 +7405,7 @@ U+3CDD	kDefinition	(corrupted form of U+6D2D 洭) a river in ancient times; a pa
 U+3CDE	kCantonese	cung1
 U+3CDE	kDefinition	(same as 浺) deep and far; profound and abstruse (of the sea)
 U+3CE0	kCantonese	taat3
-U+3CE0	kDefinition	(simplified form of 澾) slippery ( as a road)
+U+3CE0	kDefinition	(simplified form of 澾) slippery (as a road)
 U+3CE0	kMandarin	tà
 U+3CE0	kXHC1983	1107.060:tà
 U+3CE1	kCantonese	gwo1
@@ -7539,6 +7542,7 @@ U+3D0A	kDefinition	(same as U+6E06 淵) an abyss; a gulf, to be deep
 U+3D0B	kCantonese	suk1
 U+3D0B	kDefinition	(simplified form of 潚) deep and clear (said of water) (same as 溲) to urinate, to immerse; to soak; to drench, to wash rice (same as 瀟) rushing rain and wind; roar of gust
 U+3D0B	kMandarin	sù
+U+3D0E	kHanyuPinyin	80023.190:nài
 U+3D0F	kCantonese	wong1 wong2 wu1
 U+3D0F	kDefinition	the pond water is still
 U+3D0F	kHanyuPinyin	31687.040:wǎng
@@ -7566,7 +7570,7 @@ U+3D15	kCantonese	caap1 zap6
 U+3D15	kDefinition	to boil away; to boil over, boiling sound, sound of the flowing water, etc., (interchangeable 渫) rolling billows
 U+3D15	kMandarin	jí
 U+3D16	kCantonese	lok6
-U+3D16	kDefinition	( same as 濼) name of a stream in Shandong Province southwest of Jinan, ( same as 泊) lakes, a hot spring; a mineral spring
+U+3D16	kDefinition	(same as 濼) name of a stream in Shandong Province southwest of Jinan, (same as 泊) lakes, a hot spring; a mineral spring
 U+3D16	kMandarin	luò
 U+3D17	kCantonese	zaau1
 U+3D17	kDefinition	deep
@@ -7920,7 +7924,7 @@ U+3D85	kCantonese	hok6
 U+3D85	kDefinition	(same as 澩) dried up mountain creeks, a tributary of Weishui (in ancient times), sound of the roaring waves and billows
 U+3D85	kMandarin	xué
 U+3D86	kCantonese	zyu1
-U+3D86	kDefinition	name of a stream in Hebei Province Hengshan, name of a river ( same as 涂水)
+U+3D86	kDefinition	name of a stream in Hebei Province Hengshan, name of a river (same as 涂水)
 U+3D86	kHanyuPinyin	31784.130:zhū,chú
 U+3D86	kMandarin	zhū
 U+3D87	kCantonese	waang4
@@ -8182,7 +8186,7 @@ U+3DDF	kDefinition	(same as non-classical form of 嬯) to scald the bristles off
 U+3DDF	kMandarin	tuì
 U+3DDF	kXHC1983	1169.011:tuì
 U+3DE0	kCantonese	leon4
-U+3DE0	kDefinition	A will-o'-the-wisp; a flitting light 
+U+3DE0	kDefinition	A will-o'-the-wisp; a flitting light
 U+3DE0	kHanyuPinyin	32224.150:lín
 U+3DE0	kMandarin	lín
 U+3DE1	kCantonese	gwing2 waan4 wo1
@@ -8245,7 +8249,7 @@ U+3DF5	kCantonese	mak6
 U+3DF5	kDefinition	(same as 爅) fire; flame; light
 U+3DF5	kMandarin	mò
 U+3DF6	kCantonese	bik1
-U+3DF6	kDefinition	to dry or warm ( grains) near a fire
+U+3DF6	kDefinition	to dry or warm (grains) near a fire
 U+3DF6	kMandarin	bèi
 U+3DF7	kCantonese	gyun2
 U+3DF7	kDefinition	(same as 臇) thick soup; broth, fat; rich, a stew of fish
@@ -8659,7 +8663,7 @@ U+3E6D	kHanyuPinyin	21344.050:yì
 U+3E6D	kMandarin	yì
 U+3E6D	kXHC1983	1371.120:yì
 U+3E6E	kCantonese	mok6 mou6
-U+3E6E	kDefinition	a kind of animal ( of mule tribe) (same as 貘) tapir
+U+3E6E	kDefinition	a kind of animal (of mule tribe) (same as 貘) tapir
 U+3E6E	kHanyuPinyin	21343.070:mò
 U+3E6E	kMandarin	mò
 U+3E6F	kCantonese	zaau1
@@ -8686,7 +8690,7 @@ U+3E75	kDefinition	a hunting-dog, to hunt in winter, imperial tour
 U+3E75	kHanyuPinyin	21348.080:yǐng
 U+3E75	kMandarin	yǐng
 U+3E76	kCantonese	ting4
-U+3E76	kDefinition	a kind of wild animal ( monkey tribe)
+U+3E76	kDefinition	a kind of wild animal (monkey tribe)
 U+3E76	kHanyuPinyin	21344.100:tíng
 U+3E76	kMandarin	tíng
 U+3E77	kCantonese	hei1
@@ -8782,7 +8786,7 @@ U+3E8F	kCantonese	laau4 zyu4
 U+3E8F	kDefinition	(same as 貗) the badger; a wild bear
 U+3E8F	kMandarin	lóu
 U+3E90	kCantonese	zau2
-U+3E90	kDefinition	(same as U+7360 獠) generally called for minority groups (southwest area) in old China, to hunt at night by torches, lascivious, weird, allurements
+U+3E90	kDefinition	(same as U+7360 獠) a general term for minority groups (southwest area) in old China; to hunt at night by torches; lascivious, weird, allurements
 U+3E90	kHanyuPinyin	21366.150:lǎo,sāo
 U+3E90	kMandarin	lǎo
 U+3E91	kCantonese	cam4
@@ -8863,7 +8867,7 @@ U+3EA4	kDefinition	a kind of beast
 U+3EA4	kHanyuPinyin	21378.070:xiān
 U+3EA4	kMandarin	xiān
 U+3EA5	kCantonese	caam4
-U+3EA5	kDefinition	bark, ( same as 毚) a cunning hare; a wily rabbit
+U+3EA5	kDefinition	bark, (same as 毚) a cunning hare; a wily rabbit
 U+3EA5	kHanyuPinyin	21378.080:chán
 U+3EA5	kMandarin	chán
 U+3EA6	kCantonese	lyun4
@@ -9404,10 +9408,10 @@ U+3F55	kDefinition	new branches growing (said of trees), hollow; empty
 U+3F55	kHanyuPinyin	42530.010:yóu
 U+3F55	kMandarin	yóu
 U+3F56	kCantonese	nam4
-U+3F56	kDefinition	(same as 男) a human; a man; a boy ( non-classical form of 留) to remain; to stay, to keep, to preserve
+U+3F56	kDefinition	(same as 男) a human; a man; a boy (non-classical form of 留) to remain; to stay, to keep, to preserve
 U+3F56	kMandarin	nán
 U+3F58	kCantonese	gong1
-U+3F58	kDefinition	borderland; the frontier, a pit; a cave, a narrow path in the field, administrative unit for rural community of 傣族 ( under the feudal system), pond; a marsh, saltpond, (same as 䴚) salt marsh
+U+3F58	kDefinition	borderland; the frontier, a pit; a cave, a narrow path in the field, administrative unit for rural community of 傣族 (under the feudal system), pond; a marsh, saltpond, (same as 䴚) salt marsh
 U+3F58	kHanyuPinyin	42534.110:gǎng
 U+3F58	kMandarin	gǎng
 U+3F58	kXHC1983	0362.030:gǎng
@@ -10052,7 +10056,7 @@ U+4009	kHanyuPinyin	42571.110:qiáo
 U+4009	kMandarin	qiáo
 U+4009	kXHC1983	0921.061:qiáo
 U+400A	kCantonese	gau2 gei3 gei6 hau6
-U+400A	kDefinition	a kind of water containers ( to keep warm in cold days); a mental hot-water bottle, to stir or scratch and make it muddy or turbid
+U+400A	kDefinition	a kind of water containers (to keep warm in cold days); a mental hot-water bottle, to stir or scratch and make it muddy or turbid
 U+400A	kHanyuPinyin	42573.060:jiǎo
 U+400A	kMandarin	jiǎo
 U+400B	kCantonese	jim4 nam4 zim4
@@ -10527,7 +10531,7 @@ U+4085	kDefinition	to have insight or vision of a simple and honest person, sill
 U+4085	kHanyuPinyin	42523.140:xiān
 U+4085	kMandarin	xiān
 U+4086	kCantonese	hek3
-U+4086	kDefinition	weapons; arms ( a lance; a spear)
+U+4086	kDefinition	weapons; arms (a lance; a spear)
 U+4086	kHanyuPinyin	42764.030:xù
 U+4086	kMandarin	xù
 U+4087	kCantonese	naau2
@@ -10539,11 +10543,11 @@ U+4088	kDefinition	to pierce; to stab; to irritate; to hurt, a thorn, a lance; a
 U+4088	kHanyuPinyin	42766.020:tóng
 U+4088	kMandarin	tóng
 U+4089	kCantonese	haai6 haau4
-U+4089	kDefinition	weapons; arms ( a lance; a spear)
+U+4089	kDefinition	weapons; arms (a lance; a spear)
 U+4089	kHanyuPinyin	42767.190:hóu
 U+4089	kMandarin	hóu
 U+408A	kCantonese	zyu6 zyu6
-U+408A	kDefinition	weapons; arms ( a lance; a spear)
+U+408A	kDefinition	weapons; arms (a lance; a spear)
 U+408A	kHanyuPinyin	42768.180:yù
 U+408A	kMandarin	yù
 U+408C	kCantonese	cung1
@@ -10739,7 +10743,7 @@ U+40BF	kDefinition	to pound (grain) in order to remove the husk; refine; polishe
 U+40BF	kHanyuPinyin	42437.140:tà
 U+40BF	kMandarin	tà
 U+40C0	kCantonese	ceoi3
-U+40C0	kDefinition	millstone; grindstone, to rub; to grind; to polish; to wear, to sharpen ( a knife), to train; to harden; to temper
+U+40C0	kDefinition	millstone; grindstone, to rub; to grind; to polish; to wear, to sharpen (a knife), to train; to harden; to temper
 U+40C0	kHanyuPinyin	42436.130:cuì
 U+40C0	kMandarin	cuì
 U+40C1	kCantonese	aa1
@@ -10798,7 +10802,7 @@ U+40D2	kDefinition	(of land) poor and barren; field which is not arable
 U+40D2	kHanyuPinyin	42446.140:hé
 U+40D2	kMandarin	hé
 U+40D3	kCantonese	gaau3 kaau4 ngaau1
-U+40D3	kDefinition	to punish; to chastise; to penalize, to kill; to execute, pedal ( a footboard) of a cart, brick work of a well, strong and durable, solid; firm
+U+40D3	kDefinition	to punish; to chastise; to penalize, to kill; to execute, pedal (a footboard) of a cart, brick work of a well, strong and durable, solid; firm
 U+40D3	kHanyuPinyin	42446.050:gòu,gōu
 U+40D3	kMandarin	gòu
 U+40D4	kCantonese	hung4
@@ -10898,7 +10902,7 @@ U+40ED	kDefinition	a stone box; a stone case, to cover with a piece of stone, (i
 U+40ED	kHanyuPinyin	42459.010:gǎn
 U+40ED	kMandarin	gǎn
 U+40EE	kCantonese	daat6
-U+40EE	kDefinition	a stone build hydraulic measures ( to store and to vent the water) in ancient times, rocks in the mountain stream
+U+40EE	kDefinition	a stone build hydraulic measures (to store and to vent the water) in ancient times, rocks in the mountain stream
 U+40EE	kHanyuPinyin	42458.060:dá
 U+40EE	kMandarin	dá
 U+40EF	kCantonese	lik1
@@ -11163,7 +11167,7 @@ U+413C	kDefinition	name of a place in ancient times
 U+413C	kHanyuPinyin	42602.110:tiǎn
 U+413C	kMandarin	tiǎn
 U+413D	kCantonese	sin1 tim2
-U+413D	kDefinition	(same as 秈 覹) common rice; as distinguished from the glutinous variety or glutinous rice, (corrupted form of 䄼) name of a place in ancient times
+U+413D	kDefinition	(same as U+79C8 秈, U+7C7C 籼) common rice, as distinguished from glutinous rice; (corrupted form of U+413C 䄼) name of a place in ancient times
 U+413D	kMandarin	tiǎn
 U+413E	kCantonese	zuk6
 U+413E	kDefinition	thick; height, black millet
@@ -11411,7 +11415,7 @@ U+417E	kHanyuPinyin	42632.030:cén,qián
 U+417E	kMandarin	cén
 U+417F	kCantonese	waa4
 U+417F	kDefinition	(non-classical form) luxuriant or exuberant (of grain) (interchangeable 華) flowery; variegated, splendour
-U+417F	kHanyuPinyin	42631.060:huáng
+U+417F	kHanyuPinyin	42631.060:huá
 U+417F	kMandarin	huáng
 U+4180	kCantonese	mui5
 U+4180	kDefinition	(same as U+9EE3 霉 黴) to corrupt or be corrupted; to ruin or be ruined, dark sports; black specks, black
@@ -11543,7 +11547,7 @@ U+41A4	kDefinition	(same as 穿) to pierce through; to penetrate or bore through
 U+41A5	kCantonese	cyun1
 U+41A5	kDefinition	(same as 䆤) (non-classical form of 穿) to pierce through; to penetrate or bore through; to wear, to cross
 U+41A6	kCantonese	sam1
-U+41A6	kDefinition	(a corrupted form) (same as 深) deep; profound, the chimney; stack ( on the top of a cooking stove or furnace), to bury the coffin of a dead person
+U+41A6	kDefinition	(a corrupted form) (same as 深) deep; profound, the chimney; stack (on the top of a cooking stove or furnace), to bury the coffin of a dead person
 U+41A6	kMandarin	shèn
 U+41A7	kCantonese	fo2 wo1
 U+41A7	kDefinition	(same as 窩) a cave; a den, living quarters; a house, to hide; to harbor
@@ -11713,7 +11717,7 @@ U+41D7	kDefinition	bamboo with long joints
 U+41D7	kHanyuPinyin	52951.060:zhōng
 U+41D7	kMandarin	zhōng
 U+41D8	kCantonese	wu6
-U+41D8	kDefinition	tool to collect rope, a second name for spinning machine; spinning wheel, the tender shoots of the bamboo with a bitter flavour
+U+41D8	kDefinition	tool to collect rope; a spinning machine, spinning wheel; the tender shoots of the bamboo with a bitter flavour
 U+41D8	kHanyuPinyin	52950.030:hù
 U+41D8	kMandarin	hù
 U+41D9	kCantonese	zaan5
@@ -12792,7 +12796,7 @@ U+42FE	kDefinition	cotton and silk to be laid and attached each other
 U+42FE	kHanyuPinyin	53425.070:zhǎ,nà
 U+42FE	kMandarin	zhǎ
 U+42FF	kCantonese	wui1
-U+42FF	kDefinition	a decorative knot made of colorful silk ( blue, yellow, red, white and black)
+U+42FF	kDefinition	a decorative knot made of colorful silk (blue, yellow, red, white and black)
 U+42FF	kHanyuPinyin	53427.040:wēi
 U+42FF	kMandarin	wēi
 U+4300	kCantonese	fo1
@@ -13401,7 +13405,7 @@ U+43A6	kDefinition	to till; to plough, sharp-pointed spade or shovel
 U+43A6	kHanyuPinyin	42774.010:yǎn
 U+43A6	kMandarin	yǎn
 U+43A7	kCantonese	pong5
-U+43A7	kDefinition	agricultural implements; farm tools ( a plough; a ploughshare), to till; to plough
+U+43A7	kDefinition	agricultural implements; farm tools (a plough; a ploughshare), to till; to plough
 U+43A7	kHanyuPinyin	42773.140:bàng,póu
 U+43A7	kMandarin	bàng
 U+43A8	kCantonese	aam3 zim1
@@ -13428,7 +13432,7 @@ U+43AD	kDefinition	a kind of farm tool made of twisted thron strips used to flat
 U+43AD	kHanyuPinyin	42776.030:cāo
 U+43AD	kMandarin	cāo
 U+43AE	kCantonese	taai3 tik1
-U+43AE	kDefinition	to plant; to raise or grow ( plants); to cultivate
+U+43AE	kDefinition	to plant; to raise or grow (plants); to cultivate
 U+43AE	kHanyuPinyin	42776.060:tì
 U+43AE	kMandarin	tì
 U+43AF	kCantonese	hon2 hon3 zin5
@@ -13722,7 +13726,7 @@ U+43FB	kCantonese	naang4
 U+43FB	kDefinition	(same as 能) can; to be able to, capability; talent, energy
 U+43FB	kMandarin	néng
 U+43FC	kCantonese	caan4
-U+43FC	kDefinition	what is left over of the food ( of birds and animals), a big belly
+U+43FC	kDefinition	what is left over of the food (of birds and animals), a big belly
 U+43FC	kHanyuPinyin	32086.160:cán,zhàn
 U+43FC	kMandarin	cán
 U+43FD	kCantonese	bou6
@@ -13848,7 +13852,7 @@ U+441B	kDefinition	to loosen; to widen skin
 U+441B	kMandarin	dā
 U+441B	kXHC1983	0189.020:dā
 U+441C	kCantonese	can1
-U+441C	kDefinition	a swelled belly; drop-sical, to swell, inflated
+U+441C	kDefinition	a swollen belly; dropsical, edematous; to swell; inflated
 U+441C	kHanyuPinyin	32101.010:chēn
 U+441C	kMandarin	chēn
 U+441D	kCantonese	so2
@@ -14341,7 +14345,7 @@ U+44B0	kHanyuPinyin	53199.040:kuāng
 U+44B0	kMandarin	kuāng
 U+44B1	kCantonese	zing1
 U+44B1	kDefinition	(same as 蒸) twigs of hemp used for fuel; to rise, as steam, steam
-U+44B2	kDefinition	a medical herb; a second name for ( 黃岑) Scutellaria baikalensis
+U+44B2	kDefinition	another name name for 黃岑 (Scutellaria baikalensis)
 U+44B2	kHanyuPinyin	53212.010:chà
 U+44B2	kMandarin	chà
 U+44B3	kCantonese	deoi2
@@ -14460,7 +14464,7 @@ U+44D6	kDefinition	(simplified form of 藭) Cnidium officinale, a kind of medici
 U+44D6	kMandarin	qióng
 U+44D6	kXHC1983	0938.010:qióng
 U+44D7	kCantonese	cung1 tung2
-U+44D7	kDefinition	(same as 棣 蔥) scallions; leeks; onions
+U+44D7	kDefinition	(same as U+8471 葱 U+8525 蔥) scallions; leeks; onions
 U+44D7	kHanyuPinyin	53237.020:cōng
 U+44D7	kMandarin	cōng
 U+44D8	kCantonese	gaau3
@@ -14499,7 +14503,7 @@ U+44E0	kDefinition	the water plantain, the lotus floating on the water
 U+44E0	kHanyuPinyin	53234.110:tà
 U+44E0	kMandarin	tà
 U+44E1	kCantonese	zi1
-U+44E1	kDefinition	a medical herb ( 知母)
+U+44E1	kDefinition	a medical herb (知母)
 U+44E1	kHanyuPinyin	53234.170:zhī
 U+44E1	kMandarin	zhī
 U+44E2	kCantonese	gu3
@@ -14596,7 +14600,7 @@ U+44FE	kCantonese	so1
 U+44FE	kDefinition	lush; luxuriant of grass and trees
 U+44FE	kHanyuPinyin	53270.030:suō
 U+44FE	kMandarin	suō
-U+44FF	kDefinition	a second name for lotus flower
+U+44FF	kDefinition	a lotus flower
 U+44FF	kHanyuPinyin	53274.050:hàn
 U+44FF	kMandarin	hàn
 U+4500	kCantonese	seoi1 zeon3
@@ -14904,7 +14908,7 @@ U+455B	kHanyuPinyin	53315.030:jiá
 U+455B	kMandarin	jiá
 U+455C	kCantonese	ceoi3
 U+455D	kCantonese	cing1
-U+455D	kDefinition	medical herb; a second name for sesame
+U+455D	kDefinition	medical herb; sesame
 U+455D	kHanyuPinyin	53302.100:chēng
 U+455D	kMandarin	chēng
 U+455D	kVietnamese	sắng
@@ -14971,7 +14975,7 @@ U+456F	kCantonese	piu4
 U+456F	kDefinition	duckweed
 U+456F	kMandarin	piáo
 U+456F	kVietnamese	bèo
-U+4570	kDefinition	a second name for (知母) rhizome of wind-weed (Anemarrhena asphodeloides); herb medicine
+U+4570	kDefinition	another name for 知母
 U+4570	kHanyuPinyin	53328.160:fán
 U+4570	kMandarin	fán
 U+4571	kCantonese	dam1 ding1 taau4
@@ -14986,9 +14990,9 @@ U+4573	kCantonese	nei4
 U+4573	kDefinition	name of a variety of grass
 U+4573	kHanyuPinyin	53333.080:mí
 U+4573	kMandarin	mí
-U+4574	kDefinition	a second for monkshood ( 附子); Chinese herb medicine
+U+4574	kDefinition	a second for monkshood (附子); Chinese herb medicine
 U+4574	kMandarin	zhuó
-U+4575	kDefinition	name of a variety of grass; a second name for (葒草) polygonum orientale
+U+4575	kDefinition	name of a variety of grass; another name for 葒草 (Polygonum orientale)
 U+4575	kHanyuPinyin	53330.060:xié
 U+4575	kMandarin	xié
 U+4576	kCantonese	wu6
@@ -15170,7 +15174,7 @@ U+45A9	kCantonese	bit1
 U+45A9	kDefinition	a kind of bee; black bee
 U+45A9	kHanyuPinyin	42845.110:bì
 U+45A9	kMandarin	bì
-U+45AA	kDefinition	(same as 蠀) grub ( a kind of larva); maggots, looper; inchworm; geometer
+U+45AA	kDefinition	(same as 蠀) grub (a kind of larva); maggots, looper; inchworm; geometer
 U+45AA	kHanyuPinyin	42848.150:zī,cī
 U+45AA	kMandarin	zī
 U+45AB	kCantonese	pong5
@@ -15206,7 +15210,7 @@ U+45B3	kHanyuPinyin	42852.060:zhà,zhé
 U+45B3	kMandarin	zhà
 U+45B3	kXHC1983	1448.140:zhà
 U+45B4	kCantonese	ziu4
-U+45B4	kDefinition	a kind of insect, (non-classical form of 珧) scallops, found in abundance in the China Sea; the shells contain mother-of-pearl, and the compressor muscle or ligament is dried and imported into China as Compoy ( 干貝); also called ( 江瑤柱) it is highly esteemed as an article of food, both in China and Japan
+U+45B4	kDefinition	a kind of insect, (non-classical form of 珧) scallops, found in abundance in the China Sea; the shells contain mother-of-pearl, and the compressor muscle or ligament is dried and imported into China as Compoy (干貝); also called (江瑤柱) it is highly esteemed as an article of food, both in China and Japan
 U+45B4	kHanyuPinyin	42851.020:yáo
 U+45B4	kMandarin	yáo
 U+45B4	kVietnamese	riêu
@@ -15488,7 +15492,7 @@ U+4604	kDefinition	cicada family; a poisonous insect
 U+4604	kHanyuPinyin	42901.150:zhù
 U+4604	kMandarin	zhù
 U+4605	kCantonese	naang4
-U+4605	kDefinition	(same as 螚) a small gadflies and mosquitoes, (non-classical form of 能) a bear like animal, turtle family, bee family
+U+4605	kDefinition	same as U+879A 螚
 U+4605	kMandarin	nái
 U+4606	kCantonese	hin2 hyun2
 U+4606	kDefinition	earthworm
@@ -15669,7 +15673,7 @@ U+463D	kDefinition	clothing and ornaments; an ornamental item; a decorative arti
 U+463D	kHanyuPinyin	53098.160:ní
 U+463D	kMandarin	ní
 U+463E	kCantonese	gun2 kong3
-U+463E	kDefinition	legs of the trousers, a second name for the trousers, fur pants
+U+463E	kDefinition	trouser legs; trousers; fur pants
 U+463E	kHanyuPinyin	53100.080:guǎn,guàn
 U+463E	kMandarin	guǎn
 U+463F	kCantonese	faat1 gwaat6
@@ -15816,7 +15820,7 @@ U+466C	kMandarin	yìng
 U+466D	kCantonese	hin1
 U+466D	kDefinition	(same as U+8930 褰) to lift or raise (one's dress, skirt, etc.), trousers; drawers; pants
 U+466E	kCantonese	gun3
-U+466E	kDefinition	strip of the clothes
+U+466E	kDefinition	belt, strip of cloth
 U+466E	kHanyuPinyin	53123.030:guàn
 U+466E	kMandarin	guàn
 U+466F	kCantonese	cuk1
@@ -16072,9 +16076,11 @@ U+46BC	kHanyuPinyin	63951.110:nǜ
 U+46BC	kMandarin	nǜ
 U+46BD	kCantonese	hou3
 U+46BD	kDefinition	(interchangeable 耗) news; tidings; report; information; message
+U+46BD	kHanyuPinyin	63947.020:hào
 U+46BD	kMandarin	hào
 U+46BE	kCantonese	nip6 zaam4 zaam6
 U+46BE	kDefinition	to think of; to remember (someone), to read out aloud, (same as U+46D8 䛘)
+U+46BE	kHanyuPinyin	63947.040:rén
 U+46BE	kMandarin	nín
 U+46BF	kDefinition	to shout in rage; angry shouts, angry speech, to cry continuously, to groan; to moan
 U+46BF	kHanyuPinyin	63949.100:yìn,xī
@@ -16089,7 +16095,6 @@ U+46C1	kHanyuPinyin	63946.020:nán
 U+46C1	kMandarin	nán
 U+46C2	kCantonese	ci2 ci4
 U+46C2	kDefinition	(same as 誃 謻) to separate from; to leave or depart; to break away, (same as 詑) to cheat; to swindle
-U+46C2	kHanyuPinyin	63947.050:yāo
 U+46C2	kMandarin	yāo
 U+46C3	kDefinition	used in person's name
 U+46C3	kHanyuPinyin	63944.130:wàn
@@ -16132,7 +16137,7 @@ U+46CE	kDefinition	to shout in rage; to scold in anger
 U+46CE	kHanyuPinyin	63957.060:xuè
 U+46CE	kMandarin	xuè
 U+46CF	kCantonese	nei4
-U+46CF	kDefinition	to call somebody, (same as 泥) to beg; to entreat; to implore, to be bigoted; to adhere to the letter of the law; bigoted and conservative, poor ( speech)
+U+46CF	kDefinition	to call somebody, (same as 泥) to beg; to entreat; to implore, to be bigoted; to adhere to the letter of the law; bigoted and conservative, poor (speech)
 U+46CF	kHanyuPinyin	63958.030:ní,nǐ,nì
 U+46CF	kMandarin	ní
 U+46D0	kCantonese	ci4
@@ -16147,7 +16152,7 @@ U+46D2	kMandarin	biàn
 U+46D3	kCantonese	gam1 ham4
 U+46D3	kDefinition	(abbreviated form of 譼) (ancient form of 監) an official position in former times, a government establishment in former times
 U+46D4	kCantonese	naa4
-U+46D4	kDefinition	to hold in hand; to grasp; to take, to arrest; to use, ( non-classical form of 誽) to spy; to find out secretly
+U+46D4	kDefinition	to hold in hand; to grasp; to take, to arrest; to use, (non-classical form of 誽) to spy; to find out secretly
 U+46D4	kHanyuPinyin	63962.130:ná
 U+46D4	kMandarin	ná
 U+46D5	kCantonese	naa4 zyu4
@@ -16412,7 +16417,7 @@ U+471F	kMandarin	chén
 U+4720	kCantonese	zi3
 U+4720	kDefinition	language of the savage or barbarian
 U+4720	kMandarin	chè
-U+4721	kDefinition	to smell the fragrants
+U+4721	kDefinition	to smell a fragrance
 U+4721	kHanyuPinyin	64029.070:yù
 U+4721	kMandarin	yù
 U+4722	kDefinition	cruel and violent
@@ -16499,7 +16504,7 @@ U+473E	kDefinition	fermented beans; salted beans
 U+473E	kHanyuPinyin	63568.110:yīn
 U+473E	kMandarin	yīn
 U+4740	kCantonese	lau4
-U+4740	kDefinition	garden peas (Pisum sativum), a second name for beans (around Shanxi area) in ancient times
+U+4740	kDefinition	garden peas (Pisum sativum), an ancient name for beans used in Shanxi
 U+4740	kHanyuPinyin	63568.180:liú,liáo
 U+4740	kMandarin	liú
 U+4741	kCantonese	lou4
@@ -16549,7 +16554,7 @@ U+474F	kDefinition	a sow
 U+474F	kHanyuPinyin	63619.100:lóu
 U+474F	kMandarin	lóu
 U+4750	kCantonese	coek3 do6 zit3 zuk6
-U+4750	kDefinition	a castrated hog, a second name for pig
+U+4750	kDefinition	a castrated hog, a pig
 U+4750	kHanyuPinyin	63619.160:wéi,duò
 U+4750	kMandarin	wéi
 U+4751	kCantonese	cung1
@@ -16565,7 +16570,7 @@ U+4753	kHanyuPinyin	63620.220:liè
 U+4753	kMandarin	liè
 U+4754	kCantonese	fun1
 U+4754	kDefinition	(same as 貛) the badger; a wild boar
-U+4755	kDefinition	good; fine pig, a second name for pig (in Liangzhou) in ancient China
+U+4755	kDefinition	good, fine pig; an ancient term for pigs used in Liangzhou
 U+4755	kHanyuPinyin	63621.020:zhé
 U+4755	kMandarin	zhé
 U+4756	kCantonese	coek3 tiu1 zau2 zoek3
@@ -16610,7 +16615,7 @@ U+4761	kCantonese	maan6
 U+4761	kDefinition	(same as 獌) an animal in old times; like fox but much bigger
 U+4761	kMandarin	màn
 U+4762	kCantonese	maan6
-U+4762	kDefinition	(same as 獌) an animal in old times; like fox but much bigger, a second name for 貙
+U+4762	kDefinition	same as U+734C 獌 or U+8C99 貙
 U+4762	kHanyuPinyin	63917.030:màn
 U+4762	kMandarin	màn
 U+4763	kCantonese	keoi4
@@ -16793,7 +16798,7 @@ U+4798	kMandarin	jí
 U+4799	kDefinition	to walk in hurriedly
 U+4799	kHanyuPinyin	53477.050:zá
 U+4799	kMandarin	zá
-U+479A	kDefinition	to hang on a big tree, to walk ( the way of Alces machlis, a kind of deer)
+U+479A	kDefinition	to hang on a big tree, to walk (the way of Alces machlis, a kind of deer)
 U+479A	kHanyuPinyin	53478.020:qí,kuí
 U+479A	kMandarin	qí
 U+479B	kDefinition	dancing of a eastern minority group in old China
@@ -17470,7 +17475,7 @@ U+4862	kCantonese	pin3
 U+4862	kDefinition	a small carriage
 U+4862	kHanyuPinyin	53547.110:biàn
 U+4862	kMandarin	biàn
-U+4863	kDefinition	a piece of curved board; a crank -- of a ( plough) machine, etc., shafts (of a cart or carriage), to return, to avoid bumping against each other
+U+4863	kDefinition	a piece of curved board; a crank -- of a (plough) machine, etc., shafts (of a cart or carriage), to return, to avoid bumping against each other
 U+4863	kHanyuPinyin	53547.100:hūn,xuān
 U+4863	kMandarin	hūn
 U+4864	kCantonese	zeoi2 zyu1
@@ -17980,7 +17985,7 @@ U+4901	kDefinition	cooked or well-done; prepared or processed, to brew wine and 
 U+4901	kHanyuPinyin	63588.110:cén
 U+4901	kMandarin	cén
 U+4902	kCantonese	mei4 mui4 mui4 mui6
-U+4902	kDefinition	a second name for vinegar, (same as 酶) yeast or distiller's grains
+U+4902	kDefinition	vinegar; yeast or distiller's grains
 U+4902	kHanyuPinyin	63588.100:méi
 U+4902	kMandarin	méi
 U+4903	kCantonese	zaam1
@@ -18141,7 +18146,7 @@ U+4930	kMandarin	yíng
 U+4931	kCantonese	sai6
 U+4931	kDefinition	(ancient form of 誓) a solemn pledge; a vow; an oath
 U+4931	kMandarin	shì
-U+4932	kDefinition	chemical element; ( 鍶) old translation; Sr
+U+4932	kDefinition	chemical element; (鍶) old translation; Sr
 U+4932	kHanyuPinyin	64203.110:chì
 U+4932	kMandarin	chì
 U+4932	kVietnamese	xích
@@ -18217,7 +18222,7 @@ U+4946	kCantonese	kam4
 U+4946	kDefinition	(ancient form of 琴) a musical instrument
 U+4946	kMandarin	jǐn
 U+4947	kCantonese	sin3
-U+4947	kDefinition	chemical element; Sarmarium (Sm); old translation of ( 鋱) Tb, (same as 釤) a sickle with a long handle, to swing a sickle to cut (grass or wheat)
+U+4947	kDefinition	chemical element; Sarmarium (Sm); old translation of (鋱) Tb, (same as 釤) a sickle with a long handle, to swing a sickle to cut (grass or wheat)
 U+4947	kHanyuPinyin	64245.090:shàn
 U+4947	kMandarin	shàn
 U+4947	kXHC1983	1000.072:shàn
@@ -18256,7 +18261,7 @@ U+4951	kCantonese	faan6
 U+4951	kDefinition	(corrupted form of 錽) a kind of decoration on the head of a horse; usually in a shape of an animal face, ornaments of a bridle or reins, to engrave incised inscriptions on copper or iron plate; to engrave on metal or wood; (mài) meitnerium
 U+4951	kMandarin	wàn
 U+4952	kCantonese	goeng6
-U+4952	kDefinition	lead ( a metal)
+U+4952	kDefinition	lead (a metal)
 U+4952	kHanyuPinyin	64252.140:jiàng
 U+4952	kMandarin	jiàng
 U+4953	kCantonese	kei4
@@ -18287,7 +18292,7 @@ U+4959	kMandarin	suì
 U+495A	kCantonese	co1 zo3
 U+495A	kDefinition	(ancient form of 初) the beginning; the first
 U+495B	kCantonese	git3
-U+495B	kDefinition	a kind of sickle, chemical element; old translation of ( 鎳); Nickel Ni, to carve
+U+495B	kDefinition	a kind of sickle, chemical element; old translation of (鎳); Nickel Ni, to carve
 U+495B	kHanyuPinyin	64256.110:jié,qì
 U+495B	kMandarin	jiē
 U+495B	kXHC1983	0576.020:jiē
@@ -18467,7 +18472,7 @@ U+4995	kCantonese	ping1
 U+4995	kDefinition	(same as 閛) bang of the door; the sound of opening or closing the door
 U+4995	kHanyuPinyin	74299.040,74304.130:pēng
 U+4995	kMandarin	pēng
-U+4996	kDefinition	sound of the door, the gate of the Zheng State city wall ( the Epoch of Spring and Autumn)
+U+4996	kDefinition	sound of the door, the gate of the Zheng State city wall (the Epoch of Spring and Autumn)
 U+4996	kHanyuPinyin	74294.100:xié,xiá
 U+4996	kMandarin	xié
 U+4997	kCantonese	gwik1 kwik1
@@ -19012,10 +19017,10 @@ U+4A3B	kDefinition	roar of thunders; thunderpeal, very loud sounds
 U+4A3B	kHanyuPinyin	64085.220:bèng
 U+4A3B	kMandarin	bèng
 U+4A3C	kCantonese	wu6
-U+4A3C	kDefinition	dyestuff ( of dark green)
+U+4A3C	kDefinition	dyestuff (of dark green)
 U+4A3C	kHanyuPinyin	64049.060:hù
 U+4A3C	kMandarin	hù
-U+4A3D	kDefinition	to resolve, to dissolve; to decompose, to analyze, to part, to differ, different, a bird ( like a legendary bird with man's face and one leg)
+U+4A3D	kDefinition	to resolve, to dissolve; to decompose, to analyze, to part, to differ, different, a bird (like a legendary bird with man's face and one leg)
 U+4A3D	kHanyuPinyin	64087.030:fěi
 U+4A3D	kMandarin	fěi
 U+4A3E	kCantonese	fei2
@@ -19365,7 +19370,7 @@ U+4A9C	kDefinition	a shield; a screen, (same as 襜) the low front of a robe, go
 U+4A9C	kHanyuPinyin	74511.150:chān,chàn,yán
 U+4A9C	kMandarin	chān
 U+4A9D	kCantonese	wok6 wu6
-U+4A9D	kDefinition	leather cord that winding on the handle of a knife
+U+4A9D	kDefinition	leather thong wound around the handle of a sword
 U+4A9D	kHanyuPinyin	74512.010:hù
 U+4A9D	kMandarin	hù
 U+4A9E	kDefinition	bad; evil; wicked; vice, last name written in the seal type
@@ -20157,7 +20162,7 @@ U+4B77	kHanyuPinyin	74544.020:máo
 U+4B77	kMandarin	máo
 U+4B78	kCantonese	fu6
 U+4B78	kDefinition	a stallion; a male horse
-U+4B78	kHanyuPinyin	74544.140:bǎo
+U+4B78	kHanyuPinyin	74544.110:fù
 U+4B78	kMandarin	bǎo
 U+4B79	kCantonese	ngong4
 U+4B79	kDefinition	movement of a horse, a horse with enormous speed and staying power, a horse with white abdominal region
@@ -20169,7 +20174,7 @@ U+4B7A	kHanyuPinyin	74545.040:ǎng
 U+4B7A	kMandarin	ǎng
 U+4B7B	kCantonese	fan1
 U+4B7B	kDefinition	a swift horse
-U+4B7B	kHanyuPinyin	74544.110:fù
+U+4B7B	kHanyuPinyin	74544.120:fēn
 U+4B7B	kMandarin	fù
 U+4B7C	kCantonese	kei4
 U+4B7C	kDefinition	(ancient form of 騏) dark-blue horse; a piebald horse; fine horse, dark blue, spotted
@@ -20250,7 +20255,7 @@ U+4B94	kDefinition	a young and fleet-footed horse; foal, a horse with a heavy lo
 U+4B94	kHanyuPinyin	74562.020:zuī
 U+4B94	kMandarin	zuī
 U+4B95	kCantonese	zyut3 zyut6
-U+4B95	kDefinition	horse with white forehead, ( 的盧)
+U+4B95	kDefinition	horse with white forehead, (的盧)
 U+4B95	kHanyuPinyin	74564.040:zhuó
 U+4B95	kMandarin	zhuó
 U+4B96	kCantonese	coeng1
@@ -20277,7 +20282,7 @@ U+4B9B	kCantonese	fu6
 U+4B9B	kDefinition	(same as 駙) extra horse harnessed by the side of the team, swift
 U+4B9B	kMandarin	fù
 U+4B9C	kCantonese	cap3 saap3
-U+4B9C	kDefinition	(same as 䮢) to gallop, swift, to walk lightly ( said of a horse)
+U+4B9C	kDefinition	(same as 䮢) to gallop, swift, to walk lightly (said of a horse)
 U+4B9C	kHanyuPinyin	74564.090:zhá,yè
 U+4B9C	kMandarin	zhá
 U+4B9D	kCantonese	wan4
@@ -20837,7 +20842,7 @@ U+4C34	kDefinition	a wafting fish, a fish, to cut a fish
 U+4C34	kHanyuPinyin	74675.120:qì
 U+4C34	kMandarin	qì
 U+4C35	kCantonese	zi1
-U+4C35	kDefinition	(a second name for 鯔) looks like common carp, blackfish or mullet fish, a second name for anchovy, a fish
+U+4C35	kDefinition	blackfish or mullet; anchovy
 U+4C35	kHanyuPinyin	74675.170:zī
 U+4C35	kMandarin	zī
 U+4C37	kCantonese	pang5 pau4
@@ -20916,7 +20921,7 @@ U+4C4B	kDefinition	spawn; roe, a kind of legendary fish said to be thousands of 
 U+4C4B	kHanyuPinyin	74685.030:gǒng
 U+4C4B	kMandarin	gǒng
 U+4C4C	kCantonese	zi4
-U+4C4C	kDefinition	a second name for the globefish; blowfish; puffer
+U+4C4C	kDefinition	globefish; blowfish; puffer
 U+4C4C	kHanyuPinyin	74685.060:yí
 U+4C4C	kMandarin	yí
 U+4C4D	kCantonese	gang2
@@ -20931,7 +20936,7 @@ U+4C4F	kDefinition	a fish
 U+4C4F	kHanyuPinyin	74690.110:tǒu
 U+4C4F	kMandarin	tǒu
 U+4C50	kCantonese	fu1 tou1
-U+4C50	kDefinition	a kind of black fish, a second name for the globefish; blowfish; puffer
+U+4C50	kDefinition	globefish; blowfish; puffer
 U+4C50	kHanyuPinyin	74692.090:fū
 U+4C50	kMandarin	fū
 U+4C51	kCantonese	haap6 sit3
@@ -21007,11 +21012,11 @@ U+4C62	kDefinition	a kind of fish
 U+4C62	kHanyuPinyin	74697.050:zhēng
 U+4C62	kMandarin	zhēng
 U+4C63	kCantonese	cyut3 zeot1
-U+4C63	kDefinition	a long narrow fish, a second name for tuna
+U+4C63	kDefinition	a long narrow fish; tuna
 U+4C63	kHanyuPinyin	74698.100:zú
 U+4C63	kMandarin	zú
 U+4C64	kCantonese	haam6
-U+4C64	kDefinition	(a second name for 鱤) a kind of fish
+U+4C64	kDefinition	same as U+9C64 鱤
 U+4C64	kHanyuPinyin	74698.030:xiàn
 U+4C64	kMandarin	xiàn
 U+4C65	kCantonese	dai3 zaai3
@@ -21048,7 +21053,7 @@ U+4C70	kDefinition	(same as 鮦 鯉 鱧) a kind of fish; black fish
 U+4C70	kHanyuPinyin	74702.090:zhòng
 U+4C70	kMandarin	zhòng
 U+4C71	kCantonese	tai4
-U+4C71	kDefinition	a kind of slippery long fish; with four feet; black color; a second name for Parasilurus asotus, small fish; fry, large carp
+U+4C71	kDefinition	Parasilurus asotus; small fish, fry; large carp
 U+4C71	kHanyuPinyin	74703.070:tí,dì
 U+4C71	kMandarin	tí
 U+4C72	kCantonese	zyun4
@@ -21132,7 +21137,7 @@ U+4C86	kCantonese	sou1
 U+4C86	kHanyuPinyin	74711.030:sū
 U+4C86	kMandarin	sū
 U+4C89	kCantonese	si1
-U+4C89	kDefinition	a kind of fish; a second name for tuna
+U+4C89	kDefinition	a kind of fish; tuna
 U+4C89	kHanyuPinyin	74712.160:sī
 U+4C89	kMandarin	sī
 U+4C8A	kCantonese	to5
@@ -21195,7 +21200,7 @@ U+4C99	kDefinition	a kind of fish; grown in fresh water; with flat body; orange 
 U+4C99	kHanyuPinyin	74719.170:jié
 U+4C99	kMandarin	jié
 U+4C9A	kCantonese	lai6 lam6
-U+4C9A	kDefinition	a second name for shad (with a head like a sturgeon)
+U+4C9A	kDefinition	shad
 U+4C9A	kHanyuPinyin	74720.080:lài
 U+4C9A	kMandarin	lài
 U+4C9B	kCantonese	mung4
@@ -21254,7 +21259,7 @@ U+4CAA	kMandarin	xì
 U+4CAB	kCantonese	gaau1 kaau1
 U+4CAB	kDefinition	(corrupted form of 鳩) the pigeon; the turtle dove
 U+4CAC	kCantonese	gan1 kei4 zi1
-U+4CAC	kDefinition	chicken, a second name for a pheasant, the wild goose
+U+4CAC	kDefinition	chicken; pheasant; wild goose
 U+4CAC	kHanyuPinyin	74620.100:qí
 U+4CAC	kMandarin	qí
 U+4CAD	kCantonese	ci1
@@ -21315,7 +21320,7 @@ U+4CBD	kDefinition	a kind of bird; suspended rocks
 U+4CBD	kHanyuPinyin	74622.150:shí,diǎo
 U+4CBD	kMandarin	shí
 U+4CBE	kCantonese	haau2
-U+4CBE	kDefinition	the tailor bird; a second name for wren
+U+4CBE	kDefinition	tailor bird; wren
 U+4CBE	kHanyuPinyin	74621.170:qiǎo
 U+4CBE	kMandarin	qiǎo
 U+4CBF	kCantonese	ci4
@@ -21357,6 +21362,7 @@ U+4CC8	kDefinition	(same as 鴇) a bird resembling the wild goose; Otis dybowski
 U+4CC8	kMandarin	bǎo
 U+4CC9	kCantonese	dam1 dung1 dung6
 U+4CC9	kDefinition	a kind of water bird, (same as 鴆) a kind of venomous bird
+U+4CC9	kHanyuPinyin	74625.080:dōng,dàn
 U+4CC9	kMandarin	dàn
 U+4CCA	kCantonese	baat6 but6
 U+4CCA	kDefinition	(same as 䳁) a wild duck-like water bird, a pheasant like bird
@@ -21456,7 +21462,7 @@ U+4CE3	kCantonese	zyun1
 U+4CE3	kDefinition	(non-classical form of 鳶) kite (bird), kite (toy), owl, to soar; to fly
 U+4CE3	kMandarin	yuán
 U+4CE4	kCantonese	bit3
-U+4CE4	kDefinition	a kind of strange; weird; legendary bird, second name for an owl
+U+4CE4	kDefinition	a legendary bird; second name for an owl
 U+4CE4	kHanyuPinyin	74640.050:biē
 U+4CE4	kMandarin	biē
 U+4CE6	kCantonese	hyun1 kwaan2
@@ -21521,7 +21527,7 @@ U+4CF6	kDefinition	(same as 㶉) a kind of water bird, (same as 雞) chickens
 U+4CF6	kHanyuPinyin	74651.110:xī,qī,jī
 U+4CF6	kMandarin	xī
 U+4CF7	kCantonese	cung4
-U+4CF7	kDefinition	a second name for chicken
+U+4CF7	kDefinition	chicken
 U+4CF7	kHanyuPinyin	74657.190:cóng
 U+4CF7	kMandarin	cóng
 U+4CF8	kCantonese	maa4 mai4 min5
@@ -21535,7 +21541,7 @@ U+4CFA	kCantonese	aam1 an3
 U+4CFA	kDefinition	(same as 鵪) the quail
 U+4CFA	kMandarin	yàn
 U+4CFB	kCantonese	caam4
-U+4CFB	kDefinition	an eagle; a hawk, second name for osprey or water hawk, a kind of eagle-like bird with white pattern
+U+4CFB	kDefinition	eagle; hawk; osprey
 U+4CFB	kHanyuPinyin	74655.130:cán,zhàn
 U+4CFB	kMandarin	cán
 U+4CFC	kCantonese	aau1
@@ -21560,7 +21566,7 @@ U+4D01	kDefinition	a kind of rat-like bird, a vulture or a condor-like bird
 U+4D01	kHanyuPinyin	74662.140:yù,yú
 U+4D01	kMandarin	yù
 U+4D02	kCantonese	zoeng6
-U+4D02	kDefinition	a kind of water bird, (a second name for 䴀)
+U+4D02	kDefinition	a kind of water bird
 U+4D02	kHanyuPinyin	74661.200:xiàng
 U+4D02	kMandarin	xiàng
 U+4D03	kCantonese	nau4
@@ -21580,7 +21586,7 @@ U+4D06	kDefinition	a kind of bird, a kind of bird good at casting lots or divini
 U+4D06	kHanyuPinyin	74660.160:pú,pū
 U+4D06	kMandarin	pú
 U+4D07	kCantonese	ling4
-U+4D07	kDefinition	a second name for crane, a small swan, (non-classical form of 鴒) a second name for wagtail
+U+4D07	kDefinition	crane; small swan; non-classical form of U+9D12 鴒, wagtail
 U+4D07	kHanyuPinyin	74664.020:líng
 U+4D07	kMandarin	líng
 U+4D08	kCantonese	ou2
@@ -21659,7 +21665,7 @@ U+4D1B	kDefinition	to make decoction of salt
 U+4D1B	kHanyuPinyin	74610.090:xiāo
 U+4D1B	kMandarin	xiāo
 U+4D1C	kCantonese	gwaat3 nei6 waai1 wai4 wun6
-U+4D1C	kDefinition	salt; a certain minority group in ancient times used as a second name for salt
+U+4D1C	kDefinition	salt
 U+4D1C	kHanyuPinyin	74611.080:wāi
 U+4D1C	kMandarin	wāi
 U+4D1D	kCantonese	cai3 zyut3
@@ -21921,7 +21927,7 @@ U+4D60	kDefinition	rushes used form making mats, face decorations (for women), t
 U+4D60	kHanyuPinyin	74744.050:dí,zhuó
 U+4D60	kMandarin	dí
 U+4D61	kCantonese	gan2
-U+4D61	kDefinition	(non-classical form of 䵤) (of the black skin) to crack or chap, black skin
+U+4D61	kDefinition	(non-classical form of U+4D64 䵤) to crack or chap; (cracked) black skin
 U+4D61	kMandarin	jiǎn
 U+4D62	kCantonese	maa3 maa6 mei6 mui6
 U+4D62	kDefinition	light black, dark black
@@ -21932,7 +21938,7 @@ U+4D63	kDefinition	white with black; black and beautiful, name of a county in an
 U+4D63	kHanyuPinyin	74747.010:dá
 U+4D63	kMandarin	dá
 U+4D64	kCantonese	gan2
-U+4D64	kDefinition	(non-classical form of 䵤) (of the black skin) to crack or chap, black skin
+U+4D64	kDefinition	to crack or chap; (cracked) black skin
 U+4D64	kHanyuPinyin	74748.030:jiǎn,xiàn
 U+4D64	kMandarin	jiǎn
 U+4D65	kCantonese	wat1
@@ -22021,6 +22027,7 @@ U+4D7A	kHanyuPinyin	74741.040:tǐng,dǐng,tiǎn
 U+4D7A	kMandarin	tǐng
 U+4D7B	kCantonese	waai6
 U+4D7B	kDefinition	a small tripod of bronze with two ears (standard form 鏏) tripod of bronze with two ears; heavy three-legged caldron or sacrificial vessel
+U+4D7B	kHanyuPinyin	74741.090:huì
 U+4D7B	kMandarin	gǔ
 U+4D7C	kCantonese	soeng1
 U+4D7C	kDefinition	to boil; to cook; to stew
@@ -22137,7 +22144,7 @@ U+4D98	kDefinition	the sound of chewing something dry and hard, sound of gnawing
 U+4D98	kHanyuPinyin	74791.120:lì
 U+4D98	kMandarin	lì
 U+4D99	kCantonese	geoi6
-U+4D99	kDefinition	swelling of the gums ( of the teeth)
+U+4D99	kDefinition	swelling of the gums (of the teeth)
 U+4D99	kHanyuPinyin	74789.130:jù
 U+4D99	kMandarin	jù
 U+4D9A	kCantonese	geoi2
@@ -22214,7 +22221,7 @@ U+4DAC	kDefinition	hard fins on the back of a dragon
 U+4DAC	kHanyuPinyin	74805.090:jiān
 U+4DAC	kMandarin	jiān
 U+4DAE	kCantonese	zim5
-U+4DAE	kDefinition	(simplified form) clever; wise; superior, a person's name ( in Earlier Five Dynasties, South Han, meaning flying dragon over the sky)
+U+4DAE	kDefinition	(simplified form) clever; wise; superior, a person's name (in Earlier Five Dynasties, South Han, meaning flying dragon over the sky)
 U+4DAE	kMandarin	yǎn
 U+4DAE	kXHC1983	1329.060:yǎn
 U+4DAF	kCantonese	gwaai1 gwaai2 kwaai1
@@ -22852,7 +22859,7 @@ U+4E4B	kCantonese	zi1
 U+4E4B	kDefinition	marks preceding phrase as modifier of following phrase; it, him her, them; go to
 U+4E4B	kHangul	지
 U+4E4B	kHanyuPinlu	zhī(2282)
-U+4E4B	kHanyuPinyin	10043.010:zhī,zhù,zhì
+U+4E4B	kHanyuPinyin	10043.010:zhī,zhū,zhì
 U+4E4B	kJapaneseKun	YUKU KORE NO
 U+4E4B	kJapaneseOn	SHI
 U+4E4B	kKorean	CI
@@ -23159,7 +23166,7 @@ U+4E7D	kMandarin	zhě
 U+4E7E	kCantonese	gon1 kin4
 U+4E7E	kDefinition	dry; first hexagram; warming principle of the sun, penetrating and fertilizing, heavenly generative principle (male)
 U+4E7E	kHangul	건
-U+4E7E	kHanyuPinyin	10056.100:gān,qián
+U+4E7E	kHanyuPinyin	10056.100:qián,gān
 U+4E7E	kJapaneseKun	KAWAKU KAWAKASU INUI
 U+4E7E	kJapaneseOn	KAN KEN GEN
 U+4E7E	kKorean	KAN KEN
@@ -23227,7 +23234,7 @@ U+4E86	kMandarin	le
 U+4E86	kTang	*leǔ leǔ
 U+4E86	kVietnamese	liễu
 U+4E86	kXHC1983	0684.060:le 0711.150:liǎo 0712.070:liào
-U+4E87	kCantonese	ding1
+U+4E87	kCantonese	ding1 go3
 U+4E87	kDefinition	kwukyel hammer
 U+4E87	kKorean	MA
 U+4E87	kMandarin	ma
@@ -30326,7 +30333,7 @@ U+524D	kCantonese	cin4
 U+524D	kDefinition	in front, forward; preceding
 U+524D	kHangul	전
 U+524D	kHanyuPinlu	qián(3617)
-U+524D	kHanyuPinyin	10248.040:qiǎn,jiǎn
+U+524D	kHanyuPinyin	10248.040:qián,jiǎn
 U+524D	kJapaneseKun	MAE SUSUMU
 U+524D	kJapaneseOn	ZEN SEN
 U+524D	kKorean	CEN
@@ -30730,7 +30737,7 @@ U+5282	kXHC1983	0618.170:jué
 U+5283	kCantonese	waak6
 U+5283	kDefinition	divide, mark off, lay boundary
 U+5283	kHangul	획
-U+5283	kHanyuPinyin	10356.080:huá,huà,hua
+U+5283	kHanyuPinyin	10356.080:huá,huà,huai
 U+5283	kJapaneseKun	WAKATSU
 U+5283	kJapaneseOn	KAKU
 U+5283	kKorean	HOYK
@@ -36946,7 +36953,7 @@ U+55C5	kCantonese	cau3 hung3
 U+55C5	kDefinition	smell, scent, sniff; olfactive
 U+55C5	kHangul	후
 U+55C5	kHanyuPinlu	xiù(14)
-U+55C5	kHanyuPinyin	10668.120:xù
+U+55C5	kHanyuPinyin	10668.120:xiù
 U+55C5	kJapaneseKun	KAGU
 U+55C5	kJapaneseOn	KYUU
 U+55C5	kKorean	HWU
@@ -38070,7 +38077,7 @@ U+5665	kVietnamese	nũng
 U+5665	kXHC1983	0840.021:nóng
 U+5666	kCantonese	jyut6 wai3
 U+5666	kDefinition	belch; vomit
-U+5666	kHanyuPinyin	10689.120:yué,huì
+U+5666	kHanyuPinyin	10689.120:yuē,huì
 U+5666	kJapaneseKun	SHAKURI AKARUI
 U+5666	kJapaneseOn	ETSU OCHI ECHI KI KE KEI KAI
 U+5666	kKorean	EL HWAY
@@ -40407,7 +40414,7 @@ U+57D3	kJapaneseOn	RACHI
 U+57D3	kMandarin	liè
 U+57D4	kCantonese	bou3
 U+57D4	kDefinition	plain, arena; port, market
-U+57D4	kHanyuPinyin	10443.070:bù,pǔ
+U+57D4	kHanyuPinyin	10443.070:pǔ,bù
 U+57D4	kJapaneseOn	HO
 U+57D4	kMandarin	bù
 U+57D4	kXHC1983	0087.060:bù 0890.090:pǔ
@@ -44467,7 +44474,7 @@ U+5A46	kMandarin	pó
 U+5A46	kTang	bhɑ
 U+5A46	kVietnamese	bà
 U+5A46	kXHC1983	0884.100:pó
-U+5A47	kHanyuPinyin	21060.030:cāi
+U+5A47	kHanyuPinyin	21060.030:cǎi
 U+5A47	kJapaneseKun	UNEME
 U+5A47	kJapaneseOn	SAI
 U+5A47	kMandarin	cāi
@@ -44506,7 +44513,7 @@ U+5A4D	kMandarin	qǐ
 U+5A4D	kVietnamese	gả
 U+5A4E	kHanyuPinyin	21059.130:huī
 U+5A4E	kMandarin	huī
-U+5A4F	kHanyuPinyin	21060.130:fàn,fù
+U+5A4F	kHanyuPinyin	21060.130:fù,fàn
 U+5A4F	kMandarin	fàn
 U+5A50	kCantonese	gwo2 o1 wo2
 U+5A50	kDefinition	maid
@@ -44618,7 +44625,7 @@ U+5A63	kMandarin	yīn
 U+5A63	kXHC1983	1375.071:yīn
 U+5A64	kCantonese	zau1
 U+5A64	kDefinition	lovely
-U+5A64	kHanyuPinyin	21060.100:chōu,zhōu
+U+5A64	kHanyuPinyin	21060.100:zhōu,chōu
 U+5A64	kJapaneseKun	MIMEYOISAMA
 U+5A64	kJapaneseOn	SHUU SHU CHOU CHUU JUU
 U+5A64	kMandarin	chōu
@@ -45848,7 +45855,7 @@ U+5B44	kMandarin	lǎn
 U+5B45	kCantonese	cim1
 U+5B45	kDefinition	slender, thin; sharp-pointed
 U+5B45	kHangul	섬
-U+5B45	kHanyuPinyin	21090.110:qiān,xiān
+U+5B45	kHanyuPinyin	21090.110:xiān,qiān
 U+5B45	kJapaneseKun	KAYOWAI
 U+5B45	kJapaneseOn	SEN
 U+5B45	kKorean	SEM
@@ -50948,7 +50955,7 @@ U+5E5A	kJapaneseOn	HOU
 U+5E5A	kKorean	PANG
 U+5E5A	kMandarin	bāng
 U+5E5B	kCantonese	zoeng3
-U+5E5B	kDefinition	scroll of silk or cloth presente
+U+5E5B	kDefinition	scroll of silk or cloth bearing a congratulatory message
 U+5E5B	kHanyuPinyin	10752.130:zhàng
 U+5E5B	kJapaneseKun	NUNO
 U+5E5B	kJapaneseOn	SHOU
@@ -52943,7 +52950,7 @@ U+5F6D	kXHC1983	0863.070:péng
 U+5F6E	kHanyuPinyin	20856.110:yǒng
 U+5F6E	kMandarin	yǒng
 U+5F6F	kCantonese	piu1
-U+5F6F	kHanyuPinyin	20856.130:piǎo,piào,miǎo
+U+5F6F	kHanyuPinyin	20856.130:piāo,piào,miǎo
 U+5F6F	kJapaneseOn	HEU BEU
 U+5F6F	kMandarin	piǎo
 U+5F70	kCantonese	zoeng1
@@ -52993,7 +53000,7 @@ U+5F76	kMandarin	jí
 U+5F77	kCantonese	fong2 pong4
 U+5F77	kDefinition	like, resembling; resemble
 U+5F77	kHangul	방
-U+5F77	kHanyuPinyin	20815.010:fǎng,fáng,páng
+U+5F77	kHanyuPinyin	20815.010:páng,fǎng,fáng
 U+5F77	kJapaneseKun	SAMAYOU
 U+5F77	kJapaneseOn	HOU
 U+5F77	kKorean	PANG
@@ -54168,7 +54175,7 @@ U+601D	kVietnamese	tư
 U+601D	kXHC1983	0981.080:sāi 1084.160:sī
 U+601E	kCantonese	jau4 zau6
 U+601E	kDefinition	to grieve; sorrowful
-U+601E	kHanyuPinyin	42285.040:chóu,yòu
+U+601E	kHanyuPinyin	42285.040:chóu,yóu
 U+601E	kMandarin	chóu
 U+601F	kHanyuPinyin	42287.050:dì
 U+601F	kJapaneseKun	MODAERU
@@ -55190,7 +55197,7 @@ U+60B6	kKorean	MIN
 U+60B6	kMandarin	mèn
 U+60B6	kVietnamese	muốn
 U+60B7	kCantonese	lai6
-U+60B7	kHanyuPinyin	42319.060:sàn,tàn
+U+60B7	kHanyuPinyin	42319.060:lì
 U+60B7	kJapaneseKun	KANASHIMU
 U+60B7	kJapaneseOn	REI RAI RI
 U+60B7	kMandarin	sàn
@@ -55329,7 +55336,7 @@ U+60CB	kCantonese	jyun2 wun2
 U+60CB	kDefinition	regret, be sorry; alarmed
 U+60CB	kHangul	완
 U+60CB	kHanyuPinlu	wǎn(14)
-U+60CB	kHanyuPinyin	42319.050:lì
+U+60CB	kHanyuPinyin	42319.050:wǎn
 U+60CB	kJapaneseKun	NAGEKU
 U+60CB	kJapaneseOn	WAN
 U+60CB	kKorean	WAN
@@ -56498,7 +56505,7 @@ U+6172	kMandarin	mán
 U+6173	kCantonese	haan1 han1
 U+6173	kDefinition	miserly, parsimonious, stingy
 U+6173	kHangul	간
-U+6173	kHanyuPinyin	42345.050:qiān,xiǎn
+U+6173	kHanyuPinyin	42345.050:qiān,xián
 U+6173	kJapaneseKun	OSHIMU
 U+6173	kJapaneseOn	KAN KEN
 U+6173	kKorean	KAN
@@ -59173,7 +59180,7 @@ U+62F1	kCantonese	gung2
 U+62F1	kDefinition	fold hands on breast; bow, salute
 U+62F1	kHangul	공
 U+62F1	kHanyuPinlu	gǒng(78)
-U+62F1	kHanyuPinyin	31867.020:gǒng,jù
+U+62F1	kHanyuPinyin	31867.020:gǒng,jú
 U+62F1	kJapaneseKun	KOMANUKU
 U+62F1	kJapaneseOn	KYOU
 U+62F1	kKorean	KONG
@@ -64342,7 +64349,7 @@ U+65FC	kKorean	MIN
 U+65FC	kMandarin	mín
 U+65FD	kDefinition	morning sun, sunrise
 U+65FD	kHangul	돈
-U+65FD	kHanyuPinyin	21489.060:tùn,zhùn
+U+65FD	kHanyuPinyin	21489.060:tūn,zhùn
 U+65FD	kKorean	TON
 U+65FD	kMandarin	tùn
 U+65FE	kJapaneseKun	HARU
@@ -65928,7 +65935,7 @@ U+66F2	kCantonese	kuk1
 U+66F2	kDefinition	crooked, bent; wrong, false
 U+66F2	kHangul	곡
 U+66F2	kHanyuPinlu	qū(118) qǔ(46)
-U+66F2	kHanyuPinyin	21484.020:qū
+U+66F2	kHanyuPinyin	21484.020:qū,qǔ
 U+66F2	kJapaneseKun	MAGARU MAGERU KUMA
 U+66F2	kJapaneseOn	KYOKU
 U+66F2	kKorean	KOK
@@ -68195,7 +68202,7 @@ U+6841	kXHC1983	0460.030:héng
 U+6842	kCantonese	gwai3
 U+6842	kDefinition	cassia or cinnamon
 U+6842	kHangul	계
-U+6842	kHanyuPinyin	21193.050:guī
+U+6842	kHanyuPinyin	21193.050:guì
 U+6842	kJapaneseKun	KATSURA
 U+6842	kJapaneseOn	KEI
 U+6842	kKorean	KYEY
@@ -70561,7 +70568,7 @@ U+69CC	kJapaneseKun	TSUCHI
 U+69CC	kJapaneseOn	TSUI
 U+69CC	kKorean	THOY CHWU
 U+69CC	kMandarin	chuí
-U+69CC	kVietnamese	dùi
+U+69CC	kVietnamese	duì
 U+69CC	kXHC1983	0168.040:chuí
 U+69CD	kCantonese	coeng1
 U+69CD	kDefinition	spear, lance; gun, rifle
@@ -70909,7 +70916,7 @@ U+6A0A	kXHC1983	0300.010:fán
 U+6A0B	kCantonese	tung1
 U+6A0B	kDefinition	tree name
 U+6A0B	kHangul	통
-U+6A0B	kHanyuPinyin	21271.110:tǒng
+U+6A0B	kHanyuPinyin	21271.110:tōng
 U+6A0B	kJapaneseKun	HI
 U+6A0B	kJapaneseOn	TOU
 U+6A0B	kKorean	THONG
@@ -71360,7 +71367,7 @@ U+6A53	kDefinition	hibiscus; transient
 U+6A53	kHangul	순
 U+6A53	kKorean	SWUN
 U+6A53	kMandarin	shùn
-U+6A54	kDefinition	a wooden chopping-block
+U+6A54	kDefinition	withered, dried-up; cloth coffin-lid cover
 U+6A54	kHanyuPinyin	21294.110:dūn,tuí
 U+6A54	kMandarin	dūn
 U+6A55	kCantonese	caang1
@@ -72044,7 +72051,7 @@ U+6AD9	kMandarin	ōu
 U+6ADA	kCantonese	leoi3 leoi4
 U+6ADA	kDefinition	palm
 U+6ADA	kHangul	려
-U+6ADA	kHanyuPinyin	21311.050:lú
+U+6ADA	kHanyuPinyin	21311.050:lǘ
 U+6ADA	kJapaneseKun	KARIN
 U+6ADA	kJapaneseOn	RYO RO
 U+6ADA	kKorean	LYE
@@ -77565,7 +77572,7 @@ U+6E3E	kJapaneseOn	KON
 U+6E3E	kKorean	HON
 U+6E3E	kMandarin	hún
 U+6E3E	kTang	huən huə̌n
-U+6E3F	kHanyuPinyin	31670.020,80023.190:nài
+U+6E3F	kHanyuPinyin	31670.020:nài
 U+6E3F	kMandarin	nài
 U+6E40	kHanyuPinyin	31691.060:guǐ
 U+6E40	kMandarin	guǐ
@@ -77765,7 +77772,7 @@ U+6E5D	kXHC1983	0575.030:jiē
 U+6E5E	kCantonese	zing1
 U+6E5E	kDefinition	river in Guangdong province
 U+6E5E	kHangul	정
-U+6E5E	kHanyuPinyin	31673.030:chēng,zhēn
+U+6E5E	kHanyuPinyin	31673.030:zhēn,chēng
 U+6E5E	kJapaneseOn	TOU JOU TEI CHOU
 U+6E5E	kKorean	CENG
 U+6E5E	kMandarin	chēng
@@ -79352,7 +79359,7 @@ U+6F6B	kHanyuPinyin	31747.070:wān
 U+6F6B	kMandarin	wān
 U+6F6C	kCantonese	taan1
 U+6F6C	kDefinition	a rapid; a sand-bank; a foreshore
-U+6F6C	kHanyuPinyin	31741.030:shàn,tān
+U+6F6C	kHanyuPinyin	31741.030:tān,shàn
 U+6F6C	kJapaneseKun	SU
 U+6F6C	kJapaneseOn	TAN DAN SEN ZEN
 U+6F6C	kMandarin	shàn
@@ -80189,7 +80196,7 @@ U+6FF8	kCantonese	cong1
 U+6FF8	kMandarin	cāng
 U+6FF9	kJapaneseKun	BOKU
 U+6FF9	kMandarin	me
-U+6FFA	kCantonese	zin1 zin3
+U+6FFA	kCantonese	cin2 cin3 zin1 zin3
 U+6FFA	kDefinition	sprinkle, spray; spill, splash
 U+6FFA	kHangul	천
 U+6FFA	kHanyuPinlu	jiàn(23)
@@ -84766,7 +84773,7 @@ U+7331	kTang	nɑu
 U+7331	kXHC1983	0819.120:náo
 U+7332	kCantonese	hit3 hot3
 U+7332	kDefinition	smoke or flames from fire; roast
-U+7332	kHanyuPinyin	21357.020:xiē,hè,gé
+U+7332	kHanyuPinyin	21357.020:xiē,hè,gé,hài
 U+7332	kJapaneseKun	OOKAMI
 U+7332	kJapaneseOn	KATSU KACHI RYOU
 U+7332	kMandarin	xiē
@@ -85281,7 +85288,7 @@ U+7387	kCantonese	leot6 seot1
 U+7387	kDefinition	to lead; ratio; rate; limit
 U+7387	kHangul	률 솔 율
 U+7387	kHanyuPinlu	lǜ(173) shuài(58)
-U+7387	kHanyuPinyin	10289.030:shuài,lǜ,lüe
+U+7387	kHanyuPinyin	10289.030:shuài,lǜ,lüè
 U+7387	kJapaneseKun	HIKIIRU OOMUNE WARIAI
 U+7387	kJapaneseOn	RITSU SOTSU
 U+7387	kKorean	SOL LYUL
@@ -85733,7 +85740,7 @@ U+73D5	kHanyuPinyin	21114.060:lì
 U+73D5	kMandarin	lì
 U+73D6	kDefinition	carat
 U+73D6	kHangul	광
-U+73D6	kHanyuPinyin	21111.020:guàng
+U+73D6	kHanyuPinyin	21111.020:guāng
 U+73D6	kJapaneseKun	TAMA
 U+73D6	kJapaneseOn	KOU
 U+73D6	kKorean	KWANG
@@ -87045,7 +87052,7 @@ U+74BD	kMandarin	xǐ
 U+74BD	kTang	siɛ̌
 U+74BD	kVietnamese	tỉ
 U+74BD	kXHC1983	1235.051:xǐ
-U+74BE	kHanyuPinyin	21143.070:zī,jì
+U+74BE	kHanyuPinyin	21143.070:jì,zī
 U+74BE	kMandarin	zī
 U+74BF	kCantonese	syun4
 U+74BF	kDefinition	fine jade
@@ -91694,7 +91701,7 @@ U+77A0	kKorean	TANG CAYNG
 U+77A0	kMandarin	chēng
 U+77A0	kXHC1983	0134.100:chēng
 U+77A1	kCantonese	kwai1
-U+77A1	kHanyuPinyin	42508.120:guǐ
+U+77A1	kHanyuPinyin	42508.120:guī
 U+77A1	kMandarin	guǐ
 U+77A2	kCantonese	mung4
 U+77A2	kDefinition	eyesight obscured; to feel ashamed
@@ -95657,6 +95664,7 @@ U+7A51	kXHC1983	0989.110:sè
 U+7A52	kMandarin	hè
 U+7A53	kHanyuPinyin	42632.060:yì
 U+7A53	kMandarin	yì
+U+7A54	kHanyuPinyin	42631.070:huáng
 U+7A54	kMandarin	huáng
 U+7A55	kHanyuPinyin	42632.120:qiè
 U+7A55	kJapaneseOn	SHOU
@@ -95668,7 +95676,7 @@ U+7A57	kCantonese	seoi6
 U+7A57	kDefinition	ear of grain; tassel; Guangzhou
 U+7A57	kHangul	수
 U+7A57	kHanyuPinlu	suì(20)
-U+7A57	kHanyuPinyin	42631.120:diàn
+U+7A57	kHanyuPinyin	42631.120:suì
 U+7A57	kJapaneseKun	HO
 U+7A57	kJapaneseOn	SUI
 U+7A57	kKorean	SWU
@@ -97450,7 +97458,6 @@ U+7B72	kTang	shrau
 U+7B72	kVietnamese	sáo
 U+7B72	kXHC1983	1008.050:shāo
 U+7B73	kCantonese	jin4 ting4
-U+7B73	kDefinition	feast
 U+7B73	kHangul	정
 U+7B73	kHanyuPinyin	52966.090:tíng
 U+7B73	kJapaneseKun	ITOKUDA
@@ -97465,7 +97472,7 @@ U+7B74	kJapaneseOn	KYOU SAKU
 U+7B74	kMandarin	cè
 U+7B74	kXHC1983	0110.011:cè 0110.012:jiá 0540.011:jiā
 U+7B75	kCantonese	jin4
-U+7B75	kDefinition	bamboo mat; feast, banquet
+U+7B75	kDefinition	feast
 U+7B75	kHangul	연
 U+7B75	kHanyuPinyin	52967.030:yán
 U+7B75	kJapaneseKun	MUSHIRO
@@ -97955,7 +97962,7 @@ U+7BC8	kMandarin	fēng
 U+7BC9	kCantonese	zuk1
 U+7BC9	kDefinition	build, erect; building
 U+7BC9	kHangul	축
-U+7BC9	kHanyuPinyin	52998.040:yuán
+U+7BC9	kHanyuPinyin	52998.040:zhù
 U+7BC9	kJapaneseKun	KIZUKU TSUKU
 U+7BC9	kJapaneseOn	CHIKU
 U+7BC9	kKorean	CHWUK
@@ -98096,7 +98103,7 @@ U+7BE1	kVietnamese	choán
 U+7BE1	kXHC1983	0182.020:cuàn
 U+7BE2	kCantonese	lung5
 U+7BE2	kDefinition	the name of bamboo hat
-U+7BE2	kHanyuPinyin	52998.020:gōng
+U+7BE2	kHanyuPinyin	52998.020:gōng,gǎn,lǒng
 U+7BE2	kMandarin	lǒng
 U+7BE2	kXHC1983	0733.050:lǒng
 U+7BE3	kCantonese	pong4
@@ -102154,7 +102161,7 @@ U+7E78	kJapaneseOn	SUI ZUI
 U+7E78	kMandarin	suì
 U+7E78	kVietnamese	choại
 U+7E79	kCantonese	jik6
-U+7E79	kDefinition	to unravel or unreel silk; to interpret, explain 
+U+7E79	kDefinition	to unravel or unreel silk; to interpret, explain
 U+7E79	kHangul	역
 U+7E79	kHanyuPinyin	53459.040:yì,shì
 U+7E79	kJapaneseKun	NUKU TAZUNERU
@@ -106615,7 +106622,7 @@ U+815B	kMandarin	wò
 U+815B	kVietnamese	óc
 U+815C	kCantonese	mui4
 U+815C	kDefinition	quickening of the foetus
-U+815C	kHanyuPinyin	32093.180:měi
+U+815C	kHanyuPinyin	32093.180:méi
 U+815C	kMandarin	měi
 U+815D	kHanyuPinyin	32094.120:ní,ruǎn,nào,nèn,ér
 U+815D	kMandarin	ní
@@ -106710,7 +106717,7 @@ U+816B	kVietnamese	thũng
 U+816B	kXHC1983	1501.011:zhǒng
 U+816C	kCantonese	lau6
 U+816C	kDefinition	(Cant.) greasy, oily
-U+816C	kHanyuPinyin	32100.050:ròu
+U+816C	kHanyuPinyin	32100.050:róu
 U+816C	kMandarin	ròu
 U+816D	kCantonese	ngok6
 U+816D	kDefinition	palate, roof of mouth
@@ -106979,7 +106986,7 @@ U+8191	kCantonese	ban3
 U+8191	kDefinition	the kneecap
 U+8191	kMandarin	bìn
 U+8191	kXHC1983	0075.140:bìn
-U+8192	kHanyuPinyin	32106.140:óu
+U+8192	kHanyuPinyin	32106.140:ōu
 U+8192	kMandarin	óu
 U+8193	kCantonese	coeng4
 U+8193	kDefinition	intestines; emotions; sausage
@@ -111688,7 +111695,7 @@ U+8490	kKorean	SWU
 U+8490	kMandarin	sōu
 U+8490	kTang	shriou
 U+8490	kXHC1983	1093.061:sōu
-U+8491	kHanyuPinyin	53266.020:yìn
+U+8491	kHanyuPinyin	53266.020:yīn
 U+8491	kMandarin	yìn
 U+8492	kCantonese	si1
 U+8492	kHanyuPinyin	53265.100:shī
@@ -112604,6 +112611,7 @@ U+8534	kJapaneseKun	ASA
 U+8534	kJapaneseOn	MA
 U+8534	kMandarin	má
 U+8534	kXHC1983	0753.111:má
+U+8535	kCantonese	cong4 zong6
 U+8535	kDefinition	hide, conceal; hoard, store up
 U+8535	kHanyuPinyin	53277.040:zāng,cáng
 U+8535	kJapaneseKun	KURA KAKURERU OSAMERU
@@ -118638,7 +118646,7 @@ U+895C	kMandarin	chān
 U+895C	kXHC1983	0117.040:chān
 U+895D	kCantonese	lim6
 U+895D	kDefinition	draw one's hands into sleeve
-U+895D	kHanyuPinyin	53118.060:liǎn,chǎn
+U+895D	kHanyuPinyin	53118.060:liǎn,chān
 U+895D	kMandarin	liǎn
 U+895D	kXHC1983	0704.071:liǎn
 U+895E	kCantonese	bik1 pik1
@@ -119632,7 +119640,7 @@ U+8A08	kMandarin	jì
 U+8A08	kTang	*gèi
 U+8A08	kVietnamese	kể
 U+8A09	kHangul	범
-U+8A09	kHanyuPinyin	63942.050:fān
+U+8A09	kHanyuPinyin	63942.050:fàn
 U+8A09	kKorean	PEM
 U+8A09	kMandarin	fān
 U+8A0A	kCantonese	seon3
@@ -119781,6 +119789,7 @@ U+8A1D	kJapaneseOn	GA GE
 U+8A1D	kKorean	A
 U+8A1D	kMandarin	yà
 U+8A1D	kTang	ngà
+U+8A1E	kHanyuPinyin	63947.060:yāo
 U+8A1E	kJapaneseKun	WAZAWAI AYASHIIKOTOBA
 U+8A1E	kJapaneseOn	YOU
 U+8A1E	kMandarin	yāo
@@ -122268,7 +122277,6 @@ U+8BB7	kXHC1983	0822.010:nè
 U+8BB8	kCantonese	heoi2
 U+8BB8	kDefinition	allow, permit; promise; betroth
 U+8BB8	kHanyuPinlu	xǔ(1465)
-U+8BB8	kHanyuPinyin	63947.010:hào
 U+8BB8	kMandarin	xǔ
 U+8BB8	kXHC1983	1301.080:xǔ
 U+8BB9	kCantonese	ngo4
@@ -122936,7 +122944,7 @@ U+8C49	kKorean	SI
 U+8C49	kMandarin	shì
 U+8C49	kVietnamese	xị
 U+8C49	kXHC1983	0144.020:shì
-U+8C4A	kCantonese	lai5
+U+8C4A	kCantonese	fung1 lai5
 U+8C4A	kDefinition	abundant, lush, bountiful, plenty
 U+8C4A	kHangul	풍
 U+8C4A	kHanyuPinyin	63566.140:lǐ,fēng
@@ -127544,7 +127552,7 @@ U+8F50	kHanyuPinyin	53556.010:bú
 U+8F50	kMandarin	bú
 U+8F51	kCantonese	lou4 lou5
 U+8F51	kDefinition	rut
-U+8F51	kHanyuPinyin	53555.120:lǎo,láo,liáo,liǎo
+U+8F51	kHanyuPinyin	53555.120:lǎo,láo,liáo,liǎo,liào
 U+8F51	kJapaneseKun	TAWAMERU
 U+8F51	kJapaneseOn	RAU ROU RYOU
 U+8F51	kMandarin	lǎo
@@ -129305,7 +129313,7 @@ U+9054	kCantonese	daat6 taat3
 U+9054	kDefinition	arrive at, reach; intelligent
 U+9054	kHangul	달
 U+9054	kHanyuPinlu	dá(557)
-U+9054	kHanyuPinyin	63855.010:dā,tà
+U+9054	kHanyuPinyin	63855.010:dá,tà
 U+9054	kJapaneseKun	TOORU TODOKU
 U+9054	kJapaneseOn	TATSU DACHI
 U+9054	kKorean	TAL
@@ -130207,7 +130215,7 @@ U+90D7	kJapaneseOn	CHI KI KE
 U+90D7	kMandarin	xī
 U+90D7	kXHC1983	1231.020:xī
 U+90D8	kCantonese	leoi5
-U+90D8	kHanyuPinyin	63767.090:lǘ
+U+90D8	kHanyuPinyin	63767.090:lǚ
 U+90D8	kJapaneseOn	RYO RO
 U+90D8	kMandarin	lǘ
 U+90D9	kCantonese	fu2
@@ -133467,7 +133475,7 @@ U+9310	kJapaneseOn	SUI
 U+9310	kKorean	CHWU
 U+9310	kMandarin	zhuī
 U+9310	kTang	jui
-U+9310	kVietnamese	dùi
+U+9310	kVietnamese	duì
 U+9311	kHanyuPinyin	64225.060:lèi,lì
 U+9311	kJapaneseKun	KANNA KIRI NOKOGIRI MOJIRI NEJIRI
 U+9311	kJapaneseOn	RAI RE REI
@@ -134272,6 +134280,7 @@ U+93A5	kHanyuPinyin	64241.130:tiáo
 U+93A5	kMandarin	tiáo
 U+93A6	kCantonese	lau4 lau5
 U+93A6	kDefinition	distil; lutetium; surname
+U+93A6	kHanyuPinyin	64243.060:liú,liù
 U+93A6	kJapaneseKun	KOSHIKI
 U+93A6	kJapaneseOn	RYUU RU
 U+93A6	kMandarin	liú
@@ -136244,7 +136253,6 @@ U+954E	kMandarin	ná
 U+954E	kXHC1983	0811.070:ná
 U+954F	kCantonese	lau4 lau5
 U+954F	kDefinition	distil; lutetium; surname
-U+954F	kHanyuPinyin	64243.070:liú,liù
 U+954F	kMandarin	liú
 U+954F	kXHC1983	0728.040:liú 0730.040:liù
 U+9550	kCantonese	hou6
@@ -136636,7 +136644,7 @@ U+95A0	kJapaneseKun	TAMA
 U+95A0	kMandarin	rùn
 U+95A1	kCantonese	hat6 ngoi6
 U+95A1	kDefinition	blocked or separated; to prevent
-U+95A1	kHanyuPinyin	74299.020:ài,hé
+U+95A1	kHanyuPinyin	74299.020:ài,hé,hài,gāi,kǎi
 U+95A1	kJapaneseKun	SHIMERU
 U+95A1	kJapaneseOn	GAI KAI KOKU
 U+95A1	kMandarin	ài
@@ -137620,7 +137628,7 @@ U+964D	kCantonese	gong3 hong4
 U+964D	kDefinition	descend, fall, drop; lower, down
 U+964D	kHangul	강 항
 U+964D	kHanyuPinlu	jiàng(243) xiáng(75)
-U+964D	kHanyuPinyin	64126.180:jiàng,xiáng
+U+964D	kHanyuPinyin	64126.180:jiàng,xiáng,xiàng
 U+964D	kJapaneseKun	ORIRU FURU TAGURU
 U+964D	kJapaneseOn	KOU
 U+964D	kKorean	KANG HANG
@@ -143008,6 +143016,7 @@ U+99C1	kKorean	PAK
 U+99C1	kMandarin	bó
 U+99C1	kVietnamese	bác
 U+99C2	kCantonese	bou2
+U+99C2	kHanyuPinyin	74544.140:bǎo
 U+99C2	kMandarin	bǎo
 U+99C3	kCantonese	kyut3
 U+99C3	kDefinition	gallop
@@ -147318,7 +147327,7 @@ U+9CFB	kHanyuPinyin	74619.190:bān,fén
 U+9CFB	kMandarin	bān
 U+9CFC	kHanyuPinyin	74620.170:wén
 U+9CFC	kMandarin	wén
-U+9CFD	kHanyuPinyin	74617.130:jiān,qiān,zhàn
+U+9CFD	kHanyuPinyin	74617.130:jiān,qiān,zhān
 U+9CFD	kMandarin	jiān
 U+9CFE	kDefinition	general term for a group of small birds
 U+9CFE	kHanyuPinyin	74617.210:shī
@@ -147458,6 +147467,7 @@ U+9D1A	kMandarin	gē
 U+9D1B	kCantonese	jin1 jyun1
 U+9D1B	kDefinition	male mandarin duck (Aix galericulata)
 U+9D1B	kHangul	원
+U+9D1B	kHanyuPinyin	74625.100:yuān
 U+9D1B	kJapaneseOn	EN ON
 U+9D1B	kKorean	WEN
 U+9D1B	kMandarin	yuān
@@ -147469,6 +147479,7 @@ U+9D1C	kJapaneseOn	SHI
 U+9D1C	kMandarin	cí
 U+9D1D	kCantonese	keoi4
 U+9D1D	kDefinition	mynah; Erithacus species (various)
+U+9D1D	kHanyuPinyin	74625.050:qú,gōu,gòu
 U+9D1D	kJapaneseKun	HAHATSUCHOU
 U+9D1D	kJapaneseOn	KU GU
 U+9D1D	kMandarin	qú
@@ -147506,7 +147517,7 @@ U+9D23	kJapaneseOn	KO KU
 U+9D23	kKorean	KO
 U+9D23	kMandarin	gū
 U+9D23	kTang	go
-U+9D24	kHanyuPinyin	74625.070:dōng,dàn
+U+9D24	kHanyuPinyin	74625.070:zhōng
 U+9D24	kMandarin	dōng
 U+9D25	kCantonese	wat6
 U+9D25	kDefinition	swoop
@@ -148577,7 +148588,7 @@ U+9DFF	kHanyuPinyin	74667.020:pì
 U+9DFF	kKorean	PYEK
 U+9DFF	kMandarin	pì
 U+9E00	kCantonese	suk6 zuk1
-U+9E00	kHanyuPinyin	74664.170:chǔ,zhú,chù
+U+9E00	kHanyuPinyin	74664.170:shǔ,zhú,chù
 U+9E00	kMandarin	chǔ
 U+9E01	kCantonese	lo4
 U+9E01	kHanyuPinyin	32128.190:luó
@@ -148814,7 +148825,6 @@ U+9E31	kMandarin	chī
 U+9E31	kXHC1983	0142.050:chī
 U+9E32	kCantonese	keoi4
 U+9E32	kDefinition	mynah; Erithacus species (various)
-U+9E32	kHanyuPinyin	74625.060:zhōng
 U+9E32	kMandarin	qú
 U+9E32	kXHC1983	0945.030:qú
 U+9E33	kCantonese	jyun1
@@ -151899,7 +151909,7 @@ U+20013	kHanyuPinyin	10017.040:sī
 U+20013	kMandarin	sī
 U+20014	kHanyuPinyin	10017.060:jué
 U+20014	kMandarin	jué
-U+20015	kDefinition	Variant of U+4E99 亙 
+U+20015	kDefinition	Variant of U+4E99 亙
 U+20016	kVietnamese	khạng
 U+20017	kVietnamese	khệnh
 U+2001B	kHanyuPinyin	10017.090:yù
@@ -152303,7 +152313,7 @@ U+20315	kHanyuPinyin	10198.120:gòng
 U+20315	kMandarin	gòng
 U+20316	kHanyuPinyin	10200.050:qióng
 U+20316	kMandarin	qióng
-U+2031A	kHanyuPinyin	10202.120:ròng
+U+2031A	kHanyuPinyin	10202.120:nòng
 U+2031A	kMandarin	ròng
 U+2031E	kHanyuPinyin	10203.100:sǒu
 U+2031E	kMandarin	sǒu
@@ -153403,7 +153413,6 @@ U+208D8	kMandarin	zhōu
 U+208DB	kVietnamese	móc
 U+208E0	kHanyuPinyin	10259.050:kuì
 U+208E0	kMandarin	kuì
-U+208E1	kHanyuPinyin	10259.070:fèng
 U+208E1	kMandarin	fèng
 U+208EA	kHanyuPinyin	10259.160:qú
 U+208EA	kMandarin	qú
@@ -154332,7 +154341,7 @@ U+20D3C	kVietnamese	đáu
 U+20D3E	kHanyuPinyin	10647.050:nà
 U+20D3E	kMandarin	nà
 U+20D46	kCantonese	daam1 daam3
-U+20D47	kCantonese	koe4
+U+20D47	kCantonese	keu4
 U+20D47	kDefinition	(Cant.) peculiar, strange
 U+20D48	kCantonese	mui2
 U+20D48	kDefinition	(Cant.) to suck or chew without using the teeth
@@ -154742,7 +154751,7 @@ U+20EA8	kVietnamese	rỉ
 U+20EA9	kVietnamese	trơu
 U+20EAA	kCantonese	he3 hi1
 U+20EAA	kDefinition	(Cant.) in a rush; slovenly
-U+20EAB	kCantonese	loe1
+U+20EAB	kCantonese	leu1
 U+20EAB	kDefinition	(Cant.) strange, peculiar
 U+20EAC	kCantonese	he2
 U+20EAC	kDefinition	(Cant.) final particle
@@ -155735,7 +155744,7 @@ U+2123A	kVietnamese	tròn
 U+2123C	kCantonese	ting2 ting5
 U+2123C	kHanyuPinyin	10416.020:tǐng,tíng,zhēng,zhǐ
 U+2123C	kMandarin	tǐng
-U+2123D	kDefinition	Variant of U+571F 土 
+U+2123D	kDefinition	Variant of U+571F 土
 U+2123F	kHanyuPinyin	10417.050:zhēn
 U+2123F	kMandarin	zhēn
 U+21244	kHanyuPinyin	10417.080:zài,kū
@@ -156055,7 +156064,7 @@ U+21417	kVietnamese	hốc
 U+21418	kVietnamese	nứt
 U+21419	kVietnamese	đất
 U+2141A	kVietnamese	ngừa
-U+2141D	kHanyuPinyin	10482.040:fù
+U+2141D	kHanyuPinyin	10482.040:fú
 U+2141D	kMandarin	fù
 U+2141E	kHanyuPinyin	10486.190:biē
 U+2141E	kMandarin	biē
@@ -156287,7 +156296,7 @@ U+21592	kHanyuPinyin	20863.140:yún
 U+21592	kMandarin	yún
 U+21593	kHanyuPinyin	20863.160:dān
 U+21593	kMandarin	dān
-U+21594	kHanyuPinyin	20863.130:nuǒ
+U+21594	kHanyuPinyin	20863.130:nuó
 U+21594	kMandarin	nuǒ
 U+21596	kCantonese	hing1
 U+2159B	kHanyuPinyin	80017.090:bǐng
@@ -157011,7 +157020,7 @@ U+2199B	kHanyuPinyin	21019.050:shú
 U+2199B	kMandarin	shú
 U+2199C	kHanyuPinyin	21019.070:tóng
 U+2199C	kMandarin	tóng
-U+2199D	kHanyuPinyin	21019.060:xiáo
+U+2199D	kHanyuPinyin	21019.060:xiāo
 U+2199D	kMandarin	xiáo
 U+2199F	kHanyuPinyin	21019.130:pí
 U+2199F	kMandarin	pí
@@ -157226,14 +157235,14 @@ U+21B0B	kHanyuPinyin	20959.160:jiào
 U+21B0B	kMandarin	jiào
 U+21B0C	kHanyuPinyin	20959.170:mèng
 U+21B0C	kMandarin	mèng
-U+21B0D	kHanyuPinyin	20959.200:lóng
+U+21B0D	kHanyuPinyin	20959.200:mí,mǐ
 U+21B0D	kMandarin	lóng
 U+21B0E	kHanyuPinyin	20960.040:qiāng
 U+21B0E	kMandarin	qiāng
-U+21B10	kHanyuPinyin	20959.190:mí,mǐ
+U+21B10	kHanyuPinyin	20959.190:yí
 U+21B10	kMandarin	mí
-U+21B13	kHanyuPinyin	20959.180:yí
 U+21B13	kMandarin	yí
+U+21B15	kHanyuPinyin	20959.210:lóng
 U+21B16	kHanyuPinyin	20959.240:hān
 U+21B16	kMandarin	hān
 U+21B17	kHanyuPinyin	20959.230:nì
@@ -159093,7 +159102,7 @@ U+22433	kHanyuPinyin	21004.070:biē
 U+22433	kMandarin	biē
 U+2243E	kHanyuPinyin	21005.050:bó
 U+2243E	kMandarin	bó
-U+2243F	kHanyuPinyin	21005.140:rǒng
+U+2243F	kHanyuPinyin	21005.140:rǎng
 U+2243F	kMandarin	rǒng
 U+22445	kHanyuPinyin	21005.080:dǐng
 U+22445	kMandarin	dǐng
@@ -159159,6 +159168,8 @@ U+224B2	kHanyuPinyin	10293.120:xǐ
 U+224B2	kMandarin	xǐ
 U+224B7	kHanyuPinyin	20858.050:póu
 U+224B7	kMandarin	póu
+U+224B9	kDefinition	surname
+U+224B9	kMandarin	shǎn
 U+224BC	kCantonese	ji1
 U+224BE	kHanyuPinyin	20811.040:jiào
 U+224BE	kMandarin	jiào
@@ -159599,7 +159610,6 @@ U+226D6	kHanyuPinyin	42309.020:xiàng
 U+226D6	kMandarin	xiàng
 U+226D8	kHanyuPinyin	42317.040:xiáo
 U+226D8	kMandarin	xiáo
-U+226D9	kHanyuPinyin	42319.040:wǎn
 U+226D9	kMandarin	wǎn
 U+226DA	kHanyuPinyin	42310.010:rù
 U+226DA	kMandarin	rù
@@ -159681,12 +159691,13 @@ U+2273B	kHanyuPinyin	42329.150:chěng
 U+2273B	kMandarin	chěng
 U+2273C	kHanyuPinyin	42329.030:chěng
 U+2273C	kMandarin	chěng
-U+2273D	kHanyuPinyin	42332.110:kuǐ
+U+2273D	kHanyuPinyin	42332.110:kuí
 U+2273D	kMandarin	kuǐ
 U+2273F	kHanyuPinyin	42339.050:jià
 U+2273F	kMandarin	jià
 U+22740	kHanyuPinyin	42331.070:tú
 U+22740	kMandarin	tú
+U+22741	kHanyuPinyin	42330.120:hōng
 U+22742	kHanyuPinyin	42325.120:dú
 U+22742	kMandarin	dú
 U+22745	kHanyuPinyin	42325.060:xiá
@@ -159726,7 +159737,6 @@ U+22778	kMandarin	guò
 U+22778	kVietnamese	ủa
 U+22779	kHanyuPinyin	42329.070:tì
 U+22779	kMandarin	tì
-U+2277B	kHanyuPinyin	42330.100:hōng
 U+2277B	kMandarin	hōng
 U+22781	kCantonese	fung1
 U+22782	kVietnamese	buồn
@@ -159938,7 +159948,7 @@ U+2288C	kHanyuPinyin	42350.050:chàng
 U+2288C	kMandarin	chàng
 U+2288D	kHanyuPinyin	42351.010:zhé
 U+2288D	kMandarin	zhé
-U+22892	kHanyuPinyin	42363.010:sù
+U+22892	kHanyuPinyin	42363.010:sū
 U+22892	kMandarin	sù
 U+22893	kHanyuPinyin	42362.140:yōng
 U+22893	kMandarin	yōng
@@ -160196,7 +160206,7 @@ U+22A02	kMandarin	wǔ
 U+22A03	kVietnamese	mác
 U+22A0F	kHanyuPinyin	21412.090:jué
 U+22A0F	kMandarin	jué
-U+22A10	kHanyuPinyin	21413.010:jī
+U+22A10	kHanyuPinyin	21413.010:jí
 U+22A10	kMandarin	jī
 U+22A12	kHanyuPinyin	21413.070:chì
 U+22A12	kMandarin	chì
@@ -162899,7 +162909,7 @@ U+237E4	kHanyuPinyin	21317.080:yǐng
 U+237E4	kMandarin	yǐng
 U+237E6	kHanyuPinyin	80021.230:zhá
 U+237E6	kMandarin	zhá
-U+237E9	kVietnamese	dùi
+U+237E9	kVietnamese	duì
 U+237EA	kVietnamese	nóc
 U+237EB	kVietnamese	nhãn
 U+237EC	kDefinition	same as 欄 U+6B04, a railing, balustrade; an animal pan
@@ -165401,7 +165411,7 @@ U+245EB	kHanyuPinyin	32019.110:lí
 U+245EB	kMandarin	lí
 U+245EC	kHanyuPinyin	32020.050:lǘ
 U+245EC	kMandarin	lǘ
-U+245ED	kHanyuPinyin	32020.030:xiā
+U+245ED	kHanyuPinyin	32020.030:xià
 U+245ED	kMandarin	xiā
 U+245EF	kHanyuPinyin	32020.060:cuī
 U+245EF	kMandarin	cuī
@@ -165683,7 +165693,7 @@ U+24701	kHanyuPinyin	31821.110:ǎn
 U+24701	kMandarin	ǎn
 U+24702	kHanyuPinyin	31822.010:wèi,guì
 U+24702	kMandarin	wèi
-U+24704	kHanyuPinyin	31822.030:huài
+U+24704	kHanyuPinyin	31822.030:huái
 U+24704	kMandarin	huài
 U+24706	kCantonese	lung4
 U+24707	kHanyuPinyin	31822.100:zhàn
@@ -165876,7 +165886,7 @@ U+247A8	kVietnamese	bò
 U+247A9	kVietnamese	rợ
 U+247AA	kVietnamese	rợ
 U+247AB	kVietnamese	rái
-U+247AE	kHanyuPinyin	21347.090:zhāi
+U+247AE	kHanyuPinyin	21347.090:zhài
 U+247AE	kMandarin	zhāi
 U+247B0	kHanyuPinyin	21347.160:qiú
 U+247B0	kMandarin	qiú
@@ -166045,7 +166055,7 @@ U+24854	kHanyuPinyin	21365.140:xiāo
 U+24854	kMandarin	xiāo
 U+24855	kHanyuPinyin	21365.150:liè,wěn
 U+24855	kMandarin	liè
-U+24856	kHanyuPinyin	21366.010:yān
+U+24856	kHanyuPinyin	21366.010:yán
 U+24856	kMandarin	yān
 U+2485A	kVietnamese	khái
 U+2485B	kVietnamese	nanh
@@ -166152,7 +166162,7 @@ U+248AE	kHanyuPinyin	21374.090:yáng
 U+248AE	kMandarin	yáng
 U+248B4	kHanyuPinyin	21376.010:shuò,lì
 U+248B4	kMandarin	shuò
-U+248B5	kHanyuPinyin	21375.080:ài
+U+248B5	kHanyuPinyin	21375.080:lài
 U+248B5	kMandarin	ài
 U+248B6	kHanyuPinyin	21376.040:qióng
 U+248B6	kMandarin	qióng
@@ -166361,7 +166371,7 @@ U+249E3	kMandarin	jiàn
 U+249E5	kCantonese	paak3
 U+249E9	kHanyuPinyin	21130.040:wàn
 U+249E9	kMandarin	wàn
-U+249EB	kHanyuPinyin	21131.040:jìn,duī
+U+249EB	kHanyuPinyin	21131.040:jīn,duī
 U+249EB	kMandarin	jìn
 U+249EC	kCantonese	wun3
 U+249ED	kCantonese	pong4
@@ -168777,7 +168787,7 @@ U+2546A	kCantonese	naau4
 U+2546A	kDefinition	impure ammonium chloride
 U+2546A	kMandarin	náo
 U+2546A	kXHC1983	0819.061:náo
-U+2546B	kHanyuPinyin	42425.070:kǎn
+U+2546B	kHanyuPinyin	42425.070:kān
 U+2546B	kMandarin	kǎn
 U+2546C	kCantonese	caak3
 U+2546D	kVietnamese	xách
@@ -169578,10 +169588,11 @@ U+2588A	kHanyuPinyin	42631.040:bèn
 U+2588A	kMandarin	bèn
 U+2588C	kHanyuPinyin	42632.190:fán
 U+2588C	kMandarin	fán
-U+2588D	kHanyuPinyin	42631.110:suì
+U+2588D	kHanyuPinyin	42631.110:hù
 U+2588D	kMandarin	suì
 U+2588E	kHanyuPinyin	42632.170:zùn
 U+2588E	kMandarin	zùn
+U+2588F	kHanyuPinyin	42631.130:diàn
 U+25890	kHanyuPinyin	42632.140:gāo
 U+25890	kMandarin	gāo
 U+25890	kVietnamese	cau
@@ -169591,7 +169602,6 @@ U+25892	kHanyuPinyin	42633.070:láo,lào
 U+25892	kMandarin	láo
 U+25894	kHanyuPinyin	42632.010:zhuó,zhào
 U+25894	kMandarin	zhuó
-U+2589F	kHanyuPinyin	42631.100:hù
 U+2589F	kMandarin	hù
 U+258A2	kMandarin	tuí
 U+258A6	kHanyuPinyin	42632.200:bì
@@ -169600,7 +169610,6 @@ U+258A7	kHanyuPinyin	42633.040:jú,yì
 U+258A7	kMandarin	jú
 U+258AB	kVietnamese	gặt
 U+258AC	kVietnamese	vè
-U+258AE	kHanyuPinyin	42631.050:huá
 U+258AE	kMandarin	huá
 U+258B2	kHanyuPinyin	42628.180:chéng
 U+258B2	kMandarin	chéng
@@ -169661,8 +169670,8 @@ U+258F0	kHanyuPinyin	42638.190:biǎn
 U+258F0	kMandarin	biǎn
 U+258F8	kHanyuPinyin	42638.170:mù
 U+258F8	kMandarin	mù
-U+258F9	kHanyuPinyin	42639.010:ràn
 U+258F9	kMandarin	ràn
+U+258FA	kHanyuPinyin	42639.020:ràn
 U+258FD	kVietnamese	chuỗi
 U+25902	kHanyuPinyin	42639.060:niǎo
 U+25902	kMandarin	niǎo
@@ -170282,7 +170291,7 @@ U+25C1D	kHanyuPinyin	53001.110:xī
 U+25C1D	kMandarin	xī
 U+25C1E	kHanyuPinyin	53001.070:chōu,sǒu
 U+25C1E	kMandarin	chōu
-U+25C1F	kHanyuPinyin	52998.030:gǎn,lǒng
+U+25C1F	kHanyuPinyin	52998.030:yuán
 U+25C1F	kMandarin	gǎn
 U+25C20	kHanyuPinyin	53004.110:lǘ
 U+25C20	kMandarin	lǘ
@@ -175210,7 +175219,7 @@ U+272D3	kHanyuPinyin	42856.050:kào
 U+272D3	kMandarin	kào
 U+272D4	kHanyuPinyin	42852.150:hòng
 U+272D4	kMandarin	hòng
-U+272D5	kHanyuPinyin	42855.100:kǔn
+U+272D5	kHanyuPinyin	42855.100:kùn
 U+272D5	kMandarin	kǔn
 U+272D6	kHanyuPinyin	42853.070:niè
 U+272D6	kMandarin	niè
@@ -175854,7 +175863,7 @@ U+27575	kHanyuPinyin	42909.190:mì
 U+27575	kMandarin	mì
 U+27578	kHanyuPinyin	42909.100:huáng
 U+27578	kMandarin	huáng
-U+2757A	kHanyuPinyin	42909.200:shuàng
+U+2757A	kHanyuPinyin	42909.200:shuāng
 U+2757A	kMandarin	shuàng
 U+2757C	kHanyuPinyin	42909.170:xǔ
 U+2757C	kMandarin	xǔ
@@ -175915,7 +175924,7 @@ U+275C1	kMandarin	jīn
 U+275C5	kVietnamese	mủ
 U+275C6	kHanyuPinyin	53053.100,53273.050:zhēng
 U+275C6	kMandarin	zhēng
-U+275C8	kHanyuPinyin	53053.110:n
+U+275C8	kHanyuPinyin	53053.110:nú
 U+275C8	kMandarin	n
 U+275CB	kHanyuPinyin	53053.160:sàn
 U+275CB	kMandarin	sàn
@@ -176679,7 +176688,7 @@ U+27953	kMandarin	chán
 U+27954	kVietnamese	va
 U+27955	kHanyuPinyin	63935.060:zī
 U+27955	kMandarin	zī
-U+27956	kHanyuPinyin	63935.050:lì,shǐ
+U+27956	kHanyuPinyin	63935.050:lí,shǐ
 U+27956	kMandarin	lì
 U+2795A	kHanyuPinyin	63935.090:fó
 U+2795A	kMandarin	fó
@@ -176706,7 +176715,6 @@ U+27974	kHanyuPinyin	63950.030:yàng
 U+27974	kMandarin	yàng
 U+27975	kHanyuPinyin	63946.010:guò
 U+27975	kMandarin	guò
-U+27977	kHanyuPinyin	63947.030:rén
 U+27977	kMandarin	rén
 U+27978	kHanyuPinyin	63946.080:yìn
 U+27978	kMandarin	yìn
@@ -178406,7 +178414,7 @@ U+280A0	kHanyuPinyin	63722.020:xū,lǚ
 U+280A0	kMandarin	xū
 U+280A1	kHanyuPinyin	63720.120:zòu
 U+280A1	kMandarin	zòu
-U+280A2	kHanyuPinyin	63724.030:jì
+U+280A2	kHanyuPinyin	63724.030:jí
 U+280A2	kMandarin	jì
 U+280A3	kHanyuPinyin	63727.090:wù
 U+280A3	kMandarin	wù
@@ -178826,7 +178834,7 @@ U+28245	kHanyuPinyin	63810.180:yè
 U+28245	kMandarin	yè
 U+28249	kCantonese	pei4
 U+28249	kDefinition	weak
-U+2824B	kHanyuPinyin	63811.060:tuó
+U+2824B	kHanyuPinyin	63811.060:tuō
 U+2824B	kMandarin	tuó
 U+28251	kVietnamese	rình
 U+28253	kVietnamese	mình
@@ -178987,6 +178995,7 @@ U+282EB	kHanyuPinyin	53530.060:tiāo
 U+282EB	kMandarin	tiāo
 U+282EC	kHanyuPinyin	53532.080:zhěng,chèng
 U+282EC	kMandarin	zhěng
+U+282EE	kHanyuPinyin	53530.080:hōng,chūn
 U+282EF	kDefinition	potholes
 U+282EF	kHanyuPinyin	53529.080:yì
 U+282EF	kMandarin	yì
@@ -179003,7 +179012,6 @@ U+282FD	kMandarin	yáng
 U+282FE	kHanyuPinyin	53532.090:xǔ
 U+282FE	kMandarin	xǔ
 U+28300	kVietnamese	nhẹ
-U+28301	kHanyuPinyin	53530.090:hōng,chūn
 U+28301	kMandarin	hōng
 U+28304	kHanyuPinyin	53536.090:zàng
 U+28304	kMandarin	zàng
@@ -179381,7 +179389,7 @@ U+284A6	kHanyuPinyin	63829.040:yǐn
 U+284A6	kMandarin	yǐn
 U+284A7	kHanyuPinyin	63828.090:shì
 U+284A7	kMandarin	shì
-U+284A8	kHanyuPinyin	63832.030:nài
+U+284A8	kHanyuPinyin	63832.030:hài
 U+284A8	kMandarin	nài
 U+284A9	kHanyuPinyin	63828.020:ruǎn
 U+284A9	kMandarin	ruǎn
@@ -179822,7 +179830,6 @@ U+28716	kHanyuPinyin	63783.070:yú
 U+28716	kMandarin	yú
 U+28717	kHanyuPinyin	63789.090:zōu
 U+28717	kMandarin	zōu
-U+28718	kHanyuPinyin	63785.050:méi
 U+28718	kMandarin	méi
 U+2871C	kHanyuPinyin	63783.030:shěng
 U+2871C	kMandarin	shěng
@@ -179954,7 +179961,6 @@ U+287AB	kHanyuPinyin	63802.010:méng
 U+287AB	kMandarin	méng
 U+287B2	kHanyuPinyin	63802.050:shēn
 U+287B2	kMandarin	shēn
-U+287B3	kHanyuPinyin	63802.080:qú
 U+287B3	kMandarin	qú
 U+287B6	kHanyuPinyin	63802.070:qiāo
 U+287B6	kMandarin	qiāo
@@ -180571,7 +180577,6 @@ U+28A91	kHanyuPinyin	64240.050:chǎn
 U+28A91	kMandarin	chǎn
 U+28A92	kHanyuPinyin	64241.010:tuán
 U+28A92	kMandarin	tuán
-U+28A95	kHanyuPinyin	64243.090:liú
 U+28A95	kMandarin	liú
 U+28A97	kHanyuPinyin	64241.120:zhuì
 U+28A97	kMandarin	zhuì
@@ -180592,6 +180597,7 @@ U+28ABA	kHanyuPinyin	64241.100:chā
 U+28ABA	kMandarin	chā
 U+28ABE	kHanyuPinyin	64242.020:dì
 U+28ABE	kMandarin	dì
+U+28ABF	kHanyuPinyin	64243.080:liú
 U+28AC0	kCantonese	zin2
 U+28AC0	kHanyuPinyin	64245.120:zhǎn
 U+28AC0	kMandarin	zhǎn
@@ -180628,7 +180634,7 @@ U+28B01	kMandarin	lián
 U+28B05	kHanyuPinyin	64252.120:luǒ
 U+28B05	kMandarin	luǒ
 U+28B08	kVietnamese	mạ
-U+28B09	kVietnamese	dùi
+U+28B09	kVietnamese	duì
 U+28B0A	kVietnamese	giáo
 U+28B0B	kVietnamese	miểng
 U+28B0C	kCantonese	kwan1
@@ -180767,7 +180773,7 @@ U+28BF2	kHanyuPinyin	64272.050:tóu
 U+28BF2	kMandarin	tóu
 U+28BF5	kCantonese	hing1
 U+28BF7	kVietnamese	đấng
-U+28BF8	kVietnamese	dùi
+U+28BF8	kVietnamese	duì
 U+28BF9	kVietnamese	đúc
 U+28BFD	kHanyuPinyin	64272.140:lí
 U+28BFD	kMandarin	lí
@@ -181248,7 +181254,7 @@ U+28DE9	kHanyuPinyin	74321.080:tóu
 U+28DE9	kMandarin	tóu
 U+28DEC	kHanyuPinyin	74321.120:mǐ
 U+28DEC	kMandarin	mǐ
-U+28DED	kHanyuPinyin	74321.130:chǎn
+U+28DED	kHanyuPinyin	74321.130:chán
 U+28DED	kMandarin	chǎn
 U+28DEE	kHanyuPinyin	74321.140:huō
 U+28DEE	kMandarin	huō
@@ -181317,7 +181323,7 @@ U+28E2E	kHanyuPinyin	64123.020:yán,yǔn
 U+28E2E	kMandarin	yán
 U+28E2F	kHanyuPinyin	64123.010:gū
 U+28E2F	kMandarin	gū
-U+28E30	kHanyuPinyin	64124.030:jù
+U+28E30	kHanyuPinyin	64124.030:jú
 U+28E30	kMandarin	jù
 U+28E31	kHanyuPinyin	64121.040:tiàn,niǎn
 U+28E31	kMandarin	tiàn
@@ -182093,7 +182099,7 @@ U+291D5	kHanyuPinyin	64046.020:jìng
 U+291D5	kMandarin	jìng
 U+291D6	kHanyuPinyin	64046.030:chēn
 U+291D6	kMandarin	chēn
-U+291DC	kHanyuPinyin	64047.020:zhēn,chēng
+U+291DC	kHanyuPinyin	64047.020:zhēn,chèng,chēng
 U+291DC	kMandarin	zhēn
 U+291DD	kHanyuPinyin	10301.150:qìng
 U+291DD	kMandarin	qìng
@@ -182640,7 +182646,7 @@ U+293C8	kHanyuPinyin	74508.100:ruǎn
 U+293C8	kMandarin	ruǎn
 U+293C9	kHanyuPinyin	74507.120:wéi
 U+293C9	kMandarin	wéi
-U+293CF	kHanyuPinyin	74509.070:wěi
+U+293CF	kHanyuPinyin	74509.070:wéi
 U+293CF	kMandarin	wěi
 U+293D0	kHanyuPinyin	74509.100:guì,wěi
 U+293D0	kMandarin	guì
@@ -183262,7 +183268,7 @@ U+295F4	kCantonese	bung6
 U+295F4	kDefinition	(Cant.) classifier for odors
 U+295F4	kHanyuPinyin	74486.050:bèng
 U+295F4	kMandarin	bèng
-U+295F5	kHanyuPinyin	74486.190:zhěng
+U+295F5	kHanyuPinyin	74486.190:zhēng
 U+295F5	kMandarin	zhěng
 U+295F6	kHanyuPinyin	74487.080:suì
 U+295F6	kMandarin	suì
@@ -183879,7 +183885,6 @@ U+29884	kHanyuPinyin	74543.030:wàn
 U+29884	kMandarin	wàn
 U+29885	kHanyuPinyin	74543.140:gē
 U+29885	kMandarin	gē
-U+29888	kHanyuPinyin	74544.120:fēn
 U+29888	kMandarin	fēn
 U+2988A	kHanyuPinyin	74545.110:tuó
 U+2988A	kMandarin	tuó
@@ -184481,8 +184486,8 @@ U+29B05	kCantonese	jim4
 U+29B06	kVietnamese	gáy
 U+29B0D	kHanyuPinyin	74521.040:mǔ
 U+29B0D	kMandarin	mǔ
-U+29B0E	kCantonese	zam4
-U+29B0E	kDefinition	(Cant.) bangs
+U+29B0E	kCantonese	jam1 jam4
+U+29B0E	kDefinition	(Cant.) bangs (hair)
 U+29B0F	kHanyuPinyin	74519.120:shāo
 U+29B0F	kMandarin	shāo
 U+29B11	kHanyuPinyin	74521.130:diān,chān
@@ -184564,7 +184569,7 @@ U+29B53	kMandarin	jiū
 U+29B58	kHanyuPinyin	74525.100:xiū
 U+29B58	kMandarin	xiū
 U+29B5C	kVietnamese	xùi
-U+29B5D	kHanyuPinyin	74526.030:wō
+U+29B5D	kHanyuPinyin	74526.030:wǒ
 U+29B5D	kMandarin	wō
 U+29B5F	kHanyuPinyin	74527.130:dào
 U+29B5F	kMandarin	dào
@@ -185647,7 +185652,6 @@ U+29FE3	kHanyuPinyin	74621.140:mò
 U+29FE3	kMandarin	mò
 U+29FE4	kHanyuPinyin	74622.090:zhá
 U+29FE4	kMandarin	zhá
-U+29FE5	kHanyuPinyin	74625.030:qú
 U+29FE5	kMandarin	qú
 U+29FE7	kHanyuPinyin	74624.120:fū
 U+29FE7	kMandarin	fū
@@ -185671,11 +185675,10 @@ U+2A001	kMandarin	gē
 U+2A004	kVietnamese	chim
 U+2A005	kVietnamese	quạ
 U+2A006	kVietnamese	sẻ
-U+2A008	kHanyuPinyin	74625.090:yuān
 U+2A008	kMandarin	yuān
 U+2A009	kHanyuPinyin	74622.110:gē,kě
 U+2A009	kMandarin	gē
-U+2A00A	kHanyuPinyin	74625.040:qú,gōu,gòu
+U+2A00A	kHanyuPinyin	74625.040:qú
 U+2A00A	kMandarin	qú
 U+2A00E	kVietnamese	sả
 U+2A00F	kHanyuPinyin	74618.120:jù,jiū
@@ -185742,7 +185745,7 @@ U+2A044	kVietnamese	két
 U+2A045	kVietnamese	sắc
 U+2A046	kVietnamese	hâu
 U+2A047	kVietnamese	sống
-U+2A048	kHanyuPinyin	74631.130:zhuàng
+U+2A048	kHanyuPinyin	74631.130:zhuāng
 U+2A048	kMandarin	zhuàng
 U+2A049	kHanyuPinyin	74631.140:jiāo
 U+2A049	kMandarin	jiāo
@@ -186321,7 +186324,7 @@ U+2A297	kMandarin	cā
 U+2A29C	kHanyuPinyin	74729.020:bèn
 U+2A29C	kMandarin	bèn
 U+2A29F	kCantonese	sang1
-U+2A2A2	kHanyuPinyin	74729.050:shǐ
+U+2A2A2	kHanyuPinyin	74729.050:shí
 U+2A2A2	kMandarin	shǐ
 U+2A2A5	kHanyuPinyin	74730.060:huán
 U+2A2A5	kMandarin	huán
@@ -186960,7 +186963,6 @@ U+2A505	kHanyuPinyin	74741.070:yuán
 U+2A505	kMandarin	yuán
 U+2A506	kHanyuPinyin	74741.030:gān
 U+2A506	kMandarin	gān
-U+2A50A	kHanyuPinyin	74741.090:huì
 U+2A50A	kMandarin	huì
 U+2A50B	kHanyuPinyin	74764.020:jī
 U+2A50B	kMandarin	jī
@@ -187542,7 +187544,7 @@ U+2B6F8	kXHC1983	1128.010:tí
 U+2B851	kMandarin	yīn
 U+2C494	kCantonese	ngang2
 U+2C494	kDefinition	for something hard or bulging to press against the body and cause it discomfort
-U+2CABF	kDefinition	a square meter; one hundredth of a 公畝 
+U+2CABF	kDefinition	a square meter; one hundredth of a 公畝
 U+2F825	kCantonese	jung5
 U+2F835	kDefinition	ashes, lime
 U+2F83B	kCantonese	jiu1
