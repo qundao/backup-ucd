@@ -1,13 +1,13 @@
 #
 # Unihan_DictionaryIndices.txt
-# Date: 2018-11-09 21:36:19 GMT [JHJ]
-# Unicode version: 12.0.0
+# Date: 2020-02-18 18:27:33 GMT [JHJ]
+# Unicode version: 13.0.0
 #
 # Unicode Character Database
-# © 2018 Unicode®, Inc.
+# © 2020 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
-# For documentation, see http://www.unicode.org/reports/tr44/
+# For documentation, see http://www.unicode.org/reports/tr38/
 #
 # This file contains data on the following fields from the Unihan database:
 #	kCheungBauerIndex
@@ -5678,7 +5678,7 @@ U+3ABA	kSBGY	080.23
 U+3ABB	kHanYu	32256.130
 U+3ABB	kIRGHanyuDaZidian	32256.130
 U+3ABB	kIRGKangXi	0479.030
-U+3ABB	kSBGY	399.03
+U+3ABB	kSBGY	398.31 399.03
 U+3ABC	kHanYu	32024.020
 U+3ABC	kIRGHanyuDaZidian	32024.020
 U+3ABC	kIRGKangXi	0479.130
@@ -17491,6 +17491,7 @@ U+487D	kSBGY	126.24
 U+487E	kHanYu	53563.060
 U+487E	kIRGHanyuDaZidian	53563.060
 U+487E	kIRGKangXi	1250.180
+U+487E	kSBGY	484.12 498.11
 U+487F	kHanYu	53563.140
 U+487F	kIRGHanyuDaZidian	53563.140
 U+487F	kIRGKangXi	1250.240
@@ -20931,7 +20932,6 @@ U+4C67	kIRGKangXi	1473.270
 U+4C68	kHanYu	74695.071
 U+4C68	kIRGHanyuDaZidian	74695.071
 U+4C68	kIRGKangXi	1473.271
-U+4C69	kHanYu	74696.090
 U+4C69	kIRGHanyuDaZidian	74696.090
 U+4C69	kIRGKangXi	1473.271
 U+4C6A	kIRGKangXi	1473.271
@@ -36952,7 +36952,6 @@ U+535B	kIRGHanyuDaZidian	10067.130
 U+535B	kIRGKangXi	0157.230
 U+535B	kKangXi	0157.230
 U+535B	kMorohashi	02772
-U+535B	kSBGY	398.31
 U+535C	kCowles	3400
 U+535C	kDaeJaweon	0361.150
 U+535C	kFennIndex	423.04
@@ -39692,7 +39691,7 @@ U+5448	kIRGDaeJaweon	0396.130
 U+5448	kIRGDaiKanwaZiten	03401
 U+5448	kIRGHanyuDaZidian	10585.010
 U+5448	kIRGKangXi	0181.170
-U+5448	kKangXi	0181.170
+U+5448	kKangXi	0179.020 0181.170
 U+5448	kLau	320
 U+5448	kMatthews	372
 U+5448	kMeyerWempe	306b
@@ -146907,7 +146906,7 @@ U+7D55	kCowles	4624
 U+7D55	kDaeJaweon	1355.090
 U+7D55	kFennIndex	120.07
 U+7D55	kGSR	0296a
-U+7D55	kHanYu	53396.040
+U+7D55	kHanYu	53396.041
 U+7D55	kIRGDaeJaweon	1355.090
 U+7D55	kIRGDaiKanwaZiten	27407
 U+7D55	kIRGHanyuDaZidian	53396.040
@@ -147284,7 +147283,7 @@ U+7D75	kIRGKangXi	0924.161
 U+7D75	kKangXi	0924.161
 U+7D75	kMorohashi	27464'
 U+7D75	kNelson	3537
-U+7D76	kHanYu	53396.041
+U+7D76	kHanYu	53396.040
 U+7D76	kIRGDaiKanwaZiten	49469
 U+7D76	kIRGHanyuDaZidian	53396.040
 U+7D76	kIRGKangXi	0924.161
@@ -185224,7 +185223,7 @@ U+8C70	kIRGHanyuDaZidian	32167.020
 U+8C70	kIRGKangXi	1198.110
 U+8C70	kKangXi	1198.110
 U+8C70	kMorohashi	36442
-U+8C70	kSBGY	450.13 451.38 465.68
+U+8C70	kSBGY	451.38 465.68
 U+8C71	kDaeJaweon	1661.020
 U+8C71	kHanYu	63619.010
 U+8C71	kIRGDaeJaweon	1661.020
@@ -192718,7 +192717,7 @@ U+8F4D	kMatthews	288
 U+8F4D	kMeyerWempe	313
 U+8F4D	kMorohashi	38524
 U+8F4D	kNelson	4640
-U+8F4D	kSBGY	484.12 498.11 499.49
+U+8F4D	kSBGY	499.49
 U+8F4E	kCowles	1703 1712
 U+8F4E	kDaeJaweon	1727.180
 U+8F4E	kFennIndex	51.03
@@ -237442,8 +237441,9 @@ U+209C6	kIRGKangXi	0157.191
 U+209C7	kHanYu	10067.080
 U+209C7	kIRGHanyuDaZidian	10067.080
 U+209C7	kIRGKangXi	0157.191
+U+209C8	kHanYu	10067.090
 U+209C8	kIRGKangXi	0157.191
-U+209C9	kHanYu	10067.090
+U+209C9	kHanYu	10067.091
 U+209C9	kIRGHanyuDaZidian	10067.090
 U+209C9	kIRGKangXi	0157.200
 U+209CA	kIRGKangXi	0157.201
@@ -267464,6 +267464,7 @@ U+23AD3	kSBGY	450.07
 U+23AD4	kHanYu	32167.060
 U+23AD4	kIRGHanyuDaZidian	32167.060
 U+23AD4	kIRGKangXi	0588.081
+U+23AD4	kSBGY	450.13
 U+23AD5	kIRGKangXi	0588.081
 U+23AD6	kHanYu	32167.150
 U+23AD6	kIRGHanyuDaZidian	32167.150
@@ -303883,6 +303884,7 @@ U+275A6	kIRGKangXi	1105.301
 U+275A7	kHanYu	53050.020
 U+275A7	kIRGHanyuDaZidian	53050.020
 U+275A7	kIRGKangXi	1107.020
+U+275A7	kKangXi	1107.020
 U+275A7	kSBGY	194.28
 U+275A8	kHanYu	53050.030
 U+275A8	kIRGHanyuDaZidian	53050.030
@@ -331062,6 +331064,7 @@ U+29E10	kHanYu	74697.060
 U+29E10	kIRGHanyuDaZidian	74697.060
 U+29E10	kIRGKangXi	1473.260
 U+29E11	kIRGKangXi	1473.271
+U+29E12	kHanYu	74696.090
 U+29E12	kIRGKangXi	1473.271
 U+29E13	kIRGKangXi	1473.271
 U+29E14	kIRGKangXi	1473.271
@@ -337574,7 +337577,7 @@ U+2C580	kCheungBauerIndex	449.10
 U+2C5B2	kCheungBauerIndex	450.01
 U+2C5F8	kCheungBauerIndex	450.05
 U+2C603	kCowles	3566
-U+2C603	kMeyerWempe	2324
+U+2C603	kMeyerWempe	2524
 U+2C685	kCheungBauerIndex	450.11
 U+2C6BB	kCheungBauerIndex	452.03
 U+2C6C1	kCheungBauerIndex	452.01

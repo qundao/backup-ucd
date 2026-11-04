@@ -1,5 +1,5 @@
-# BidiCharacterTest-12.1.0.txt
-# Date: 2019-04-23, 28:08:00 GMT [LI]
+# BidiCharacterTest-13.0.0.txt
+# Date: 2019-09-09, 19:32:00 GMT [LI]
 # © 2019 Unicode®, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 #
