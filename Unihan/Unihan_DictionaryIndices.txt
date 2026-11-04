@@ -1,10 +1,10 @@
 #
 # Unihan_DictionaryIndices.txt
-# Date: 2015-04-30 18:38:20 GMT [JHJ]
-# Unicode version: 8.0.0
+# Date: 2016-06-01 07:01:48 GMT [JHJ]
+# Unicode version: 9.0.0
 #
 # Unicode Character Database
-# Copyright (c) 1991-2015 Unicode, Inc.
+# © 1991-2016 Unicode®, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 # For documentation, see http://www.unicode.org/reports/tr44/
 #
@@ -337369,6 +337369,254 @@ U+2B817	kIRGKangXi	1507.181
 U+2B817	kKangXi	1507.181
 U+2B81A	kIRGKangXi	1533.281
 U+2B81A	kKangXi	1533.281
+U+2B825	kMatthews	4150
+U+2B88A	kCowles	4762
+U+2B8F9	kCheungBauerIndex	341.01 341.02
+U+2B90A	kCheungBauerIndex	341.03
+U+2B91A	kCheungBauerIndex	340.06
+U+2B923	kCheungBauerIndex	341.04
+U+2B93A	kCheungBauerIndex	342.07
+U+2B94B	kCheungBauerIndex	343.05
+U+2B977	kCheungBauerIndex	343.06
+U+2B977	kCowles	4246
+U+2B977	kMeyerWempe	3567e
+U+2B97E	kCheungBauerIndex	344.02
+U+2B98F	kCheungBauerIndex	344.08
+U+2B99F	kCheungBauerIndex	345.02
+U+2B99F	kCowles	4748
+U+2B99F	kMeyerWempe	3354
+U+2B9BC	kCheungBauerIndex	450.10
+U+2B9D4	kSBGY	183.09
+U+2B9F1	kCheungBauerIndex	345.09
+U+2B9F2	kCheungBauerIndex	345.10
+U+2B9F3	kCheungBauerIndex	345.11
+U+2B9F5	kCheungBauerIndex	346.01
+U+2B9F6	kCheungBauerIndex	346.02
+U+2BA25	kCheungBauerIndex	346.04
+U+2BA39	kCheungBauerIndex	346.05
+U+2BA4E	kCheungBauerIndex	346.06
+U+2BA5D	kCheungBauerIndex	348.08
+U+2BA66	kCheungBauerIndex	351.08
+U+2BA66	kCowles	2908
+U+2BA66	kMeyerWempe	2092
+U+2BA7D	kCowles	1185
+U+2BA7D	kMeyerWempe	795
+U+2BA7E	kCowles	3186
+U+2BA7E	kMeyerWempe	2232
+U+2BA7F	kCheungBauerIndex	356.02
+U+2BA88	kCheungBauerIndex	356.08
+U+2BA8C	kCowles	134
+U+2BA8C	kMeyerWempe	142
+U+2BA8D	kCowles	3595
+U+2BA8D	kMeyerWempe	2548
+U+2BA92	kCowles	3189
+U+2BA93	kCheungBauerIndex	363.08
+U+2BA9E	kCheungBauerIndex	359.04
+U+2BAA2	kCowles	2902
+U+2BAA2	kMeyerWempe	2090
+U+2BAAC	kCheungBauerIndex	363.03 363.04
+U+2BAB1	kCowles	3785
+U+2BAB1	kMeyerWempe	2587
+U+2BAB2	kCheungBauerIndex	365.09
+U+2BAB3	kCheungBauerIndex	366.01
+U+2BAB4	kCheungBauerIndex	366.02
+U+2BAB5	kCheungBauerIndex	367.10
+U+2BAB6	kCheungBauerIndex	369.04
+U+2BAB7	kCheungBauerIndex	368.06
+U+2BABB	kCheungBauerIndex	359.07
+U+2BAC1	kCheungBauerIndex	366.04
+U+2BAC3	kMeyerWempe	439
+U+2BAC4	kCheungBauerIndex	370.03
+U+2BAC4	kCowles	3002
+U+2BAC4	kMeyerWempe	2019
+U+2BAC5	kCheungBauerIndex	370.09
+U+2BAC8	kCheungBauerIndex	375.02
+U+2BAC8	kCowles	3399
+U+2BAC8	kMeyerWempe	2510
+U+2BACB	kCheungBauerIndex	372.09
+U+2BAD0	kCheungBauerIndex	434.07
+U+2BAD3	kCheungBauerIndex	375.09
+U+2BAD4	kCheungBauerIndex	376.05
+U+2BAD5	kCheungBauerIndex	379.04
+U+2BADC	kCheungBauerIndex	375.04
+U+2BADD	kCheungBauerIndex	378.10 378.11
+U+2BADF	kCheungBauerIndex	379.03
+U+2BAE0	kCheungBauerIndex	379.01
+U+2BAE1	kCheungBauerIndex	374.08
+U+2BAE2	kCheungBauerIndex	378.03 378.04 378.05
+U+2BAE8	kCowles	3222
+U+2BAE9	kCheungBauerIndex	382.04
+U+2BAF2	kCowles	382
+U+2BAF2	kLau	411
+U+2BAF6	kCheungBauerIndex	384.09
+U+2BAF7	kCheungBauerIndex	386.02
+U+2BAF8	kCheungBauerIndex	471.01
+U+2BAFC	kCheungBauerIndex	383.07
+U+2BAFF	kCowles	2360 2370
+U+2BAFF	kLau	1893
+U+2BAFF	kMeyerWempe	1575
+U+2BB00	kMeyerWempe	3172
+U+2BB02	kCheungBauerIndex	384.08
+U+2BB03	kCowles	4955
+U+2BB07	kCowles	3359
+U+2BB07	kMeyerWempe	2447
+U+2BB08	kCheungBauerIndex	386.07
+U+2BB09	kCheungBauerIndex	387.05
+U+2BB0F	kCheungBauerIndex	387.07
+U+2BB12	kCowles	3583
+U+2BB12	kMeyerWempe	2538
+U+2BB13	kCheungBauerIndex	389.03
+U+2BB16	kCowles	195
+U+2BB16	kLau	210
+U+2BB17	kCheungBauerIndex	388.08
+U+2BB18	kCowles	3162
+U+2BB18	kMeyerWempe	2197
+U+2BB1B	kCowles	381
+U+2BB1B	kLau	411
+U+2BB1C	kCheungBauerIndex	391.02
+U+2BB1D	kCheungBauerIndex	391.08
+U+2BB1E	kCheungBauerIndex	391.11
+U+2BB24	kCheungBauerIndex	391.05 391.06
+U+2BB24	kCowles	2871
+U+2BB24	kMeyerWempe	1976
+U+2BB25	kCowles	3688
+U+2BB25	kMeyerWempe	2841
+U+2BB26	kCheungBauerIndex	386.08
+U+2BB27	kCheungBauerIndex	391.09
+U+2BB28	kCheungBauerIndex	390.04
+U+2BB28	kCowles	0045
+U+2BB28	kMeyerWempe	33
+U+2BB2C	kCheungBauerIndex	392.04
+U+2BB33	kCowles	1246
+U+2BB35	kCheungBauerIndex	392.05
+U+2BB36	kCheungBauerIndex	393.02
+U+2BB37	kCheungBauerIndex	392.07
+U+2BB3A	kCheungBauerIndex	393.06
+U+2BB3C	kCheungBauerIndex	393.05
+U+2BB3E	kCheungBauerIndex	393.10
+U+2BB3F	kCheungBauerIndex	393.07 393.08
+U+2BB40	kCowles	1462
+U+2BB40	kMeyerWempe	964
+U+2BB41	kCheungBauerIndex	394.04
+U+2BB43	kCheungBauerIndex	394.06
+U+2BB49	kCheungBauerIndex	394.08 395.01
+U+2BB4A	kCheungBauerIndex	395.02
+U+2BB9A	kCheungBauerIndex	396.06
+U+2BBAC	kMatthews	669
+U+2BBE3	kCheungBauerIndex	397.03
+U+2BBFD	kCheungBauerIndex	397.05
+U+2BBFE	kCheungBauerIndex	397.06
+U+2BC03	kCheungBauerIndex	397.07
+U+2BC2A	kCheungBauerIndex	398.04
+U+2BCA5	kCheungBauerIndex	399.03
+U+2BCAD	kCheungBauerIndex	400.01
+U+2BCD7	kCheungBauerIndex	400.05 400.06
+U+2BCD7	kCowles	4089
+U+2BCD7	kMeyerWempe	3002 3203e
+U+2BCF4	kCheungBauerIndex	400.07
+U+2BD71	kCheungBauerIndex	401.06
+U+2BD71	kCowles	4723
+U+2BD71	kMeyerWempe	3289
+U+2BD92	kCheungBauerIndex	402.02
+U+2BE34	kCheungBauerIndex	338.03
+U+2BE96	kCheungBauerIndex	403.07
+U+2BE96	kMeyerWempe	3770c
+U+2BF1B	kMatthews	6277
+U+2BF1D	kCheungBauerIndex	407.04
+U+2BF38	kCheungBauerIndex	410.04 410.05
+U+2BF38	kCowles	5086
+U+2BF38	kMeyerWempe	3799
+U+2BF39	kCheungBauerIndex	409.05
+U+2BF3A	kCheungBauerIndex	411.02
+U+2C028	kCheungBauerIndex	429.06
+U+2C037	kFennIndex	437.02
+U+2C037	kMatthews	5665
+U+2C03D	kSBGY	540.47
+U+2C095	kCheungBauerIndex	432.08
+U+2C0FF	kCheungBauerIndex	430.08
+U+2C18C	kCheungBauerIndex	431.11
+U+2C19B	kFennIndex	357.08
+U+2C19B	kMatthews	4636
+U+2C25F	kCheungBauerIndex	435.05
+U+2C261	kCowles	5244
+U+2C261	kMeyerWempe	3927
+U+2C283	kCheungBauerIndex	436.03
+U+2C2A9	kCheungBauerIndex	437.03
+U+2C2D0	kCheungBauerIndex	437.10
+U+2C2D9	kCheungBauerIndex	438.03
+U+2C381	kCheungBauerIndex	439.02 439.03
+U+2C3ED	kCheungBauerIndex	439.10
+U+2C3FE	kCheungBauerIndex	441.05
+U+2C401	kCheungBauerIndex	441.08
+U+2C415	kCheungBauerIndex	442.04
+U+2C416	kCheungBauerIndex	442.07
+U+2C41A	kMatthews	2011
+U+2C45F	kCheungBauerIndex	445.02
+U+2C494	kCheungBauerIndex	447.04
+U+2C498	kFennIndex	183.04
+U+2C4A1	kCheungBauerIndex	447.10
+U+2C4F5	kCowles	5280
+U+2C4F5	kMeyerWempe	3957
+U+2C502	kMeyerWempe	837c
+U+2C580	kCheungBauerIndex	449.10
+U+2C5B2	kCheungBauerIndex	450.01
+U+2C5F8	kCheungBauerIndex	450.05
+U+2C603	kCowles	3566
+U+2C603	kMeyerWempe	2324
+U+2C685	kCheungBauerIndex	450.11
+U+2C6BB	kCheungBauerIndex	452.03
+U+2C6C1	kCheungBauerIndex	452.01
+U+2C6F8	kFennIndex	361.09
+U+2C70D	kCheungBauerIndex	455.02
+U+2C710	kCheungBauerIndex	455.03
+U+2C768	kSBGY	093.48
+U+2C771	kCheungBauerIndex	456.04
+U+2C775	kCheungBauerIndex	457.01
+U+2C785	kCheungBauerIndex	467.05
+U+2C810	kCheungBauerIndex	458.07
+U+2C849	kCheungBauerIndex	459.03
+U+2C850	kCheungBauerIndex	459.05
+U+2C8A9	kCheungBauerIndex	460.07
+U+2C8BF	kCheungBauerIndex	460.10
+U+2C8BF	kCowles	4334
+U+2C8BF	kMeyerWempe	3021
+U+2C9A0	kCheungBauerIndex	461.07
+U+2C9A0	kCowles	2817
+U+2C9A0	kLau	2241
+U+2C9A0	kMeyerWempe	1932
+U+2C9B2	kCheungBauerIndex	462.10
+U+2C9C4	kCheungBauerIndex	463.09
+U+2C9CA	kCheungBauerIndex	464.02
+U+2C9CD	kCheungBauerIndex	463.12
+U+2C9CE	kCheungBauerIndex	464.01
+U+2C9DD	kCheungBauerIndex	465.05
+U+2C9DF	kCowles	2942
+U+2C9DF	kMeyerWempe	2117
+U+2C9E5	kCheungBauerIndex	465.09
+U+2C9E6	kCheungBauerIndex	466.01
+U+2C9EB	kCheungBauerIndex	466.03
+U+2C9EF	kCheungBauerIndex	466.04
+U+2C9EF	kCowles	3325
+U+2C9EF	kMeyerWempe	2385
+U+2C9F4	kCheungBauerIndex	466.10
+U+2CA22	kCheungBauerIndex	467.01
+U+2CA26	kCheungBauerIndex	467.03
+U+2CA51	kCheungBauerIndex	467.06 467.07
+U+2CAF9	kCheungBauerIndex	468.03
+U+2CBC7	kCheungBauerIndex	470.04
+U+2CC03	kMatthews	4595
+U+2CC94	kCheungBauerIndex	472.01
+U+2CC9C	kMatthews	393
+U+2CCDD	kCheungBauerIndex	472.07
+U+2CCF2	kFennIndex	014.07
+U+2CCF2	kMatthews	173
+U+2CD2F	kCheungBauerIndex	473.05
+U+2CD30	kCheungBauerIndex	473.06
+U+2CDD0	kCheungBauerIndex	474.07
+U+2CDEF	kCowles	380
+U+2CE33	kCowles	1469
+U+2CE33	kMeyerWempe	970
+U+2CE76	kCheungBauerIndex	475.01
 U+2F817	kMeyerWempe	3946a
 U+2F835	kFennIndex	207.06
 U+2F8E0	kCowles	1518

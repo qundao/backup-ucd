@@ -1,10 +1,10 @@
 #
 # Unihan_Readings.txt
-# Date: 2015-04-30 18:38:20 GMT [JHJ]
-# Unicode version: 8.0.0
+# Date: 2016-06-01 07:01:48 GMT [JHJ]
+# Unicode version: 9.0.0
 #
 # Unicode Character Database
-# Copyright (c) 1991-2015 Unicode, Inc.
+# © 1991-2016 Unicode®, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 # For documentation, see http://www.unicode.org/reports/tr44/
 #
@@ -8472,7 +8472,7 @@ U+3E3A	kDefinition	a cow; female of certain animals
 U+3E3A	kHanyuPinyin	31812.010:shā
 U+3E3A	kMandarin	shā
 U+3E3B	kCantonese	zi6
-U+3E3B	kDefinition	a kind of cattle, an one year old cattle
+U+3E3B	kDefinition	a kind of cattle; a yearling calf
 U+3E3B	kHanyuPinyin	31812.050:sì
 U+3E3B	kMandarin	sì
 U+3E3C	kCantonese	fung1
@@ -12323,7 +12323,7 @@ U+4279	kCantonese	ling4
 U+4279	kDefinition	(same as 䉁) name of a variety of bamboo, bamboo ware
 U+4279	kMandarin	líng
 U+427A	kCantonese	hong2
-U+427A	kDefinition	to deteriorate and become red; old rice; decaying rice, red rice; (Cant.) the small of long-stored rice
+U+427A	kDefinition	to deteriorate and become red; old rice; decaying rice, red rice; (Cant.) the smell of long-stored rice
 U+427A	kHanyuPinyin	53141.100:hóng
 U+427A	kMandarin	hóng
 U+427B	kCantonese	kei4
@@ -19919,7 +19919,7 @@ U+4B35	kDefinition	syrup; jelly-like sugar made from grains, to hiccough; to hic
 U+4B35	kHanyuPinyin	74452.060:gāi,ài
 U+4B35	kMandarin	gāi
 U+4B36	kCantonese	on3
-U+4B36	kDefinition	to strave; hungry, famished, feeble, decay of decomposition of fish
+U+4B36	kDefinition	to starve; hungry, famished; feeble; decay or decomposition of fish
 U+4B36	kHanyuPinyin	74453.040:èn
 U+4B36	kMandarin	èn
 U+4B37	kCantonese	se2
@@ -20059,7 +20059,7 @@ U+4B5D	kDefinition	to eat, ((non-classical form of 膾) minced meat
 U+4B5D	kHanyuPinyin	74476.120:kuài
 U+4B5D	kMandarin	kuài
 U+4B5E	kCantonese	zik6
-U+4B5E	kDefinition	(same as 繹) a kind of sacrifices offered to gods or the deceased, rotten food, food, cakes and biscuits
+U+4B5E	kDefinition	(same as 繹) a kind of sacrifice offered to gods or the deceased; rotten food; food; cakes and biscuits
 U+4B5E	kHanyuPinyin	74476.040:yì
 U+4B5E	kMandarin	yì
 U+4B5F	kCantonese	zip6
@@ -20355,7 +20355,7 @@ U+4BB0	kDefinition	a kind of beast, a kind of mule
 U+4BB0	kHanyuPinyin	74575.160:zhé
 U+4BB0	kMandarin	zhé
 U+4BB1	kCantonese	zuk6
-U+4BB1	kDefinition	a kind of beast, a flock of horse to chase each other
+U+4BB1	kDefinition	a kind of beast; to chase one another (of herding horses)
 U+4BB1	kHanyuPinyin	74574.090:zhú
 U+4BB1	kMandarin	zhú
 U+4BB2	kCantonese	wong4
@@ -20373,7 +20373,7 @@ U+4BB5	kCantonese	tung4
 U+4BB5	kDefinition	name of a horse, a young horse
 U+4BB5	kHanyuPinyin	74578.080:tóng
 U+4BB5	kMandarin	tóng
-U+4BB6	kDefinition	(same as 驫) flock of horses stampeding
+U+4BB6	kDefinition	(same as 驫) herd of horses stampeding
 U+4BB7	kCantonese	duk6
 U+4BB7	kDefinition	movement of a horse, a traveling horse
 U+4BB7	kHanyuPinyin	74580.030:dú
@@ -22304,7 +22304,7 @@ U+4E07	kHanyuPinyin	10009.030:wàn,mò
 U+4E07	kJapaneseKun	YOROZU
 U+4E07	kJapaneseOn	MAN BAN
 U+4E07	kKorean	MAN MWUK
-U+4E07	kMandarin	wàn
+U+4E07	kMandarin	wàn mò
 U+4E07	kVietnamese	vạn
 U+4E07	kXHC1983	0802.110:mò 1185.040:wàn
 U+4E08	kCantonese	zoeng6
@@ -22403,7 +22403,7 @@ U+4E10	kXHC1983	0352.020:gài
 U+4E11	kCantonese	cau2
 U+4E11	kDefinition	clown, comedian; 2nd terrestrial branch
 U+4E11	kHangul	축
-U+4E11	kHanyuPinlu	choǔ(31)
+U+4E11	kHanyuPinlu	chǒu(31)
 U+4E11	kHanyuPinyin	10012.070:chǒu
 U+4E11	kJapaneseKun	USHI
 U+4E11	kJapaneseOn	CHUU CHU
@@ -22701,7 +22701,7 @@ U+4E36	kMandarin	zhǔ
 U+4E37	kCantonese	baat3
 U+4E37	kDefinition	kwukyel
 U+4E37	kKorean	HA
-U+4E37	kMandarin	ha
+U+4E37	kMandarin	bā
 U+4E38	kCantonese	jyun2 jyun4
 U+4E38	kDefinition	small round object; pellet, pill
 U+4E38	kHangul	환
@@ -22806,7 +22806,7 @@ U+4E43	kVietnamese	nải
 U+4E43	kXHC1983	0814.030:nǎi
 U+4E44	kDefinition	SHIME: to find a place to dwell; sum; a measurement of paper; SHITE to do; (not to be confused with U3024 HANGZHOU NUMERAL FIVE)
 U+4E44	kJapaneseKun	SHIME SHITE
-U+4E44	kMandarin	wu
+U+4E44	kMandarin	wǔ
 U+4E45	kCantonese	gau2
 U+4E45	kDefinition	long time (ago); time passage, grow late
 U+4E45	kHangul	구
@@ -23057,7 +23057,7 @@ U+4E66	kMandarin	shū
 U+4E66	kXHC1983	1064.070:shū
 U+4E67	kHangul	둘
 U+4E67	kKorean	TWUL
-U+4E67	kMandarin	dou
+U+4E67	kMandarin	dǒu
 U+4E68	kDefinition	the beginning; to start, to begin, to be the first
 U+4E68	kJapaneseKun	HAJIMERU HAJIMARU
 U+4E68	kJapaneseOn	SHI
@@ -23474,7 +23474,7 @@ U+4EA2	kTang	kɑ̀ng
 U+4EA2	kVietnamese	cang
 U+4EA2	kXHC1983	0634.070:kàng
 U+4EA3	kCantonese	daai6
-U+4EA3	kMandarin	tà
+U+4EA3	kMandarin	dà
 U+4EA4	kCantonese	gaau1
 U+4EA4	kDefinition	mix; intersect; exchange, communicate; deliver
 U+4EA4	kHangul	교
@@ -23664,7 +23664,7 @@ U+4EBC	kJapaneseOn	SHUU JUU
 U+4EBC	kMandarin	jí
 U+4EBD	kDefinition	kwukyel
 U+4EBD	kKorean	LA
-U+4EBD	kMandarin	ji
+U+4EBD	kMandarin	jí
 U+4EBE	kDefinition	death, destroyed; lose, perish
 U+4EBE	kJapaneseKun	NAI NAKUNARU HOROBIRU
 U+4EBE	kJapaneseOn	BOU MOU
@@ -23746,7 +23746,7 @@ U+4EC6	kXHC1983	0888.020:pū 0890.020:pú
 U+4EC7	kCantonese	cau4 kau4 sau4
 U+4EC7	kDefinition	enemy, hate, hatred, enmity
 U+4EC7	kHangul	구
-U+4EC7	kHanyuPinlu	choú(71)
+U+4EC7	kHanyuPinlu	chóu(71)
 U+4EC7	kHanyuPinyin	10109.030:qiú,chóu,jū
 U+4EC7	kJapaneseKun	ADA KATAKI
 U+4EC7	kJapaneseOn	KYUU GU
@@ -24006,7 +24006,7 @@ U+4EE8	kHanyuPinyin	10112.010:sā
 U+4EE8	kJapaneseOn	SA
 U+4EE8	kMandarin	sā
 U+4EE8	kXHC1983	0980.030:sā
-U+4EE9	kMandarin	shang
+U+4EE9	kMandarin	cháng
 U+4EEA	kCantonese	ji4
 U+4EEA	kDefinition	ceremony, rites gifts; admire
 U+4EEA	kHanyuPinlu	yí(120)
@@ -24035,7 +24035,7 @@ U+4EEE	kHangul	가
 U+4EEE	kJapaneseKun	KARI KARIRU KARINI
 U+4EEE	kJapaneseOn	KA KE
 U+4EEE	kKorean	KA PAN
-U+4EEE	kMandarin	jiǎ
+U+4EEE	kMandarin	fǎn
 U+4EEF	kHanyuPinyin	10121.060:chào,miǎo
 U+4EEF	kJapaneseKun	SAISAMA
 U+4EEF	kJapaneseOn	SOU SHOU BYOU MYOU
@@ -24327,7 +24327,7 @@ U+4F17	kMandarin	zhòng
 U+4F17	kXHC1983	1502.020:zhòng
 U+4F18	kCantonese	jau1
 U+4F18	kDefinition	superior, excellent; actor
-U+4F18	kHanyuPinlu	yoū(287)
+U+4F18	kHanyuPinlu	yōu(287)
 U+4F18	kHanyuPinyin	10120.020:yóu,yōu
 U+4F18	kJapaneseOn	YUU U
 U+4F18	kMandarin	yōu
@@ -24363,7 +24363,7 @@ U+4F1D	kDefinition	summon; propagate, transmit
 U+4F1D	kJapaneseKun	TSUTAERU TSUTAE TSUTAWARU
 U+4F1D	kJapaneseOn	DEN TEN
 U+4F1D	kKorean	CEN
-U+4F1D	kMandarin	chuán
+U+4F1D	kMandarin	yún
 U+4F1E	kCantonese	saan3
 U+4F1E	kDefinition	umbrella, parasol, parachute
 U+4F1E	kHanyuPinlu	sǎn(57)
@@ -24724,7 +24724,7 @@ U+4F50	kXHC1983	1551.010:zuǒ
 U+4F51	kCantonese	jau6
 U+4F51	kDefinition	help, protect, bless
 U+4F51	kHangul	우
-U+4F51	kHanyuPinlu	yoù(11)
+U+4F51	kHanyuPinlu	yòu(11)
 U+4F51	kHanyuPinyin	10131.020:yòu
 U+4F51	kJapaneseKun	TASUKERU
 U+4F51	kJapaneseOn	YUU U
@@ -24907,7 +24907,7 @@ U+4F67	kCantonese	kaa1 kaa2
 U+4F67	kHanyuPinyin	10131.080:kǎ
 U+4F67	kMandarin	kǎ
 U+4F67	kXHC1983	0626.020:kǎ
-U+4F68	kMandarin	bao
+U+4F68	kMandarin	bāo
 U+4F69	kCantonese	pui3
 U+4F69	kDefinition	belt ornament, pendant; wear at waist, tie to the belt; respect
 U+4F69	kHangul	패
@@ -25365,7 +25365,7 @@ U+4FA1	kMandarin	sì
 U+4FA2	kCantonese	daai3
 U+4FA2	kDefinition	load
 U+4FA2	kJapaneseOn	BU
-U+4FA2	kMandarin	zài
+U+4FA2	kMandarin	dài
 U+4FA3	kCantonese	leoi5
 U+4FA3	kDefinition	companion; associate with
 U+4FA3	kHanyuPinyin	10147.120:lǚ
@@ -25845,7 +25845,7 @@ U+4FE6	kCantonese	cau4
 U+4FE6	kDefinition	companion, mate, colleague
 U+4FE6	kMandarin	chóu
 U+4FE6	kXHC1983	0152.090:chóu
-U+4FE7	kMandarin	zhi
+U+4FE7	kMandarin	zhì
 U+4FE8	kCantonese	jim5
 U+4FE8	kDefinition	grave, respectful, majestic
 U+4FE8	kMandarin	yǎn
@@ -26006,7 +26006,7 @@ U+4FFE	kHanyuPinyin	10180.020:bǐ,bì,bēi,pì
 U+4FFE	kJapaneseKun	SHIMU
 U+4FFE	kJapaneseOn	HI HEI
 U+4FFE	kKorean	PI
-U+4FFE	kMandarin	bǐ
+U+4FFE	kMandarin	bǐ bì
 U+4FFE	kTang	byɛ̌
 U+4FFE	kXHC1983	0056.010:bǐ
 U+4FFF	kHanyuPinyin	10175.050:hǔ,chí
@@ -26223,7 +26223,7 @@ U+5018	kXHC1983	0121.020:cháng 1120.020:tǎng
 U+5019	kCantonese	hau6
 U+5019	kDefinition	wait; expect; visit; greet
 U+5019	kHangul	후
-U+5019	kHanyuPinlu	hou(2060) hoù(300)
+U+5019	kHanyuPinlu	hou(2060) hòu(300)
 U+5019	kHanyuPinyin	10178.050:hòu
 U+5019	kJapaneseKun	SOUROU UKAGAU SABURAU
 U+5019	kJapaneseOn	KOU
@@ -26515,7 +26515,7 @@ U+503E	kDefinition	upset, pour out, overflow
 U+503E	kHanyuPinlu	qīng(175)
 U+503E	kMandarin	qīng
 U+503E	kXHC1983	0932.040:qīng
-U+503F	kMandarin	qie
+U+503F	kMandarin	nìng
 U+5040	kCantonese	jing1
 U+5040	kJapaneseKun	HANABUSA
 U+5040	kJapaneseOn	EI
@@ -26529,7 +26529,7 @@ U+5041	kMandarin	chēng
 U+5041	kXHC1983	0135.030:chēng
 U+5042	kJapaneseKun	SUSUMU
 U+5042	kJapaneseOn	SEN
-U+5042	kMandarin	jiān
+U+5042	kMandarin	qián
 U+5043	kCantonese	jin2
 U+5043	kDefinition	cease, lay off, lay down
 U+5043	kHangul	언
@@ -26901,7 +26901,7 @@ U+5075	kVietnamese	trinh
 U+5076	kCantonese	ngau5
 U+5076	kDefinition	accidentally, coincidently; an idol
 U+5076	kHangul	우
-U+5076	kHanyuPinlu	oǔ(64)
+U+5076	kHanyuPinlu	ǒu(64)
 U+5076	kHanyuPinyin	10190.030:ǒu
 U+5076	kJapaneseKun	TAGUI TAMATAMA
 U+5076	kJapaneseOn	GUU GOU
@@ -26912,7 +26912,7 @@ U+5076	kVietnamese	ngẫu
 U+5076	kXHC1983	0846.020:ǒu
 U+5077	kCantonese	tau1
 U+5077	kDefinition	to steal, burglar, thief
-U+5077	kHanyuPinlu	toū(204)
+U+5077	kHanyuPinlu	tōu(204)
 U+5077	kHanyuPinyin	10193.020:tōu
 U+5077	kJapaneseKun	NUSUMU
 U+5077	kJapaneseOn	CHUU TOU
@@ -27183,7 +27183,7 @@ U+509F	kJapaneseOn	AU
 U+509F	kMandarin	yǎng
 U+50A0	kJapaneseKun	SOMUKU UTSU
 U+50A0	kJapaneseOn	HATSU BOCHI
-U+50A0	kMandarin	fā
+U+50A0	kMandarin	fá
 U+50A1	kJapaneseKun	NAMI NARABERU NARABU NARABINI
 U+50A1	kJapaneseOn	HEI
 U+50A1	kMandarin	bìng
@@ -27209,7 +27209,7 @@ U+50A5	kDefinition	if, supposing, in case
 U+50A5	kMandarin	tǎng
 U+50A5	kXHC1983	1120.050:tǎng
 U+50A6	kCantonese	gwat1
-U+50A6	kMandarin	gu
+U+50A6	kMandarin	gǔ
 U+50A6	kVietnamese	cốt
 U+50A7	kCantonese	ban3
 U+50A7	kDefinition	entertain guests
@@ -27748,7 +27748,7 @@ U+50F1	kJapaneseKun	YATOU
 U+50F1	kJapaneseOn	KO
 U+50F1	kMandarin	gù
 U+50F1	kXHC1983	0400.061:gù
-U+50F2	kMandarin	xian
+U+50F2	kMandarin	xiān
 U+50F3	kCantonese	suk1
 U+50F3	kDefinition	minority name
 U+50F3	kHanyuPinyin	10217.170:sù
@@ -27964,7 +27964,7 @@ U+510E	kHanyuPinyin	10223.100:zài
 U+510E	kJapaneseKun	NOSERU
 U+510E	kJapaneseOn	SAI
 U+510E	kMandarin	zài
-U+510F	kMandarin	can
+U+510F	kMandarin	càn
 U+5110	kCantonese	ban1 ban3
 U+5110	kDefinition	entertain guests
 U+5110	kHangul	빈
@@ -28137,7 +28137,7 @@ U+5127	kMandarin	zǎn
 U+5128	kJapaneseKun	TADASHII
 U+5128	kJapaneseOn	SHITSU SHICHI
 U+5128	kKorean	CIL
-U+5128	kMandarin	zhí
+U+5128	kMandarin	zhì
 U+5129	kCantonese	ci3
 U+5129	kDefinition	complete
 U+5129	kHanyuPinyin	10234.040:sì
@@ -28148,7 +28148,7 @@ U+5129	kMandarin	sì
 U+512A	kCantonese	jau1
 U+512A	kDefinition	superior, excellent; actor
 U+512A	kHangul	우
-U+512A	kHanyuPinlu	yoū(287)
+U+512A	kHanyuPinlu	yōu(287)
 U+512A	kHanyuPinyin	10233.040:yōu
 U+512A	kJapaneseKun	YASASHII SUGURERU WAZAOGI
 U+512A	kJapaneseOn	YUU U
@@ -28161,7 +28161,7 @@ U+512B	kHangul	호
 U+512B	kKorean	HO
 U+512B	kMandarin	háo
 U+512C	kJapaneseOn	SHIN
-U+512C	kMandarin	chèn
+U+512C	kMandarin	qìng
 U+512D	kCantonese	can3
 U+512D	kDefinition	to assist; to give alms
 U+512D	kHanyuPinyin	10236.170:chèn,qìn,qīn
@@ -28540,7 +28540,7 @@ U+515B	kMandarin	qiān
 U+515C	kCantonese	dau1
 U+515C	kDefinition	pouch
 U+515C	kHangul	두
-U+515C	kHanyuPinlu	doū(43)
+U+515C	kHanyuPinlu	dōu(43)
 U+515C	kHanyuPinyin	10273.160:dōu
 U+515C	kJapaneseKun	KABUTO
 U+515C	kJapaneseOn	TOU
@@ -28578,7 +28578,7 @@ U+5163	kDefinition	decigram; centigram
 U+5163	kMandarin	lǐ
 U+5164	kJapaneseKun	AKARUI
 U+5164	kJapaneseOn	KOU
-U+5164	kMandarin	huáng
+U+5164	kMandarin	huǎng
 U+5165	kCantonese	jap6
 U+5165	kDefinition	enter, come in(to), join
 U+5165	kHangul	입
@@ -28791,7 +28791,7 @@ U+517C	kVietnamese	kiêm
 U+517C	kXHC1983	0546.060:jiān
 U+517D	kCantonese	sau3
 U+517D	kDefinition	beast, animal; bestial
-U+517D	kHanyuPinlu	shoù(40)
+U+517D	kHanyuPinlu	shòu(40)
 U+517D	kMandarin	shòu
 U+517D	kXHC1983	1060.010:shòu
 U+517E	kDefinition	same as 冀 U+5180 to hope for; to wish
@@ -29139,7 +29139,7 @@ U+51AC	kVietnamese	đông
 U+51AC	kXHC1983	0258.040:dōng
 U+51AD	kJapaneseKun	NAMERAKA
 U+51AD	kJapaneseOn	TAI TATSU TACHI
-U+51AD	kMandarin	tái
+U+51AD	kMandarin	tài
 U+51AE	kCantonese	gong1
 U+51AE	kHanyuPinyin	10295.040:gāng
 U+51AE	kMandarin	gāng
@@ -29276,7 +29276,7 @@ U+51C0	kHanyuPinyin	10297.130:chēng,jìng
 U+51C0	kMandarin	jìng
 U+51C0	kXHC1983	0602.030:jìng
 U+51C1	kKorean	SWU
-U+51C1	kMandarin	shù
+U+51C1	kMandarin	sōu
 U+51C2	kDefinition	to request; to ask a favour of
 U+51C2	kJapaneseOn	BAI
 U+51C2	kMandarin	měi
@@ -29395,7 +29395,7 @@ U+51D0	kJapaneseOn	IN
 U+51D0	kMandarin	yīn
 U+51D1	kCantonese	cau3
 U+51D1	kDefinition	piece together, assemble
-U+51D1	kHanyuPinlu	coù(69)
+U+51D1	kHanyuPinlu	còu(69)
 U+51D1	kJapaneseKun	MINATO ATSUMARU
 U+51D1	kJapaneseOn	SOU
 U+51D1	kKorean	CWU
@@ -29406,7 +29406,7 @@ U+51D2	kHangul	의
 U+51D2	kJapaneseKun	SAMUI
 U+51D2	kJapaneseOn	GI GE KAI GAI
 U+51D2	kKorean	UY
-U+51D2	kMandarin	yí
+U+51D2	kMandarin	ái
 U+51D3	kCantonese	leot6
 U+51D3	kDefinition	shiver; severe cold
 U+51D3	kHanyuPinyin	10300.010:lì
@@ -29432,7 +29432,7 @@ U+51D6	kDefinition	rule, guideline, standard
 U+51D6	kJapaneseKun	HITOSHII MIZUMORI NORI
 U+51D6	kJapaneseOn	JUN SETSU
 U+51D6	kKorean	CWUN
-U+51D6	kMandarin	zhun
+U+51D6	kMandarin	zhǔn
 U+51D7	kHanyuPinyin	10300.190:cuī
 U+51D7	kJapaneseOn	SAI ZE
 U+51D7	kKorean	CHOY
@@ -29551,7 +29551,7 @@ U+51E6	kMandarin	chǔ
 U+51E6	kXHC1983	0160.103:chǔ 0161.113:chù
 U+51E7	kDefinition	kite
 U+51E7	kJapaneseKun	TAKO
-U+51E7	kMandarin	zheng
+U+51E7	kMandarin	zhēng
 U+51E8	kDefinition	wind; air; manners, atmosphere
 U+51E8	kJapaneseKun	KAZE
 U+51E8	kJapaneseOn	FUU FU
@@ -29561,11 +29561,11 @@ U+51E9	kDefinition	wintry wind
 U+51E9	kHangul	목
 U+51E9	kJapaneseKun	KOGARASHI
 U+51E9	kKorean	MOK
-U+51E9	kMandarin	mu
+U+51E9	kMandarin	mù
 U+51EA	kDefinition	calm, lull
 U+51EA	kJapaneseKun	NAGU NAGI
 U+51EA	kKorean	CI
-U+51EA	kMandarin	zhi
+U+51EA	kMandarin	zhǐ
 U+51EB	kCantonese	fu4
 U+51EB	kDefinition	wild duck, teal; swim
 U+51EB	kHanyuPinlu	fú(12)
@@ -29970,7 +29970,7 @@ U+521E	kMandarin	qù
 U+521F	kCantonese	diu1
 U+521F	kJapaneseKun	TATSU
 U+521F	kJapaneseOn	CHOU
-U+521F	kMandarin	jū
+U+521F	kMandarin	diāo
 U+521F	kVietnamese	xẻo
 U+5220	kCantonese	saan1
 U+5220	kDefinition	to cut; delete
@@ -30389,12 +30389,12 @@ U+5255	kXHC1983	0316.080:fèi
 U+5256	kCantonese	fau2 pau2
 U+5256	kDefinition	split in two, slice; dissect
 U+5256	kHangul	부
-U+5256	kHanyuPinlu	poū(24)
+U+5256	kHanyuPinlu	pōu(24)
 U+5256	kHanyuPinyin	10345.130:pōu
 U+5256	kJapaneseKun	WARU
 U+5256	kJapaneseOn	BOU
 U+5256	kKorean	PWU
-U+5256	kMandarin	pōu
+U+5256	kMandarin	pōu pǒ
 U+5256	kTang	pǒu
 U+5256	kVietnamese	bo
 U+5256	kXHC1983	0887.040:pōu
@@ -30688,7 +30688,7 @@ U+527D	kHanyuPinyin	10353.040:piào,piāo,piáo,biǎo,biāo
 U+527D	kJapaneseKun	OBYAKASU
 U+527D	kJapaneseOn	HYOU
 U+527D	kKorean	PHYO
-U+527D	kMandarin	piāo
+U+527D	kMandarin	piāo piào
 U+527D	kTang	piɛ̀u
 U+527D	kXHC1983	0874.030:piāo
 U+527E	kDefinition	to pick up with knife
@@ -30748,7 +30748,7 @@ U+5284	kMandarin	zhā
 U+5284	kVietnamese	chép
 U+5284	kXHC1983	1447.130:zhā 1447.180:zhá
 U+5285	kJapaneseOn	TAKU
-U+5285	kMandarin	zhuò
+U+5285	kMandarin	zhuó
 U+5286	kDefinition	sickle
 U+5286	kHanyuPinyin	10360.010:lián
 U+5286	kJapaneseKun	KAMA
@@ -31637,7 +31637,7 @@ U+52FD	kMandarin	bào
 U+52FE	kCantonese	au1 gau1 ngau1
 U+52FE	kDefinition	hook, join, connect; entice
 U+52FE	kHangul	구
-U+52FE	kHanyuPinlu	goū(42)
+U+52FE	kHanyuPinlu	gōu(42)
 U+52FE	kHanyuPinyin	10256.030:gōu,gòu
 U+52FE	kJapaneseKun	NOZOKU MAGARU KAGI
 U+52FE	kJapaneseOn	KOU
@@ -31675,7 +31675,7 @@ U+5302	kDefinition	fragrance, smell
 U+5302	kHangul	내
 U+5302	kJapaneseKun	NIOU NIOI
 U+5302	kKorean	NAY
-U+5302	kMandarin	bi
+U+5302	kMandarin	xiōng
 U+5303	kDefinition	beggar; beg; give
 U+5303	kHangul	개
 U+5303	kJapaneseKun	KOU ATAERU
@@ -31711,7 +31711,7 @@ U+5306	kKorean	CHONG
 U+5306	kMandarin	cōng
 U+5306	kTang	tsung
 U+5306	kXHC1983	0177.080:cōng
-U+5307	kMandarin	yi
+U+5307	kMandarin	yì
 U+5308	kCantonese	hung1
 U+5308	kDefinition	breast, chest, thorax; clamor; the Hsiung Nu 'Huns'
 U+5308	kHangul	흉
@@ -31803,7 +31803,7 @@ U+5313	kJapaneseKun	ATSU HAKARU
 U+5313	kJapaneseOn	KYOU KU
 U+5313	kKorean	KWU
 U+5313	kMandarin	jiù
-U+5314	kMandarin	qiōng
+U+5314	kMandarin	gōng
 U+5315	kCantonese	bei2 bei6
 U+5315	kDefinition	spoon, ladle; knife, dirk
 U+5315	kHangul	비
@@ -31933,7 +31933,7 @@ U+5324	kMandarin	qū
 U+5325	kJapaneseKun	HAKO
 U+5325	kJapaneseOn	HEN BEN
 U+5325	kKorean	PYEN
-U+5325	kMandarin	biàn
+U+5325	kMandarin	fán
 U+5326	kCantonese	gwai2
 U+5326	kDefinition	small box; chest, casket
 U+5326	kMandarin	guǐ
@@ -32369,7 +32369,7 @@ U+535C	kHanyuPinyin	10091.110:bǔ,pū,bo
 U+535C	kJapaneseKun	URANAU URANAI
 U+535C	kJapaneseOn	BOKU
 U+535C	kKorean	POK
-U+535C	kMandarin	bo
+U+535C	kMandarin	bo bǔ
 U+535C	kTang	*buk
 U+535C	kVietnamese	bốc
 U+535C	kXHC1983	0085.090:bo 0086.030:bǔ
@@ -32664,7 +32664,7 @@ U+5380	kHanyuPinyin	10319.050:xī
 U+5380	kJapaneseOn	SHITSU
 U+5380	kKorean	SUL
 U+5380	kMandarin	xī
-U+5381	kMandarin	san
+U+5381	kMandarin	sān
 U+5382	kCantonese	aa1 hon3
 U+5382	kDefinition	factory, workshop; radical 27
 U+5382	kHanyuPinlu	chǎng(731)
@@ -32755,7 +32755,7 @@ U+5390	kDefinition	disorderly, messy; huge, big
 U+5390	kMandarin	páng
 U+5391	kMandarin	yá
 U+5392	kJapaneseOn	KAHU KOHU KEHU
-U+5392	kMandarin	hé
+U+5392	kMandarin	qiè
 U+5393	kCantonese	ngaai4
 U+5393	kDefinition	precipice, shore, bank; surname
 U+5393	kHangul	애
@@ -32811,7 +32811,7 @@ U+5399	kMandarin	shè
 U+539A	kCantonese	hau5
 U+539A	kDefinition	thick; substantial; greatly
 U+539A	kHangul	후
-U+539A	kHanyuPinlu	hoù(202)
+U+539A	kHanyuPinlu	hòu(202)
 U+539A	kHanyuPinyin	10072.060:hòu
 U+539A	kJapaneseKun	ATSUI
 U+539A	kJapaneseOn	KOU
@@ -33112,7 +33112,7 @@ U+53C7	kXHC1983	0207.080:dài
 U+53C8	kCantonese	jau6
 U+53C8	kDefinition	and, also, again, in addition
 U+53C8	kHangul	우
-U+53C8	kHanyuPinlu	yoù(4892)
+U+53C8	kHanyuPinlu	yòu(4892)
 U+53C8	kHanyuPinyin	10390.010:yòu
 U+53C8	kJapaneseKun	MATA
 U+53C8	kJapaneseOn	YUU
@@ -33145,7 +33145,7 @@ U+53CA	kXHC1983	0527.010:jí
 U+53CB	kCantonese	jau5
 U+53CB	kDefinition	friend, companion; fraternity
 U+53CB	kHangul	우
-U+53CB	kHanyuPinlu	you(437) yoǔ(275)
+U+53CB	kHanyuPinlu	you(437) yǒu(275)
 U+53CB	kHanyuPinyin	10391.010:yǒu
 U+53CB	kJapaneseKun	TOMO
 U+53CB	kJapaneseOn	YUU
@@ -33239,7 +33239,7 @@ U+53D6	kXHC1983	0945.060:qǔ
 U+53D7	kCantonese	sau6
 U+53D7	kDefinition	receive, accept, get; bear, stand
 U+53D7	kHangul	수
-U+53D7	kHanyuPinlu	shoù(1082)
+U+53D7	kHanyuPinlu	shòu(1082)
 U+53D7	kHanyuPinyin	10396.020:shòu,dào
 U+53D7	kJapaneseKun	UKERU UKE
 U+53D7	kJapaneseOn	JU SHUU
@@ -33287,7 +33287,7 @@ U+53DC	kMandarin	sǒu
 U+53DC	kXHC1983	1094.041:sǒu
 U+53DD	kDefinition	to respectfully inform
 U+53DD	kJapaneseOn	KOU
-U+53DD	kMandarin	gào
+U+53DD	kMandarin	jí
 U+53DE	kJapaneseOn	I
 U+53DE	kKorean	WI
 U+53DE	kMandarin	wèi
@@ -33331,7 +33331,7 @@ U+53E2	kXHC1983	0179.011:cóng
 U+53E3	kCantonese	hau2
 U+53E3	kDefinition	mouth; open end; entrance, gate
 U+53E3	kHangul	구
-U+53E3	kHanyuPinlu	koǔ(1647) kou(74)
+U+53E3	kHanyuPinlu	kǒu(1647) kou(74)
 U+53E3	kHanyuPinyin	10566.140:kǒu
 U+53E3	kJapaneseKun	KUCHI
 U+53E3	kJapaneseOn	KOU KU
@@ -33505,7 +33505,7 @@ U+53F2	kXHC1983	1044.040:shǐ
 U+53F3	kCantonese	jau6
 U+53F3	kDefinition	right; west; right-wing
 U+53F3	kHangul	우
-U+53F3	kHanyuPinlu	yoù(490)
+U+53F3	kHanyuPinlu	yòu(490)
 U+53F3	kHanyuPinyin	10569.010:yòu
 U+53F3	kJapaneseKun	MIGI TASUKERU
 U+53F3	kJapaneseOn	U YUU
@@ -33723,7 +33723,7 @@ U+540D	kXHC1983	0795.030:míng
 U+540E	kCantonese	hau6
 U+540E	kDefinition	queen, empress, sovereign; (simp. for 後) behind, rear, after
 U+540E	kHangul	후
-U+540E	kHanyuPinlu	hoù(4342)
+U+540E	kHanyuPinlu	hòu(4342)
 U+540E	kHanyuPinyin	10580.010:hòu
 U+540E	kJapaneseKun	KIMI KISAKI
 U+540E	kJapaneseOn	KOU GO
@@ -33916,7 +33916,7 @@ U+5425	kXHC1983	0095.010:bù
 U+5426	kCantonese	fau2 pei2
 U+5426	kDefinition	not, no, negative; final particle
 U+5426	kHangul	부
-U+5426	kHanyuPinlu	foǔ(230)
+U+5426	kHanyuPinlu	fǒu(230)
 U+5426	kHanyuPinyin	10586.050:fǒu,pǐ
 U+5426	kJapaneseKun	INA INAMU ARAZU
 U+5426	kJapaneseOn	HI
@@ -34126,7 +34126,7 @@ U+543B	kXHC1983	1207.020:wěn
 U+543C	kCantonese	haau1 hau3
 U+543C	kDefinition	roar, shout; bark, howl
 U+543C	kHangul	후
-U+543C	kHanyuPinlu	hoǔ(63)
+U+543C	kHanyuPinlu	hǒu(63)
 U+543C	kHanyuPinyin	10596.070:hǒu
 U+543C	kJapaneseKun	HOERU
 U+543C	kJapaneseOn	KOU KU
@@ -34300,7 +34300,7 @@ U+5451	kKorean	THAN
 U+5451	kMandarin	tūn
 U+5452	kCantonese	m4
 U+5452	kDefinition	unclear; an expletive
-U+5452	kMandarin	fǔ
+U+5452	kMandarin	wǔ
 U+5452	kXHC1983	0753.010:ḿ
 U+5453	kCantonese	ngai6
 U+5453	kDefinition	talk in one's sleep, somniloquy
@@ -34423,7 +34423,7 @@ U+5467	kMandarin	dǐ
 U+5468	kCantonese	zau1
 U+5468	kDefinition	Zhou dynasty; circumference
 U+5468	kHangul	주
-U+5468	kHanyuPinlu	zhoū(396)
+U+5468	kHanyuPinlu	zhōu(396)
 U+5468	kHanyuPinyin	10606.030:zhōu
 U+5468	kJapaneseKun	MAWARI AMANESHI MEGURU
 U+5468	kJapaneseOn	SHUU
@@ -34533,7 +34533,7 @@ U+5475	kHanyuPinyin	10598.100:hē,hā,ā,a,kē,huō
 U+5475	kJapaneseKun	SHIKARU WARAU
 U+5475	kJapaneseOn	KA
 U+5475	kKorean	KA
-U+5475	kMandarin	ā
+U+5475	kMandarin	hē
 U+5475	kTang	xɑ
 U+5475	kVietnamese	ha
 U+5475	kXHC1983	0002.011,0002.061:ā 0002.051:á 0002.071:à 0002.082:a 0448.050,0448.061:hē 0638.100:kē
@@ -34783,7 +34783,7 @@ U+5491	kMandarin	dā
 U+5491	kXHC1983	0189.030:dā
 U+5492	kCantonese	zau3
 U+5492	kDefinition	curse, damn, incantation
-U+5492	kHanyuPinlu	zhoù(11)
+U+5492	kHanyuPinlu	zhòu(11)
 U+5492	kJapaneseKun	NOROU NOROI
 U+5492	kJapaneseOn	SHU SHUU JU
 U+5492	kKorean	CWU
@@ -35277,7 +35277,7 @@ U+54D1	kMandarin	yǎ
 U+54D1	kXHC1983	1317.040:yā 1320.080:yǎ
 U+54D2	kCantonese	daat6
 U+54D2	kDefinition	a sound made to get a horse to move forward
-U+54D2	kMandarin	dā
+U+54D2	kMandarin	dá
 U+54D3	kCantonese	hiu1
 U+54D3	kDefinition	garrulous; disturbed; restless
 U+54D3	kMandarin	xiāo
@@ -35536,7 +35536,7 @@ U+54FA	kVietnamese	phô
 U+54FA	kXHC1983	0086.010:bǔ
 U+54FB	kJapaneseKun	NEMURU
 U+54FB	kJapaneseOn	KAN GAN
-U+54FB	kMandarin	hàn
+U+54FB	kMandarin	hān
 U+54FC	kCantonese	hang1 hng6 ng1
 U+54FC	kDefinition	hum; sing softly; groan, moan; (Cant.) an interjecting indicating disapproval
 U+54FC	kHanyuPinlu	hēng(147)
@@ -35814,7 +35814,7 @@ U+5527	kMandarin	jī
 U+5527	kXHC1983	0520.130:jī
 U+5528	kCantonese	zo2
 U+5528	kDefinition	(Cant.) particle indicating past tense
-U+5528	kMandarin	zuǒ
+U+5528	kMandarin	zǔ
 U+5529	kHanyuPinyin	10642.010:wō,wěi
 U+5529	kMandarin	wō
 U+5529	kVietnamese	uẩy
@@ -35854,7 +35854,7 @@ U+552D	kVietnamese	cười
 U+552E	kCantonese	sau6
 U+552E	kDefinition	sell
 U+552E	kHangul	수
-U+552E	kHanyuPinlu	shoù(78)
+U+552E	kHanyuPinlu	shòu(78)
 U+552E	kHanyuPinyin	10642.060:shòu,shú
 U+552E	kJapaneseKun	URU
 U+552E	kJapaneseOn	SHUU
@@ -36338,11 +36338,11 @@ U+5570	kDefinition	phonetic
 U+5570	kMandarin	luō
 U+5571	kCantonese	ngaam1
 U+5571	kDefinition	(Cant.) correct, right
-U+5571	kMandarin	yān
+U+5571	kMandarin	yán
 U+5571	kVietnamese	nhàm
 U+5572	kCantonese	di1
 U+5572	kDefinition	(Cant.) a few
-U+5572	kMandarin	dì
+U+5572	kMandarin	dī
 U+5573	kCantonese	kyun4
 U+5573	kHanyuPinyin	10643.080:quán,jué
 U+5573	kMandarin	quán
@@ -36355,7 +36355,7 @@ U+5574	kXHC1983	0119.040:chǎn 1112.070:tān
 U+5575	kCantonese	bo1
 U+5575	kDefinition	phonetic
 U+5575	kHanyuPinyin	10646.030:bō,bo
-U+5575	kMandarin	bo
+U+5575	kMandarin	bō
 U+5575	kXHC1983	0085.100:bo
 U+5576	kCantonese	ding6
 U+5576	kDefinition	phonetic used in pyridine and pyrimidine
@@ -36505,7 +36505,7 @@ U+5588	kXHC1983	0575.050:jiē
 U+5589	kCantonese	hau4
 U+5589	kDefinition	throat, gullet, larynx; guttural
 U+5589	kHangul	후
-U+5589	kHanyuPinlu	hoú(51)
+U+5589	kHanyuPinlu	hóu(51)
 U+5589	kHanyuPinyin	10657.040:hóu
 U+5589	kJapaneseKun	NODO
 U+5589	kJapaneseOn	KOU
@@ -36877,7 +36877,7 @@ U+55B9	kMandarin	kuí
 U+55B9	kXHC1983	0662.060:kuí
 U+55BA	kCantonese	hai2
 U+55BA	kDefinition	(Cant.) to be located at
-U+55BA	kMandarin	xì
+U+55BA	kMandarin	xí
 U+55BB	kCantonese	jyu6
 U+55BB	kDefinition	metaphor, analogy; example; like
 U+55BB	kHanyuPinyin	10657.080:yù,yú
@@ -36890,7 +36890,7 @@ U+55BB	kVietnamese	dụ
 U+55BB	kXHC1983	1416.070:yù
 U+55BC	kCantonese	gep1 gip1 kep1 kip1
 U+55BC	kDefinition	(Cant.) used phonetically in English loan-words (e.g., cap, keep)
-U+55BC	kMandarin	jié
+U+55BC	kMandarin	jiē
 U+55BD	kCantonese	lau1 lau4
 U+55BD	kDefinition	used in onomatopoetic expressions
 U+55BD	kHanyuPinlu	lou(46)
@@ -37159,7 +37159,7 @@ U+55DF	kTang	*tzia
 U+55DF	kXHC1983	0576.010:jiē 0618.090:juē
 U+55E0	kHangul	락
 U+55E0	kKorean	LA
-U+55E0	kMandarin	luò
+U+55E0	kMandarin	lào
 U+55E1	kCantonese	jung1
 U+55E1	kDefinition	sound of flying bees, airplanes
 U+55E1	kHanyuPinlu	wēng(56)
@@ -37249,26 +37249,26 @@ U+55EE	kDefinition	(Cant.) verbal aspect marker for full extent
 U+55EE	kMandarin	sài
 U+55EF	kCantonese	ng2 ng6
 U+55EF	kDefinition	final particle
-U+55EF	kHanyuPinlu	ń(48) ň(48) ǹ(48) nǵ(48) nǧ(48) ng̀(48)
+U+55EF	kHanyuPinlu	ń(48) ň(48) ǹ(48) ńg(48) ňg(48) ǹg(48)
 U+55EF	kHanyuPinyin	10668.030:ńg,ń,ňg,ň,ǹg,ǹ
 U+55EF	kMandarin	ń
 U+55EF	kXHC1983	0811.010:ń 0811.020:ň 0811.030:ǹ 0826.010:ńg 0826.020:ňg 0826.030:ǹg
 U+55F0	kCantonese	go2 go3
 U+55F0	kDefinition	(Cant.) that
-U+55F0	kMandarin	gè
+U+55F0	kMandarin	gě
 U+55F1	kCantonese	naa4
 U+55F1	kDefinition	(Cant.) exclamation, there! now!
 U+55F1	kMandarin	ná
 U+55F2	kCantonese	de1 de2 de4
 U+55F2	kDefinition	(Cant.) saliva; intensifying particle; inviting, coquettish; 嗲哋. 'daddy'
 U+55F2	kHanyuPinyin	10669.070:diǎ
-U+55F2	kMandarin	diǎ
+U+55F2	kMandarin	diē
 U+55F2	kXHC1983	0239.090:diǎ
 U+55F3	kCantonese	oi2
 U+55F3	kDefinition	interjection; exclamation
 U+55F3	kMandarin	āi
 U+55F3	kXHC1983	0003.021:āi 0003.160:ǎi 0005.040:ài
-U+55F4	kMandarin	qiang
+U+55F4	kMandarin	qiāng
 U+55F5	kCantonese	tung1
 U+55F5	kDefinition	used for sound
 U+55F5	kHanyuPinyin	10672.020:tōng
@@ -37431,7 +37431,7 @@ U+560A	kJapaneseOn	GAI
 U+560A	kKorean	AY
 U+560A	kMandarin	ái
 U+560B	kDefinition	howl, roar
-U+560B	kMandarin	xiāo
+U+560B	kMandarin	xiào
 U+560C	kCantonese	piu1 piu3
 U+560C	kDefinition	fast, speedy
 U+560C	kHangul	표
@@ -37603,7 +37603,7 @@ U+5624	kMandarin	yīng
 U+5624	kXHC1983	1385.110:yīng
 U+5625	kCantonese	saai1 saai3
 U+5625	kDefinition	(Cant.) to waste; all, entirely
-U+5625	kMandarin	sai
+U+5625	kMandarin	sāi
 U+5626	kHanyuPinyin	10677.140:jiào
 U+5626	kMandarin	jiào
 U+5626	kXHC1983	0572.040:jiào
@@ -37752,7 +37752,7 @@ U+5638	kHanyuPinyin	10684.020:fǔ,m̄
 U+5638	kJapaneseKun	SAZO
 U+5638	kJapaneseOn	BU
 U+5638	kKorean	MWU
-U+5638	kMandarin	fǔ
+U+5638	kMandarin	fǔ wǔ
 U+5638	kXHC1983	0753.011:ḿ
 U+5639	kCantonese	liu4
 U+5639	kDefinition	used describe clarity of voice; resonant
@@ -38023,7 +38023,7 @@ U+5660	kDefinition	sound made to get a horse to move forward
 U+5660	kHanyuPinyin	10681.040:dā
 U+5660	kJapaneseOn	TATSU TACHI DACHI
 U+5660	kKorean	TAL
-U+5660	kMandarin	dā
+U+5660	kMandarin	dā dá
 U+5660	kVietnamese	đặt
 U+5660	kXHC1983	0188.031:dā
 U+5661	kCantonese	zim1
@@ -38239,7 +38239,7 @@ U+567A	kDefinition	story, talk
 U+567A	kHangul	신
 U+567A	kJapaneseKun	HANASHI
 U+567A	kKorean	SIN
-U+567A	kMandarin	xin
+U+567A	kMandarin	xīn
 U+567B	kCantonese	sak1
 U+567B	kDefinition	character used in translation
 U+567B	kHanyuPinyin	10694.080:sāi
@@ -38382,9 +38382,9 @@ U+5690	kJapaneseKun	NAMERU
 U+5690	kJapaneseOn	SHOU
 U+5690	kMandarin	cháng
 U+5690	kXHC1983	0120.122:cháng
-U+5691	kMandarin	xun
+U+5691	kMandarin	xūn
 U+5692	kCantonese	mo1
-U+5692	kMandarin	me
+U+5692	kMandarin	mē
 U+5693	kCantonese	caat3
 U+5693	kDefinition	a cracking or snapping sound
 U+5693	kHanyuPinyin	10697.150:cā,chā
@@ -39227,7 +39227,7 @@ U+5710	kMandarin	kū
 U+5710	kXHC1983	0653.081:kū
 U+5711	kJapaneseKun	HATAKE NIWA
 U+5711	kJapaneseOn	HO FU
-U+5711	kMandarin	fù
+U+5711	kMandarin	pǔ
 U+5712	kCantonese	jyun4
 U+5712	kDefinition	garden; park, orchard
 U+5712	kHangul	원
@@ -39359,7 +39359,7 @@ U+5723	kVietnamese	thánh
 U+5723	kXHC1983	1031.010:shèng
 U+5724	kJapaneseKun	TSUCHIKURE
 U+5724	kJapaneseOn	HAKU HOKU
-U+5724	kMandarin	pǔ
+U+5724	kMandarin	pú
 U+5725	kDefinition	mushroom
 U+5725	kHangul	록
 U+5725	kHanyuPinyin	10417.110:lù
@@ -39369,7 +39369,7 @@ U+5725	kKorean	LOK
 U+5725	kMandarin	lù
 U+5726	kDefinition	(kokuji) water gate, spout
 U+5726	kJapaneseKun	IRI
-U+5726	kMandarin	kuai
+U+5726	kMandarin	kuài
 U+5727	kDefinition	same as 壓 U+58D3, to press; to oppress; to crush; pressure
 U+5727	kJapaneseKun	OSAERU
 U+5727	kJapaneseOn	ATSU
@@ -39451,7 +39451,7 @@ U+5730	kHanyuPinyin	10420.120:dì,de
 U+5730	kJapaneseKun	TSUCHI
 U+5730	kJapaneseOn	CHI JI
 U+5730	kKorean	CI
-U+5730	kMandarin	de
+U+5730	kMandarin	de dì
 U+5730	kTang	*dhì
 U+5730	kVietnamese	địa
 U+5730	kXHC1983	0224.030:de 0235.050:dì
@@ -39475,9 +39475,9 @@ U+5735	kMandarin	dàng
 U+5736	kHanyuPinyin	10419.020:qià
 U+5736	kMandarin	qià
 U+5737	kJapaneseKun	AKUTSU
-U+5737	kMandarin	xia
+U+5737	kMandarin	xià
 U+5738	kJapaneseKun	YAMA
-U+5738	kMandarin	shan
+U+5738	kMandarin	shān
 U+5739	kCantonese	kwong3
 U+5739	kDefinition	tomb, grave: prairie; open wilderness
 U+5739	kMandarin	kuàng
@@ -39734,7 +39734,7 @@ U+5762	kJapaneseKun	TAHIRAKA CHIRI
 U+5762	kJapaneseOn	HAN BAN
 U+5762	kMandarin	bàn
 U+5762	kXHC1983	0032.010:bàn
-U+5763	kMandarin	tāng
+U+5763	kMandarin	táng
 U+5764	kCantonese	kwan1
 U+5764	kDefinition	earth; feminine, female
 U+5764	kHangul	곤
@@ -40183,7 +40183,7 @@ U+57A9	kMandarin	è
 U+57A9	kXHC1983	0284.010:è
 U+57AA	kCantonese	bing6
 U+57AA	kJapaneseKun	HA
-U+57AA	kMandarin	bing
+U+57AA	kMandarin	bìng
 U+57AB	kCantonese	din6
 U+57AB	kDefinition	advance money, pay for another
 U+57AB	kHanyuPinlu	diàn(24)
@@ -40206,7 +40206,7 @@ U+57AE	kXHC1983	0656.020:kuǎ
 U+57AF	kMandarin	da
 U+57AF	kXHC1983	0203.050:da
 U+57B0	kJapaneseKun	TAO
-U+57B0	kMandarin	ka
+U+57B0	kMandarin	kǎ
 U+57B1	kMandarin	dàng
 U+57B1	kXHC1983	0216.050:dàng
 U+57B2	kCantonese	hoi2
@@ -40215,7 +40215,7 @@ U+57B2	kMandarin	kǎi
 U+57B2	kXHC1983	0631.070:kǎi
 U+57B3	kCantonese	hang4
 U+57B3	kJapaneseKun	GAKE
-U+57B3	kMandarin	hang
+U+57B3	kMandarin	háng
 U+57B4	kCantonese	lou5 nou5
 U+57B4	kDefinition	small, head shaped hill, used in place names
 U+57B4	kHanyuPinyin	10441.110:nǎo
@@ -40420,7 +40420,7 @@ U+57D5	kMandarin	chéng
 U+57D5	kVietnamese	chĩnh
 U+57D5	kXHC1983	0138.070:chéng
 U+57D6	kJapaneseKun	GOMI
-U+57D6	kMandarin	hua
+U+57D6	kMandarin	huā
 U+57D7	kCantonese	bou4 bou6
 U+57D7	kDefinition	(same as U+5E70 埠) a wharf, dock, jetty; a trading center, port; place name (e.g., 深水埗 in Hong Kong)
 U+57D7	kHanyuPinyin	10443.140:bù
@@ -40459,7 +40459,7 @@ U+57DE	kCantonese	deng6
 U+57DE	kDefinition	(Cant.) place
 U+57DE	kJapaneseKun	TSUTSUMI
 U+57DE	kJapaneseOn	TEI
-U+57DE	kMandarin	dǐ
+U+57DE	kMandarin	dī
 U+57DF	kCantonese	wik6
 U+57DF	kDefinition	district, region, boundary; land
 U+57DF	kHangul	역
@@ -40818,10 +40818,10 @@ U+5811	kDefinition	moat, trench, pit, cavity
 U+5811	kMandarin	qiàn
 U+5811	kXHC1983	0915.110:qiàn
 U+5812	kCantonese	kwan1
-U+5812	kMandarin	kun
+U+5812	kMandarin	kūn
 U+5813	kHanyuPinyin	10453.070:àn
 U+5813	kMandarin	àn
-U+5814	kMandarin	shen
+U+5814	kMandarin	shēn
 U+5815	kCantonese	do6
 U+5815	kDefinition	fall, sink, let fall; degenerate
 U+5815	kJapaneseKun	KUZUSU KUZURERU OCHIRU
@@ -40918,7 +40918,7 @@ U+5824	kHanyuPinyin	10463.010:dǐ,dī,shí,wéi
 U+5824	kJapaneseKun	TSUTSUMI
 U+5824	kJapaneseOn	TEI SHI
 U+5824	kKorean	CEY
-U+5824	kMandarin	dī
+U+5824	kMandarin	dī tí
 U+5824	kVietnamese	đê
 U+5824	kXHC1983	0229.050:dī
 U+5825	kHanyuPinyin	10469.120:máo,móu,wǔ
@@ -41101,11 +41101,11 @@ U+5840	kHangul	병
 U+5840	kJapaneseKun	KAKI
 U+5840	kJapaneseOn	HEI
 U+5840	kKorean	PYENG
-U+5840	kMandarin	ping
+U+5840	kMandarin	píng
 U+5841	kDefinition	rampart, military wall
 U+5841	kJapaneseKun	TORIDE RUI
 U+5841	kJapaneseOn	RUI
-U+5841	kMandarin	lei
+U+5841	kMandarin	lěi
 U+5842	kHanyuPinyin	10460.020:xiàng,jiǎng
 U+5842	kMandarin	xiàng
 U+5843	kHanyuPinyin	10461.010:huāng
@@ -41397,7 +41397,7 @@ U+586E	kXHC1983	1277.140:xiè
 U+586F	kHanyuPinyin	10473.140:liù
 U+586F	kMandarin	liù
 U+5870	kJapaneseKun	AMA
-U+5870	kMandarin	hai
+U+5870	kMandarin	hǎi
 U+5871	kCantonese	long5
 U+5871	kDefinition	place name in Guangdong province
 U+5871	kMandarin	lǎng
@@ -41547,7 +41547,7 @@ U+5886	kVietnamese	đai
 U+5887	kCantonese	ging2
 U+5887	kJapaneseKun	HUSEGU
 U+5887	kJapaneseOn	SHOU
-U+5887	kMandarin	zhāng
+U+5887	kMandarin	zhàng
 U+5887	kTang	*giæ̌ng
 U+5888	kCantonese	ham3
 U+5888	kDefinition	cliff
@@ -41661,7 +41661,7 @@ U+589A	kDefinition	mountain range
 U+589A	kHanyuPinyin	10483.020:liáng
 U+589A	kMandarin	liáng
 U+589A	kXHC1983	0706.030:liáng
-U+589B	kMandarin	wei
+U+589B	kMandarin	wèi
 U+589C	kCantonese	zeoi6
 U+589C	kDefinition	fall down, drop, sink, go to ruin
 U+589C	kHangul	추
@@ -41838,9 +41838,9 @@ U+58B6	kXHC1983	0203.051:da
 U+58B7	kHanyuPinyin	10486.020:yè
 U+58B7	kMandarin	yè
 U+58B8	kJapaneseOn	SHO
-U+58B8	kMandarin	zhu
+U+58B8	kMandarin	zhù
 U+58B9	kJapaneseKun	MAMA
-U+58B9	kMandarin	jian
+U+58B9	kMandarin	jiàn
 U+58BA	kCantonese	ou3
 U+58BA	kDefinition	four walls
 U+58BA	kHangul	오
@@ -42034,7 +42034,7 @@ U+58D6	kJapaneseOn	ZEN NEN
 U+58D6	kMandarin	ruán
 U+58D6	kXHC1983	0976.021:ruán
 U+58D7	kJapaneseKun	MAMA
-U+58D7	kMandarin	jin
+U+58D7	kMandarin	jìn
 U+58D8	kCantonese	leoi5 leot6
 U+58D8	kDefinition	rampart, military wall
 U+58D8	kHangul	누 루
@@ -42146,7 +42146,7 @@ U+58E4	kTang	njiɑ̌ng
 U+58E4	kVietnamese	nhưỡng
 U+58E4	kXHC1983	0955.120:rǎng
 U+58E5	kJapaneseOn	TEN
-U+58E5	kMandarin	chan
+U+58E5	kMandarin	chán
 U+58E6	kMandarin	xūn
 U+58E7	kJapaneseKun	ANA
 U+58E7	kJapaneseOn	GAN
@@ -42303,7 +42303,7 @@ U+58FC	kXHC1983	0664.131:kǔn
 U+58FD	kCantonese	sau6
 U+58FD	kDefinition	old age, long life; lifespan
 U+58FD	kHangul	수
-U+58FD	kHanyuPinlu	shoù(20)
+U+58FD	kHanyuPinlu	shòu(20)
 U+58FD	kHanyuPinyin	10483.100:shòu
 U+58FD	kJapaneseKun	KOTOBUKI HISASHII KOTOOGU
 U+58FD	kJapaneseOn	JU SU SHUU JUU
@@ -42359,7 +42359,7 @@ U+5907	kMandarin	bèi
 U+5907	kXHC1983	0047.030:bèi
 U+5908	kHangul	재
 U+5908	kKorean	CAY
-U+5908	kMandarin	zhai
+U+5908	kMandarin	zhāi
 U+5909	kDefinition	change, transform, alter; rebel
 U+5909	kJapaneseKun	KAWARU KAERU
 U+5909	kJapaneseOn	HEN
@@ -42414,7 +42414,7 @@ U+5910	kKorean	HYENG
 U+5910	kMandarin	xiòng
 U+5910	kXHC1983	1295.040:xiòng
 U+5911	kCantonese	sit3
-U+5911	kMandarin	xie
+U+5911	kMandarin	xiè
 U+5912	kCantonese	naau4
 U+5912	kHanyuPinyin	20871.230:náo
 U+5912	kJapaneseKun	MEZARU
@@ -42516,13 +42516,13 @@ U+591E	kKorean	UYS
 U+591E	kMandarin	wài
 U+591F	kCantonese	gau3
 U+591F	kDefinition	enough, adequate
-U+591F	kHanyuPinlu	goù(991)
+U+591F	kHanyuPinlu	gòu(991)
 U+591F	kHanyuPinyin	20863.190:gòu
 U+591F	kMandarin	gòu
 U+591F	kXHC1983	0392.040:gòu
 U+5920	kCantonese	gau3
 U+5920	kDefinition	enough, adequate
-U+5920	kHanyuPinlu	goù(991)
+U+5920	kHanyuPinlu	gòu(991)
 U+5920	kHanyuPinyin	20864.050:gòu
 U+5920	kJapaneseKun	ATSUMARU OOI
 U+5920	kJapaneseOn	KOU KU
@@ -42687,7 +42687,7 @@ U+5933	kJapaneseOn	TAI
 U+5933	kMandarin	tài
 U+5934	kCantonese	tau4
 U+5934	kDefinition	head; top; chief, first; boss
-U+5934	kHanyuPinlu	toú(3058) tou(715)
+U+5934	kHanyuPinlu	tóu(3058) tou(715)
 U+5934	kMandarin	tóu
 U+5934	kXHC1983	1156.030:tóu 1157.010:tou
 U+5935	kHanyuPinyin	10528.020:yǎn,tāo
@@ -42845,7 +42845,7 @@ U+594C	kJapaneseKun	BOCHI CHOBO TEN
 U+594C	kJapaneseOn	TEN
 U+594C	kKorean	CEM
 U+594C	kMandarin	diǎn
-U+594D	kMandarin	yang
+U+594D	kMandarin	quān
 U+594E	kCantonese	fui1 kwai1
 U+594E	kDefinition	stride of man; one of the twenty-eight lunar mansions
 U+594E	kHangul	규
@@ -42858,7 +42858,7 @@ U+594E	kXHC1983	0662.050:kuí
 U+594F	kCantonese	zau3
 U+594F	kDefinition	memorialize emperor; report
 U+594F	kHangul	주
-U+594F	kHanyuPinlu	zoù(26)
+U+594F	kHanyuPinlu	zòu(26)
 U+594F	kHanyuPinyin	10537.010:zòu,còu
 U+594F	kJapaneseKun	KANADERU SUSUMERU
 U+594F	kJapaneseOn	SOU
@@ -43389,7 +43389,7 @@ U+599A	kHanyuPinyin	21030.010:fǒu,pēi,pī
 U+599A	kJapaneseOn	FUU HAI
 U+599A	kMandarin	fǒu
 U+599B	kJapaneseOn	SHI
-U+599B	kMandarin	chi
+U+599B	kMandarin	chī
 U+599C	kHanyuPinyin	21033.120:yuè,jué
 U+599C	kMandarin	yuè
 U+599D	kCantonese	zong1
@@ -44530,7 +44530,7 @@ U+5A53	kJapaneseKun	SAMAYOU
 U+5A53	kJapaneseOn	HI
 U+5A53	kMandarin	fēi
 U+5A54	kCantonese	fei1
-U+5A54	kMandarin	fei
+U+5A54	kMandarin	fēi
 U+5A55	kCantonese	zit3 zit6
 U+5A55	kDefinition	handsome
 U+5A55	kHanyuPinyin	21057.050:jié,qiè
@@ -44698,7 +44698,7 @@ U+5A71	kCantonese	jin4
 U+5A71	kMandarin	xián
 U+5A72	kHangul	화
 U+5A72	kKorean	HWA
-U+5A72	kMandarin	hua
+U+5A72	kMandarin	huā
 U+5A73	kCantonese	waak6
 U+5A73	kDefinition	tranquil
 U+5A73	kJapaneseKun	SHITOYAKA MIMEYOI
@@ -44967,7 +44967,7 @@ U+5AA7	kMandarin	wā
 U+5AA7	kTang	gua
 U+5AA7	kVietnamese	oa
 U+5AA7	kXHC1983	1176.091:wā
-U+5AA8	kMandarin	jiù
+U+5AA8	kMandarin	cù
 U+5AA9	kHanyuPinyin	21063.170:hú
 U+5AA9	kJapaneseOn	KO GO
 U+5AA9	kMandarin	hú
@@ -44981,7 +44981,7 @@ U+5AAA	kKorean	O
 U+5AAA	kMandarin	ǎo
 U+5AAA	kXHC1983	0012.020:ǎo
 U+5AAB	kCantonese	zit3
-U+5AAB	kMandarin	qie
+U+5AAB	kMandarin	jié
 U+5AAC	kCantonese	bou2
 U+5AAC	kDefinition	governess; nurse
 U+5AAC	kHanyuPinyin	80018.110:bǎo
@@ -45462,7 +45462,7 @@ U+5AF8	kJapaneseOn	SEN
 U+5AF8	kMandarin	zhǎn
 U+5AF9	kJapaneseKun	MIMEYOISAMA
 U+5AF9	kJapaneseOn	BAU MEU
-U+5AF9	kMandarin	máo
+U+5AF9	kMandarin	miáo
 U+5AFA	kCantonese	haan4
 U+5AFA	kDefinition	refined, elegant, gracious
 U+5AFA	kHangul	한
@@ -45751,7 +45751,7 @@ U+5B30	kKorean	YENG
 U+5B30	kMandarin	yīng
 U+5B30	kTang	qiɛng
 U+5B30	kVietnamese	anh
-U+5B31	kMandarin	cán
+U+5B31	kMandarin	qiàn
 U+5B32	kCantonese	nau1 niu5
 U+5B32	kDefinition	frolic, play with; flirt with; (Cant.) angry
 U+5B32	kHangul	뇨
@@ -45776,7 +45776,7 @@ U+5B35	kHanyuPinyin	21088.060:mián
 U+5B35	kMandarin	mián
 U+5B36	kDefinition	a wife (vulgar)
 U+5B36	kJapaneseKun	KAKA KAKAU
-U+5B36	kMandarin	bi
+U+5B36	kMandarin	bí
 U+5B37	kCantonese	maa1
 U+5B37	kDefinition	mother
 U+5B37	kJapaneseOn	BA MA
@@ -46085,7 +46085,7 @@ U+5B66	kJapaneseOn	GAKU
 U+5B66	kKorean	HAK
 U+5B66	kMandarin	xué
 U+5B66	kXHC1983	1308.120:xué
-U+5B67	kMandarin	you
+U+5B67	kMandarin	yòu
 U+5B68	kCantonese	zyun2
 U+5B68	kHanyuPinyin	21015.150:zhuǎn,nì
 U+5B68	kJapaneseKun	TSUTSUSHIMU YOWAI MINASHIGO
@@ -46317,7 +46317,7 @@ U+5B87	kXHC1983	1411.040:yǔ
 U+5B88	kCantonese	sau2
 U+5B88	kDefinition	defend, protect, guard, conserve
 U+5B88	kHangul	수
-U+5B88	kHanyuPinlu	shoǔ(218)
+U+5B88	kHanyuPinlu	shǒu(218)
 U+5B88	kHanyuPinyin	20912.030:shǒu,shòu
 U+5B88	kJapaneseKun	MAMORU MORI MAMORI
 U+5B88	kJapaneseOn	SHU SU
@@ -46455,7 +46455,7 @@ U+5B98	kXHC1983	0406.020:guān
 U+5B99	kCantonese	zau6
 U+5B99	kDefinition	time as concept; infinite time
 U+5B99	kHangul	주
-U+5B99	kHanyuPinlu	zhoù(130)
+U+5B99	kHanyuPinlu	zhòu(130)
 U+5B99	kHanyuPinyin	20921.020:zhòu
 U+5B99	kJapaneseKun	SORA
 U+5B99	kJapaneseOn	CHUU
@@ -46839,7 +46839,7 @@ U+5BC6	kXHC1983	0783.010:mì
 U+5BC7	kCantonese	kau3
 U+5BC7	kDefinition	bandits, thieves; enemy; invade
 U+5BC7	kHangul	구
-U+5BC7	kHanyuPinlu	koù(19)
+U+5BC7	kHanyuPinlu	kòu(19)
 U+5BC7	kHanyuPinyin	20936.070:kòu
 U+5BC7	kJapaneseKun	ADASURU ADA
 U+5BC7	kJapaneseOn	KOU
@@ -46851,7 +46851,7 @@ U+5BC7	kXHC1983	0652.010:kòu
 U+5BC8	kMandarin	qīng
 U+5BC9	kJapaneseKun	TSURU
 U+5BC9	kJapaneseOn	KAKU
-U+5BC9	kMandarin	què
+U+5BC9	kMandarin	hè
 U+5BCA	kHanyuPinyin	20942.090:zhēn
 U+5BCA	kJapaneseOn	TEI CHAWA
 U+5BCA	kMandarin	zhēn
@@ -47271,7 +47271,7 @@ U+5BFE	kKorean	TAY
 U+5BFE	kMandarin	duì
 U+5BFF	kCantonese	sau6
 U+5BFF	kDefinition	old age, long life; lifespan
-U+5BFF	kHanyuPinlu	shoù(20)
+U+5BFF	kHanyuPinlu	shòu(20)
 U+5BFF	kJapaneseKun	KOTOBUKI HISASHII KOTOHOGU
 U+5BFF	kJapaneseOn	JU JUU SU SHUU
 U+5BFF	kKorean	SWU
@@ -47517,7 +47517,7 @@ U+5C1A	kMandarin	shàng
 U+5C1A	kTang	*zhiɑ̀ng zhiɑ̀ng
 U+5C1A	kVietnamese	chuộng
 U+5C1A	kXHC1983	1002.080:shàng
-U+5C1B	kMandarin	mo
+U+5C1B	kMandarin	mó
 U+5C1C	kCantonese	gaa1 gaat3
 U+5C1C	kDefinition	a child toy
 U+5C1C	kHanyuPinyin	10564.060:gá
@@ -47568,7 +47568,7 @@ U+5C23	kMandarin	wāng
 U+5C24	kCantonese	jau4
 U+5C24	kDefinition	especially, particularly
 U+5C24	kHangul	우
-U+5C24	kHanyuPinlu	yoú(110)
+U+5C24	kHanyuPinlu	yóu(110)
 U+5C24	kHanyuPinyin	10551.140:yóu
 U+5C24	kJapaneseKun	TOGAMERU TOGA MOTTOMO
 U+5C24	kJapaneseOn	YUU
@@ -48143,7 +48143,7 @@ U+5C71	kMandarin	shān
 U+5C71	kTang	*shrɛn
 U+5C71	kVietnamese	sơn
 U+5C71	kXHC1983	0995.070:shān
-U+5C72	kMandarin	wa
+U+5C72	kMandarin	wā
 U+5C73	kHangul	선
 U+5C73	kJapaneseOn	SEN
 U+5C73	kKorean	SEN
@@ -48160,8 +48160,8 @@ U+5C75	kJapaneseOn	GATSU GACHI GETSU GECHI
 U+5C75	kMandarin	è
 U+5C76	kDefinition	lofty
 U+5C76	kJapaneseKun	NATA
-U+5C76	kMandarin	dao
-U+5C77	kMandarin	hui
+U+5C76	kMandarin	huì
+U+5C77	kMandarin	huì
 U+5C78	kCantonese	lung4
 U+5C78	kHanyuPinyin	10761.010:lóng,hóng
 U+5C78	kMandarin	lóng
@@ -48564,7 +48564,7 @@ U+5CBB	kHanyuPinyin	10768.070:chí
 U+5CBB	kJapaneseOn	JI NI
 U+5CBB	kMandarin	chí
 U+5CBC	kJapaneseKun	YURI
-U+5CBC	kMandarin	ping
+U+5CBC	kMandarin	píng
 U+5CBD	kDefinition	place name in Guangxi province
 U+5CBD	kMandarin	dōng
 U+5CBD	kXHC1983	0258.020:dōng
@@ -48601,7 +48601,7 @@ U+5CC4	kDefinition	a range of peaks in Shandong and Jiangsu; the name of a mount
 U+5CC4	kMandarin	yì
 U+5CC4	kXHC1983	1372.040:yì
 U+5CC5	kJapaneseKun	KURA
-U+5CC5	kMandarin	bian
+U+5CC5	kMandarin	biàn
 U+5CC6	kCantonese	hap6
 U+5CC6	kHanyuPinyin	10770.210:hé
 U+5CC6	kJapaneseOn	KAHU GOHU
@@ -48713,7 +48713,7 @@ U+5CE0	kDefinition	mountain pass; crisis, climax
 U+5CE0	kHangul	상
 U+5CE0	kJapaneseKun	TOUGE
 U+5CE0	kKorean	SANG
-U+5CE0	kMandarin	gu
+U+5CE0	kMandarin	qiǎ
 U+5CE1	kCantonese	haap6
 U+5CE1	kDefinition	gorge, strait, ravine; isthmus
 U+5CE1	kHanyuPinlu	xiá(97)
@@ -48839,7 +48839,7 @@ U+5CF4	kMandarin	xiàn
 U+5CF4	kTang	hěn
 U+5CF5	kCantonese	wing4
 U+5CF5	kJapaneseOn	KOU
-U+5CF5	kMandarin	hóng
+U+5CF5	kMandarin	róng
 U+5CF6	kCantonese	dou2
 U+5CF6	kDefinition	island
 U+5CF6	kHangul	도
@@ -48876,7 +48876,7 @@ U+5CFB	kMandarin	jùn
 U+5CFB	kTang	suìn
 U+5CFB	kXHC1983	0624.120:jùn
 U+5CFC	kCantonese	kuk1
-U+5CFC	kMandarin	hào
+U+5CFC	kMandarin	gào
 U+5CFD	kCantonese	haap6
 U+5CFD	kDefinition	gorge, strait, ravine; isthmus
 U+5CFD	kHangul	협
@@ -49190,7 +49190,7 @@ U+5D2E	kXHC1983	0402.030:gù
 U+5D2F	kCantonese	jam4
 U+5D2F	kMandarin	yín
 U+5D2F	kXHC1983	1378.101:yín
-U+5D30	kMandarin	zi
+U+5D30	kMandarin	zī
 U+5D31	kCantonese	zak1
 U+5D31	kDefinition	lofty
 U+5D31	kHanyuPinyin	10785.210:zè
@@ -49395,7 +49395,7 @@ U+5D58	kMandarin	róng
 U+5D58	kXHC1983	0969.040:róng
 U+5D59	kDefinition	place name
 U+5D59	kJapaneseKun	YAMASHINA
-U+5D59	kMandarin	ke
+U+5D59	kMandarin	kē
 U+5D5A	kCantonese	jam1
 U+5D5A	kDefinition	lofty, towering
 U+5D5A	kKorean	KUM
@@ -49409,7 +49409,7 @@ U+5D5B	kXHC1983	1408.140:yú
 U+5D5C	kDefinition	rough, uneven, jagged, rugged
 U+5D5C	kJapaneseKun	KEWASHII SAKI
 U+5D5C	kJapaneseOn	KI
-U+5D5C	kMandarin	ti
+U+5D5C	kMandarin	qí
 U+5D5D	kCantonese	lau5
 U+5D5D	kDefinition	Goulou mountain peak in hunan
 U+5D5D	kMandarin	lǒu
@@ -49525,10 +49525,10 @@ U+5D74	kCantonese	zek3
 U+5D74	kDefinition	mountain ridge
 U+5D74	kHanyuPinyin	10792.010:jǐ
 U+5D74	kMandarin	jǐ
-U+5D75	kMandarin	shi
+U+5D75	kMandarin	shí
 U+5D76	kDefinition	low part of a mountain
 U+5D76	kJapaneseKun	TAO
-U+5D76	kMandarin	ruo
+U+5D76	kMandarin	ruò
 U+5D77	kCantonese	sung2
 U+5D77	kHanyuPinyin	10794.140:sǒng
 U+5D77	kJapaneseOn	SHOU SHUU SOU SU
@@ -49687,7 +49687,7 @@ U+5D95	kJapaneseOn	SEU ZEU SHOU JOU
 U+5D95	kKorean	CHO
 U+5D95	kMandarin	jiāo
 U+5D95	kXHC1983	0567.030:jiāo
-U+5D96	kMandarin	yǎn
+U+5D96	kMandarin	yān
 U+5D97	kCantonese	dang3 lou4
 U+5D97	kDefinition	Laoshan, mountain in Shandong
 U+5D97	kHanyuPinyin	10799.120:láo
@@ -49848,7 +49848,7 @@ U+5DB5	kHanyuPinyin	10800.170:zuǐ
 U+5DB5	kJapaneseOn	SAI
 U+5DB5	kMandarin	zuǐ
 U+5DB6	kCantonese	mei4
-U+5DB6	kMandarin	wei
+U+5DB6	kMandarin	wēi
 U+5DB7	kCantonese	ji4 jik6
 U+5DB7	kDefinition	a range of mountains in Hunan province
 U+5DB7	kHangul	의
@@ -49883,7 +49883,7 @@ U+5DBA	kKorean	LYENG
 U+5DBA	kMandarin	lǐng
 U+5DBA	kTang	*liɛ̌ng
 U+5DBA	kXHC1983	0723.011:lǐng
-U+5DBB	kMandarin	zá
+U+5DBB	kMandarin	jié
 U+5DBC	kCantonese	jyu4 zeoi6
 U+5DBC	kDefinition	island
 U+5DBC	kHangul	서
@@ -50023,7 +50023,7 @@ U+5DD4	kJapaneseOn	TEN
 U+5DD4	kKorean	CEN
 U+5DD4	kMandarin	diān
 U+5DD4	kTang	*den
-U+5DD5	kMandarin	nie
+U+5DD5	kMandarin	niè
 U+5DD6	kCantonese	ngaam4
 U+5DD6	kDefinition	cliff, precipice; cave, grotto
 U+5DD6	kHangul	암
@@ -50074,7 +50074,7 @@ U+5DDD	kXHC1983	0163.010:chuān
 U+5DDE	kCantonese	zau1
 U+5DDE	kDefinition	administrative division, state
 U+5DDE	kHangul	주
-U+5DDE	kHanyuPinlu	zhoū(30)
+U+5DDE	kHanyuPinlu	zhōu(30)
 U+5DDE	kHanyuPinyin	10046.030:zhōu
 U+5DDE	kJapaneseKun	SU SHIMA
 U+5DDE	kJapaneseOn	SHUU SU
@@ -50206,7 +50206,7 @@ U+5DEE	kHanyuPinyin	10413.040:chā,chà,chāi,chài,cī,cuō,jiē
 U+5DEE	kJapaneseKun	SASU TAGAU TAGAI
 U+5DEE	kJapaneseOn	SHI SA
 U+5DEE	kKorean	CHA CHI
-U+5DEE	kMandarin	chà
+U+5DEE	kMandarin	chà chā
 U+5DEE	kTang	*chriɛ
 U+5DEE	kVietnamese	sai
 U+5DEE	kXHC1983	0111.030:chā 0114.150:chà 0115.100:chāi 0116.070:chài 0172.100:cī
@@ -50393,7 +50393,7 @@ U+5E06	kHanyuPinyin	10730.130:fān,fàn
 U+5E06	kJapaneseKun	HO
 U+5E06	kJapaneseOn	HAN
 U+5E06	kKorean	PEM
-U+5E06	kMandarin	fān
+U+5E06	kMandarin	fān fán
 U+5E06	kTang	*bhiæm
 U+5E06	kXHC1983	0298.020:fān
 U+5E07	kJapaneseKun	TEWAZAGASUBAYAI
@@ -50843,7 +50843,7 @@ U+5E48	kJapaneseOn	HEI
 U+5E48	kMandarin	píng
 U+5E48	kXHC1983	0879.010:píng
 U+5E49	kJapaneseKun	TAZUNA
-U+5E49	kMandarin	die
+U+5E49	kMandarin	dié
 U+5E4A	kHanyuPinyin	10749.030:gōng
 U+5E4A	kJapaneseKun	NUNO
 U+5E4A	kJapaneseOn	KOU KU
@@ -51025,8 +51025,8 @@ U+5E63	kVietnamese	giẻ
 U+5E63	kXHC1983	0059.011:bì
 U+5E64	kDefinition	evil, wrong, bad; criminal
 U+5E64	kJapaneseOn	HEI
-U+5E64	kMandarin	bi
-U+5E65	kMandarin	zhang
+U+5E64	kMandarin	bì
+U+5E65	kMandarin	zhǎng
 U+5E66	kCantonese	mik6
 U+5E66	kDefinition	cover
 U+5E66	kHanyuPinyin	10756.140:mì
@@ -51218,7 +51218,7 @@ U+5E7B	kXHC1983	0492.030:huàn
 U+5E7C	kCantonese	jau3
 U+5E7C	kDefinition	infant, young child; immature
 U+5E7C	kHangul	유
-U+5E7C	kHanyuPinlu	yoù(66)
+U+5E7C	kHanyuPinlu	yòu(66)
 U+5E7C	kHanyuPinyin	21093.070:yòu,yào
 U+5E7C	kJapaneseKun	OSANAI
 U+5E7C	kJapaneseOn	YOU YUU
@@ -51369,7 +51369,7 @@ U+5E91	kDefinition	corridor, hallway; luxuriant
 U+5E91	kMandarin	wǔ
 U+5E91	kXHC1983	1220.030:wǔ
 U+5E92	kCantonese	zong1
-U+5E92	kMandarin	zhuang
+U+5E92	kMandarin	zhuāng
 U+5E93	kCantonese	fu3
 U+5E93	kDefinition	armory, treasury, storehouse
 U+5E93	kHanyuPinlu	kù(91)
@@ -51767,7 +51767,7 @@ U+5ECC	kDefinition	unicorn
 U+5ECC	kJapaneseOn	CHI
 U+5ECC	kMandarin	zhì
 U+5ECD	kCantonese	bou6
-U+5ECD	kMandarin	pǒu
+U+5ECD	kMandarin	bù
 U+5ECE	kCantonese	king2
 U+5ECE	kDefinition	room
 U+5ECE	kHanyuPinyin	20899.100:qǐng,qìng,qīng
@@ -52013,7 +52013,7 @@ U+5EEC	kKorean	LYE
 U+5EEC	kMandarin	lú
 U+5EEC	kTang	*liu
 U+5EEC	kXHC1983	0735.081:lú
-U+5EED	kMandarin	ji
+U+5EED	kMandarin	jì
 U+5EEE	kHanyuPinyin	20908.120:yǐng
 U+5EEE	kJapaneseKun	OCHITSUKU
 U+5EEE	kJapaneseOn	EI YAU
@@ -52620,7 +52620,7 @@ U+5F40	kKorean	KWU
 U+5F40	kMandarin	gòu
 U+5F40	kXHC1983	0392.010:gòu
 U+5F41	kJapaneseOn	SEI
-U+5F41	kMandarin	ge
+U+5F41	kMandarin	gē
 U+5F42	kDefinition	issue, dispatch, send out, emit
 U+5F42	kJapaneseKun	HANATSU TSUKAWASU ABAKU OKORU
 U+5F42	kJapaneseOn	HOTSU HATSU
@@ -52639,7 +52639,7 @@ U+5F44	kJapaneseOn	KOU KU
 U+5F44	kMandarin	kōu
 U+5F44	kXHC1983	0649.060,0649.061:kōu
 U+5F45	kJapaneseKun	NAGI
-U+5F45	kMandarin	jian
+U+5F45	kMandarin	jiǎn
 U+5F46	kCantonese	bit3
 U+5F46	kDefinition	awkward
 U+5F46	kHangul	별
@@ -53711,7 +53711,7 @@ U+5FD9	kXHC1983	0764.100:máng
 U+5FDA	kHanyuPinyin	42273.030:xī,liě
 U+5FDA	kMandarin	xī
 U+5FDB	kCantonese	faan4
-U+5FDB	kMandarin	fán
+U+5FDB	kMandarin	fān
 U+5FDC	kDefinition	should, ought to, must
 U+5FDC	kJapaneseKun	KOTAERU ATARU
 U+5FDC	kJapaneseOn	OU YOU
@@ -53788,7 +53788,7 @@ U+5FE6	kHanyuPinyin	42277.080:jiá
 U+5FE6	kMandarin	jiá
 U+5FE7	kCantonese	jau1
 U+5FE7	kDefinition	sad, grieved; grief, melancholy
-U+5FE7	kHanyuPinlu	yoū(23)
+U+5FE7	kHanyuPinlu	yōu(23)
 U+5FE7	kHanyuPinyin	42276.060:yòu,yōu
 U+5FE7	kMandarin	yōu
 U+5FE7	kXHC1983	1393.060:yōu
@@ -54354,7 +54354,7 @@ U+6039	kMandarin	tān
 U+6039	kXHC1983	1112.090:tān
 U+603A	kDefinition	to endure
 U+603A	kJapaneseKun	KORAERU SHINOBU TAERU
-U+603A	kMandarin	yong
+U+603A	kMandarin	yǒng
 U+603B	kCantonese	zung2
 U+603B	kDefinition	collect; overall, altogether
 U+603B	kHanyuPinlu	zǒng(1599)
@@ -54534,7 +54534,7 @@ U+6055	kVietnamese	thứ
 U+6055	kXHC1983	1070.090:shù
 U+6056	kJapaneseKun	OMOOU OMOERAKU OBOSU
 U+6056	kJapaneseOn	SHI
-U+6056	kMandarin	si
+U+6056	kMandarin	sī
 U+6057	kHanyuPinyin	42294.120:hū,kuā
 U+6057	kJapaneseKun	OSORERU UREERU HOKORU
 U+6057	kJapaneseOn	KO KU KA KE
@@ -55027,7 +55027,7 @@ U+609F	kXHC1983	1223.110:wù
 U+60A0	kCantonese	jau4
 U+60A0	kDefinition	long, far, remote, distant; liesurely
 U+60A0	kHangul	유
-U+60A0	kHanyuPinlu	yoū(14)
+U+60A0	kHanyuPinlu	yōu(14)
 U+60A0	kHanyuPinyin	42300.150:yōu
 U+60A0	kJapaneseKun	TOOI HARUKA
 U+60A0	kJapaneseOn	YUU
@@ -55157,7 +55157,7 @@ U+60B3	kHangul	덕
 U+60B3	kJapaneseKun	TOKU OSHIE
 U+60B3	kJapaneseOn	TOKU
 U+60B3	kKorean	TEK
-U+60B3	kMandarin	duó
+U+60B3	kMandarin	dé
 U+60B4	kCantonese	seoi5 seoi6
 U+60B4	kDefinition	suffer, become emaciated, haggard
 U+60B4	kHangul	췌
@@ -55733,7 +55733,7 @@ U+6100	kXHC1983	0921.160:qiǎo
 U+6101	kCantonese	sau4
 U+6101	kDefinition	anxiety; to worry about, be anxious
 U+6101	kHangul	수
-U+6101	kHanyuPinlu	choú(48)
+U+6101	kHanyuPinlu	chóu(48)
 U+6101	kHanyuPinyin	42322.080:chóu,qiǎo,jiū
 U+6101	kJapaneseKun	UREI UREERU
 U+6101	kJapaneseOn	SHUU
@@ -55983,7 +55983,7 @@ U+6124	kDefinition	resent, hate; indignant
 U+6124	kHanyuPinlu	fèn(159)
 U+6124	kMandarin	fèn
 U+6124	kXHC1983	0323.040:fèn
-U+6125	kMandarin	ying
+U+6125	kMandarin	yīng
 U+6126	kCantonese	kui2
 U+6126	kDefinition	confused, troubled, muddle-headed
 U+6126	kMandarin	kuì
@@ -56607,7 +56607,7 @@ U+6181	kMandarin	còng
 U+6182	kCantonese	jau1
 U+6182	kDefinition	sad, grieved; grief, melancholy
 U+6182	kHangul	우
-U+6182	kHanyuPinlu	yoū(23)
+U+6182	kHanyuPinlu	yōu(23)
 U+6182	kHanyuPinyin	42341.140:yōu
 U+6182	kJapaneseKun	UREERU UREI UI
 U+6182	kJapaneseOn	YUU
@@ -56777,7 +56777,7 @@ U+619B	kMandarin	tán
 U+619C	kCantonese	do6
 U+619C	kJapaneseKun	TSUTSUMANAI
 U+619C	kJapaneseOn	TA DA
-U+619C	kMandarin	duǒ
+U+619C	kMandarin	duò
 U+619D	kCantonese	deoi6
 U+619D	kDefinition	to dislike, to abhor, to hate
 U+619D	kHanyuPinyin	42351.050:duì
@@ -57968,7 +57968,7 @@ U+624A	kXHC1983	1328.040:yǎn
 U+624B	kCantonese	sau2
 U+624B	kDefinition	hand
 U+624B	kHangul	수
-U+624B	kHanyuPinlu	shoǔ(2615) shou(12)
+U+624B	kHanyuPinlu	shǒu(2615) shou(12)
 U+624B	kHanyuPinyin	31824.010:shǒu
 U+624B	kJapaneseKun	TE TEZUKARA
 U+624B	kJapaneseOn	SHU
@@ -58063,7 +58063,7 @@ U+6255	kKorean	PWUL PHIL
 U+6255	kMandarin	fǎn
 U+6255	kVietnamese	chàng
 U+6256	kJapaneseKun	HAMERU SHIBORU
-U+6256	kMandarin	ru
+U+6256	kMandarin	rù
 U+6257	kHangul	재
 U+6257	kKorean	CAY
 U+6257	kMandarin	zài
@@ -58135,7 +58135,7 @@ U+6262	kVietnamese	ngắt
 U+6263	kCantonese	kau3
 U+6263	kDefinition	knock, strike, rap, tap; button
 U+6263	kHangul	구
-U+6263	kHanyuPinlu	koù(62)
+U+6263	kHanyuPinlu	kòu(62)
 U+6263	kHanyuPinyin	31829.130:kòu
 U+6263	kJapaneseKun	TATAKU HIKAERU UTSU
 U+6263	kJapaneseOn	KOU
@@ -58494,7 +58494,7 @@ U+6294	kXHC1983	0887.070:póu
 U+6295	kCantonese	tau4
 U+6295	kDefinition	throw, cast, fling, pitch; jump
 U+6295	kHangul	투
-U+6295	kHanyuPinlu	toú(264)
+U+6295	kHanyuPinlu	tóu(264)
 U+6295	kHanyuPinyin	31842.030:tóu,dòu
 U+6295	kJapaneseKun	NAGERU
 U+6295	kJapaneseOn	TOU
@@ -58506,7 +58506,7 @@ U+6295	kXHC1983	1158.010:tóu
 U+6296	kCantonese	dau2
 U+6296	kDefinition	tremble, shake, rouse; give shake
 U+6296	kHangul	두
-U+6296	kHanyuPinlu	doǔ(118)
+U+6296	kHanyuPinlu	dǒu(118)
 U+6296	kHanyuPinyin	31844.020:dǒu
 U+6296	kJapaneseKun	AGERU FURUU
 U+6296	kJapaneseOn	TOU TO
@@ -58615,7 +58615,7 @@ U+62A8	kKorean	PHYENG
 U+62A8	kMandarin	pēng
 U+62A8	kVietnamese	banh
 U+62A8	kXHC1983	0863.030:pēng
-U+62A9	kMandarin	tān
+U+62A9	kMandarin	nán
 U+62A9	kVietnamese	nhóm
 U+62AA	kCantonese	bo3
 U+62AA	kDefinition	to scatter, spread
@@ -58748,7 +58748,7 @@ U+62BC	kXHC1983	1318.040:yā
 U+62BD	kCantonese	cau1
 U+62BD	kDefinition	draw out, pull out; sprout
 U+62BD	kHangul	추
-U+62BD	kHanyuPinlu	choū(244)
+U+62BD	kHanyuPinlu	chōu(244)
 U+62BD	kHanyuPinyin	31852.020:chōu
 U+62BD	kJapaneseKun	NUKU HIKU
 U+62BD	kJapaneseOn	CHUU
@@ -59445,7 +59445,7 @@ U+6317	kVietnamese	dí
 U+6318	kCantonese	lyut3
 U+6318	kDefinition	to pluck, pick, tear; (Cant.) rubbing action
 U+6318	kJapaneseKun	MUSHIRU MUSHIRITORU
-U+6318	kMandarin	lie
+U+6318	kMandarin	liě
 U+6319	kDefinition	raise, lift up; recommend
 U+6319	kJapaneseKun	AGERU AGARU KOZORU
 U+6319	kJapaneseOn	KYO
@@ -59510,7 +59510,7 @@ U+6326	kDefinition	pull out, pluck; take hold of
 U+6326	kMandarin	xián
 U+6326	kXHC1983	1248.050:xián
 U+6327	kJapaneseOn	KU
-U+6327	kMandarin	yu
+U+6327	kMandarin	yǔ
 U+6328	kCantonese	aai1
 U+6328	kDefinition	near, close by, next to, towards, against; to wait; to lean on
 U+6328	kHangul	애
@@ -59594,7 +59594,7 @@ U+6335	kCantonese	lung6
 U+6335	kDefinition	to play with, handle things
 U+6335	kJapaneseKun	MOTEASOBU
 U+6335	kJapaneseOn	ROU RU
-U+6335	kMandarin	lòng
+U+6335	kMandarin	nòng
 U+6335	kVietnamese	lỏng
 U+6336	kCantonese	guk6
 U+6336	kDefinition	hold in hands
@@ -59853,7 +59853,7 @@ U+6358	kJapaneseOn	SON SHUN SAI
 U+6358	kMandarin	zùn
 U+6358	kVietnamese	thoa
 U+6358	kXHC1983	1550.010:zùn
-U+6359	kMandarin	yì
+U+6359	kMandarin	yè
 U+635A	kHanyuPinyin	31881.060:zhāi
 U+635A	kMandarin	zhāi
 U+635B	kJapaneseKun	TOMO
@@ -59900,7 +59900,7 @@ U+6363	kHanyuPinlu	dǎo(23)
 U+6363	kMandarin	dǎo
 U+6363	kXHC1983	0219.010:dǎo
 U+6364	kCantonese	mei5
-U+6364	kMandarin	wei
+U+6364	kMandarin	wěi
 U+6364	kVietnamese	vãi
 U+6365	kCantonese	wun2
 U+6365	kDefinition	to bend the wrist
@@ -60096,7 +60096,7 @@ U+637F	kHangul	서
 U+637F	kJapaneseKun	SUMU
 U+637F	kJapaneseOn	SEI
 U+637F	kKorean	SE
-U+637F	kMandarin	xī
+U+637F	kMandarin	qī
 U+6380	kCantonese	hin1
 U+6380	kDefinition	lift, raise; stir
 U+6380	kHangul	흔
@@ -60161,7 +60161,7 @@ U+6387	kXHC1983	0280.030:duō
 U+6388	kCantonese	sau6
 U+6388	kDefinition	give to, transmit; confer
 U+6388	kHangul	수
-U+6388	kHanyuPinlu	shoù(122)
+U+6388	kHanyuPinlu	shòu(122)
 U+6388	kHanyuPinyin	31901.020:shòu
 U+6388	kJapaneseKun	SAZUKERU SAZUKARU
 U+6388	kJapaneseOn	JU
@@ -60518,7 +60518,7 @@ U+63B4	kMandarin	guāi
 U+63B4	kXHC1983	0404.040:guāi 0426.020:guó
 U+63B5	kJapaneseKun	HABA
 U+63B5	kMandarin	ming
-U+63B6	kMandarin	geng
+U+63B6	kMandarin	jié
 U+63B7	kCantonese	zaak6
 U+63B7	kDefinition	throw, hurl, cast, fling
 U+63B7	kHanyuPinlu	zhì(14)
@@ -60634,7 +60634,7 @@ U+63C8	kXHC1983	0461.072:hōng
 U+63C9	kCantonese	jau4
 U+63C9	kDefinition	rub, massage; crush by hand
 U+63C9	kHangul	유
-U+63C9	kHanyuPinlu	roú(44)
+U+63C9	kHanyuPinlu	róu(44)
 U+63C9	kHanyuPinyin	31926.100:róu
 U+63C9	kJapaneseKun	MOMU
 U+63C9	kJapaneseOn	JUU
@@ -60653,7 +60653,7 @@ U+63CC	kMandarin	sāi
 U+63CC	kXHC1983	0981.090:sāi
 U+63CD	kCantonese	zau3
 U+63CD	kDefinition	hit, beat; smash, break
-U+63CD	kHanyuPinlu	zoù(25)
+U+63CD	kHanyuPinlu	zòu(25)
 U+63CD	kHanyuPinyin	31911.040:còu,zòu
 U+63CD	kMandarin	zòu
 U+63CD	kXHC1983	1544.010:zòu
@@ -61001,12 +61001,12 @@ U+6401	kMandarin	gē
 U+6401	kXHC1983	0370.060:gē 0373.010:gé
 U+6402	kCantonese	lau1 lau2 lau4 lau5
 U+6402	kDefinition	hug, embrace; drag, pull
-U+6402	kHanyuPinlu	loǔ(25)
+U+6402	kHanyuPinlu	lǒu(25)
 U+6402	kMandarin	lǒu
 U+6402	kXHC1983	0733.090:lōu 0734.070:lǒu
 U+6403	kDefinition	all, general; to summarize; the chief; to manage
 U+6403	kMandarin	zǒng
-U+6404	kMandarin	gēng
+U+6404	kMandarin	gèn
 U+6405	kCantonese	gaau2
 U+6405	kDefinition	disturb, agitate, stir up
 U+6405	kHanyuPinlu	jiǎo(41)
@@ -61171,7 +61171,7 @@ U+641B	kXHC1983	0546.080:jiān
 U+641C	kCantonese	sau1 sau2
 U+641C	kDefinition	search, seek; investigate
 U+641C	kHangul	수
-U+641C	kHanyuPinlu	soū(61)
+U+641C	kHanyuPinlu	sōu(61)
 U+641C	kHanyuPinyin	31919.070:sōu,xiāo,sòu,shǎo
 U+641C	kJapaneseKun	SAGASU
 U+641C	kJapaneseOn	SOU
@@ -61560,7 +61560,7 @@ U+645E	kMandarin	luò
 U+645E	kXHC1983	0750.180:luò
 U+645F	kCantonese	lau1 lau2 lau4 lau5
 U+645F	kDefinition	hug, embrace; drag, pull
-U+645F	kHanyuPinlu	loǔ(25)
+U+645F	kHanyuPinlu	lǒu(25)
 U+645F	kHanyuPinyin	31946.020:lōu,lǒu
 U+645F	kJapaneseKun	HIKU
 U+645F	kJapaneseOn	ROU RU
@@ -61750,7 +61750,7 @@ U+647D	kKorean	PHYO
 U+647D	kMandarin	biāo
 U+647D	kXHC1983	0071.030:biāo 0072.030:biào
 U+647E	kMandarin	jiàng
-U+647F	kMandarin	yīn
+U+647F	kMandarin	yáo
 U+6480	kMandarin	gòu
 U+6481	kHanyuPinyin	31949.050:qiān,qiàn
 U+6481	kMandarin	qiān
@@ -61764,7 +61764,7 @@ U+6483	kDefinition	strike, hit, beat; attack, fight
 U+6483	kJapaneseKun	UTSU
 U+6483	kJapaneseOn	GEKI KEKI
 U+6483	kKorean	KYEK
-U+6483	kMandarin	jí
+U+6483	kMandarin	jī
 U+6484	kCantonese	jing1
 U+6484	kDefinition	oppose, offend, run counter to
 U+6484	kMandarin	yīng
@@ -62360,7 +62360,7 @@ U+64D8	kHanyuPinyin	31966.050:bò
 U+64D8	kJapaneseKun	SAKU
 U+64D8	kJapaneseOn	HAKU HEKI BYAKU
 U+64D8	kKorean	PYEK
-U+64D8	kMandarin	bāi
+U+64D8	kMandarin	bāi bò
 U+64D8	kXHC1983	0019.081:bāi 0085.080:bò
 U+64D9	kCantonese	ngou1 ou1
 U+64D9	kDefinition	to reach
@@ -62381,10 +62381,10 @@ U+64DA	kXHC1983	0615.071:jù
 U+64DB	kHanyuPinyin	31966.120:yè
 U+64DB	kMandarin	yè
 U+64DB	kVietnamese	dẹp
-U+64DC	kMandarin	e
+U+64DC	kMandarin	è
 U+64DD	kCantonese	mang1 mang3
 U+64DD	kDefinition	(Cant.) to pull; to stretch; to pluck
-U+64DD	kMandarin	meng
+U+64DD	kMandarin	mēng
 U+64DE	kCantonese	sau2
 U+64DE	kDefinition	shake, tremble, quake; flutter
 U+64DE	kMandarin	sǒu
@@ -62501,7 +62501,7 @@ U+64ED	kJapaneseKun	AAGERU AAGARU
 U+64ED	kJapaneseOn	KYO
 U+64ED	kKorean	HWA
 U+64ED	kMandarin	wò
-U+64EE	kMandarin	jí
+U+64EE	kMandarin	jié
 U+64EF	kCantonese	ban3
 U+64EF	kDefinition	exclude, expel, reject; usher
 U+64EF	kHangul	빈
@@ -62775,7 +62775,7 @@ U+6519	kKorean	CHAM
 U+6519	kMandarin	chān
 U+6519	kVietnamese	sọm
 U+6519	kXHC1983	0116.101:chān
-U+651A	kMandarin	ying
+U+651A	kMandarin	wěng
 U+651B	kCantonese	cyun3
 U+651B	kDefinition	hurry; to throw; to urge; (Cant.) to seduce
 U+651B	kHanyuPinyin	31988.110:cuān
@@ -62821,7 +62821,7 @@ U+6520	kCantonese	mei4
 U+6520	kHanyuPinyin	31991.030:mí,mó
 U+6520	kMandarin	mí
 U+6521	kCantonese	ci1
-U+6521	kMandarin	lí
+U+6521	kMandarin	chī
 U+6522	kCantonese	cyun4 zaan2
 U+6522	kDefinition	save, hoard
 U+6522	kHangul	찬
@@ -62962,7 +62962,7 @@ U+6535	kMandarin	pū
 U+6536	kCantonese	sau1
 U+6536	kDefinition	gather together, collect; harvest
 U+6536	kHangul	수
-U+6536	kHanyuPinlu	shoū(768)
+U+6536	kHanyuPinlu	shōu(768)
 U+6536	kHanyuPinyin	21448.020:shōu
 U+6536	kJapaneseKun	OSAMERU
 U+6536	kJapaneseOn	SHUU
@@ -63342,7 +63342,7 @@ U+656A	kCantonese	zyut3
 U+656A	kDefinition	to weigh; cut; come without being invited
 U+656A	kJapaneseKun	HAKARU
 U+656A	kJapaneseOn	TATSU TACHI SETSU SECHI
-U+656A	kMandarin	duó
+U+656A	kMandarin	duō
 U+656B	kCantonese	giu2 giu3
 U+656B	kDefinition	ancient musical instrument
 U+656B	kHanyuPinyin	21470.130:jiǎo,qiāo,jiào
@@ -63373,7 +63373,7 @@ U+656E	kMandarin	xiá
 U+656F	kDefinition	to defy, dare; strong; to suffocate
 U+656F	kJapaneseKun	OKASU TSUTOMERU
 U+656F	kJapaneseOn	BIN MIN KON
-U+656F	kMandarin	mín
+U+656F	kMandarin	mǐn
 U+6570	kCantonese	sou2 sou3
 U+6570	kDefinition	number; several, count; fate
 U+6570	kHanyuPinlu	shù(1079) shǔ(91) shu(14)
@@ -63472,7 +63472,7 @@ U+657D	kMandarin	jiǎo
 U+657E	kDefinition	to rule
 U+657E	kHangul	선
 U+657E	kKorean	SEN
-U+657E	kMandarin	shan
+U+657E	kMandarin	shàn
 U+657F	kCantonese	giu2
 U+657F	kDefinition	bind
 U+657F	kJapaneseKun	TSUNAGU
@@ -63617,12 +63617,12 @@ U+6596	kMandarin	wěi
 U+6597	kCantonese	dau2
 U+6597	kDefinition	Chinese peck; liquid measure
 U+6597	kHangul	두
-U+6597	kHanyuPinlu	doù(1360)
+U+6597	kHanyuPinlu	dòu(1360)
 U+6597	kHanyuPinyin	32252.010:dǒu,zhǔ,dòu
 U+6597	kJapaneseKun	TOMASU MASU HISHAKU
 U+6597	kJapaneseOn	TO TOU
 U+6597	kKorean	TWU
-U+6597	kMandarin	dòu
+U+6597	kMandarin	dòu dǒu
 U+6597	kTang	*dǒu
 U+6597	kVietnamese	đấu
 U+6597	kXHC1983	0262.030:dǒu 0263.060:dòu
@@ -64741,7 +64741,7 @@ U+6634	kMandarin	mǎo
 U+6634	kXHC1983	0769.070:mǎo
 U+6635	kCantonese	nik1
 U+6635	kDefinition	intimate, close; approach
-U+6635	kHangul	닉
+U+6635	kHangul	닐
 U+6635	kHanyuPinyin	21504.020:nì,nǐ,zhì
 U+6635	kJapaneseKun	CHIKAZUKU
 U+6635	kJapaneseOn	JITSU SHOKU
@@ -64783,7 +64783,7 @@ U+663B	kKorean	ANG
 U+663B	kMandarin	áng
 U+663C	kCantonese	zau3
 U+663C	kDefinition	daytime, daylight
-U+663C	kHanyuPinlu	zhoù(29)
+U+663C	kHanyuPinlu	zhòu(29)
 U+663C	kJapaneseKun	HIRU
 U+663C	kJapaneseOn	CHUU
 U+663C	kKorean	CWU
@@ -64991,7 +64991,7 @@ U+665C	kMandarin	kūn
 U+665D	kCantonese	zau3
 U+665D	kDefinition	daytime, daylight
 U+665D	kHangul	주
-U+665D	kHanyuPinlu	zhoù(29)
+U+665D	kHanyuPinlu	zhòu(29)
 U+665D	kHanyuPinyin	21515.020:zhòu
 U+665D	kJapaneseKun	HIRU
 U+665D	kJapaneseOn	CHUU
@@ -65059,7 +65059,7 @@ U+6665	kCantonese	wun5
 U+6665	kDefinition	Anhui province
 U+6665	kHangul	환
 U+6665	kKorean	HWAN
-U+6665	kMandarin	hàn
+U+6665	kMandarin	wǎn
 U+6666	kCantonese	fui3
 U+6666	kDefinition	dark, unclear, obscure; night
 U+6666	kHangul	회
@@ -65270,7 +65270,7 @@ U+6682	kHanyuPinlu	zàn(96)
 U+6682	kMandarin	zàn
 U+6682	kXHC1983	1439.100:zàn
 U+6683	kJapaneseOn	HI
-U+6683	kMandarin	fei
+U+6683	kMandarin	fēi
 U+6684	kCantonese	hyun1
 U+6684	kDefinition	warm, comfortable; warm, genial
 U+6684	kHangul	훤
@@ -65434,7 +65434,7 @@ U+669B	kJapaneseOn	SA
 U+669B	kMandarin	suǒ
 U+669C	kJapaneseKun	AMANESHI
 U+669C	kJapaneseOn	FU
-U+669C	kMandarin	jìn
+U+669C	kMandarin	pǔ
 U+669D	kCantonese	ming4 ming6
 U+669D	kDefinition	dark, obscure
 U+669D	kHangul	명
@@ -65540,7 +65540,7 @@ U+66B0	kHanyuPinyin	21534.130:cōng
 U+66B0	kMandarin	cōng
 U+66B1	kCantonese	nik1
 U+66B1	kDefinition	intimate, close; approach
-U+66B1	kHangul	닉
+U+66B1	kHangul	닐
 U+66B1	kHanyuPinyin	21528.040:nì
 U+66B1	kJapaneseKun	CHIKAZUKU CHIKAZUKI
 U+66B1	kJapaneseOn	JITSU NICHI
@@ -65602,7 +65602,7 @@ U+66B9	kKorean	SEM
 U+66B9	kMandarin	xiān
 U+66B9	kVietnamese	xiêm
 U+66B9	kXHC1983	1244.040:xiān
-U+66BA	kMandarin	dàn
+U+66BA	kMandarin	tǎn
 U+66BB	kDefinition	bright
 U+66BB	kHangul	경
 U+66BB	kHanyuPinyin	21536.080:jǐng
@@ -66006,7 +66006,7 @@ U+66FA	kKorean	CO
 U+66FA	kMandarin	cáo
 U+66FB	kJapaneseKun	NOBORU
 U+66FB	kJapaneseOn	SHOU
-U+66FB	kMandarin	sheng
+U+66FB	kMandarin	shēng
 U+66FC	kCantonese	maan6
 U+66FC	kDefinition	long, extended, vast; beautiful
 U+66FC	kHangul	만
@@ -66110,7 +66110,7 @@ U+6708	kXHC1983	1429.020:yuè
 U+6709	kCantonese	jau5 jau6
 U+6709	kDefinition	have, own, possess; exist
 U+6709	kHangul	유
-U+6709	kHanyuPinlu	yoǔ(17798)
+U+6709	kHanyuPinlu	yǒu(17798)
 U+6709	kHanyuPinyin	32041.050:yǒu,yòu,wěi
 U+6709	kJapaneseKun	ARU MOTSU TAMOTSU
 U+6709	kJapaneseOn	YUU U
@@ -66304,7 +66304,7 @@ U+6723	kMandarin	tóng
 U+6723	kTang	dhung
 U+6724	kMandarin	lǎng
 U+6725	kCantonese	lou4
-U+6725	kMandarin	lao
+U+6725	kMandarin	láo
 U+6726	kCantonese	mung4
 U+6726	kDefinition	condition or appearance of moon
 U+6726	kHangul	몽
@@ -66521,7 +66521,7 @@ U+6740	kHanyuPinlu	shā(275)
 U+6740	kMandarin	shā
 U+6740	kXHC1983	0992.040:shā
 U+6741	kJapaneseKun	EBURI IRI
-U+6741	kMandarin	ru
+U+6741	kMandarin	rù
 U+6742	kCantonese	zaap6
 U+6742	kDefinition	mixed, blended; mix, mingle
 U+6742	kHanyuPinlu	zá(356)
@@ -66651,7 +66651,7 @@ U+6753	kHanyuPinyin	21161.050:biāo,sháo,shuó,dí,zhuó
 U+6753	kJapaneseKun	HISHAKU
 U+6753	kJapaneseOn	HYOU TEKI SHAKU
 U+6753	kKorean	PHYO CAK
-U+6753	kMandarin	biāo
+U+6753	kMandarin	biāo sháo
 U+6753	kTang	zhiɑk
 U+6753	kXHC1983	0069.080:biāo 1008.081:sháo
 U+6754	kHanyuPinyin	21160.080:tuō,zhé
@@ -66759,11 +66759,11 @@ U+6762	kJapaneseKun	MOKU
 U+6762	kMandarin	jiang
 U+6763	kDefinition	timber forest; timber, lumber; woodcutter
 U+6763	kJapaneseKun	SOMA
-U+6763	kMandarin	shan
+U+6763	kMandarin	mián
 U+6763	kVietnamese	sơn
 U+6764	kDefinition	type of oak; stable
 U+6764	kJapaneseKun	TOCHI
-U+6764	kMandarin	wan
+U+6764	kMandarin	wàn
 U+6765	kCantonese	loi4
 U+6765	kDefinition	come, coming; return, returning
 U+6765	kHanyuPinlu	lái(14549)
@@ -66772,7 +66772,7 @@ U+6765	kJapaneseOn	RAI
 U+6765	kMandarin	lái
 U+6765	kXHC1983	0669.120:lái
 U+6766	kJapaneseKun	SUGI
-U+6766	kMandarin	jiu
+U+6766	kMandarin	jiǔ
 U+6767	kCantonese	mong4
 U+6767	kDefinition	mango (Mangifera indica)
 U+6767	kHanyuPinyin	21161.100:máng
@@ -66982,7 +66982,7 @@ U+6783	kHanyuPinyin	21173.140:jìn
 U+6783	kMandarin	jìn
 U+6784	kCantonese	gau3 kau3
 U+6784	kDefinition	frame, building, structure
-U+6784	kHanyuPinlu	goù(317)
+U+6784	kHanyuPinlu	gòu(317)
 U+6784	kJapaneseKun	KAMAAERU KAMAAU
 U+6784	kJapaneseOn	KOU
 U+6784	kMandarin	gòu
@@ -67184,7 +67184,7 @@ U+67A0	kJapaneseKun	WAKU
 U+67A0	kMandarin	zui
 U+67A1	kDefinition	measuring box
 U+67A1	kJapaneseKun	MASU
-U+67A1	kMandarin	dǒu
+U+67A1	kMandarin	shēng
 U+67A2	kCantonese	syu1
 U+67A2	kDefinition	door hinge; pivot; center of power
 U+67A2	kHanyuPinlu	shū(15)
@@ -67198,14 +67198,14 @@ U+67A3	kHanyuPinlu	zǎo(20)
 U+67A3	kMandarin	zǎo
 U+67A3	kXHC1983	1441.050:zǎo
 U+67A4	kCantonese	dai6
-U+67A4	kMandarin	duo
+U+67A4	kMandarin	dì
 U+67A5	kCantonese	lik1
 U+67A5	kDefinition	type of oak; stable
 U+67A5	kMandarin	lì
 U+67A5	kXHC1983	0700.060:lì
 U+67A6	kJapaneseKun	HAZE
 U+67A6	kJapaneseOn	RO
-U+67A6	kMandarin	lu
+U+67A6	kMandarin	lú
 U+67A7	kCantonese	gaan2
 U+67A7	kDefinition	bamboo tube, wooden peg; spout
 U+67A7	kMandarin	jiǎn
@@ -67217,7 +67217,7 @@ U+67A8	kXHC1983	0135.070:chéng
 U+67A9	kDefinition	pine tree; fir tree
 U+67A9	kJapaneseKun	MATSU
 U+67A9	kJapaneseOn	SHOU
-U+67A9	kMandarin	song
+U+67A9	kMandarin	sōng
 U+67AA	kCantonese	coeng1
 U+67AA	kDefinition	spear, lance; gun, rifle
 U+67AA	kHanyuPinlu	qiāng(386)
@@ -67229,7 +67229,7 @@ U+67AB	kMandarin	fēng
 U+67AB	kXHC1983	0331.030:fēng
 U+67AC	kCantonese	zin1
 U+67AC	kDefinition	an even-grained, yellowish, fine wood used for furniture; cedar
-U+67AC	kMandarin	nán
+U+67AC	kMandarin	zhān
 U+67AD	kCantonese	hiu1
 U+67AD	kDefinition	owl thus, something evil
 U+67AD	kMandarin	xiāo
@@ -67457,14 +67457,14 @@ U+67CF	kHanyuPinyin	21185.030:bǎi,bó,bò
 U+67CF	kJapaneseKun	KASHIWA
 U+67CF	kJapaneseOn	HAKU
 U+67CF	kKorean	PAYK
-U+67CF	kMandarin	bǎi
+U+67CF	kMandarin	bǎi bó
 U+67CF	kTang	*bæk
 U+67CF	kVietnamese	bách
 U+67CF	kXHC1983	0025.020:bǎi 0084.070:bó 0085.060:bò
 U+67D0	kCantonese	mau5
 U+67D0	kDefinition	certain thing or person
 U+67D0	kHangul	모
-U+67D0	kHanyuPinlu	moǔ(294)
+U+67D0	kHanyuPinlu	mǒu(294)
 U+67D0	kHanyuPinyin	21177.040:méi,mǒu
 U+67D0	kJapaneseKun	SOREGASHI
 U+67D0	kJapaneseOn	BOU BAI
@@ -67506,7 +67506,7 @@ U+67D3	kXHC1983	0954.050:rǎn
 U+67D4	kCantonese	jau4
 U+67D4	kDefinition	soft; gentle, pliant
 U+67D4	kHangul	유
-U+67D4	kHanyuPinlu	roú(56)
+U+67D4	kHanyuPinlu	róu(56)
 U+67D4	kHanyuPinyin	21192.020:róu
 U+67D4	kJapaneseKun	YAWARAKAI YAWARAGERU YAWARA
 U+67D4	kJapaneseOn	NYUU JUU
@@ -67819,7 +67819,7 @@ U+6803	kDefinition	type of oak; stable
 U+6803	kHangul	회
 U+6803	kJapaneseKun	TOCHI
 U+6803	kKorean	HOY
-U+6803	kMandarin	li
+U+6803	kMandarin	lì
 U+6804	kCantonese	wing4
 U+6804	kDefinition	glory, honor; flourish, prosper
 U+6804	kJapaneseKun	SAKAERU HAERU SAKAE
@@ -67834,7 +67834,7 @@ U+6805	kJapaneseOn	SAKU SAN
 U+6805	kKorean	CHAYK
 U+6805	kMandarin	zhà
 U+6805	kXHC1983	0998.010:shān 1448.160:zhà
-U+6806	kMandarin	zao
+U+6806	kMandarin	zǎo
 U+6807	kCantonese	biu1
 U+6807	kDefinition	mark, symbol, label, sign; stand the bole of a tree
 U+6807	kHanyuPinlu	biāo(343)
@@ -68378,8 +68378,8 @@ U+685C	kMandarin	yīng
 U+685D	kCantonese	git6
 U+685D	kDefinition	variant of 枡 U+67A1, a measuring box
 U+685D	kJapaneseKun	MASU
-U+685D	kMandarin	jie
-U+685E	kMandarin	liu
+U+685D	kMandarin	jié
+U+685E	kMandarin	liǔ
 U+685F	kDefinition	a crosspiece, cleat, frame, door bolt; shelf
 U+685F	kJapaneseKun	KAKEHASHI TANA
 U+685F	kJapaneseOn	SAN SEN
@@ -68944,10 +68944,10 @@ U+68B9	kMandarin	bīn
 U+68B9	kVietnamese	biêng
 U+68B9	kXHC1983	0075.012:bīn 0076.032:bīng
 U+68BA	kJapaneseKun	FUMOTO
-U+68BA	kMandarin	xia
+U+68BA	kMandarin	xià
 U+68BB	kDefinition	a tree whose branches are placed on Buddhist graves
 U+68BB	kJapaneseKun	SHIKIMI
-U+68BB	kMandarin	fo
+U+68BB	kMandarin	fó
 U+68BC	kCantonese	to4
 U+68BC	kDefinition	block of wood; blockhead; stupid
 U+68BC	kJapaneseKun	KIRIKABU OROKA TSUKU
@@ -69002,7 +69002,7 @@ U+68C5	kDefinition	handle, lever, knob; authority
 U+68C5	kHangul	병
 U+68C5	kJapaneseOn	HEI HYOU
 U+68C5	kKorean	PYENG
-U+68C5	kMandarin	bìng
+U+68C5	kMandarin	bǐng
 U+68C6	kDefinition	camphor tree
 U+68C6	kHanyuPinyin	21235.030:lún
 U+68C6	kJapaneseOn	RIN
@@ -69552,16 +69552,16 @@ U+6919	kCantonese	coeng1
 U+6919	kHangul	창
 U+6919	kJapaneseKun	SUGI
 U+6919	kKorean	CHANG
-U+6919	kMandarin	chang
+U+6919	kMandarin	chāng
 U+691A	kCantonese	haan4
 U+691A	kDefinition	a kind of oak used for charcoal
 U+691A	kJapaneseKun	KUNUGI
-U+691A	kMandarin	men
+U+691A	kMandarin	mēn
 U+691A	kVietnamese	mun
 U+691B	kCantonese	waa4
 U+691B	kDefinition	type of birch
 U+691B	kJapaneseKun	MOMIJI KABA
-U+691B	kMandarin	hua
+U+691B	kMandarin	huā
 U+691C	kDefinition	check; examine
 U+691C	kJapaneseKun	SHIRABERU
 U+691C	kJapaneseOn	KEN
@@ -69579,12 +69579,12 @@ U+6920	kDefinition	wooden tablet; edition
 U+6920	kMandarin	qiàn
 U+6920	kXHC1983	0915.120:qiàn
 U+6921	kJapaneseKun	KUNUGI
-U+6921	kMandarin	dao
+U+6921	kMandarin	dào
 U+6922	kJapaneseKun	SOKO HAKO KUNUGI
 U+6922	kJapaneseOn	KAI KE
 U+6922	kMandarin	guì
 U+6923	kJapaneseKun	SHIDE
-U+6923	kMandarin	dian
+U+6923	kMandarin	diǎn
 U+6924	kCantonese	lo4
 U+6924	kDefinition	tree
 U+6924	kMandarin	luó
@@ -69602,17 +69602,17 @@ U+6927	kHangul	명
 U+6927	kKorean	MYENG
 U+6927	kMandarin	mìng
 U+6928	kJapaneseKun	TAFU TABU
-U+6928	kMandarin	fu
-U+6929	kMandarin	geng
+U+6928	kMandarin	fǔ
+U+6929	kMandarin	gēng
 U+692A	kCantonese	pung3
 U+692A	kDefinition	Machilus nanmu, variety of evergreen
 U+692A	kHanyuPinyin	21238.030:pèng
 U+692A	kJapaneseKun	KUNUGI
 U+692A	kMandarin	pèng
 U+692A	kXHC1983	0864.090:pèng
-U+692B	kMandarin	zhǎn
+U+692B	kMandarin	shàn
 U+692C	kCantonese	ji4
-U+692C	kMandarin	yi
+U+692C	kMandarin	yí
 U+692D	kCantonese	to5
 U+692D	kDefinition	oval-shaped, elliptical, tubular
 U+692D	kHanyuPinlu	tuǒ(11)
@@ -70106,7 +70106,7 @@ U+697B	kJapaneseOn	KOU OU
 U+697B	kMandarin	huáng
 U+697C	kCantonese	lau4
 U+697C	kDefinition	building of two or more stories
-U+697C	kHanyuPinlu	loú(179)
+U+697C	kHanyuPinlu	lóu(179)
 U+697C	kJapaneseKun	TAKADONO
 U+697C	kJapaneseOn	ROU
 U+697C	kKorean	LWU
@@ -70117,16 +70117,16 @@ U+697D	kJapaneseKun	TANOSHII TANOSHIMU KONOMU
 U+697D	kJapaneseOn	GAKU RAKU
 U+697D	kMandarin	lè
 U+697E	kJapaneseKun	HAZOU HANZOU
-U+697E	kMandarin	quan
+U+697E	kMandarin	quán
 U+697F	kJapaneseKun	KATSURA
-U+697F	kMandarin	xiang
+U+697F	kMandarin	xiāng
 U+6980	kCantonese	ban2
 U+6980	kHanyuPinyin	21250.060:pǐn
 U+6980	kJapaneseKun	KOMAI
 U+6980	kMandarin	pǐn
 U+6980	kXHC1983	0878.010:pǐn
 U+6981	kJapaneseKun	MURO
-U+6981	kMandarin	shi
+U+6981	kMandarin	shǐ
 U+6982	kCantonese	koi2 koi3
 U+6982	kDefinition	generally, approximately
 U+6982	kHanyuPinlu	gài(287)
@@ -70176,11 +70176,11 @@ U+6989	kXHC1983	0612.060:jǔ
 U+698A	kCantonese	san4
 U+698A	kDefinition	a sacred Shinto tree
 U+698A	kJapaneseKun	SAKAKI
-U+698A	kMandarin	shen
+U+698A	kMandarin	shén
 U+698B	kMandarin	chu
 U+698C	kDefinition	wooden ladder
 U+698C	kKorean	PI
-U+698C	kMandarin	pi
+U+698C	kMandarin	bī
 U+698D	kCantonese	sit3
 U+698D	kHanyuPinyin	21271.040:xiè
 U+698D	kJapaneseOn	SETSU
@@ -70403,7 +70403,7 @@ U+69B2	kCantonese	wan1 wat1
 U+69B2	kDefinition	pillar, cryptomeria
 U+69B2	kJapaneseKun	SUGI
 U+69B2	kJapaneseOn	OTSU OCHI UN
-U+69B2	kMandarin	yún
+U+69B2	kMandarin	wēn
 U+69B3	kHanyuPinyin	21268.020:tíng
 U+69B3	kMandarin	tíng
 U+69B4	kCantonese	lau4
@@ -70517,7 +70517,7 @@ U+69C5	kHanyuPinyin	21262.070:gé
 U+69C5	kJapaneseKun	KUBIKI SANE AMIDO
 U+69C5	kJapaneseOn	KAKU KYAKU
 U+69C5	kMandarin	gé
-U+69C6	kMandarin	xún
+U+69C6	kMandarin	chūn
 U+69C7	kDefinition	tip of a tree; fallen tree
 U+69C7	kHangul	전
 U+69C7	kHanyuPinyin	21266.090:diān,zhěn,zhēn
@@ -70545,7 +70545,7 @@ U+69CA	kXHC1983	1084.020:shuò
 U+69CB	kCantonese	gau3 kau3
 U+69CB	kDefinition	frame, building, structure
 U+69CB	kHangul	구
-U+69CB	kHanyuPinlu	goù(317)
+U+69CB	kHanyuPinlu	gòu(317)
 U+69CB	kHanyuPinyin	21259.070:gòu,jué
 U+69CB	kJapaneseKun	KAMAERU KAMAE KAMAU
 U+69CB	kJapaneseOn	KOU
@@ -70622,7 +70622,7 @@ U+69D4	kMandarin	gāo
 U+69D4	kVietnamese	cau
 U+69D4	kXHC1983	0367.060:gāo
 U+69D5	kCantonese	coek3 zoek3
-U+69D5	kMandarin	zhuó
+U+69D5	kMandarin	zhuō
 U+69D6	kCantonese	tok3
 U+69D6	kDefinition	a sack; a stamping sound
 U+69D6	kJapaneseKun	HUKURO HUIGO
@@ -70631,7 +70631,7 @@ U+69D6	kMandarin	tuó
 U+69D6	kXHC1983	1174.021:tuó
 U+69D7	kJapaneseKun	HASHI
 U+69D7	kJapaneseOn	KYOU
-U+69D7	kMandarin	qiao
+U+69D7	kMandarin	qiáo
 U+69D8	kDefinition	shape, form, pattern, style
 U+69D8	kJapaneseKun	SAMA ZAMA
 U+69D8	kJapaneseOn	YOU SHOU
@@ -70653,10 +70653,10 @@ U+69DC	kMandarin	zuì
 U+69DC	kXHC1983	1549.020:zuì
 U+69DD	kJapaneseKun	KASHI
 U+69DD	kJapaneseOn	TOU
-U+69DD	kMandarin	dao
+U+69DD	kMandarin	dǎo
 U+69DE	kJapaneseKun	ORI
 U+69DE	kJapaneseOn	ROU
-U+69DE	kMandarin	long
+U+69DE	kMandarin	lóng
 U+69DE	kVietnamese	trồng
 U+69DF	kCantonese	ban1
 U+69DF	kDefinition	betel-nut, areca nut
@@ -70667,7 +70667,7 @@ U+69E0	kDefinition	Oak
 U+69E0	kMandarin	zhū
 U+69E0	kXHC1983	1508.030:zhū
 U+69E1	kCantonese	song1
-U+69E1	kMandarin	sang
+U+69E1	kMandarin	sāng
 U+69E2	kCantonese	zaap6
 U+69E2	kDefinition	a hard wood
 U+69E2	kHanyuPinyin	21285.110:xí,dié
@@ -70849,7 +70849,7 @@ U+6A00	kHanyuPinyin	21284.040:dí,zhí,zhé
 U+6A00	kJapaneseKun	NOKI
 U+6A00	kJapaneseOn	TEKI CHAKU TAKU
 U+6A00	kKorean	CEK
-U+6A00	kMandarin	dī
+U+6A00	kMandarin	dí
 U+6A00	kXHC1983	0229.010:dī
 U+6A01	kCantonese	zong1
 U+6A01	kDefinition	stake, post; affair, matter
@@ -70950,7 +70950,7 @@ U+6A12	kMandarin	mì
 U+6A13	kCantonese	lau4
 U+6A13	kDefinition	building of two or more stories
 U+6A13	kHangul	누 루
-U+6A13	kHanyuPinlu	loú(179)
+U+6A13	kHanyuPinlu	lóu(179)
 U+6A13	kHanyuPinyin	21279.040:lóu,lǘ
 U+6A13	kJapaneseKun	TAKADONO
 U+6A13	kJapaneseOn	ROU
@@ -71127,15 +71127,15 @@ U+6A2B	kMandarin	jiān
 U+6A2C	kCantonese	sung2
 U+6A2C	kMandarin	cōng
 U+6A2D	kCantonese	kei4
-U+6A2D	kMandarin	ji
+U+6A2D	kMandarin	jī
 U+6A2E	kJapaneseKun	HOKUSO
-U+6A2E	kMandarin	yan
+U+6A2E	kMandarin	yān
 U+6A2F	kCantonese	coeng4
 U+6A2F	kDefinition	mast, yard-arm, boom
 U+6A2F	kMandarin	qiáng
 U+6A2F	kXHC1983	0917.120:qiáng
 U+6A30	kJapaneseKun	TARA
-U+6A30	kMandarin	xue
+U+6A30	kMandarin	xuě
 U+6A31	kCantonese	jing1
 U+6A31	kDefinition	cherry, cherry blossom
 U+6A31	kMandarin	yīng
@@ -71527,13 +71527,13 @@ U+6A71	kJapaneseOn	ZU CHUU CHU
 U+6A71	kMandarin	chú
 U+6A71	kXHC1983	0159.010:chú
 U+6A72	kJapaneseKun	ZUSA
-U+6A72	kMandarin	xi
+U+6A72	kMandarin	xǐ
 U+6A73	kJapaneseKun	NUDE
-U+6A73	kMandarin	sheng
+U+6A73	kMandarin	shèng
 U+6A74	kCantonese	zi2
 U+6A74	kDefinition	place name
 U+6A74	kKorean	CA
-U+6A74	kMandarin	zi
+U+6A74	kMandarin	zǐ
 U+6A75	kDefinition	wood placed under roof tiles
 U+6A75	kHangul	산
 U+6A75	kKorean	SAN
@@ -71542,7 +71542,7 @@ U+6A76	kMandarin	jí
 U+6A77	kMandarin	dōu
 U+6A77	kVietnamese	dâu
 U+6A78	kJapaneseOn	SHOU
-U+6A78	kMandarin	jing
+U+6A78	kMandarin	jīng
 U+6A79	kCantonese	lou5
 U+6A79	kDefinition	oar, scull; row, scull
 U+6A79	kMandarin	lǔ
@@ -71610,7 +71610,7 @@ U+6A84	kMandarin	xí
 U+6A84	kTang	hek
 U+6A84	kVietnamese	hịch
 U+6A84	kXHC1983	1232.130:xí
-U+6A85	kMandarin	suì
+U+6A85	kMandarin	huì
 U+6A86	kJapaneseKun	SUGI
 U+6A86	kJapaneseOn	SAN
 U+6A86	kMandarin	shān
@@ -71815,7 +71815,7 @@ U+6AA9	kXHC1983	0718.040:lǐn
 U+6AAA	kDefinition	chestnut-leaved oak; oak
 U+6AAA	kJapaneseKun	KUNUGI
 U+6AAA	kJapaneseOn	REKI ROU YAKU
-U+6AAA	kMandarin	li
+U+6AAA	kMandarin	lì
 U+6AAB	kCantonese	caat3
 U+6AAB	kDefinition	sassafras tzumu
 U+6AAB	kHanyuPinyin	21311.010:chá,sà
@@ -71985,7 +71985,7 @@ U+6AC9	kJapaneseKun	HITSU
 U+6AC9	kJapaneseOn	CHU
 U+6AC9	kMandarin	chú
 U+6ACA	kCantonese	gok3
-U+6ACA	kMandarin	ge
+U+6ACA	kMandarin	gé
 U+6ACA	kVietnamese	hàn gác
 U+6ACB	kCantonese	min4
 U+6ACB	kHanyuPinyin	21314.070:mián
@@ -72106,14 +72106,14 @@ U+6AE2	kMandarin	sǒu
 U+6AE3	kMandarin	lián
 U+6AE4	kJapaneseKun	TAMO
 U+6AE4	kJapaneseOn	SEN
-U+6AE4	kMandarin	jiang
+U+6AE4	kMandarin	jiàng
 U+6AE5	kCantonese	cyu4
 U+6AE5	kDefinition	cabinet, wardrobe, cupboard
 U+6AE5	kJapaneseKun	HITSU
 U+6AE5	kJapaneseOn	CHU
 U+6AE5	kMandarin	chú
 U+6AE5	kXHC1983	0159.011:chú
-U+6AE6	kMandarin	qing
+U+6AE6	kMandarin	qìng
 U+6AE7	kCantonese	zyu1
 U+6AE7	kDefinition	Oak
 U+6AE7	kHanyuPinyin	21315.040:zhū
@@ -72303,8 +72303,8 @@ U+6B0B	kMandarin	qú
 U+6B0B	kXHC1983	0944.120:qú
 U+6B0C	kHangul	장
 U+6B0C	kKorean	CANG
-U+6B0C	kMandarin	cang
-U+6B0D	kMandarin	jiu
+U+6B0C	kMandarin	cáng
+U+6B0D	kMandarin	jiù
 U+6B0E	kMandarin	yù
 U+6B0F	kCantonese	lo4
 U+6B0F	kDefinition	the horse-chestnut
@@ -72346,7 +72346,7 @@ U+6B14	kHanyuPinyin	21325.140:jué
 U+6B14	kMandarin	jué
 U+6B15	kDefinition	tree name
 U+6B15	kKorean	EM
-U+6B15	kMandarin	yan
+U+6B15	kMandarin	yán
 U+6B16	kCantonese	laam5
 U+6B16	kDefinition	olive
 U+6B16	kHangul	람
@@ -72446,7 +72446,7 @@ U+6B26	kHanyuPinyin	32136.030:qiān,hān,xiān,qián
 U+6B26	kMandarin	qiān
 U+6B27	kCantonese	au1 ngau1
 U+6B27	kDefinition	translit.: Europe; ohm; surname
-U+6B27	kHanyuPinlu	oū(16)
+U+6B27	kHanyuPinlu	ōu(16)
 U+6B27	kJapaneseKun	HAKU UTAU
 U+6B27	kJapaneseOn	OU
 U+6B27	kMandarin	ōu
@@ -72703,7 +72703,7 @@ U+6B4F	kMandarin	jìn
 U+6B50	kCantonese	au1 au2 ngau1
 U+6B50	kDefinition	used in transliterating non-Chinese words such as Europe, ohm; surname
 U+6B50	kHangul	구
-U+6B50	kHanyuPinlu	oū(16)
+U+6B50	kHanyuPinlu	ōu(16)
 U+6B50	kHanyuPinyin	32149.120:ǒu,ōu
 U+6B50	kJapaneseKun	HAKU UTAU
 U+6B50	kJapaneseOn	OU
@@ -72951,7 +72951,7 @@ U+6B74	kJapaneseOn	REKI RYAKU
 U+6B74	kMandarin	lì
 U+6B75	kJapaneseKun	TOTONOU MII TADASHII
 U+6B75	kJapaneseOn	SAKU JAKU
-U+6B75	kMandarin	cuò
+U+6B75	kMandarin	zé
 U+6B76	kHanyuPinyin	21445.070:yú
 U+6B76	kMandarin	yú
 U+6B77	kCantonese	lik6
@@ -73330,7 +73330,7 @@ U+6BB0	kMandarin	dú
 U+6BB1	kDefinition	annihilate, wipe out, kill off
 U+6BB1	kJapaneseKun	TSUKUSU HOROBOSU
 U+6BB1	kJapaneseOn	SEN
-U+6BB1	kMandarin	jian
+U+6BB1	kMandarin	jiān
 U+6BB2	kCantonese	cim1
 U+6BB2	kDefinition	annihilate, wipe out, kill off
 U+6BB2	kHangul	섬
@@ -73665,7 +73665,7 @@ U+6BDE	kHanyuPinyin	31995.120:pí
 U+6BDE	kMandarin	pí
 U+6BDF	kDefinition	to pluck, pick, tear
 U+6BDF	kJapaneseKun	MUSHIRU
-U+6BDF	kMandarin	lie
+U+6BDF	kMandarin	liě
 U+6BE0	kHanyuPinyin	31996.160:jiā
 U+6BE0	kMandarin	jiā
 U+6BE1	kCantonese	zin1
@@ -73769,7 +73769,7 @@ U+6BF5	kCantonese	saam1
 U+6BF5	kDefinition	long feathers; scraggy
 U+6BF5	kMandarin	sān
 U+6BF5	kXHC1983	0985.030:sān
-U+6BF6	kMandarin	san
+U+6BF6	kMandarin	sān
 U+6BF7	kCantonese	mou6
 U+6BF7	kDefinition	restless
 U+6BF7	kHanyuPinyin	32001.190:mào
@@ -73788,7 +73788,7 @@ U+6BF9	kJapaneseOn	YU SU JU
 U+6BF9	kMandarin	shū
 U+6BF9	kXHC1983	1063.080:shū
 U+6BFA	kCantonese	jyu4 syu1
-U+6BFA	kMandarin	yū
+U+6BFA	kMandarin	shū
 U+6BFB	kCantonese	to3
 U+6BFB	kDefinition	to molt; to change the coat of animals; (Cant.) muddled, confused
 U+6BFB	kHanyuPinyin	32001.140:tuò
@@ -74174,7 +74174,7 @@ U+6C39	kXHC1983	0217.031:dàng
 U+6C3A	kCantonese	seoi2
 U+6C3A	kJapaneseKun	SHITAMIZU
 U+6C3A	kJapaneseOn	SUI
-U+6C3A	kMandarin	shui
+U+6C3A	kMandarin	shuǐ
 U+6C3B	kHanyuPinyin	31549.060:lè
 U+6C3B	kJapaneseOn	ROKU
 U+6C3B	kMandarin	lè
@@ -74457,7 +74457,7 @@ U+6C61	kVietnamese	ô
 U+6C61	kXHC1983	1210.090:wū
 U+6C62	kJapaneseKun	TSUCHI
 U+6C62	kMandarin	tu
-U+6C63	kMandarin	jiu
+U+6C63	kMandarin	jiǔ
 U+6C64	kCantonese	tong1
 U+6C64	kDefinition	hot water; soup, gravy, broth
 U+6C64	kHanyuPinlu	tāng(40) tang(15)
@@ -74787,7 +74787,7 @@ U+6C93	kHanyuPinyin	31556.080:tà,dá
 U+6C93	kJapaneseKun	KUTSU
 U+6C93	kJapaneseOn	TOU
 U+6C93	kKorean	TAP
-U+6C93	kMandarin	dá
+U+6C93	kMandarin	dá tà
 U+6C93	kTang	dhop
 U+6C93	kVietnamese	đạp
 U+6C93	kXHC1983	0190.010:dá 1107.180:tà
@@ -74875,7 +74875,7 @@ U+6C9E	kHanyuPinyin	31559.020:zā
 U+6C9E	kMandarin	zā
 U+6C9F	kCantonese	gau1
 U+6C9F	kDefinition	ditch, drain, narrow waterway
-U+6C9F	kHanyuPinlu	goū(136)
+U+6C9F	kHanyuPinlu	gōu(136)
 U+6C9F	kHanyuPinyin	31571.010:gōu
 U+6C9F	kJapaneseOn	KOU KU
 U+6C9F	kMandarin	gōu
@@ -74962,7 +74962,7 @@ U+6CAE	kMandarin	jǔ
 U+6CAE	kTang	dzhiǔ tsiu tziù
 U+6CAE	kXHC1983	0613.010:jǔ 0614.140:jù
 U+6CAF	kCantonese	zaat3
-U+6CAF	kMandarin	zǎn
+U+6CAF	kMandarin	zá
 U+6CB0	kCantonese	tok3
 U+6CB0	kDefinition	to let drop
 U+6CB0	kHangul	탁
@@ -75029,7 +75029,7 @@ U+6CB8	kXHC1983	0317.040:fèi
 U+6CB9	kCantonese	jau4
 U+6CB9	kDefinition	oil, fat, grease, lard; paints
 U+6CB9	kHangul	유
-U+6CB9	kHanyuPinlu	yoú(822)
+U+6CB9	kHanyuPinlu	yóu(822)
 U+6CB9	kHanyuPinyin	31585.010:yóu,yòu
 U+6CB9	kJapaneseKun	ABURA
 U+6CB9	kJapaneseOn	YU YUU
@@ -75553,7 +75553,7 @@ U+6D01	kMandarin	jié
 U+6D01	kVietnamese	thợ cát
 U+6D01	kXHC1983	0576.070:jié
 U+6D02	kCantonese	jik6
-U+6D02	kMandarin	yì
+U+6D02	kMandarin	yè
 U+6D03	kHanyuPinyin	31605.020:huī
 U+6D03	kMandarin	huī
 U+6D03	kVietnamese	hôi
@@ -75842,7 +75842,7 @@ U+6D31	kXHC1983	0288.010:ěr
 U+6D32	kCantonese	zau1
 U+6D32	kDefinition	continent; island; islet
 U+6D32	kHangul	주
-U+6D32	kHanyuPinlu	zhoū(203)
+U+6D32	kHanyuPinlu	zhōu(203)
 U+6D32	kHanyuPinyin	31616.060:zhōu
 U+6D32	kJapaneseKun	SHIMA
 U+6D32	kJapaneseOn	SHUU
@@ -76548,7 +76548,7 @@ U+6DA4	kHanyuPinlu	dí(25)
 U+6DA4	kMandarin	dí
 U+6DA4	kXHC1983	0230.010:dí
 U+6DA5	kCantonese	hang1
-U+6DA5	kMandarin	heng
+U+6DA5	kMandarin	hēng
 U+6DA6	kCantonese	jeon6
 U+6DA6	kDefinition	soft, moist; sleek; freshen
 U+6DA6	kHanyuPinlu	rùn(68)
@@ -77161,7 +77161,7 @@ U+6DFD	kHanyuPinyin	31641.050:zhǐ
 U+6DFD	kMandarin	zhǐ
 U+6DFE	kCantonese	jam2
 U+6DFE	kMandarin	yǐn
-U+6DFF	kMandarin	mì
+U+6DFF	kMandarin	bó
 U+6E00	kHanyuPinyin	31643.080:bèn,bēn
 U+6E00	kJapaneseOn	HON BON
 U+6E00	kMandarin	bèn
@@ -77213,7 +77213,7 @@ U+6E0A	kXHC1983	1418.150:yuān
 U+6E0B	kDefinition	astringent; harsh; uneven, rough
 U+6E0B	kJapaneseKun	SHIBUI SHIBU
 U+6E0B	kJapaneseOn	JUU
-U+6E0B	kMandarin	se
+U+6E0B	kMandarin	sè
 U+6E0C	kCantonese	luk6
 U+6E0C	kDefinition	strain
 U+6E0C	kHanyuPinyin	31664.030:lù
@@ -77232,7 +77232,7 @@ U+6E0E	kDefinition	ditch, sluice, gutter, drain
 U+6E0E	kMandarin	dú
 U+6E0E	kXHC1983	0266.010:dú
 U+6E0F	kCantonese	ji1
-U+6E0F	kMandarin	qi
+U+6E0F	kMandarin	yī
 U+6E10	kCantonese	zim1 zim6
 U+6E10	kDefinition	gradually
 U+6E10	kHanyuPinlu	jiàn(459)
@@ -77242,11 +77242,11 @@ U+6E11	kCantonese	man5 sing4
 U+6E11	kDefinition	name of a river in Shandong
 U+6E11	kMandarin	miǎn
 U+6E11	kXHC1983	0785.120:miǎn 1029.010:shéng
-U+6E12	kMandarin	pì
+U+6E12	kMandarin	pài
 U+6E13	kDefinition	mountain stream, creek
 U+6E13	kJapaneseKun	TANI
 U+6E13	kJapaneseOn	KEI
-U+6E13	kMandarin	xi
+U+6E13	kMandarin	xī
 U+6E14	kCantonese	jyu4
 U+6E14	kDefinition	to fish; seize; pursue; surname
 U+6E14	kHanyuPinlu	yú(41)
@@ -77512,7 +77512,7 @@ U+6E37	kMandarin	yǎn
 U+6E38	kCantonese	jau4
 U+6E38	kDefinition	to swim; float, drift; wander, roam
 U+6E38	kHangul	유
-U+6E38	kHanyuPinlu	yoú(364)
+U+6E38	kHanyuPinlu	yóu(364)
 U+6E38	kHanyuPinyin	31684.080:liú,yóu
 U+6E38	kJapaneseKun	OYOGU ASOBU ASOBI
 U+6E38	kJapaneseOn	YUU RYUU
@@ -77623,7 +77623,7 @@ U+6E49	kXHC1983	1137.040:tián
 U+6E4A	kCantonese	cau3
 U+6E4A	kDefinition	piece together, assemble
 U+6E4A	kHangul	주
-U+6E4A	kHanyuPinlu	coù(69)
+U+6E4A	kHanyuPinlu	còu(69)
 U+6E4A	kHanyuPinyin	31666.090:còu
 U+6E4A	kJapaneseKun	MINATO ATSUMARU
 U+6E4A	kJapaneseOn	SOU
@@ -77906,7 +77906,7 @@ U+6E78	kMandarin	liàng
 U+6E79	kMandarin	chán
 U+6E7A	kHangul	보
 U+6E7A	kKorean	PO
-U+6E7A	kMandarin	yán
+U+6E7A	kMandarin	xián
 U+6E7B	kCantonese	seon4
 U+6E7B	kDefinition	pure, unmixed, genuine; honest
 U+6E7B	kJapaneseKun	ATSUI
@@ -77939,13 +77939,13 @@ U+6E80	kMandarin	mǎn
 U+6E81	kKorean	YENG
 U+6E81	kMandarin	yíng
 U+6E82	kJapaneseOn	RATSU
-U+6E82	kMandarin	la
+U+6E82	kMandarin	là
 U+6E83	kCantonese	kui2
 U+6E83	kDefinition	flooding river; militarily defeat
 U+6E83	kHanyuPinlu	kuì(10)
 U+6E83	kMandarin	kuì
 U+6E83	kXHC1983	0504.171:huì 0663.100:kuì
-U+6E84	kMandarin	feng
+U+6E84	kMandarin	féng
 U+6E85	kCantonese	zin1 zin3
 U+6E85	kDefinition	sprinkle, spray; spill, splash
 U+6E85	kHanyuPinlu	jiàn(23)
@@ -77971,7 +77971,7 @@ U+6E89	kJapaneseOn	GAI KAI
 U+6E89	kKorean	KAY
 U+6E89	kMandarin	gài
 U+6E89	kXHC1983	0352.060:gài
-U+6E8A	kMandarin	xia
+U+6E8A	kMandarin	bō
 U+6E8B	kCantonese	jing4
 U+6E8B	kHanyuPinyin	80023.280:yíng
 U+6E8B	kMandarin	yíng
@@ -78024,7 +78024,7 @@ U+6E94	kHanyuPinyin	31707.030:yǎo
 U+6E94	kMandarin	yǎo
 U+6E95	kHangul	몽
 U+6E95	kKorean	MONG
-U+6E95	kMandarin	mèng
+U+6E95	kMandarin	méng
 U+6E95	kVietnamese	trùng trụng
 U+6E96	kCantonese	zeon2
 U+6E96	kDefinition	rule, guideline, standard
@@ -78073,7 +78073,7 @@ U+6E9C	kXHC1983	0724.020,0724.031:liū 0730.020:liù
 U+6E9D	kCantonese	gau1 kau1
 U+6E9D	kDefinition	ditch, drain, narrow waterway
 U+6E9D	kHangul	구
-U+6E9D	kHanyuPinlu	goū(136)
+U+6E9D	kHanyuPinlu	gōu(136)
 U+6E9D	kHanyuPinyin	31692.060:gōu,gǎng,kòu
 U+6E9D	kJapaneseKun	MIZO
 U+6E9D	kJapaneseOn	KOU
@@ -78141,7 +78141,7 @@ U+6EA7	kMandarin	lì
 U+6EA7	kTang	lit
 U+6EA7	kVietnamese	rớt
 U+6EA7	kXHC1983	0697.080:lì
-U+6EA8	kMandarin	cái
+U+6EA8	kMandarin	zāi
 U+6EA9	kHanyuPinyin	31703.060:wù
 U+6EA9	kMandarin	wù
 U+6EAA	kCantonese	kai1
@@ -78535,7 +78535,7 @@ U+6EE6	kCantonese	lyun4
 U+6EE6	kDefinition	river and county in Hebei province
 U+6EE6	kMandarin	luán
 U+6EE6	kXHC1983	0744.020:luán
-U+6EE7	kMandarin	xiao
+U+6EE7	kMandarin	yáo
 U+6EE8	kCantonese	ban1
 U+6EE8	kDefinition	beach, sea coast; river bank
 U+6EE8	kHanyuPinlu	bīn(11)
@@ -78784,7 +78784,7 @@ U+6F0E	kMandarin	cóng
 U+6F0F	kCantonese	lau6
 U+6F0F	kDefinition	leak, drip; funnel; hour glass
 U+6F0F	kHangul	누 루
-U+6F0F	kHanyuPinlu	loù(68)
+U+6F0F	kHanyuPinlu	lòu(68)
 U+6F0F	kHanyuPinyin	31731.110:lòu,lóu
 U+6F0F	kJapaneseKun	MORU MORERU MORASU
 U+6F0F	kJapaneseOn	ROU
@@ -79123,7 +79123,7 @@ U+6F41	kMandarin	yǐng
 U+6F41	kTang	iuɛ̌ng
 U+6F42	kMandarin	hóng
 U+6F43	kCantonese	sau1
-U+6F43	kMandarin	xún
+U+6F43	kMandarin	xiǔ
 U+6F44	kCantonese	sau3 sou3
 U+6F44	kMandarin	shù
 U+6F45	kDefinition	pour; water; irrigate, flood
@@ -79139,7 +79139,7 @@ U+6F47	kDefinition	sound of beating wind and rain
 U+6F47	kMandarin	xiāo
 U+6F47	kXHC1983	1265.020:xiāo
 U+6F48	kMandarin	zong
-U+6F49	kMandarin	kun
+U+6F49	kMandarin	kūn
 U+6F4A	kMandarin	xù
 U+6F4B	kCantonese	lim6
 U+6F4B	kDefinition	waves, ripples; overflow
@@ -79662,7 +79662,7 @@ U+6F9C	kMandarin	lán
 U+6F9C	kXHC1983	0672.010:lán
 U+6F9D	kCantonese	ling6 ning6
 U+6F9D	kDefinition	mud; miry, muddy, stagnant
-U+6F9D	kMandarin	ning
+U+6F9D	kMandarin	nìng
 U+6F9E	kHanyuPinyin	31755.030:yú
 U+6F9E	kMandarin	yú
 U+6F9F	kCantonese	lam5
@@ -80101,7 +80101,7 @@ U+6FE9	kJapaneseOn	KAKU WAKU
 U+6FE9	kKorean	HO
 U+6FE9	kMandarin	huò
 U+6FE9	kTang	huɑk
-U+6FEA	kMandarin	jìng
+U+6FEA	kMandarin	qìng
 U+6FEB	kCantonese	laam6
 U+6FEB	kDefinition	flood, overflow; excessive
 U+6FEB	kHangul	남 람
@@ -80176,7 +80176,7 @@ U+6FF5	kCantonese	ban1
 U+6FF5	kDefinition	a bank, a brink. a shore, a beach
 U+6FF5	kJapaneseKun	HAMA
 U+6FF5	kJapaneseOn	HIN
-U+6FF5	kMandarin	bin
+U+6FF5	kMandarin	bīn
 U+6FF6	kCantonese	fut3
 U+6FF6	kDefinition	broad, ample, wide; be apart
 U+6FF6	kJapaneseKun	HIROI
@@ -80186,7 +80186,7 @@ U+6FF6	kXHC1983	0665.041:kuò
 U+6FF7	kHanyuPinyin	31765.100:fèi
 U+6FF7	kMandarin	fèi
 U+6FF8	kCantonese	cong1
-U+6FF8	kMandarin	cang
+U+6FF8	kMandarin	cāng
 U+6FF9	kJapaneseKun	BOKU
 U+6FF9	kMandarin	me
 U+6FFA	kCantonese	zin1 zin3
@@ -80491,7 +80491,7 @@ U+702C	kJapaneseKun	SE
 U+702C	kJapaneseOn	RAI
 U+702C	kKorean	LOY
 U+702C	kMandarin	lài
-U+702D	kMandarin	shu
+U+702D	kMandarin	shū
 U+702E	kMandarin	ling
 U+702F	kCantonese	jing4
 U+702F	kHangul	영
@@ -80644,7 +80644,7 @@ U+704C	kMandarin	guàn
 U+704C	kTang	guɑ̀n
 U+704C	kXHC1983	0410.050:guàn
 U+704D	kCantonese	kyut3
-U+704D	kMandarin	què
+U+704D	kMandarin	jué
 U+704E	kDefinition	movement of water; overflowing, billowing; wavy
 U+704E	kHangul	염
 U+704E	kJapaneseKun	NAMI
@@ -80658,7 +80658,7 @@ U+704F	kXHC1983	0447.020:hào
 U+7050	kCantonese	jing4
 U+7050	kHangul	형
 U+7050	kKorean	HYENG
-U+7050	kMandarin	ying
+U+7050	kMandarin	yíng
 U+7051	kCantonese	saa2
 U+7051	kDefinition	sprinkle, splash; scatter, throw
 U+7051	kHangul	쇄
@@ -80714,7 +80714,7 @@ U+705B	kCantonese	cin2
 U+705B	kHanyuPinyin	31797.060:chǎn
 U+705B	kMandarin	chǎn
 U+705C	kCantonese	jing4
-U+705C	kMandarin	ying
+U+705C	kMandarin	yíng
 U+705D	kCantonese	hou6
 U+705D	kDefinition	vast, large, grand, expansive
 U+705D	kHangul	호
@@ -80850,7 +80850,7 @@ U+7070	kXHC1983	0499.040:huī
 U+7071	kHanyuPinyin	32188.110:xiāo
 U+7071	kMandarin	xiāo
 U+7072	kMandarin	xiāo
-U+7073	kMandarin	hui
+U+7073	kMandarin	huī
 U+7074	kCantonese	hung4
 U+7074	kDefinition	to bake, to roast; to dry at a fire
 U+7074	kHanyuPinyin	32189.060:hōng
@@ -80969,7 +80969,7 @@ U+7086	kJapaneseOn	BUN MON
 U+7086	kKorean	MWUN
 U+7086	kMandarin	wén
 U+7086	kXHC1983	1206.010:wén
-U+7087	kMandarin	pò
+U+7087	kMandarin	pū
 U+7088	kMandarin	yì
 U+7089	kCantonese	lou4
 U+7089	kDefinition	fireplace, stove, oven, furnace
@@ -81129,7 +81129,7 @@ U+70A7	kCantonese	ce2 ce5 se3
 U+70A7	kDefinition	ashes
 U+70A7	kMandarin	xiè
 U+70A7	kXHC1983	1276.081:xiè
-U+70A8	kMandarin	duò
+U+70A8	kMandarin	xiè
 U+70A9	kHanyuPinyin	32196.060:lìng
 U+70A9	kMandarin	lìng
 U+70A9	kVietnamese	rạnh
@@ -81221,7 +81221,7 @@ U+70B5	kCantonese	tung1
 U+70B5	kHanyuPinyin	32196.110:tōng
 U+70B5	kKorean	TONG
 U+70B5	kMandarin	tōng
-U+70B6	kMandarin	hān
+U+70B6	kMandarin	shǎn
 U+70B6	kVietnamese	trèm
 U+70B7	kCantonese	zyu3
 U+70B7	kDefinition	candle wick, lamp wick; stick of incense
@@ -81276,7 +81276,7 @@ U+70BD	kMandarin	chì
 U+70BD	kXHC1983	0145.030:chì
 U+70BE	kHanyuPinyin	32195.140:huǎng
 U+70BE	kMandarin	huǎng
-U+70BF	kMandarin	zhou
+U+70BF	kMandarin	zhōu
 U+70C0	kCantonese	fu1
 U+70C0	kDefinition	simmer
 U+70C0	kHanyuPinyin	32196.050:hū
@@ -81479,7 +81479,7 @@ U+70E4	kJapaneseOn	KOU
 U+70E4	kMandarin	kǎo
 U+70E4	kVietnamese	khảo
 U+70E4	kXHC1983	0636.020:kǎo
-U+70E5	kMandarin	chen
+U+70E5	kMandarin	jù
 U+70E6	kCantonese	faan4
 U+70E6	kDefinition	bother, vex, trouble; troublesome
 U+70E6	kHanyuPinlu	fán(63) fan(63)
@@ -81513,7 +81513,7 @@ U+70ED	kDefinition	hot; heat; fever; restless; zeal
 U+70ED	kHanyuPinlu	rè(1014)
 U+70ED	kMandarin	rè
 U+70ED	kXHC1983	0957.040:rè
-U+70EE	kMandarin	lie
+U+70EE	kMandarin	liè
 U+70EF	kCantonese	hei1
 U+70EF	kDefinition	alkene
 U+70EF	kHanyuPinyin	32205.040:xī
@@ -81662,7 +81662,7 @@ U+7110	kHanyuPinyin	32203.120:wù
 U+7110	kMandarin	wù
 U+7110	kXHC1983	1223.120:wù
 U+7111	kMandarin	yān
-U+7112	kMandarin	lü
+U+7112	kMandarin	lǚ
 U+7112	kVietnamese	lửa
 U+7113	kCantonese	ham4
 U+7113	kDefinition	(Cant.) onomatopoetic, the sound of a fiercely-burning fire
@@ -81874,7 +81874,7 @@ U+7137	kMandarin	pí
 U+7138	kHanyuPinyin	32209.070:xiòng,yīng,gǔ
 U+7138	kJapaneseOn	KO KU KEI KYOU
 U+7138	kMandarin	xiòng
-U+7139	kMandarin	wang
+U+7139	kMandarin	gàng
 U+713A	kHanyuPinyin	32209.080:shēng
 U+713A	kMandarin	shēng
 U+713B	kCantonese	coeng3
@@ -82097,7 +82097,7 @@ U+7160	kJapaneseKun	YAKU
 U+7160	kJapaneseOn	YOU CHOU SOU JOU
 U+7160	kMandarin	zhá
 U+7160	kXHC1983	1448.021:zhá
-U+7161	kMandarin	xìn
+U+7161	kMandarin	jìn
 U+7162	kCantonese	king4
 U+7162	kDefinition	alone; no friends or relatives
 U+7162	kHangul	경
@@ -82199,7 +82199,7 @@ U+716E	kTang	jiǔ
 U+716E	kXHC1983	1512.040:zhǔ
 U+716F	kHanyuPinyin	32216.100:jiē
 U+716F	kMandarin	jiē
-U+7170	kMandarin	gào
+U+7170	kMandarin	zào
 U+7171	kCantonese	wo1
 U+7171	kDefinition	(Cant.) 火煱, to instant-boil thin slices of meat and vegetables in a chafing dish at the dining table
 U+7171	kHanyuPinyin	32218.020:guā
@@ -82222,9 +82222,9 @@ U+7174	kJapaneseOn	UN ON
 U+7174	kMandarin	yūn
 U+7174	kXHC1983	1431.010:yūn 1434.030:yùn
 U+7175	kCantonese	laam4 naam4
-U+7175	kMandarin	xiā
+U+7175	kMandarin	nǎn
 U+7176	kCantonese	zik6
-U+7176	kMandarin	shi
+U+7176	kMandarin	shì
 U+7177	kCantonese	fo2
 U+7177	kMandarin	liang
 U+7178	kCantonese	bin1 pin1
@@ -82335,7 +82335,7 @@ U+718C	kHanyuPinyin	32225.090:shǎn
 U+718C	kJapaneseKun	MOEAGARU
 U+718C	kJapaneseOn	SEN
 U+718C	kMandarin	shǎn
-U+718D	kMandarin	qiong
+U+718D	kMandarin	qióng
 U+718E	kCantonese	jiu3
 U+718E	kHanyuPinyin	32224.030:yào
 U+718E	kMandarin	yào
@@ -82387,7 +82387,7 @@ U+7196	kCantonese	jim6
 U+7196	kDefinition	same as 燄 U+71C4, flame; blazing, brilliant
 U+7196	kJapaneseKun	HONOO
 U+7196	kJapaneseOn	EN
-U+7196	kMandarin	yan
+U+7196	kMandarin	yàn
 U+7197	kCantonese	coeng3
 U+7197	kDefinition	stir-fry or boil in water or oil then cook with a sauce
 U+7197	kHanyuPinyin	32223.170:qiàng
@@ -82550,7 +82550,7 @@ U+71B3	kMandarin	màn
 U+71B3	kTang	mɑ̀n
 U+71B3	kXHC1983	0764.010:màn
 U+71B4	kCantonese	gwan1 kwan1
-U+71B4	kMandarin	kun
+U+71B4	kMandarin	kūn
 U+71B5	kCantonese	soeng1
 U+71B5	kDefinition	entropy
 U+71B5	kHanyuPinyin	32229.140:shāng
@@ -82645,7 +82645,7 @@ U+71C4	kMandarin	yàn
 U+71C4	kTang	iɛ̌m
 U+71C4	kXHC1983	1333.021:yàn
 U+71C5	kCantonese	cam4 cim4
-U+71C5	kMandarin	xián
+U+71C5	kMandarin	xún
 U+71C6	kHanyuPinyin	32234.040:qiāo,xiāo
 U+71C6	kMandarin	qiāo
 U+71C7	kHanyuPinyin	32235.050:jùn
@@ -82733,7 +82733,7 @@ U+71D2	kVietnamese	thiêu
 U+71D2	kXHC1983	1007.021:shāo
 U+71D3	kJapaneseKun	YAKU YAKIGARI
 U+71D3	kJapaneseOn	FUN BUN HAN BON
-U+71D3	kMandarin	fēn
+U+71D3	kMandarin	fén
 U+71D4	kCantonese	faan4
 U+71D4	kDefinition	to roast; to burn
 U+71D4	kHangul	번
@@ -82786,7 +82786,7 @@ U+71DA	kHanyuPinyin	32237.030:yì
 U+71DA	kJapaneseOn	ITSU ICHI
 U+71DA	kMandarin	yì
 U+71DA	kXHC1983	1368.140:yì
-U+71DB	kMandarin	jǐng
+U+71DB	kMandarin	jiǒng
 U+71DC	kCantonese	mun6
 U+71DC	kDefinition	simmer, cook over slow fire
 U+71DC	kHanyuPinyin	32238.070:mèn
@@ -82863,7 +82863,7 @@ U+71E7	kXHC1983	1100.070:suì
 U+71E8	kMandarin	xī
 U+71E9	kHanyuPinyin	32241.050:què
 U+71E9	kMandarin	què
-U+71EA	kMandarin	cōng
+U+71EA	kMandarin	zǒng
 U+71EB	kCantonese	lim4
 U+71EB	kMandarin	lián
 U+71EC	kCantonese	wai2
@@ -82912,7 +82912,7 @@ U+71F4	kXHC1983	0506.021:huì
 U+71F5	kCantonese	daat6
 U+71F5	kDefinition	a foot-warmer
 U+71F5	kJapaneseOn	TATSU
-U+71F5	kMandarin	da
+U+71F5	kMandarin	dá
 U+71F6	kCantonese	nung1
 U+71F6	kDefinition	(Cant.) to scorch, burn
 U+71F6	kMandarin	nóng
@@ -82933,7 +82933,7 @@ U+71F9	kKorean	HUY
 U+71F9	kMandarin	xiǎn
 U+71F9	kXHC1983	1248.070:xiǎn
 U+71FA	kDefinition	the dry at the fire to roast
-U+71FA	kMandarin	kǎo
+U+71FA	kMandarin	hè
 U+71FB	kCantonese	fan1
 U+71FB	kDefinition	smoke, fog, vapor; smoke, cure
 U+71FB	kHangul	훈
@@ -83028,7 +83028,7 @@ U+720A	kMandarin	āo
 U+720A	kXHC1983	0011.010:āo
 U+720B	kHangul	훈
 U+720B	kKorean	HWUN
-U+720B	kMandarin	xùn
+U+720B	kMandarin	xūn
 U+720C	kCantonese	kong3 kwong3
 U+720C	kHangul	광
 U+720C	kHanyuPinyin	32243.130:kuàng,huǎng,kuǎng
@@ -83047,7 +83047,7 @@ U+720D	kMandarin	shuò
 U+720D	kTang	shiɑk
 U+720D	kXHC1983	1084.061:shuò
 U+720E	kCantonese	liu4
-U+720E	kMandarin	liao
+U+720E	kMandarin	liáo
 U+720F	kCantonese	lik6
 U+720F	kHanyuPinyin	32246.230:lì
 U+720F	kMandarin	lì
@@ -83094,7 +83094,7 @@ U+7217	kJapaneseOn	YOU YUU OU
 U+7217	kKorean	YEP
 U+7217	kMandarin	yè
 U+7217	kXHC1983	1350.012:yè
-U+7218	kMandarin	can
+U+7218	kMandarin	cān
 U+7219	kHanyuPinyin	32249.010:rǎng
 U+7219	kMandarin	rǎng
 U+7219	kVietnamese	nháng
@@ -83187,7 +83187,7 @@ U+722A	kXHC1983	1460.030:zhǎo 1516.050:zhuǎ
 U+722B	kCantonese	zaau2
 U+722B	kDefinition	radical 87
 U+722B	kJapaneseKun	TSUMEKANMURI TSUMEGASHIRA
-U+722B	kMandarin	zhao
+U+722B	kMandarin	zhǎo
 U+722B	kVietnamese	làm
 U+722C	kCantonese	paa4
 U+722C	kDefinition	crawl, creep; climb; scramble
@@ -83386,7 +83386,7 @@ U+7244	kHanyuPinyin	42378.100:qiāng
 U+7244	kMandarin	qiāng
 U+7245	kJapaneseKun	KAKINE
 U+7245	kJapaneseOn	YOU
-U+7245	kMandarin	yóng
+U+7245	kMandarin	yōng
 U+7246	kCantonese	coeng4
 U+7246	kDefinition	wall
 U+7246	kHangul	장
@@ -83518,7 +83518,7 @@ U+7256	kMandarin	yǒu
 U+7256	kTang	iǒu
 U+7256	kXHC1983	1404.050:yǒu
 U+7257	kCantonese	jau5
-U+7257	kMandarin	you
+U+7257	kMandarin	yǒu
 U+7258	kCantonese	duk6
 U+7258	kDefinition	writing tablet; documents, books
 U+7258	kHangul	독
@@ -83562,7 +83562,7 @@ U+725B	kXHC1983	0836.070:niú
 U+725C	kCantonese	ngau4
 U+725C	kDefinition	an ox, a cow Radical 93
 U+725C	kJapaneseKun	USHIHEN
-U+725C	kMandarin	niu
+U+725C	kMandarin	niú
 U+725D	kCantonese	pan5
 U+725D	kDefinition	female of species; deep gorge
 U+725D	kHangul	빈
@@ -83933,7 +83933,7 @@ U+729C	kMandarin	dūn
 U+729D	kCantonese	tung4
 U+729D	kHanyuPinyin	31820.060:tóng
 U+729D	kMandarin	tóng
-U+729E	kMandarin	qiao
+U+729E	kMandarin	qiáo
 U+729F	kCantonese	goeng6 koeng5
 U+729F	kDefinition	stubborn
 U+729F	kHanyuPinyin	31820.100:jiàng
@@ -83942,7 +83942,7 @@ U+729F	kXHC1983	0562.100:jiàng
 U+72A0	kDefinition	sacrifice, give up; sacrificial
 U+72A0	kJapaneseKun	IKENIE
 U+72A0	kJapaneseOn	GI KI
-U+72A0	kMandarin	xi
+U+72A0	kMandarin	xī
 U+72A0	kVietnamese	nghé
 U+72A1	kHanyuPinyin	31821.040:lì
 U+72A1	kMandarin	lì
@@ -84034,7 +84034,7 @@ U+72B2	kCantonese	caai4
 U+72B2	kDefinition	wolf; cruel, wicked, mean
 U+72B2	kJapaneseKun	YAMAINU
 U+72B2	kJapaneseOn	SAI
-U+72B2	kMandarin	cái
+U+72B2	kMandarin	chái
 U+72B3	kHangul	작
 U+72B3	kHanyuPinyin	21333.080:zhuó
 U+72B3	kKorean	CAK
@@ -84069,7 +84069,7 @@ U+72B8	kDefinition	mammoth
 U+72B8	kMandarin	mà
 U+72B9	kCantonese	jau4
 U+72B9	kDefinition	like, similar to, just like, as
-U+72B9	kHanyuPinlu	yoú(57)
+U+72B9	kHanyuPinlu	yóu(57)
 U+72B9	kHanyuPinyin	21335.070:yòu,yóu
 U+72B9	kJapaneseKun	NAO
 U+72B9	kJapaneseOn	YUU YOU
@@ -84139,7 +84139,7 @@ U+72C4	kKorean	CEK
 U+72C4	kMandarin	dí
 U+72C4	kVietnamese	địch
 U+72C4	kXHC1983	0231.070:dí
-U+72C5	kMandarin	qīng
+U+72C5	kMandarin	kuáng
 U+72C6	kCantonese	zung1
 U+72C6	kDefinition	pekinese dog, lap dog, pug; pup
 U+72C6	kHanyuPinyin	21336.050:zhòng
@@ -84232,7 +84232,7 @@ U+72D6	kXHC1983	1405.100:yòu
 U+72D7	kCantonese	gau2
 U+72D7	kDefinition	dog, canis familiaris
 U+72D7	kHangul	구
-U+72D7	kHanyuPinlu	goǔ(216)
+U+72D7	kHanyuPinlu	gǒu(216)
 U+72D7	kHanyuPinyin	21341.050:gǒu
 U+72D7	kJapaneseKun	INU
 U+72D7	kJapaneseOn	KOU KU
@@ -84557,7 +84557,7 @@ U+7311	kMandarin	kūn
 U+7312	kCantonese	aat3 jim3 ngaat3
 U+7312	kJapaneseKun	AKIRU
 U+7312	kJapaneseOn	EN OU YOU
-U+7312	kMandarin	yān
+U+7312	kMandarin	yàn
 U+7313	kCantonese	gwo2
 U+7313	kDefinition	monkey
 U+7313	kHangul	과
@@ -84647,7 +84647,7 @@ U+731E	kXHC1983	1010.070:shē
 U+731F	kDefinition	hunt; field sports
 U+731F	kJapaneseKun	KARI KARU
 U+731F	kJapaneseOn	RYOU
-U+731F	kMandarin	lie
+U+731F	kMandarin	liè
 U+7320	kKorean	CEN
 U+7320	kMandarin	diǎn
 U+7321	kCantonese	lo4
@@ -84775,7 +84775,7 @@ U+7333	kMandarin	jiā
 U+7334	kCantonese	hau4
 U+7334	kDefinition	monkey, ape; monkey-like
 U+7334	kHangul	후
-U+7334	kHanyuPinlu	hoú(86)
+U+7334	kHanyuPinlu	hóu(86)
 U+7334	kHanyuPinyin	21358.110:hóu
 U+7334	kJapaneseKun	SARU
 U+7334	kJapaneseOn	KOU GO
@@ -84790,7 +84790,7 @@ U+7335	kMandarin	biān
 U+7336	kCantonese	jau4
 U+7336	kDefinition	like, similar to, just like, as
 U+7336	kHangul	유
-U+7336	kHanyuPinlu	yoú(57)
+U+7336	kHanyuPinlu	yóu(57)
 U+7336	kHanyuPinyin	21359.090:yóu,yáo
 U+7336	kJapaneseKun	NAO
 U+7336	kJapaneseOn	YUU
@@ -84901,7 +84901,7 @@ U+7345	kTang	shri
 U+7345	kVietnamese	tép sư
 U+7345	kXHC1983	1032.061:shī
 U+7346	kMandarin	háo
-U+7347	kMandarin	qiang
+U+7347	kMandarin	qiāng
 U+7348	kCantonese	jik6
 U+7348	kHanyuPinyin	21363.090:yì
 U+7348	kMandarin	yì
@@ -85031,7 +85031,7 @@ U+7363	kDefinition	beast, animal; bestial
 U+7363	kJapaneseKun	KEMONO KEDAMONO
 U+7363	kJapaneseOn	JUU
 U+7363	kKorean	SWU
-U+7363	kMandarin	shou
+U+7363	kMandarin	shòu
 U+7364	kKorean	TON
 U+7364	kMandarin	dūn
 U+7365	kHanyuPinyin	21373.040:jiào
@@ -85123,7 +85123,7 @@ U+7370	kXHC1983	0835.181:níng
 U+7371	kCantonese	ban1 bin1
 U+7371	kDefinition	a kind of otter
 U+7371	kJapaneseOn	HIN BIN HEN
-U+7371	kMandarin	pín
+U+7371	kMandarin	biān
 U+7372	kCantonese	waai4 wok6
 U+7372	kDefinition	obtain, get, receive; seize
 U+7372	kHangul	획
@@ -85173,7 +85173,7 @@ U+7377	kXHC1983	0415.061:guǎng
 U+7378	kCantonese	sau3
 U+7378	kDefinition	beast, animal; bestial
 U+7378	kHangul	수
-U+7378	kHanyuPinlu	shoù(40)
+U+7378	kHanyuPinlu	shòu(40)
 U+7378	kHanyuPinyin	21375.050:shòu
 U+7378	kJapaneseKun	KEMONO
 U+7378	kJapaneseOn	JUU
@@ -85404,7 +85404,7 @@ U+739B	kXHC1983	0757.010:mǎ
 U+739C	kCantonese	gung1
 U+739C	kJapaneseKun	TAMA
 U+739C	kJapaneseOn	KOU KU
-U+739C	kMandarin	gōng
+U+739C	kMandarin	hóng
 U+739D	kHanyuPinyin	21104.070:wǔ
 U+739D	kMandarin	wǔ
 U+739E	kCantonese	fu1
@@ -85882,14 +85882,14 @@ U+73EE	kMandarin	pèi
 U+73EE	kTang	*bhə̀i
 U+73EE	kXHC1983	0861.021:pèi
 U+73EF	kCantonese	lou5
-U+73EF	kMandarin	lao
+U+73EF	kMandarin	lǎo
 U+73F0	kCantonese	dong1
 U+73F0	kDefinition	pendant ornaments, earrings
 U+73F0	kMandarin	dāng
 U+73F0	kXHC1983	0215.020:dāng
 U+73F1	kDefinition	a necklace made of precious stones
 U+73F1	kJapaneseOn	EI YOU
-U+73F1	kMandarin	ying
+U+73F1	kMandarin	yīng
 U+73F2	kCantonese	wan4
 U+73F2	kDefinition	bright, glorious, splendid
 U+73F2	kMandarin	huī
@@ -86068,9 +86068,9 @@ U+7410	kXHC1983	1103.100:suǒ
 U+7411	kCantonese	ciu3
 U+7411	kJapaneseKun	CHIISAI KUSARI
 U+7411	kJapaneseOn	SA
-U+7411	kMandarin	suo
+U+7411	kMandarin	suǒ
 U+7412	kCantonese	fung1
-U+7412	kMandarin	feng
+U+7412	kMandarin	fēng
 U+7413	kHangul	완
 U+7413	kKorean	WAN
 U+7413	kMandarin	wán
@@ -86111,7 +86111,7 @@ U+741B	kXHC1983	0131.020:chēn
 U+741C	kCantonese	loi4
 U+741C	kMandarin	lái
 U+741C	kVietnamese	trai
-U+741D	kMandarin	wén
+U+741D	kMandarin	mín
 U+741E	kCantonese	mong6 sing3
 U+741E	kHanyuPinyin	21125.010:shèng,wàng
 U+741E	kMandarin	shèng
@@ -86316,7 +86316,7 @@ U+743A	kJapaneseOn	HOU
 U+743A	kKorean	PEP
 U+743A	kMandarin	fà
 U+743A	kXHC1983	0297.031:fà
-U+743B	kMandarin	jin
+U+743B	kMandarin	jīn
 U+743C	kCantonese	king4
 U+743C	kDefinition	jade; rare, precious; elegant; (Cant.) to coagulate
 U+743C	kMandarin	qióng
@@ -86736,7 +86736,7 @@ U+7483	kMandarin	lí
 U+7483	kTang	liɛ
 U+7483	kVietnamese	rế li
 U+7483	kXHC1983	0691.020:lí
-U+7484	kMandarin	yǐng
+U+7484	kMandarin	jǐng
 U+7485	kCantonese	so2 zou2
 U+7485	kDefinition	gem
 U+7485	kHanyuPinyin	21136.090:zǎo,suǒ 21144.040:suǒ,zǎo
@@ -86793,7 +86793,7 @@ U+748C	kCantonese	jan4
 U+748C	kHanyuPinyin	21136.030:yín
 U+748C	kMandarin	yín
 U+748D	kCantonese	jip6
-U+748D	kMandarin	hua
+U+748D	kMandarin	yè
 U+748E	kCantonese	jing1
 U+748E	kDefinition	a necklace made of precious stones
 U+748E	kMandarin	yīng
@@ -86907,7 +86907,7 @@ U+74A3	kMandarin	jī
 U+74A3	kTang	giəi
 U+74A3	kXHC1983	0521.081:jī
 U+74A4	kCantonese	wai6
-U+74A4	kMandarin	hui
+U+74A4	kMandarin	huì
 U+74A5	kDefinition	a kind of jade
 U+74A5	kHangul	경
 U+74A5	kHanyuPinyin	21137.020:jǐng
@@ -87000,7 +87000,7 @@ U+74B2	kMandarin	suì
 U+74B3	kHanyuPinyin	21141.040:tián
 U+74B3	kMandarin	tián
 U+74B4	kCantonese	co2
-U+74B4	kMandarin	chu
+U+74B4	kMandarin	chǔ
 U+74B5	kCantonese	jyu4
 U+74B5	kDefinition	beautiful jade
 U+74B5	kHangul	여
@@ -87716,7 +87716,7 @@ U+7530	kXHC1983	1137.060:tián
 U+7531	kCantonese	jau4
 U+7531	kDefinition	cause, reason; from
 U+7531	kHangul	유
-U+7531	kHanyuPinlu	yoú(1623)
+U+7531	kHanyuPinlu	yóu(1623)
 U+7531	kHanyuPinyin	42524.020:yóu,yāo
 U+7531	kJapaneseKun	YOSHI YORU YORI
 U+7531	kJapaneseOn	YUU YU YUI
@@ -87781,7 +87781,7 @@ U+7538	kHanyuPinyin	42528.080:diàn,tián,shèng,yìng
 U+7538	kJapaneseKun	KARI
 U+7538	kJapaneseOn	TEN DEN
 U+7538	kKorean	CEN SUNG
-U+7538	kMandarin	diān
+U+7538	kMandarin	diān diàn
 U+7538	kXHC1983	0247.030:diàn
 U+7539	kCantonese	ping1
 U+7539	kHanyuPinyin	42528.060:pīng
@@ -87842,7 +87842,7 @@ U+7540	kKorean	PI
 U+7540	kMandarin	bì
 U+7540	kXHC1983	0060.200:bì
 U+7541	kDefinition	to give to; to confer on
-U+7541	kMandarin	qí
+U+7541	kMandarin	bì
 U+7542	kCantonese	mau5
 U+7542	kMandarin	liù
 U+7543	kHanyuPinyin	42530.120:xún
@@ -88110,7 +88110,7 @@ U+7568	kCantonese	faan1
 U+7568	kHanyuPinyin	42542.030:pān,fān
 U+7568	kMandarin	pān
 U+7569	kJapaneseKun	KESA
-U+7569	kMandarin	yi
+U+7569	kMandarin	yī
 U+756A	kCantonese	faan1 pun1
 U+756A	kDefinition	to take turns; a turn, a time; to repeat
 U+756A	kHangul	번
@@ -88276,7 +88276,7 @@ U+7581	kMandarin	liú
 U+7582	kDefinition	repeat, duplicate; repetitious
 U+7582	kJapaneseKun	TATAMU TATAMI KASANERU
 U+7582	kJapaneseOn	JOU CHOU
-U+7582	kMandarin	die
+U+7582	kMandarin	dié
 U+7583	kCantonese	tyun2
 U+7583	kDefinition	hamlet; area outside city
 U+7583	kHanyuPinyin	42553.010:tuǎn
@@ -89363,7 +89363,7 @@ U+7625	kXHC1983	0116.080:chài 0185.080:cuó
 U+7626	kCantonese	sau3
 U+7626	kDefinition	thin, emaciated, lean; meager
 U+7626	kHangul	수
-U+7626	kHanyuPinlu	shoù(82)
+U+7626	kHanyuPinlu	shòu(82)
 U+7626	kHanyuPinyin	42685.030:shòu
 U+7626	kJapaneseKun	YASERU
 U+7626	kJapaneseOn	SOU SHUU
@@ -90212,7 +90212,7 @@ U+76B0	kMandarin	pào
 U+76B0	kXHC1983	0858.011:pào
 U+76B1	kCantonese	zau3
 U+76B1	kDefinition	wrinkles, creases, folds
-U+76B1	kHanyuPinlu	zhoù(115)
+U+76B1	kHanyuPinlu	zhòu(115)
 U+76B1	kMandarin	zhòu
 U+76B1	kXHC1983	1506.170:zhòu
 U+76B2	kCantonese	gwan1
@@ -90258,7 +90258,7 @@ U+76B9	kMandarin	jūn
 U+76BA	kCantonese	zau3
 U+76BA	kDefinition	wrinkles, creases, folds
 U+76BA	kHangul	추
-U+76BA	kHanyuPinlu	zhoù(115)
+U+76BA	kHanyuPinlu	zhòu(115)
 U+76BA	kHanyuPinyin	42757.170:zhòu,zhōu
 U+76BA	kJapaneseKun	SHIWA
 U+76BA	kJapaneseOn	SUU SHUU
@@ -91543,7 +91543,7 @@ U+7784	kMandarin	miáo
 U+7784	kXHC1983	0788.020:miáo
 U+7785	kCantonese	cau2
 U+7785	kDefinition	see, look, gaze at
-U+7785	kHanyuPinlu	choǔ(34)
+U+7785	kHanyuPinlu	chǒu(34)
 U+7785	kHanyuPinyin	42502.100:chǒu
 U+7785	kMandarin	chǒu
 U+7785	kXHC1983	0153.070:chǒu
@@ -91705,7 +91705,7 @@ U+77A2	kJapaneseOn	BOU MU MOU
 U+77A2	kKorean	MONG
 U+77A2	kMandarin	méng
 U+77A2	kXHC1983	0778.080:méng
-U+77A3	kMandarin	huan
+U+77A3	kMandarin	wàn
 U+77A4	kDefinition	to blink or twitch the eyes
 U+77A4	kHanyuPinyin	42515.030:shùn
 U+77A4	kMandarin	rún
@@ -91931,7 +91931,7 @@ U+77CA	kHanyuPinyin	42520.090:mián
 U+77CA	kMandarin	mián
 U+77CB	kCantonese	lai3 lai6
 U+77CB	kDefinition	(Cant.) to stare angrily
-U+77CB	kMandarin	lì
+U+77CB	kMandarin	lěi
 U+77CC	kHanyuPinyin	42521.050:kuàng,guō
 U+77CC	kMandarin	kuàng
 U+77CC	kVietnamese	quạng
@@ -92034,7 +92034,7 @@ U+77DC	kTang	giəng
 U+77DC	kVietnamese	căng
 U+77DC	kXHC1983	0409.010:guān 0585.070:jīn 0927.120:qín
 U+77DD	kCantonese	ging1
-U+77DD	kMandarin	lín
+U+77DD	kMandarin	jīn
 U+77DE	kCantonese	wat6
 U+77DE	kDefinition	bore with awl; bright, charming
 U+77DE	kHangul	율
@@ -92394,12 +92394,12 @@ U+7818	kDefinition	a kind of farm tool
 U+7818	kHanyuPinyin	42419.080:dùn
 U+7818	kMandarin	dùn
 U+7818	kXHC1983	0277.130:dùn
-U+7819	kMandarin	pān
+U+7819	kMandarin	wǎ
 U+781A	kCantonese	jin6
 U+781A	kDefinition	inkstone
 U+781A	kMandarin	yàn
 U+781A	kXHC1983	1332.110:yàn
-U+781B	kMandarin	jin
+U+781B	kMandarin	jīn
 U+781C	kCantonese	fung1
 U+781C	kDefinition	an organic compound
 U+781C	kMandarin	fēng
@@ -92595,7 +92595,7 @@ U+783C	kHanyuPinyin	42424.100:tóng
 U+783C	kMandarin	tóng
 U+783C	kXHC1983	1154.080:tóng
 U+783D	kCantonese	jung6
-U+783D	kMandarin	yong
+U+783D	kMandarin	yòng
 U+783E	kCantonese	nik1
 U+783E	kDefinition	gravel, pebbles
 U+783E	kHanyuPinlu	lì(10)
@@ -92604,7 +92604,7 @@ U+783E	kXHC1983	0698.090:lì
 U+783F	kDefinition	mine; mineral, ore
 U+783F	kJapaneseKun	ARAGANE
 U+783F	kJapaneseOn	KOU
-U+783F	kMandarin	kuang
+U+783F	kMandarin	kuàng
 U+7840	kCantonese	co2
 U+7840	kDefinition	foundation stone, plinth
 U+7840	kHanyuPinlu	chǔ(400)
@@ -92698,7 +92698,7 @@ U+7852	kJapaneseOn	SEI
 U+7852	kMandarin	xī
 U+7852	kXHC1983	1228.050:xī
 U+7853	kCantonese	lou5
-U+7853	kMandarin	lao
+U+7853	kMandarin	lǎo
 U+7854	kCantonese	hung4
 U+7854	kHanyuPinyin	42428.030:hóng
 U+7854	kMandarin	hóng
@@ -92853,7 +92853,7 @@ U+7872	kJapaneseKun	HAZAMA
 U+7872	kMandarin	yù
 U+7873	kMandarin	chì
 U+7874	kJapaneseKun	KAKI
-U+7874	kMandarin	hua
+U+7874	kMandarin	huā
 U+7875	kMandarin	lǔ
 U+7876	kHanyuPinyin	42433.100:chěn,cén
 U+7876	kMandarin	chěn
@@ -93196,13 +93196,13 @@ U+78B4	kHanyuPinyin	42442.010:chá,chā
 U+78B4	kMandarin	chá
 U+78B4	kXHC1983	0111.050:chā 0114.030:chá
 U+78B5	kJapaneseOn	SEKI
-U+78B5	kMandarin	tian
+U+78B5	kMandarin	tián
 U+78B6	kCantonese	kai3
 U+78B6	kDefinition	a flood-gate, a water-gate
 U+78B6	kHanyuPinyin	42444.030:qì
 U+78B6	kMandarin	qì
 U+78B6	kXHC1983	0902.060:qì
-U+78B7	kMandarin	dun
+U+78B7	kMandarin	dùn
 U+78B8	kCantonese	fung1
 U+78B8	kDefinition	an organic compound
 U+78B8	kHanyuPinyin	42444.150:fēng
@@ -93408,7 +93408,7 @@ U+78D6	kXHC1983	0667.051:lá
 U+78D7	kCantonese	zyun1
 U+78D7	kMandarin	zhuān
 U+78D8	kCantonese	jiu4
-U+78D8	kMandarin	qìng
+U+78D8	kMandarin	yáo
 U+78D9	kDefinition	roller
 U+78D9	kHanyuPinyin	42449.050:gǔn
 U+78D9	kMandarin	gǔn
@@ -93527,7 +93527,7 @@ U+78EC	kXHC1983	0937.040:qìng
 U+78ED	kHanyuPinyin	42452.100:chuò
 U+78ED	kMandarin	chuò
 U+78EE	kCantonese	leon4
-U+78EE	kMandarin	lun
+U+78EE	kMandarin	lún
 U+78EF	kCantonese	gei1
 U+78EF	kDefinition	jetty; submerged rock; eddy
 U+78EF	kHangul	기
@@ -93631,7 +93631,7 @@ U+78FF	kJapaneseOn	REKI RYAKU
 U+78FF	kMandarin	lì
 U+7900	kJapaneseKun	TANI
 U+7900	kJapaneseOn	KAN KEN
-U+7900	kMandarin	jian
+U+7900	kMandarin	jiàn
 U+7901	kCantonese	ziu1
 U+7901	kDefinition	reef; jetty; submerged rocks
 U+7901	kHangul	초
@@ -93641,7 +93641,7 @@ U+7901	kJapaneseOn	SHOU
 U+7901	kKorean	CHO
 U+7901	kMandarin	jiāo
 U+7901	kXHC1983	0567.020:jiāo
-U+7902	kMandarin	xi
+U+7902	kMandarin	xī
 U+7903	kHanyuPinyin	42456.070:zhǎng
 U+7903	kMandarin	zhǎng
 U+7903	kXHC1983	1456.010:zhǎng
@@ -93680,7 +93680,7 @@ U+790C	kKorean	LOY
 U+790C	kMandarin	léi
 U+790C	kVietnamese	sỏi
 U+790C	kXHC1983	0685.020:léi
-U+790D	kMandarin	kě
+U+790D	kMandarin	jié
 U+790E	kCantonese	co2
 U+790E	kDefinition	foundation stone, plinth
 U+790E	kHangul	초
@@ -93769,7 +93769,7 @@ U+7921	kDefinition	fill, extend
 U+7921	kJapaneseKun	MAJIRU
 U+7921	kJapaneseOn	HAKU BAKU
 U+7921	kMandarin	bó
-U+7922	kMandarin	yang
+U+7922	kMandarin	yǎng
 U+7923	kHanyuPinyin	42462.090:mà
 U+7923	kMandarin	mà
 U+7924	kCantonese	caat3
@@ -93887,7 +93887,7 @@ U+7936	kDefinition	a jug, a pitcher, a jar, a pot
 U+7936	kMandarin	guàn
 U+7937	kHanyuPinyin	42465.170:lán
 U+7937	kMandarin	lán
-U+7938	kMandarin	zǎn
+U+7938	kMandarin	cǎ
 U+7939	kHanyuPinyin	42466.070:yán,yǎn
 U+7939	kMandarin	yán
 U+793A	kCantonese	si6
@@ -94194,7 +94194,7 @@ U+7960	kXHC1983	0175.010:cí
 U+7961	kHanyuPinyin	42396.070:chái
 U+7961	kMandarin	chái
 U+7962	kCantonese	nei4 nei5
-U+7962	kDefinition	one's deceased father; used as a synonum for U+4F60 你 when referring to deity
+U+7962	kDefinition	one's deceased father; used as a synonym for U+4F60 你 when referring to deity
 U+7962	kHangul	니
 U+7962	kJapaneseKun	KATASHIRO
 U+7962	kJapaneseOn	DEI NAI NE
@@ -94387,7 +94387,7 @@ U+7985	kKorean	SEN
 U+7985	kMandarin	chán
 U+7985	kXHC1983	0117.110:chán 0999.100:shàn
 U+7986	kCantonese	pei4
-U+7986	kMandarin	bēi
+U+7986	kMandarin	bì
 U+7987	kCantonese	cyu5
 U+7987	kMandarin	zhě
 U+7988	kHanyuPinyin	42403.220:huī
@@ -94496,7 +94496,7 @@ U+7998	kJapaneseOn	TEI DAI
 U+7998	kMandarin	dì
 U+7998	kXHC1983	0233.060:dì
 U+7999	kCantonese	bui3
-U+7999	kMandarin	bei
+U+7999	kMandarin	bèi
 U+799A	kCantonese	zoek3
 U+799A	kDefinition	place name
 U+799A	kHanyuPinyin	42406.160:zhuó
@@ -94518,7 +94518,7 @@ U+799D	kCantonese	zik1
 U+799D	kHangul	직
 U+799D	kJapaneseOn	SHOKU
 U+799D	kKorean	CIK
-U+799D	kMandarin	jí
+U+799D	kMandarin	jì
 U+799E	kMandarin	gào
 U+799F	kCantonese	tong4
 U+799F	kHanyuPinyin	42406.150:táng
@@ -94537,7 +94537,7 @@ U+79A2	kCantonese	hyun1
 U+79A2	kDefinition	surname
 U+79A2	kHanyuPinyin	42405.110:tà
 U+79A2	kMandarin	tà
-U+79A3	kMandarin	fu
+U+79A3	kMandarin	fù
 U+79A4	kCantonese	hyun1
 U+79A4	kDefinition	surname Xuan
 U+79A4	kHanyuPinyin	42407.210:xuān
@@ -95137,7 +95137,7 @@ U+7A00	kVietnamese	hi
 U+7A00	kXHC1983	1230.120:xī
 U+7A01	kHangul	고
 U+7A01	kKorean	KO
-U+7A01	kMandarin	kǎo
+U+7A01	kMandarin	gǎo
 U+7A02	kCantonese	long4
 U+7A02	kDefinition	grass; weeds
 U+7A02	kHangul	랑
@@ -95347,7 +95347,7 @@ U+7A1F	kXHC1983	0077.010,0077.011:bǐng
 U+7A20	kCantonese	cau4
 U+7A20	kDefinition	dense, crowded, packed; soupy
 U+7A20	kHangul	조
-U+7A20	kHanyuPinlu	choú(8)
+U+7A20	kHanyuPinlu	chóu(8)
 U+7A20	kHanyuPinyin	42614.100:chóu,tiáo,diào
 U+7A20	kJapaneseKun	SHIGERU OOI
 U+7A20	kJapaneseOn	CHUU CHOU
@@ -95798,7 +95798,7 @@ U+7A6E	kDefinition	weed
 U+7A6E	kHanyuPinyin	42638.220:biāo,pāo
 U+7A6E	kMandarin	biāo
 U+7A6E	kXHC1983	0069.070:biāo
-U+7A6F	kMandarin	se
+U+7A6F	kMandarin	sè
 U+7A70	kCantonese	joeng4
 U+7A70	kDefinition	stalks of grain; lush, abundant
 U+7A70	kHangul	양
@@ -96311,7 +96311,7 @@ U+7ABC	kJapaneseOn	SOU SHOU
 U+7ABC	kMandarin	zhāo
 U+7ABD	kCantonese	fun2
 U+7ABD	kDefinition	empty; vacant
-U+7ABD	kMandarin	kuan
+U+7ABD	kMandarin	kuǎn
 U+7ABE	kCantonese	fo1 fun2
 U+7ABE	kDefinition	hole; hallow; empty
 U+7ABE	kHangul	관
@@ -96337,7 +96337,7 @@ U+7AC1	kDefinition	bore
 U+7AC1	kHanyuPinyin	42742.110:cuì
 U+7AC1	kMandarin	cuì
 U+7AC2	kCantonese	liu4
-U+7AC2	kMandarin	piáo
+U+7AC2	kMandarin	liáo
 U+7AC3	kCantonese	hung1
 U+7AC3	kDefinition	furnace; kitchen range
 U+7AC3	kJapaneseKun	KAMADO KAMA
@@ -96424,7 +96424,7 @@ U+7ACC	kJapaneseOn	SHO
 U+7ACC	kMandarin	chù
 U+7ACD	kDefinition	decaliter
 U+7ACD	kJapaneseKun	DEKARITTO
-U+7ACD	kMandarin	shi
+U+7ACD	kMandarin	shí
 U+7ACE	kHanyuPinyin	42707.020:fù
 U+7ACE	kJapaneseKun	NOBORU
 U+7ACE	kJapaneseOn	FUU FU
@@ -96432,7 +96432,7 @@ U+7ACE	kMandarin	fù
 U+7ACF	kCantonese	cin1 sing1
 U+7ACF	kDefinition	kiloliter
 U+7ACF	kJapaneseKun	KIRORITTORU
-U+7ACF	kMandarin	qian
+U+7ACF	kMandarin	qiān
 U+7AD0	kMandarin	chù
 U+7AD1	kCantonese	wang4
 U+7AD1	kDefinition	be vast and endless; broad
@@ -96449,12 +96449,12 @@ U+7AD2	kMandarin	qí
 U+7AD3	kCantonese	hou4 sing1
 U+7AD3	kDefinition	milliliter
 U+7AD3	kJapaneseKun	MIRIRITTORU
-U+7AD3	kMandarin	hao
+U+7AD3	kMandarin	háo
 U+7AD4	kDefinition	litre
-U+7AD4	kMandarin	sheng
+U+7AD4	kMandarin	shēng
 U+7AD5	kDefinition	deciliter
 U+7AD5	kJapaneseKun	DESHIRITTO
-U+7AD5	kMandarin	fen
+U+7AD5	kMandarin	fēn
 U+7AD6	kCantonese	syu6
 U+7AD6	kDefinition	perpendicular, vertical; erect
 U+7AD6	kHanyuPinlu	shù(30)
@@ -96534,7 +96534,7 @@ U+7AE0	kVietnamese	chương
 U+7AE0	kXHC1983	1454.030:zhāng
 U+7AE1	kDefinition	hectoliter
 U+7AE1	kJapaneseKun	HEKUTORITTO
-U+7AE1	kMandarin	bai
+U+7AE1	kMandarin	bǎi
 U+7AE2	kCantonese	zi6
 U+7AE2	kDefinition	wait for, wait until, as soon as
 U+7AE2	kHangul	사
@@ -96632,7 +96632,7 @@ U+7AEF	kVietnamese	đoan
 U+7AEF	kXHC1983	0270.030:duān
 U+7AF0	kDefinition	centiliter
 U+7AF0	kJapaneseKun	SENCHIRITTO
-U+7AF0	kMandarin	sháo
+U+7AF0	kMandarin	lí
 U+7AF1	kHanyuPinyin	42715.110:zhuǎn
 U+7AF1	kJapaneseKun	HITOSHII HITOSHIKUSURU
 U+7AF1	kJapaneseOn	SEN TEN TAN
@@ -96731,7 +96731,7 @@ U+7B00	kMandarin	máng
 U+7B00	kVietnamese	măng
 U+7B01	kMandarin	zhú
 U+7B02	kJapaneseKun	UTSUBO
-U+7B02	kMandarin	wan
+U+7B02	kMandarin	wán
 U+7B03	kCantonese	duk1
 U+7B03	kDefinition	deep, true, sincere, genuine
 U+7B03	kMandarin	dǔ
@@ -96742,7 +96742,7 @@ U+7B04	kJapaneseKun	KOUGAI
 U+7B04	kJapaneseOn	KEI
 U+7B04	kMandarin	jī
 U+7B04	kXHC1983	0521.020:jī
-U+7B05	kMandarin	xiáo
+U+7B05	kMandarin	jiǎo
 U+7B06	kCantonese	baa1
 U+7B06	kDefinition	bamboo fence
 U+7B06	kHangul	파
@@ -96964,7 +96964,7 @@ U+7B28	kXHC1983	0052.050:bèn
 U+7B29	kCantonese	fat6
 U+7B29	kJapaneseKun	TOBIAGARU
 U+7B29	kJapaneseOn	HAI BAI
-U+7B29	kMandarin	pèi
+U+7B29	kMandarin	fá
 U+7B2A	kCantonese	daat3
 U+7B2A	kDefinition	a coarse mat of rushes or bamboo
 U+7B2A	kHanyuPinyin	52954.060:dá
@@ -97091,7 +97091,7 @@ U+7B3C	kHanyuPinlu	lóng(39) long(34) lǒng(23)
 U+7B3C	kMandarin	lóng
 U+7B3C	kXHC1983	0732.100:lóng 0733.020:lǒng
 U+7B3D	kJapaneseKun	SOUKE ZARU
-U+7B3D	kMandarin	min
+U+7B3D	kMandarin	mǐn
 U+7B3E	kCantonese	bin1
 U+7B3E	kDefinition	bamboo container for food
 U+7B3E	kMandarin	biān
@@ -97495,7 +97495,7 @@ U+7B79	kXHC1983	0152.080:chóu
 U+7B7A	kDefinition	bamboo basket or chest
 U+7B7A	kJapaneseKun	KAGO HAKO
 U+7B7A	kJapaneseOn	KYOU
-U+7B7A	kMandarin	kuang
+U+7B7A	kMandarin	kuāng
 U+7B7B	kCantonese	gaang3
 U+7B7B	kDefinition	place name in Hunan province
 U+7B7B	kHanyuPinyin	52972.070:gàng
@@ -98001,7 +98001,7 @@ U+7BCF	kJapaneseKun	HASAMU KUBIKASE
 U+7BCF	kJapaneseOn	KAN KEN
 U+7BCF	kMandarin	qiàn
 U+7BD0	kCantonese	ku1 kwu1
-U+7BD0	kMandarin	gu
+U+7BD0	kMandarin	gū
 U+7BD1	kCantonese	gwai6
 U+7BD1	kDefinition	a bamboo basket for carrying earth
 U+7BD1	kMandarin	kuì
@@ -98384,7 +98384,7 @@ U+7C12	kMandarin	cuàn
 U+7C13	kDefinition	a bamboo whisk; the broken end of a bamboo stalk
 U+7C13	kJapaneseKun	SASARA
 U+7C13	kJapaneseOn	SEN
-U+7C13	kMandarin	diao
+U+7C13	kMandarin	diāo
 U+7C14	kDefinition	a coat raincoat
 U+7C14	kJapaneseKun	MINO
 U+7C14	kJapaneseOn	SA SAI
@@ -98548,7 +98548,7 @@ U+7C30	kDefinition	bamboo raft
 U+7C30	kMandarin	pái
 U+7C30	kXHC1983	0850.040:pái
 U+7C31	kJapaneseKun	HATA
-U+7C31	kMandarin	qi
+U+7C31	kMandarin	qí
 U+7C32	kMandarin	pái
 U+7C33	kCantonese	gon3
 U+7C33	kHanyuPinyin	53020.060:gǎn,gàn
@@ -98562,7 +98562,7 @@ U+7C34	kTang	ghiǒ
 U+7C34	kXHC1983	0614.131:jù
 U+7C35	kCantonese	lou6
 U+7C35	kDefinition	fine bamboo
-U+7C35	kMandarin	dù
+U+7C35	kMandarin	lù
 U+7C36	kHanyuPinyin	53017.110:lù
 U+7C36	kJapaneseOn	ROKU
 U+7C36	kMandarin	lù
@@ -98603,7 +98603,7 @@ U+7C3B	kHanyuPinyin	53021.120:zhuā,kē
 U+7C3B	kMandarin	zhuā
 U+7C3B	kXHC1983	1516.012:zhuā
 U+7C3C	kCantonese	gau1
-U+7C3C	kMandarin	lóng
+U+7C3C	kMandarin	gōu
 U+7C3D	kCantonese	cim1
 U+7C3D	kDefinition	sign, endorse; slip of paper
 U+7C3D	kHangul	첨
@@ -98706,10 +98706,10 @@ U+7C4D	kKorean	CEK
 U+7C4D	kMandarin	jí
 U+7C4D	kTang	dzhiɛk
 U+7C4D	kXHC1983	0526.050:jí
-U+7C4E	kMandarin	yi
+U+7C4E	kMandarin	yí
 U+7C4F	kDefinition	flag
 U+7C4F	kJapaneseKun	HATA
-U+7C4F	kMandarin	qi
+U+7C4F	kMandarin	qí
 U+7C50	kCantonese	tang4
 U+7C50	kDefinition	climbing plants, vines, cane
 U+7C50	kHangul	등
@@ -98822,7 +98822,7 @@ U+7C60	kTang	*lung lǔng
 U+7C60	kVietnamese	lồng
 U+7C60	kXHC1983	0732.101:lóng 0733.021:lǒng
 U+7C61	kJapaneseKun	SHINSHI
-U+7C61	kMandarin	qie
+U+7C61	kMandarin	qiè
 U+7C62	kMandarin	lián
 U+7C63	kCantonese	laan4
 U+7C63	kDefinition	bow case
@@ -98989,7 +98989,7 @@ U+7C7E	kJapaneseKun	MOMI
 U+7C7E	kKorean	IN
 U+7C7E	kMandarin	ní
 U+7C7F	kMandarin	cùn
-U+7C80	kMandarin	zhang
+U+7C80	kMandarin	zhàng
 U+7C81	kDefinition	kilometre
 U+7C81	kHangul	천
 U+7C81	kJapaneseKun	KIROMEETORU
@@ -98997,7 +98997,7 @@ U+7C81	kKorean	CHEN
 U+7C81	kMandarin	qiān
 U+7C82	kDefinition	surname
 U+7C82	kJapaneseKun	KUME
-U+7C82	kMandarin	zhai
+U+7C82	kMandarin	zhāi
 U+7C83	kCantonese	pei4
 U+7C83	kDefinition	empty husks of grain
 U+7C83	kHangul	비
@@ -99021,7 +99021,7 @@ U+7C87	kHanyuPinyin	53143.130:kāng,jīng
 U+7C87	kJapaneseKun	NUKA
 U+7C87	kJapaneseOn	KOU
 U+7C87	kMandarin	kāng
-U+7C88	kMandarin	rǒu
+U+7C88	kMandarin	róu
 U+7C89	kCantonese	fan2
 U+7C89	kDefinition	powder, face powder; plaster
 U+7C89	kHangul	분
@@ -99048,12 +99048,12 @@ U+7C8D	kKorean	MO
 U+7C8D	kMandarin	zhé
 U+7C8E	kCantonese	mai5
 U+7C8E	kDefinition	metre
-U+7C8E	kMandarin	chǐ
+U+7C8E	kMandarin	mǐ
 U+7C8F	kJapaneseKun	NUKAMISO
 U+7C8F	kJapaneseOn	TA
 U+7C8F	kMandarin	tai
 U+7C90	kJapaneseOn	RO
-U+7C90	kMandarin	hu
+U+7C90	kMandarin	hù
 U+7C91	kCantonese	baa1
 U+7C91	kDefinition	tsamba (food in Tibet)
 U+7C91	kHanyuPinyin	53144.030:bā
@@ -99114,7 +99114,7 @@ U+7C98	kMandarin	zhān
 U+7C98	kXHC1983	0829.130:nián 1451.010:zhān
 U+7C99	kHanyuPinyin	53145.010:zhòu
 U+7C99	kMandarin	zhòu
-U+7C9A	kMandarin	lí
+U+7C9A	kMandarin	chī
 U+7C9B	kDefinition	pay respects; reverently
 U+7C9B	kJapaneseKun	TSUTSUSHIMU
 U+7C9B	kJapaneseOn	SHUKU
@@ -99177,7 +99177,7 @@ U+7CA4	kXHC1983	1429.010:yuè
 U+7CA5	kCantonese	zuk1
 U+7CA5	kDefinition	rice gruel, congee
 U+7CA5	kHangul	죽
-U+7CA5	kHanyuPinlu	zhoū(48)
+U+7CA5	kHanyuPinlu	zhōu(48)
 U+7CA5	kHanyuPinyin	21000.040:zhōu,yù
 U+7CA5	kJapaneseKun	KAYU HISAGU
 U+7CA5	kJapaneseOn	SHUKU IKU
@@ -99206,7 +99206,7 @@ U+7CA8	kHangul	백
 U+7CA8	kJapaneseKun	HEKUTOMEETORU
 U+7CA8	kKorean	PAYK
 U+7CA8	kMandarin	bǎi
-U+7CA9	kMandarin	lao
+U+7CA9	kMandarin	lāo
 U+7CAA	kCantonese	fan3
 U+7CAA	kDefinition	manure, dung, shit, excrement, night soil
 U+7CAA	kHanyuPinlu	fèn(36)
@@ -99218,7 +99218,7 @@ U+7CAC	kCantonese	kuk1
 U+7CAC	kMandarin	qū
 U+7CAC	kXHC1983	0942.082:qū
 U+7CAD	kJapaneseKun	SUKUMO
-U+7CAD	kMandarin	he
+U+7CAD	kMandarin	hé
 U+7CAE	kCantonese	loeng4
 U+7CAE	kDefinition	food, grain, provisions
 U+7CAE	kHangul	량
@@ -99341,7 +99341,7 @@ U+7CBF	kJapaneseKun	SHIRAGEYONE
 U+7CBF	kJapaneseOn	KA GE
 U+7CBF	kMandarin	guǒ
 U+7CC0	kJapaneseKun	KOUJI
-U+7CC0	kMandarin	hua
+U+7CC0	kMandarin	huā
 U+7CC1	kCantonese	saam2
 U+7CC1	kDefinition	a grain of rice; rice gruel mixed with meat
 U+7CC1	kMandarin	sǎn
@@ -99473,7 +99473,7 @@ U+7CD7	kMandarin	qiǔ
 U+7CD7	kTang	kiǒu
 U+7CD7	kXHC1983	0941.140:qiǔ
 U+7CD8	kJapaneseKun	SUKUMO KASEGI
-U+7CD8	kMandarin	jia
+U+7CD8	kMandarin	jiā
 U+7CD9	kCantonese	cou3
 U+7CD9	kDefinition	coarse, harsh, rough, unpolished rice
 U+7CD9	kHangul	조
@@ -99595,7 +99595,7 @@ U+7CEB	kHanyuPinyin	53161.230:huán
 U+7CEB	kJapaneseKun	MOCHI OKOSHI
 U+7CEB	kJapaneseOn	KAI GEN
 U+7CEB	kMandarin	huán
-U+7CEC	kMandarin	shu
+U+7CEC	kMandarin	shǔ
 U+7CED	kCantonese	zung2 zung3
 U+7CED	kDefinition	rice dumpling
 U+7CED	kMandarin	zòng
@@ -100020,7 +100020,7 @@ U+7D29	kVietnamese	nhạu thắt
 U+7D29	kXHC1983	1493.050*:zhì
 U+7D2A	kJapaneseKun	KINUNOAYA
 U+7D2A	kJapaneseOn	SEI SAI
-U+7D2A	kMandarin	cǐ
+U+7D2A	kMandarin	qī
 U+7D2B	kCantonese	zi2
 U+7D2B	kDefinition	purple, violet; amethyst; surname
 U+7D2B	kHangul	자
@@ -100246,7 +100246,7 @@ U+7D4A	kHanyuPinyin	53379.030:zuì
 U+7D4A	kMandarin	zuì
 U+7D4B	kJapaneseKun	WATA WATAIRE
 U+7D4B	kJapaneseOn	KOU
-U+7D4B	kMandarin	kuang
+U+7D4B	kMandarin	kuàng
 U+7D4C	kDefinition	classic works; pass through
 U+7D4C	kJapaneseKun	HERU TATEITO TSUNE
 U+7D4C	kJapaneseOn	KEI KYOU
@@ -100557,7 +100557,7 @@ U+7D7B	kJapaneseKun	MOHUKU
 U+7D7B	kJapaneseOn	BUN MON BEN MEN BAN MAN
 U+7D7B	kMandarin	miǎn
 U+7D7C	kCantonese	zam2 zi6
-U+7D7C	kMandarin	zhěn
+U+7D7C	kMandarin	zhèn
 U+7D7D	kDefinition	a silk gauze
 U+7D7D	kHanyuPinyin	53404.110:lǚ
 U+7D7D	kJapaneseKun	RO
@@ -100714,9 +100714,9 @@ U+7D9A	kDefinition	continue, carry on; succeed
 U+7D9A	kJapaneseKun	TSUZUKU TSUGU
 U+7D9A	kJapaneseOn	ZOKU SHOKU
 U+7D9A	kKorean	SOK
-U+7D9A	kMandarin	xu
+U+7D9A	kMandarin	xù
 U+7D9B	kJapaneseKun	KASE KASURI
-U+7D9B	kMandarin	ren
+U+7D9B	kMandarin	rěn
 U+7D9C	kCantonese	zung1 zung3
 U+7D9C	kDefinition	arrange threads for weaving
 U+7D9C	kHangul	종
@@ -100757,7 +100757,7 @@ U+7DA1	kMandarin	liáng
 U+7DA2	kCantonese	cau4
 U+7DA2	kDefinition	silk cloth, satin damask
 U+7DA2	kHangul	주
-U+7DA2	kHanyuPinlu	choú(24)
+U+7DA2	kHanyuPinlu	chóu(24)
 U+7DA2	kHanyuPinyin	53417.100:chóu,tāo,diào
 U+7DA2	kJapaneseKun	MATOU
 U+7DA2	kJapaneseOn	CHUU TOU
@@ -101405,10 +101405,10 @@ U+7E03	kMandarin	xū
 U+7E04	kDefinition	rope, string, cord; control
 U+7E04	kJapaneseKun	NAWA
 U+7E04	kJapaneseOn	JOU BIN YOU
-U+7E04	kMandarin	ying
+U+7E04	kMandarin	shéng
 U+7E05	kDefinition	to threaten, intimidate
 U+7E05	kJapaneseKun	ODOSHI ODOSU
-U+7E05	kMandarin	wei
+U+7E05	kMandarin	wēi
 U+7E06	kDefinition	a rope
 U+7E06	kJapaneseOn	KOU
 U+7E06	kMandarin	gēng
@@ -101502,7 +101502,7 @@ U+7E15	kHangul	온
 U+7E15	kJapaneseKun	HURUI
 U+7E15	kJapaneseOn	UN ON
 U+7E15	kKorean	ON
-U+7E15	kMandarin	yūn
+U+7E15	kMandarin	yùn
 U+7E16	kHanyuPinyin	53440.040:xiá
 U+7E16	kMandarin	xiá
 U+7E17	kCantonese	ceoi1
@@ -101618,7 +101618,7 @@ U+7E27	kMandarin	tāo
 U+7E27	kXHC1983	1120.141:tāo
 U+7E28	kJapaneseKun	HORO TOBARI
 U+7E28	kJapaneseOn	KOU
-U+7E28	kMandarin	huang
+U+7E28	kMandarin	huǎng
 U+7E29	kCantonese	coi3 zoi3
 U+7E29	kHanyuPinyin	53447.020:cài
 U+7E29	kMandarin	cài
@@ -101817,7 +101817,7 @@ U+7E43	kHanyuPinyin	53443.090:bēng,běng,bèng
 U+7E43	kJapaneseKun	TSUKANE MAKU
 U+7E43	kJapaneseOn	HOU HYOU
 U+7E43	kKorean	PWUNG
-U+7E43	kMandarin	běng
+U+7E43	kMandarin	běng bēng
 U+7E43	kXHC1983	0053.051:bēng 0053.091:běng 0054.011:bèng
 U+7E44	kCantonese	ji1
 U+7E44	kDefinition	be; particle; sigh, alas
@@ -101867,7 +101867,7 @@ U+7E4A	kDefinition	fine, delicate; minute; graceful
 U+7E4A	kJapaneseKun	HOSOI CHIISAI SHINAYAKA
 U+7E4A	kJapaneseOn	SEN
 U+7E4A	kKorean	SEM
-U+7E4A	kMandarin	xian
+U+7E4A	kMandarin	xiān
 U+7E4B	kDefinition	attach, connect, unite, fasten
 U+7E4B	kJapaneseKun	TSUNAGU KAKERU
 U+7E4B	kJapaneseOn	KEI
@@ -102313,7 +102313,7 @@ U+7E8F	kTang	*dhjiɛn
 U+7E8F	kVietnamese	triền
 U+7E8F	kXHC1983	0117.091:chán
 U+7E90	kJapaneseKun	KOU
-U+7E90	kMandarin	jiao
+U+7E90	kMandarin	jiǎo
 U+7E91	kCantonese	lou4
 U+7E91	kDefinition	to soften hemp by boiling; thread
 U+7E91	kHanyuPinyin	53467.140:lú
@@ -102812,11 +102812,11 @@ U+7EF6	kXHC1983	1061.020:shòu
 U+7EF7	kCantonese	bang1 mang1
 U+7EF7	kDefinition	bind, draw firmly, strap
 U+7EF7	kHanyuPinlu	běng(18) bēng(12)
-U+7EF7	kMandarin	běng
+U+7EF7	kMandarin	bēng
 U+7EF7	kXHC1983	0053.050:bēng 0053.090:běng 0054.010:bèng
 U+7EF8	kCantonese	cau4
 U+7EF8	kDefinition	silk cloth, satin damask
-U+7EF8	kHanyuPinlu	choú(24)
+U+7EF8	kHanyuPinlu	chóu(24)
 U+7EF8	kMandarin	chóu
 U+7EF8	kXHC1983	0153.060:chóu
 U+7EF9	kCantonese	tou4
@@ -103209,7 +103209,7 @@ U+7F48	kMandarin	tán
 U+7F48	kXHC1983	1114.065:tán
 U+7F49	kCantonese	cang1
 U+7F49	kDefinition	(Cant.) a pot
-U+7F49	kMandarin	cang
+U+7F49	kMandarin	chēng
 U+7F4A	kHanyuPinyin	52939.080:qì
 U+7F4A	kMandarin	qì
 U+7F4B	kCantonese	ong3 ung3
@@ -103314,7 +103314,7 @@ U+7F58	kMandarin	fú
 U+7F58	kTang	bhiou
 U+7F58	kXHC1983	0336.040:fú
 U+7F59	kDefinition	deep
-U+7F59	kMandarin	mí
+U+7F59	kMandarin	shēn
 U+7F5A	kCantonese	fat6
 U+7F5A	kDefinition	penalty, fine; punish, penalize
 U+7F5A	kHanyuPinlu	fá(26)
@@ -104145,7 +104145,7 @@ U+7FD5	kXHC1983	1231.070:xī
 U+7FD6	kDefinition	ksc extension 3108
 U+7FD6	kHangul	흡
 U+7FD6	kKorean	HUP
-U+7FD6	kMandarin	xì
+U+7FD6	kMandarin	xī
 U+7FD7	kHanyuPinyin	53348.040:ké
 U+7FD7	kMandarin	ké
 U+7FD8	kCantonese	kiu4
@@ -104331,7 +104331,7 @@ U+7FF4	kHanyuPinyin	53355.110:lián
 U+7FF4	kMandarin	lián
 U+7FF5	kHanyuPinyin	53357.020:hóu,qú
 U+7FF5	kMandarin	hóu
-U+7FF6	kMandarin	ao
+U+7FF6	kMandarin	áo
 U+7FF7	kHanyuPinyin	53358.040:lín
 U+7FF7	kMandarin	lín
 U+7FF8	kHanyuPinyin	53357.080:pěn
@@ -104493,7 +104493,7 @@ U+8009	kJapaneseOn	KOU KU
 U+8009	kKorean	KWU
 U+8009	kMandarin	gǒu
 U+800A	kJapaneseOn	TETSU
-U+800A	kMandarin	diè
+U+800A	kMandarin	dié
 U+800B	kCantonese	dit6
 U+800B	kDefinition	aged; in one's eighties
 U+800B	kHanyuPinyin	42782.020:dié
@@ -104624,7 +104624,7 @@ U+8019	kHangul	파
 U+8019	kHanyuPinyin	42771.040:bà,pá
 U+8019	kJapaneseOn	HA
 U+8019	kKorean	PHA
-U+8019	kMandarin	bà
+U+8019	kMandarin	bà pá
 U+8019	kVietnamese	khịt bừa
 U+8019	kXHC1983	0019.020:bà 0847.070:pá
 U+801A	kHanyuPinyin	42772.030:pī
@@ -104937,7 +104937,7 @@ U+8052	kKorean	KWAL
 U+8052	kMandarin	guā
 U+8052	kTang	guɑt
 U+8052	kXHC1983	0422.060:guā
-U+8053	kMandarin	xu
+U+8053	kMandarin	xù
 U+8054	kCantonese	lyun4
 U+8054	kDefinition	connect, join; associate, ally
 U+8054	kHanyuPinlu	lián(578)
@@ -105020,7 +105020,7 @@ U+8061	kMandarin	cōng
 U+8062	kCantonese	ding6
 U+8062	kDefinition	certainly, definitely
 U+8062	kJapaneseKun	SHIKATO
-U+8062	kMandarin	ding
+U+8062	kMandarin	dìng
 U+8063	kCantonese	ai6 ngai6
 U+8063	kMandarin	ní
 U+8064	kHanyuPinyin	42792.190:tíng
@@ -105040,7 +105040,7 @@ U+8067	kMandarin	kuī
 U+8068	kDefinition	connect, join; associate, ally
 U+8068	kJapaneseKun	TSURANERU
 U+8068	kJapaneseOn	REN
-U+8068	kMandarin	lian
+U+8068	kMandarin	lián
 U+8069	kCantonese	kui2
 U+8069	kDefinition	deaf
 U+8069	kMandarin	kuì
@@ -105272,7 +105272,7 @@ U+8088	kXHC1983	1460.041:zhào
 U+8089	kCantonese	juk6
 U+8089	kDefinition	flesh; meat; KangXi radical 130
 U+8089	kHangul	육
-U+8089	kHanyuPinlu	roù(278)
+U+8089	kHanyuPinlu	ròu(278)
 U+8089	kHanyuPinyin	52931.010:ròu,rù
 U+8089	kJapaneseKun	SHISHI
 U+8089	kJapaneseOn	NIKU JUU
@@ -105331,7 +105331,7 @@ U+8093	kJapaneseOn	KOU
 U+8093	kKorean	HWANG
 U+8093	kMandarin	huāng
 U+8093	kXHC1983	0492.040:huāng
-U+8094	kMandarin	yǐ
+U+8094	kMandarin	chǐ
 U+8095	kCantonese	jan6 ngan6
 U+8095	kDefinition	tough, strong, hard
 U+8095	kHanyuPinyin	32046.090:rèn
@@ -105734,7 +105734,7 @@ U+80CF	kHanyuPinyin	32051.030:zǐ,fèi
 U+80CF	kJapaneseOn	SHI
 U+80CF	kMandarin	zǐ
 U+80D0	kCantonese	fei2
-U+80D0	kMandarin	kū
+U+80D0	kMandarin	fěi
 U+80D1	kCantonese	zi1
 U+80D1	kDefinition	the limbs; the upper arm; wings of birds; legs of animals
 U+80D1	kMandarin	zhī
@@ -106143,7 +106143,7 @@ U+810A	kMandarin	jí
 U+810A	kXHC1983	0525.050:jí 0530.040:jǐ
 U+810B	kJapaneseKun	OBIYAAKASU ODOOSU OTOOKASU
 U+810B	kJapaneseOn	KYOU
-U+810B	kMandarin	xie
+U+810B	kMandarin	xié
 U+810C	kCantonese	nin1
 U+810C	kDefinition	(Cant.) female breast; milk
 U+810C	kMandarin	nin
@@ -106373,7 +106373,7 @@ U+8133	kDefinition	brain
 U+8133	kJapaneseKun	NOUMISO
 U+8133	kJapaneseOn	NOU DOU
 U+8133	kKorean	NOY
-U+8133	kMandarin	nao
+U+8133	kMandarin	nǎo
 U+8134	kCantonese	pei2
 U+8134	kHanyuPinyin	32077.010:pǐ
 U+8134	kMandarin	pǐ
@@ -106896,7 +106896,7 @@ U+8184	kHangul	수
 U+8184	kJapaneseKun	YASERU KAKERU
 U+8184	kJapaneseOn	SHUU NYU
 U+8184	kKorean	SWU
-U+8184	kMandarin	sòu
+U+8184	kMandarin	shòu
 U+8185	kHanyuPinyin	32104.020:táng
 U+8185	kJapaneseOn	TOU DOU
 U+8185	kMandarin	táng
@@ -107093,10 +107093,10 @@ U+81A3	kKorean	CIL
 U+81A3	kMandarin	zhì
 U+81A3	kXHC1983	1492.010:zhì
 U+81A4	kJapaneseKun	TARA
-U+81A4	kMandarin	xue
+U+81A4	kMandarin	xuě
 U+81A5	kCantonese	ceon1
 U+81A5	kDefinition	(Cant.) eggs of birds or reptiles; testicles
-U+81A5	kMandarin	chūn
+U+81A5	kMandarin	cūn
 U+81A6	kCantonese	leon4
 U+81A6	kHanyuPinyin	32114.030:liǎn,lìn
 U+81A6	kMandarin	lìn
@@ -107565,7 +107565,7 @@ U+81EC	kXHC1983	0835.040:niè
 U+81ED	kCantonese	cau3
 U+81ED	kDefinition	smell, stink, emit foul odor
 U+81ED	kHangul	취
-U+81ED	kHanyuPinlu	choù(72)
+U+81ED	kHanyuPinlu	chòu(72)
 U+81ED	kHanyuPinyin	53047.040:xiù,chòu
 U+81ED	kJapaneseKun	KUSAI NIOI KAGU
 U+81ED	kJapaneseOn	SHUU KYUU
@@ -107823,14 +107823,14 @@ U+820D	kHanyuPinyin	52941.020:shè,shě,shì
 U+820D	kJapaneseKun	YADORU
 U+820D	kJapaneseOn	SHA SEKI
 U+820D	kKorean	SA
-U+820D	kMandarin	shě
+U+820D	kMandarin	shě shè
 U+820D	kTang	*shià
 U+820D	kVietnamese	xá
 U+820D	kXHC1983	1011.030:shě 1014.020:shè
 U+820E	kDefinition	house, dwelling; dwell, reside
 U+820E	kJapaneseKun	YADORU
 U+820E	kJapaneseOn	SHA
-U+820E	kMandarin	she
+U+820E	kMandarin	shè
 U+820F	kHanyuPinyin	52942.010:jiǔ
 U+820F	kJapaneseKun	NAMETORU
 U+820F	kJapaneseOn	KYUU KU
@@ -107949,7 +107949,7 @@ U+821E	kXHC1983	1220.060:wǔ
 U+821F	kCantonese	zau1
 U+821F	kDefinition	boat, ship; KangXi radical 137
 U+821F	kHangul	주
-U+821F	kHanyuPinlu	zhoū(13)
+U+821F	kHanyuPinlu	zhōu(13)
 U+821F	kHanyuPinyin	53055.010:zhōu
 U+821F	kJapaneseKun	FUNE
 U+821F	kJapaneseOn	SHUU SHU
@@ -107981,7 +107981,7 @@ U+8223	kCantonese	ngai5
 U+8223	kDefinition	to moor a boat to the bank
 U+8223	kMandarin	yǐ
 U+8223	kXHC1983	1364.080:yǐ
-U+8224	kMandarin	fan
+U+8224	kMandarin	fán
 U+8225	kHanyuPinyin	53058.040:pā
 U+8225	kMandarin	pā
 U+8226	kCantonese	taai5
@@ -108042,7 +108042,7 @@ U+822D	kXHC1983	0058.010:bǐ
 U+822E	kDefinition	bow or prow of boat
 U+822E	kJapaneseKun	HESAKI TOMO
 U+822E	kJapaneseOn	RO
-U+822E	kMandarin	lu
+U+822E	kMandarin	lú
 U+822F	kCantonese	zung1
 U+822F	kHanyuPinyin	53057.010:zhōng
 U+822F	kMandarin	zhōng
@@ -108151,7 +108151,7 @@ U+823E	kDefinition	(Cant.) equipment on a ship
 U+823E	kHanyuPinyin	53060.150:xī
 U+823E	kMandarin	xī
 U+823E	kXHC1983	1228.070:xī
-U+823F	kMandarin	kua
+U+823F	kMandarin	kuā
 U+8240	kDefinition	a sampan, lighter, barge
 U+8240	kHangul	부
 U+8240	kHanyuPinyin	53062.030:fú
@@ -108244,7 +108244,7 @@ U+8253	kHanyuPinyin	53063.150:dié
 U+8253	kMandarin	dié
 U+8254	kCantonese	dou6
 U+8254	kDefinition	(Cant.) boat
-U+8254	kMandarin	dou
+U+8254	kMandarin	dào
 U+8255	kCantonese	pong3
 U+8255	kDefinition	two boats fastened side by side
 U+8255	kHanyuPinyin	53066.070:bàng
@@ -108264,7 +108264,7 @@ U+8257	kMandarin	yì
 U+8258	kCantonese	sau1 sau2
 U+8258	kDefinition	counter for ships, vessels
 U+8258	kHangul	소
-U+8258	kHanyuPinlu	soū(30)
+U+8258	kHanyuPinlu	sōu(30)
 U+8258	kHanyuPinyin	53064.070:sōu
 U+8258	kJapaneseKun	FUNE
 U+8258	kJapaneseOn	SOU
@@ -108300,7 +108300,7 @@ U+825C	kHanyuPinyin	53066.140:dài
 U+825C	kJapaneseOn	TAI
 U+825C	kMandarin	dài
 U+825D	kJapaneseKun	SORI
-U+825D	kMandarin	xue
+U+825D	kMandarin	xuě
 U+825E	kCantonese	tiu1
 U+825E	kHanyuPinyin	53067.220:yào,tiào
 U+825E	kMandarin	yào
@@ -108316,7 +108316,7 @@ U+825F	kVietnamese	xuồng
 U+825F	kXHC1983	0149.050:chōng
 U+8260	kJapaneseKun	YOFUNE
 U+8260	kJapaneseOn	TOU
-U+8260	kMandarin	deng
+U+8260	kMandarin	dēng
 U+8261	kCantonese	dong1
 U+8261	kHanyuPinyin	53068.180:dāng
 U+8261	kMandarin	dāng
@@ -109005,7 +109005,7 @@ U+82C5	kKorean	YEY
 U+82C5	kMandarin	yì
 U+82C5	kXHC1983	1370.040,1370.041:yì
 U+82C6	kJapaneseKun	SUSA TSUTA
-U+82C6	kMandarin	qie
+U+82C6	kMandarin	qiē
 U+82C7	kCantonese	wai5
 U+82C7	kDefinition	reed
 U+82C7	kHanyuPinlu	wěi(32)
@@ -109494,7 +109494,7 @@ U+830A	kMandarin	zī
 U+830B	kCantonese	zi2
 U+830B	kJapaneseKun	TSURIGANESOU
 U+830B	kJapaneseOn	SHI
-U+830B	kMandarin	dǐ
+U+830B	kMandarin	zhǐ
 U+830C	kCantonese	ci4
 U+830C	kDefinition	name of a district in Shandong
 U+830C	kHanyuPinyin	53193.100:chí
@@ -109517,7 +109517,7 @@ U+830F	kCantonese	lung4
 U+830F	kDefinition	tall grass; water-weeds
 U+830F	kMandarin	lóng
 U+830F	kXHC1983	0732.030:lóng
-U+8310	kMandarin	cong
+U+8310	kMandarin	cōng
 U+8311	kCantonese	niu5
 U+8311	kDefinition	the convovulvus; parasitic plants such as mistletoe; Ribes ambiguum
 U+8311	kMandarin	niǎo
@@ -109995,7 +109995,7 @@ U+835C	kCantonese	bat1
 U+835C	kDefinition	species of bean; piper longtum
 U+835C	kMandarin	bì
 U+835C	kXHC1983	0060.110:bì
-U+835D	kMandarin	zé
+U+835D	kMandarin	cè
 U+835E	kCantonese	kiu4
 U+835E	kDefinition	buckwheat
 U+835E	kMandarin	qiáo
@@ -110014,7 +110014,7 @@ U+8361	kHanyuPinlu	dàng(67)
 U+8361	kMandarin	dàng
 U+8361	kXHC1983	0217.010:dàng
 U+8362	kCantonese	zi6
-U+8362	kMandarin	yu
+U+8362	kMandarin	zì
 U+8363	kCantonese	wing4
 U+8363	kDefinition	glory, honor; flourish, prosper
 U+8363	kHanyuPinlu	róng(147)
@@ -110458,7 +110458,7 @@ U+83B4	kXHC1983	1209.010:wō
 U+83B5	kDefinition	dodder; creeper
 U+83B5	kJapaneseKun	USAGI
 U+83B5	kJapaneseOn	TO
-U+83B5	kMandarin	tu
+U+83B5	kMandarin	tù
 U+83B6	kCantonese	cim1
 U+83B6	kDefinition	vine
 U+83B6	kMandarin	xiān
@@ -111047,7 +111047,7 @@ U+8418	kHanyuPinyin	53231.100:nài
 U+8418	kMandarin	nài
 U+8418	kXHC1983	0814.100:nài
 U+8419	kJapaneseKun	KUTABIRERU
-U+8419	kMandarin	zhen
+U+8419	kMandarin	zhěn
 U+841A	kMandarin	tuò
 U+841A	kXHC1983	1174.140:tuò
 U+841B	kJapaneseOn	KYUU KU
@@ -111062,18 +111062,18 @@ U+841D	kDefinition	type of creeping plant; turnip
 U+841D	kHanyuPinlu	luó(25)
 U+841D	kMandarin	luó
 U+841D	kXHC1983	0750.010:luó
-U+841E	kMandarin	bi
-U+841F	kMandarin	yi
+U+841E	kMandarin	bì
+U+841F	kMandarin	yì
 U+8420	kCantonese	pang4
 U+8420	kDefinition	bud, sprout
 U+8420	kJapaneseKun	MEBAE KIZASU MOERU
 U+8420	kJapaneseOn	HOU BOU
-U+8420	kMandarin	méng
+U+8420	kMandarin	pān
 U+8421	kCantonese	bok6
 U+8421	kMandarin	bo
 U+8421	kVietnamese	bạc
 U+8422	kJapaneseKun	YAJI YACHI
-U+8422	kMandarin	pao
+U+8422	kMandarin	pāo
 U+8423	kMandarin	dìng
 U+8424	kCantonese	jing4
 U+8424	kDefinition	glow-worm, luminous insect
@@ -111641,7 +111641,7 @@ U+8484	kHanyuPinyin	53257.030:guān
 U+8484	kJapaneseOn	KAN
 U+8484	kMandarin	guān
 U+8485	kJapaneseKun	SUKUMO
-U+8485	kMandarin	ran
+U+8485	kMandarin	rǎn
 U+8486	kMandarin	xuē
 U+8487	kCantonese	cin2 zin2
 U+8487	kDefinition	finish, complete; solve; complete
@@ -112114,7 +112114,7 @@ U+84D8	kHanyuPinyin	53268.050:gǔn
 U+84D8	kMandarin	gǔn
 U+84D9	kDefinition	a mat, matting
 U+84D9	kJapaneseKun	ZA GOZA
-U+84D9	kMandarin	zuo
+U+84D9	kMandarin	zuò
 U+84DA	kCantonese	tiu4
 U+84DA	kDefinition	oxalic (used in compounds)
 U+84DA	kHangul	수
@@ -112126,7 +112126,7 @@ U+84DA	kXHC1983	1139.021:tiáo
 U+84DB	kMandarin	cè
 U+84DC	kJapaneseKun	HAI
 U+84DC	kJapaneseOn	HAI
-U+84DC	kMandarin	pei
+U+84DC	kMandarin	pèi
 U+84DD	kCantonese	laam4
 U+84DD	kDefinition	blue; indigo plant; surname
 U+84DD	kHanyuPinlu	lán(126)
@@ -112154,7 +112154,7 @@ U+84E3	kDefinition	yam
 U+84E3	kMandarin	yù
 U+84E3	kXHC1983	1418.010:yù
 U+84E4	kCantonese	ling4
-U+84E4	kMandarin	ling
+U+84E4	kMandarin	líng
 U+84E5	kCantonese	jing4
 U+84E5	kDefinition	polish
 U+84E5	kMandarin	yíng
@@ -112611,7 +112611,7 @@ U+8535	kJapaneseOn	ZOU
 U+8535	kKorean	CANG
 U+8535	kMandarin	zāng
 U+8536	kJapaneseKun	SONOKO
-U+8536	kMandarin	ze
+U+8536	kMandarin	zé
 U+8537	kCantonese	coeng4
 U+8537	kDefinition	rose
 U+8537	kMandarin	qiáng
@@ -112967,7 +112967,7 @@ U+8570	kJapaneseOn	UN
 U+8570	kKorean	ON
 U+8570	kMandarin	wēn
 U+8570	kXHC1983	1203.010:wēn
-U+8571	kMandarin	shao
+U+8571	kMandarin	shāo
 U+8572	kCantonese	kei4
 U+8572	kDefinition	variety of artemisia seek
 U+8572	kMandarin	qí
@@ -113061,7 +113061,7 @@ U+8584	kHanyuPinyin	53307.030:bó,bù,bò
 U+8584	kJapaneseKun	USUI SEMARU SUSUKI
 U+8584	kJapaneseOn	HAKU
 U+8584	kKorean	PAK
-U+8584	kMandarin	báo
+U+8584	kMandarin	báo bó
 U+8584	kTang	*bhɑk
 U+8584	kXHC1983	0037.090:báo 0083.040:bó 0085.050:bò
 U+8585	kCantonese	hou1
@@ -113335,7 +113335,7 @@ U+85AC	kKorean	YAK
 U+85AC	kMandarin	yào
 U+85AD	kJapaneseKun	HIE
 U+85AD	kJapaneseOn	HAI
-U+85AD	kMandarin	bai
+U+85AD	kMandarin	bài
 U+85AE	kCantonese	sau2
 U+85AE	kDefinition	marsh, swamp; wild country
 U+85AE	kJapaneseKun	YABU
@@ -113707,7 +113707,7 @@ U+85F0	kHanyuPinyin	53321.080:liú,liǔ
 U+85F0	kMandarin	liú
 U+85F1	kHanyuPinyin	53321.140:huì,huí
 U+85F1	kMandarin	huì
-U+85F2	kMandarin	ou
+U+85F2	kMandarin	ōu
 U+85F3	kJapaneseKun	WARA SHITAGAKI
 U+85F3	kJapaneseOn	KOU
 U+85F3	kMandarin	gǎo
@@ -113717,7 +113717,7 @@ U+85F4	kJapaneseKun	TSUMU TAKUWAERU OSAMERU
 U+85F4	kJapaneseOn	UN ON
 U+85F4	kKorean	ON
 U+85F4	kMandarin	yùn
-U+85F5	kMandarin	bao
+U+85F5	kMandarin	bǎo
 U+85F6	kCantonese	lik6
 U+85F6	kDefinition	a kind of plant
 U+85F6	kHanyuPinyin	53324.140:lì
@@ -113901,7 +113901,7 @@ U+8611	kMandarin	mó
 U+8611	kXHC1983	0799.010:mó
 U+8612	kDefinition	265:143
 U+8612	kJapaneseKun	HAGI
-U+8612	kMandarin	qiu
+U+8612	kMandarin	qiū
 U+8613	kCantonese	sou1
 U+8613	kDefinition	thyme; revive, resurrect; soviet
 U+8613	kJapaneseKun	YOMIGAERU
@@ -113909,7 +113909,7 @@ U+8613	kJapaneseOn	SO SU
 U+8613	kMandarin	sū
 U+8614	kCantonese	gwing2 wing6
 U+8614	kMandarin	jiōng
-U+8615	kMandarin	feng
+U+8615	kMandarin	péng
 U+8616	kCantonese	jit6
 U+8616	kDefinition	stump, sprout
 U+8616	kHangul	얼
@@ -113956,7 +113956,7 @@ U+861B	kMandarin	yú
 U+861C	kCantonese	guk1
 U+861C	kHanyuPinyin	53330.120:jú
 U+861C	kMandarin	jú
-U+861D	kMandarin	liàn
+U+861D	kMandarin	liǎn
 U+861D	kVietnamese	lém
 U+861E	kCantonese	lim4 lim6
 U+861E	kDefinition	wild vine, vitis pentaphylla
@@ -113989,7 +113989,7 @@ U+8623	kHanyuPinyin	53330.110:tǒu
 U+8623	kMandarin	tǒu
 U+8624	kCantonese	faa1
 U+8624	kDefinition	flower, blossoms
-U+8624	kMandarin	wěi
+U+8624	kMandarin	huā
 U+8625	kCantonese	joek6
 U+8625	kHanyuPinyin	53331.170:yuè
 U+8625	kMandarin	yuè
@@ -114043,7 +114043,7 @@ U+862F	kJapaneseOn	TOU DOU
 U+862F	kKorean	THANG
 U+862F	kMandarin	dàng
 U+8630	kJapaneseKun	KATSURA
-U+8630	kMandarin	man
+U+8630	kMandarin	màn
 U+8631	kCantonese	leoi6
 U+8631	kHanyuPinyin	53337.090:lèi
 U+8631	kMandarin	lèi
@@ -114133,7 +114133,7 @@ U+8643	kMandarin	jiān
 U+8644	kKorean	SAN
 U+8644	kMandarin	sà
 U+8645	kCantonese	tang4
-U+8645	kMandarin	teng
+U+8645	kMandarin	téng
 U+8646	kCantonese	leoi4
 U+8646	kDefinition	entwine; basket for carrying dirt
 U+8646	kHanyuPinyin	53338.190:léi
@@ -114501,7 +114501,7 @@ U+8682	kDefinition	ant; leech
 U+8682	kHanyuPinlu	mǎ(40)
 U+8682	kMandarin	mǎ
 U+8682	kXHC1983	0753.080:mā 0758.030:mǎ 0758.060:mà
-U+8683	kMandarin	xiàng
+U+8683	kMandarin	xiǎng
 U+8684	kHanyuPinyin	42840.110:fāng,bàng
 U+8684	kMandarin	fāng
 U+8685	kHanyuPinyin	42837.130:è
@@ -114710,7 +114710,7 @@ U+86A9	kXHC1983	0142.060:chī
 U+86AA	kCantonese	dau2
 U+86AA	kDefinition	tadpole
 U+86AA	kHangul	두
-U+86AA	kHanyuPinlu	doǔ(10)
+U+86AA	kHanyuPinlu	dǒu(10)
 U+86AA	kHanyuPinyin	42840.130:dǒu
 U+86AA	kJapaneseOn	TOU TSU
 U+86AA	kKorean	TWU
@@ -114730,7 +114730,7 @@ U+86AD	kCantonese	lei4 nei4
 U+86AD	kHanyuPinyin	42845.140:ní
 U+86AD	kJapaneseOn	JI NI
 U+86AD	kMandarin	ní
-U+86AE	kMandarin	tè
+U+86AE	kMandarin	dài
 U+86AF	kCantonese	jau1
 U+86AF	kDefinition	earthworm
 U+86AF	kHangul	구
@@ -115094,7 +115094,7 @@ U+86EE	kXHC1983	0761.070:mán
 U+86EF	kCantonese	lou5
 U+86EF	kDefinition	shrimp
 U+86EF	kJapaneseKun	EBI
-U+86EF	kMandarin	lao
+U+86EF	kMandarin	lǎo
 U+86F0	kCantonese	zat6
 U+86F0	kDefinition	to hibernate
 U+86F0	kMandarin	zhé
@@ -115162,7 +115162,7 @@ U+86FC	kJapaneseOn	SHA
 U+86FC	kMandarin	chē
 U+86FD	kJapaneseKun	KAI
 U+86FD	kJapaneseOn	BAI
-U+86FD	kMandarin	bài
+U+86FD	kMandarin	bèi
 U+86FE	kCantonese	ngai5 ngo4
 U+86FE	kDefinition	moth
 U+86FE	kHangul	아
@@ -116106,9 +116106,9 @@ U+87A5	kCantonese	cong1
 U+87A5	kDefinition	the house-fly
 U+87A5	kMandarin	cāng
 U+87A6	kKorean	SO
-U+87A6	kMandarin	sao
+U+87A6	kMandarin	sāo
 U+87A7	kJapaneseKun	EBI
-U+87A7	kMandarin	qi
+U+87A7	kMandarin	qí
 U+87A8	kDefinition	insect
 U+87A8	kMandarin	mǎn
 U+87A8	kXHC1983	0762.060:mǎn
@@ -116526,7 +116526,7 @@ U+87F4	kCantonese	si1
 U+87F4	kHanyuPinyin	42889.190:sī
 U+87F4	kMandarin	sī
 U+87F5	kCantonese	cyu4
-U+87F5	kMandarin	chu
+U+87F5	kMandarin	chú
 U+87F6	kCantonese	cing1
 U+87F6	kDefinition	razor clam
 U+87F6	kHanyuPinyin	42895.030:chēng
@@ -116759,7 +116759,7 @@ U+881C	kJapaneseKun	INAGO
 U+881C	kJapaneseOn	HAN BON
 U+881C	kMandarin	fán
 U+881D	kCantonese	leoi5
-U+881D	kMandarin	léi
+U+881D	kMandarin	lěi
 U+881E	kHanyuPinyin	42902.160:jié
 U+881E	kJapaneseOn	SETSU ZECHI
 U+881E	kMandarin	jié
@@ -116834,7 +116834,7 @@ U+8829	kMandarin	zhū
 U+882A	kCantonese	lung4
 U+882A	kHanyuPinyin	42905.070:lóng
 U+882A	kMandarin	lóng
-U+882B	kMandarin	lì
+U+882B	kMandarin	lí
 U+882C	kHanyuPinyin	42905.060:lóng
 U+882C	kMandarin	lóng
 U+882C	kVietnamese	rồng
@@ -116850,7 +116850,7 @@ U+882E	kDefinition	bee
 U+882E	kHanyuPinyin	42906.030:yē
 U+882E	kJapaneseOn	ETSU ECHI
 U+882E	kMandarin	yē
-U+882F	kMandarin	bèng
+U+882F	kMandarin	pí
 U+8830	kCantonese	joeng4 joeng6
 U+8830	kHanyuPinyin	42907.110:náng,shàng,rǎng
 U+8830	kJapaneseKun	KAMIKIRIMUSHI
@@ -116877,7 +116877,7 @@ U+8832	kTang	guen
 U+8832	kXHC1983	0616.050:juān
 U+8833	kHanyuPinyin	42906.070:yīng
 U+8833	kMandarin	yīng
-U+8834	kMandarin	shu
+U+8834	kMandarin	shǔ
 U+8835	kCantonese	kwai4
 U+8835	kDefinition	large turtles
 U+8835	kHanyuPinyin	42908.150:xī
@@ -116960,7 +116960,7 @@ U+8842	kCantonese	luk6 nuk6
 U+8842	kDefinition	to be defeated
 U+8842	kJapaneseKun	HANAJI KUJIKERU
 U+8842	kJapaneseOn	JIKU NIKU
-U+8842	kMandarin	niù
+U+8842	kMandarin	nǜ
 U+8843	kCantonese	pui1
 U+8843	kHanyuPinyin	53051.040:pēi,fǒu
 U+8843	kJapaneseOn	HAI FUU FU
@@ -117056,7 +117056,7 @@ U+884F	kCantonese	jyun2 jyun6
 U+884F	kHanyuPinyin	20823.020:yuàn
 U+884F	kMandarin	yuàn
 U+884F	kXHC1983	1426.030:yuàn
-U+8850	kMandarin	qu
+U+8850	kMandarin	qú
 U+8851	kHanyuPinyin	20831.030:líng
 U+8851	kJapaneseKun	MICHI
 U+8851	kJapaneseOn	REI RYOU
@@ -117621,16 +117621,16 @@ U+88AB	kTang	*bhyɛ̌
 U+88AB	kVietnamese	bị
 U+88AB	kXHC1983	0049.020:bèi
 U+88AC	kCantonese	gwan2
-U+88AC	kMandarin	gǔn
+U+88AC	kMandarin	yù
 U+88AD	kCantonese	zaap6
 U+88AD	kDefinition	raid, attack; inherit
 U+88AD	kHanyuPinlu	xí(46)
 U+88AD	kMandarin	xí
 U+88AD	kXHC1983	1232.140:xí
 U+88AE	kCantonese	nei5 ji5
-U+88AE	kDefinition	used as a synonum for U+4F60 你 when referring to deity
+U+88AE	kDefinition	used as a synonym for U+4F60 你 when referring to deity
 U+88AE	kJapaneseOn	NE
-U+88AE	kMandarin	ni
+U+88AE	kMandarin	mí
 U+88AF	kCantonese	but6
 U+88AF	kDefinition	raincoat
 U+88AF	kMandarin	bó
@@ -117751,7 +117751,7 @@ U+88C2	kTang	*liɛt
 U+88C2	kXHC1983	0713.030:liě 0714.020:liè
 U+88C3	kDefinition	old ceremonial garb; samurai garb
 U+88C3	kJapaneseKun	KAMISHIMO
-U+88C3	kMandarin	ka
+U+88C3	kMandarin	kǎ
 U+88C4	kDefinition	sleeve length
 U+88C4	kJapaneseKun	YUKI
 U+88C4	kMandarin	xing
@@ -118130,11 +118130,11 @@ U+88FF	kCantonese	ji2
 U+88FF	kHanyuPinyin	53097.080:yǐ,qǐ
 U+88FF	kMandarin	yǐ
 U+8900	kCantonese	gei6
-U+8900	kMandarin	jì
+U+8900	kMandarin	qí
 U+8901	kCantonese	gwo2
 U+8901	kJapaneseKun	HUKURO
 U+8901	kJapaneseOn	SEKI SHAKU
-U+8901	kMandarin	zhí
+U+8901	kMandarin	guǒ
 U+8902	kCantonese	gwaa3 kwaa2
 U+8902	kDefinition	jacket, overcoat, coat; gown
 U+8902	kHanyuPinlu	guà(15)
@@ -118151,7 +118151,7 @@ U+8904	kDefinition	a skirt
 U+8904	kHangul	처
 U+8904	kJapaneseKun	TSUMA
 U+8904	kKorean	CHE
-U+8904	kMandarin	qi
+U+8904	kMandarin	qī
 U+8905	kMandarin	tì
 U+8906	kCantonese	si6
 U+8906	kHanyuPinyin	53102.100:tí,shì
@@ -118293,7 +118293,7 @@ U+891B	kDefinition	lapel, collar; tattered, threadbare
 U+891B	kMandarin	lǚ
 U+891B	kXHC1983	0741.030:lǚ
 U+891C	kJapaneseKun	ENA
-U+891C	kMandarin	pao
+U+891C	kMandarin	páo
 U+891D	kDefinition	unlined garment
 U+891D	kJapaneseKun	HITOE
 U+891D	kJapaneseOn	TAN
@@ -118523,7 +118523,7 @@ U+8944	kMandarin	xiāng
 U+8944	kTang	*siɑng
 U+8944	kXHC1983	1253.010:xiāng
 U+8945	kJapaneseKun	CHIHAYA
-U+8945	kMandarin	bi
+U+8945	kMandarin	bì
 U+8946	kCantonese	buk6
 U+8946	kDefinition	hood or cowl
 U+8946	kHanyuPinyin	53114.060:fú,pú
@@ -118697,7 +118697,7 @@ U+8964	kKorean	LAM
 U+8964	kMandarin	lán
 U+8964	kXHC1983	0672.111:lán
 U+8965	kCantonese	buk6 fuk6
-U+8965	kMandarin	pú
+U+8965	kMandarin	fú
 U+8966	kCantonese	jyu4
 U+8966	kDefinition	short coat, jacket; fine silk fab
 U+8966	kHanyuPinyin	53119.150:rú
@@ -118709,7 +118709,7 @@ U+8966	kTang	njio
 U+8966	kXHC1983	0971.020:rú
 U+8967	kHanyuPinyin	53119.110:zhǐ
 U+8967	kMandarin	zhǐ
-U+8968	kMandarin	dùi
+U+8968	kMandarin	duì
 U+8969	kMandarin	shǔ
 U+896A	kCantonese	maat6 mat6
 U+896A	kDefinition	socks, stockings
@@ -118808,7 +118808,7 @@ U+8976	kXHC1983	0204.060:dài
 U+8977	kCantonese	geoi2
 U+8977	kDefinition	a cord for holding up sleeves
 U+8977	kJapaneseKun	TASUKI
-U+8977	kMandarin	ju
+U+8977	kMandarin	jǔ
 U+8978	kHanyuPinyin	53124.010:zàn,cuán
 U+8978	kMandarin	zàn
 U+8979	kCantonese	si1
@@ -118833,7 +118833,7 @@ U+897C	kJapaneseKun	SODE
 U+897C	kJapaneseOn	GEI
 U+897C	kMandarin	yì
 U+897D	kJapaneseOn	RAN
-U+897D	kMandarin	lan
+U+897D	kMandarin	lán
 U+897E	kCantonese	aa3 kaa1
 U+897E	kDefinition	cover; KangXi radical 146
 U+897E	kHanyuPinyin	42805.010:yà
@@ -118880,7 +118880,7 @@ U+8983	kJapaneseOn	TAN EN
 U+8983	kKorean	TAM
 U+8983	kMandarin	tán
 U+8983	kXHC1983	0927.030:qín 1114.090:tán
-U+8984	kMandarin	fu
+U+8984	kMandarin	fù
 U+8985	kCantonese	fiu3
 U+8985	kMandarin	fiào
 U+8985	kXHC1983	0332.080:fiào
@@ -119882,7 +119882,7 @@ U+8A2D	kKorean	SEL
 U+8A2D	kMandarin	shè
 U+8A2D	kTang	shiɛt
 U+8A2D	kVietnamese	thết
-U+8A2E	kMandarin	xiān
+U+8A2E	kMandarin	yán
 U+8A2F	kHanyuPinyin	63942.080:sǎ,sà
 U+8A2F	kJapaneseKun	SHABERU
 U+8A2F	kJapaneseOn	SA SE
@@ -120452,7 +120452,7 @@ U+8A87	kMandarin	kuā
 U+8A87	kTang	*kuɑ
 U+8A87	kVietnamese	khoa
 U+8A87	kXHC1983	0655.071:kuā
-U+8A88	kMandarin	wú
+U+8A88	kMandarin	wū
 U+8A89	kCantonese	jyu6
 U+8A89	kDefinition	fame, reputation; praise
 U+8A89	kHanyuPinlu	yù(36)
@@ -120561,7 +120561,7 @@ U+8A97	kMandarin	chán
 U+8A98	kCantonese	jau5
 U+8A98	kDefinition	persuade, entice, induce; guide
 U+8A98	kHangul	유
-U+8A98	kHanyuPinlu	yoù(12)
+U+8A98	kHanyuPinlu	yòu(12)
 U+8A98	kHanyuPinyin	63977.050:yòu
 U+8A98	kJapaneseKun	SASOU IZANAU
 U+8A98	kJapaneseOn	YUU
@@ -120711,7 +120711,7 @@ U+8AAD	kJapaneseOn	TOKU TOU DOKU
 U+8AAD	kKorean	TOK TWU
 U+8AAD	kMandarin	dú
 U+8AAE	kJapaneseKun	YASASHI
-U+8AAE	kMandarin	hua
+U+8AAE	kMandarin	huā
 U+8AAF	kCantonese	coeng3
 U+8AAF	kJapaneseKun	TONAAERU
 U+8AAF	kJapaneseOn	SHOU
@@ -120724,7 +120724,7 @@ U+8AB0	kHanyuPinyin	63987.100:shuí,shéi
 U+8AB0	kJapaneseKun	DARE
 U+8AB0	kJapaneseOn	SUI
 U+8AB0	kKorean	SWU
-U+8AB0	kMandarin	shuí
+U+8AB0	kMandarin	shuí shéi
 U+8AB0	kTang	*zhui
 U+8AB1	kHanyuPinyin	63984.190:jié
 U+8AB1	kMandarin	jié
@@ -120869,7 +120869,7 @@ U+8ACA	kCantonese	guk1
 U+8ACA	kDefinition	to make a judicial investigation
 U+8ACA	kJapaneseKun	SHIRABIRU
 U+8ACA	kJapaneseOn	KIKU KOKU
-U+8ACA	kMandarin	jú
+U+8ACA	kMandarin	jū
 U+8ACB	kCantonese	ceng2 cing2
 U+8ACB	kDefinition	ask, request; invite; please
 U+8ACB	kHangul	청
@@ -120967,7 +120967,7 @@ U+8AD7	kKorean	SIM
 U+8AD7	kMandarin	shěn
 U+8AD8	kHanyuPinyin	63981.050:biǎo
 U+8AD8	kMandarin	biǎo
-U+8AD9	kMandarin	huài
+U+8AD9	kMandarin	huà
 U+8ADA	kCantonese	pin4
 U+8ADA	kDefinition	(kokuji) command
 U+8ADA	kHanyuPinyin	63992.100:pián
@@ -121005,7 +121005,7 @@ U+8ADE	kHanyuPinyin	64002.060:piǎn
 U+8ADE	kJapaneseKun	HETSURAU
 U+8ADE	kJapaneseOn	HEN
 U+8ADE	kKorean	PHYEN
-U+8ADE	kMandarin	piǎn
+U+8ADE	kMandarin	piǎn pián
 U+8ADF	kCantonese	si6
 U+8ADF	kDefinition	to examine; to consider; honest
 U+8ADF	kHangul	시
@@ -121170,7 +121170,7 @@ U+8AF7	kHanyuPinyin	64000.100:fěng,fèng
 U+8AF7	kJapaneseKun	SORANJIRU
 U+8AF7	kJapaneseOn	FUU
 U+8AF7	kKorean	PHWUNG
-U+8AF7	kMandarin	fěng
+U+8AF7	kMandarin	fěng fèng
 U+8AF7	kTang	biùng
 U+8AF7	kVietnamese	phúng
 U+8AF8	kCantonese	zyu1
@@ -121224,7 +121224,7 @@ U+8AFF	kMandarin	qī
 U+8B00	kCantonese	mau4
 U+8B00	kDefinition	plan, scheme; strategem
 U+8B00	kHangul	모
-U+8B00	kHanyuPinlu	moú(98) mou(24)
+U+8B00	kHanyuPinlu	móu(98) mou(24)
 U+8B00	kHanyuPinyin	63993.190:móu
 U+8B00	kJapaneseKun	HAKARU HAKARIGOTO
 U+8B00	kJapaneseOn	BOU MU
@@ -121252,7 +121252,7 @@ U+8B02	kJapaneseOn	I
 U+8B02	kKorean	WI
 U+8B02	kMandarin	wèi
 U+8B02	kTang	*hiuə̀i
-U+8B03	kMandarin	xing
+U+8B03	kMandarin	xīng
 U+8B04	kCantonese	tang4
 U+8B04	kDefinition	copy, transcribe
 U+8B04	kHangul	등
@@ -121451,7 +121451,7 @@ U+8B21	kHanyuPinyin	64007.040:yáo
 U+8B21	kJapaneseKun	UTAI UTAU
 U+8B21	kJapaneseOn	YOU
 U+8B21	kMandarin	yáo
-U+8B22	kMandarin	zhi
+U+8B22	kMandarin	lū
 U+8B23	kCantonese	jyu4
 U+8B23	kHangul	우
 U+8B23	kHanyuPinyin	64012.020:yú,xū
@@ -121482,7 +121482,7 @@ U+8B28	kKorean	MO
 U+8B28	kMandarin	mó
 U+8B28	kTang	mò
 U+8B28	kVietnamese	mô
-U+8B29	kMandarin	mò
+U+8B29	kMandarin	mó
 U+8B2A	kCantonese	soeng1
 U+8B2A	kDefinition	to consult; to deliberate; commerce
 U+8B2A	kHanyuPinyin	64014.140:shāng
@@ -121731,7 +121731,7 @@ U+8B58	kHanyuPinyin	64019.160:zhì,shí
 U+8B58	kJapaneseKun	SHIRU SHIRUSHI SHIRUSU
 U+8B58	kJapaneseOn	SHIKI SHOKU SHI
 U+8B58	kKorean	SIK CI
-U+8B58	kMandarin	shí
+U+8B58	kMandarin	shí shì
 U+8B58	kTang	*shiək
 U+8B58	kXHC1983	1037.011:shí 1492.081:zhì
 U+8B59	kCantonese	ciu4
@@ -121815,7 +121815,7 @@ U+8B68	kMandarin	náng
 U+8B69	kCantonese	ji1
 U+8B69	kHanyuPinyin	64025.130:yī
 U+8B69	kMandarin	yī
-U+8B6A	kMandarin	ài
+U+8B6A	kMandarin	ǎi
 U+8B6B	kCantonese	zim1
 U+8B6B	kDefinition	talkative; incoherent talk
 U+8B6B	kHangul	섬
@@ -121888,7 +121888,7 @@ U+8B74	kKorean	KYEN
 U+8B74	kMandarin	qiǎn
 U+8B74	kTang	kiɛ̀n
 U+8B74	kVietnamese	khiển
-U+8B75	kMandarin	zhuì
+U+8B75	kMandarin	duì
 U+8B76	kHanyuPinyin	64028.080:tà
 U+8B76	kJapaneseKun	HAYAKUCHI
 U+8B76	kJapaneseOn	TOU DOU CHYUU JU
@@ -122291,7 +122291,7 @@ U+8BBC	kXHC1983	1092.140:sòng
 U+8BBD	kCantonese	fung3
 U+8BBD	kDefinition	recite, incant; satirize
 U+8BBD	kHanyuPinlu	fěng(14)
-U+8BBD	kMandarin	fěng
+U+8BBD	kMandarin	fèng
 U+8BBD	kXHC1983	0331.080:fěng
 U+8BBE	kCantonese	cit3
 U+8BBE	kDefinition	build; establish; display
@@ -122332,7 +122332,7 @@ U+8BC5	kXHC1983	1545.010:zǔ
 U+8BC6	kCantonese	sik1
 U+8BC6	kDefinition	recognize, understand, know
 U+8BC6	kHanyuPinlu	shi(908) shí(267)
-U+8BC6	kMandarin	shí
+U+8BC6	kMandarin	shì
 U+8BC6	kXHC1983	1037.010:shí 1492.080:zhì
 U+8BC7	kCantonese	gwing2
 U+8BC7	kDefinition	to spy; to give information; shrewd
@@ -122522,7 +122522,7 @@ U+8BF0	kMandarin	gào
 U+8BF0	kXHC1983	0368.010:gào
 U+8BF1	kCantonese	jau5
 U+8BF1	kDefinition	persuade, entice, induce; guide
-U+8BF1	kHanyuPinlu	yoù(12)
+U+8BF1	kHanyuPinlu	yòu(12)
 U+8BF1	kMandarin	yòu
 U+8BF1	kXHC1983	1406.020:yòu
 U+8BF2	kCantonese	fui3
@@ -122594,7 +122594,7 @@ U+8C00	kXHC1983	1409.070:yú
 U+8C01	kCantonese	seoi4
 U+8C01	kDefinition	who? whom? whose? anyone?
 U+8C01	kHanyuPinlu	shuí(1065)
-U+8C01	kMandarin	shuí
+U+8C01	kMandarin	shéi
 U+8C01	kXHC1983	1015.020:shéi 1074.030:shuí
 U+8C02	kCantonese	sam2
 U+8C02	kDefinition	consult carefully with, counsel
@@ -122635,7 +122635,7 @@ U+8C0A	kMandarin	yì
 U+8C0A	kXHC1983	1368.150:yì
 U+8C0B	kCantonese	mau4
 U+8C0B	kDefinition	plan, scheme; strategem
-U+8C0B	kHanyuPinlu	moú(98) mou(24)
+U+8C0B	kHanyuPinlu	móu(98) mou(24)
 U+8C0B	kMandarin	móu
 U+8C0B	kXHC1983	0804.080:móu
 U+8C0C	kCantonese	sam4
@@ -122709,7 +122709,7 @@ U+8C1C	kMandarin	mí
 U+8C1C	kXHC1983	0774.050:mèi 0781.010:mí
 U+8C1D	kCantonese	pin4
 U+8C1D	kDefinition	brag, boast; quibble
-U+8C1D	kMandarin	piǎn
+U+8C1D	kMandarin	pián
 U+8C1D	kXHC1983	0873.050:piǎn
 U+8C1E	kCantonese	seoi1
 U+8C1E	kDefinition	knowledge; discrimination; treachery
@@ -122897,7 +122897,7 @@ U+8C45	kMandarin	lóng
 U+8C46	kCantonese	dau2 dau6
 U+8C46	kDefinition	beans, peas; bean-shaped
 U+8C46	kHangul	두
-U+8C46	kHanyuPinlu	doù(127)
+U+8C46	kHanyuPinlu	dòu(127)
 U+8C46	kHanyuPinyin	63565.010:dòu
 U+8C46	kJapaneseKun	MAME TAKATSUKI
 U+8C46	kJapaneseOn	TOU ZU
@@ -123312,7 +123312,7 @@ U+8C8A	kKorean	MAYK
 U+8C8A	kMandarin	mò
 U+8C8A	kXHC1983	0802.120:mò
 U+8C8B	kJapaneseOn	KAN
-U+8C8B	kMandarin	hàn
+U+8C8B	kMandarin	àn
 U+8C8C	kCantonese	maau6
 U+8C8C	kDefinition	countenance, appearance
 U+8C8C	kHangul	모
@@ -123373,7 +123373,7 @@ U+8C94	kXHC1983	0867.050:pí
 U+8C95	kCantonese	hai4
 U+8C95	kHanyuPinyin	63916.110:xī
 U+8C95	kMandarin	xī
-U+8C96	kMandarin	è
+U+8C96	kMandarin	yì
 U+8C97	kHanyuPinyin	63917.020:jù,yú
 U+8C97	kMandarin	jù
 U+8C98	kCantonese	mak6 mok6
@@ -123477,7 +123477,7 @@ U+8CA4	kMandarin	yí
 U+8CA4	kXHC1983	1363.130*:yí 1369.110*:yì
 U+8CA5	kHanyuPinyin	63628.100:háng
 U+8CA5	kMandarin	háng
-U+8CA6	kMandarin	wàn
+U+8CA6	kMandarin	wán
 U+8CA7	kCantonese	pan4
 U+8CA7	kDefinition	poor, impoverished, needy
 U+8CA7	kHangul	빈
@@ -123545,7 +123545,7 @@ U+8CAD	kCantonese	zat1 zi3
 U+8CAD	kDefinition	matter, material, substance
 U+8CAD	kJapaneseKun	MOTO MOCHIMAE SUNAO
 U+8CAD	kJapaneseOn	SHITSU SHICHI CHI
-U+8CAD	kMandarin	zhí
+U+8CAD	kMandarin	zhì
 U+8CAE	kDefinition	number two
 U+8CAE	kJapaneseKun	FUTATSU
 U+8CAE	kJapaneseOn	NI JI
@@ -123780,7 +123780,7 @@ U+8CCB	kJapaneseKun	AKIRUKA
 U+8CCB	kJapaneseOn	KOU
 U+8CCB	kMandarin	jiǎo
 U+8CCC	kCantonese	goi1
-U+8CCC	kMandarin	gài
+U+8CCC	kMandarin	gāi
 U+8CCD	kCantonese	zong1
 U+8CCD	kDefinition	booty, loot, stolen goods; bribe
 U+8CCD	kJapaneseKun	KAKUSU
@@ -124083,7 +124083,7 @@ U+8CFB	kMandarin	fù
 U+8CFC	kCantonese	gau3 kau3
 U+8CFC	kDefinition	buy, purchase; hire
 U+8CFC	kHangul	구
-U+8CFC	kHanyuPinlu	goù(41)
+U+8CFC	kHanyuPinlu	gòu(41)
 U+8CFC	kHanyuPinyin	63654.020:gòu
 U+8CFC	kJapaneseKun	AGANAU
 U+8CFC	kJapaneseOn	KOU
@@ -124135,7 +124135,7 @@ U+8D04	kMandarin	zhì
 U+8D04	kXHC1983	1492.051:zhì
 U+8D05	kCantonese	zeoi3
 U+8D05	kDefinition	unnecessary, superfluous
-U+8D05	kHangul	취
+U+8D05	kHangul	췌
 U+8D05	kHanyuPinyin	63653.140:zhuì
 U+8D05	kJapaneseKun	IBO
 U+8D05	kJapaneseOn	ZEI SEI
@@ -124186,7 +124186,7 @@ U+8D0B	kJapaneseOn	GAN
 U+8D0B	kKorean	AN
 U+8D0B	kMandarin	yàn
 U+8D0C	kCantonese	duk6
-U+8D0C	kMandarin	pu
+U+8D0C	kMandarin	pú
 U+8D0D	kCantonese	sim6 sin6
 U+8D0D	kDefinition	support, aid; to be sufficient; rich, elegant
 U+8D0D	kHangul	섬
@@ -124358,7 +124358,7 @@ U+8D2C	kMandarin	biǎn
 U+8D2C	kXHC1983	0065.090:biǎn
 U+8D2D	kCantonese	gau3
 U+8D2D	kDefinition	buy, purchase; hire
-U+8D2D	kHanyuPinlu	goù(41)
+U+8D2D	kHanyuPinlu	gòu(41)
 U+8D2D	kMandarin	gòu
 U+8D2D	kXHC1983	0392.070:gòu
 U+8D2E	kCantonese	cyu5
@@ -124686,7 +124686,7 @@ U+8D6F	kXHC1983	1118.040:táng
 U+8D70	kCantonese	zau2
 U+8D70	kDefinition	walk, go on foot; run; leave
 U+8D70	kHangul	주
-U+8D70	kHanyuPinlu	zoǔ(3176)
+U+8D70	kHanyuPinlu	zǒu(3176)
 U+8D70	kHanyuPinyin	53473.010:zǒu
 U+8D70	kJapaneseKun	HASHIRU
 U+8D70	kJapaneseOn	SOU SHU
@@ -124756,7 +124756,7 @@ U+8D7A	kHanyuPinyin	53478.180:yǐn,qǐn
 U+8D7A	kMandarin	yǐn
 U+8D7B	kHanyuPinyin	53478.120:xiǎn
 U+8D7B	kMandarin	xiǎn
-U+8D7C	kMandarin	cī
+U+8D7C	kMandarin	zī
 U+8D7D	kHanyuPinyin	53479.080:jué,guì
 U+8D7D	kMandarin	jué
 U+8D7E	kHanyuPinyin	53478.160:qǐn
@@ -125178,7 +125178,7 @@ U+8DCC	kHanyuPinyin	63695.060:diē,tú
 U+8DCC	kJapaneseKun	TSUMAZUKU AYAMATSU
 U+8DCC	kJapaneseOn	TETSU
 U+8DCC	kKorean	CIL
-U+8DCC	kMandarin	diē
+U+8DCC	kMandarin	diē dié
 U+8DCC	kTang	dhet
 U+8DCC	kVietnamese	trặc
 U+8DCC	kXHC1983	0250.070:diē
@@ -125477,7 +125477,7 @@ U+8DF5	kMandarin	jiàn
 U+8DF5	kXHC1983	0554.070:jiàn
 U+8DF6	kCantonese	taat3
 U+8DF6	kDefinition	stumble, slip
-U+8DF6	kMandarin	tà
+U+8DF6	kMandarin	dá
 U+8DF7	kCantonese	hiu1
 U+8DF7	kDefinition	raise one's foot
 U+8DF7	kMandarin	qiāo
@@ -125591,7 +125591,7 @@ U+8E0B	kJapaneseOn	KYAKU
 U+8E0B	kMandarin	jiǎo
 U+8E0C	kCantonese	cau4
 U+8E0C	kDefinition	hesitate, falter; smug, self-satisfied
-U+8E0C	kHanyuPinlu	choú(24)
+U+8E0C	kHanyuPinlu	chóu(24)
 U+8E0C	kMandarin	chóu
 U+8E0C	kXHC1983	0152.060:chóu
 U+8E0D	kHanyuPinyin	63707.120:qiāo
@@ -125662,7 +125662,7 @@ U+8E18	kDefinition	ball
 U+8E18	kHanyuPinyin	63718.070:jū
 U+8E18	kMandarin	jū
 U+8E18	kVietnamese	guốc
-U+8E19	kMandarin	jū
+U+8E19	kMandarin	niè
 U+8E1A	kHanyuPinyin	63718.010:lún
 U+8E1A	kMandarin	lún
 U+8E1B	kCantonese	luk6
@@ -126033,7 +126033,7 @@ U+8E51	kMandarin	niè
 U+8E51	kXHC1983	0834.070:niè
 U+8E52	kCantonese	mun4
 U+8E52	kDefinition	to jump over; to limp
-U+8E52	kMandarin	pán
+U+8E52	kMandarin	mán
 U+8E52	kXHC1983	0851.080:pán
 U+8E53	kCantonese	lau4 lau6
 U+8E53	kDefinition	stroll, take walk
@@ -126142,7 +126142,7 @@ U+8E63	kHanyuPinyin	63732.160:pán,mán,liǎng
 U+8E63	kJapaneseKun	YOROMEKU
 U+8E63	kJapaneseOn	MAN BAN HAN
 U+8E63	kKorean	MAN
-U+8E63	kMandarin	pán
+U+8E63	kMandarin	pán mán
 U+8E63	kXHC1983	0851.081:pán
 U+8E64	kCantonese	zung1
 U+8E64	kDefinition	footprints, traces, tracks
@@ -126190,7 +126190,7 @@ U+8E6C	kHanyuPinlu	dēng(39)
 U+8E6C	kHanyuPinyin	63742.080:dèng,dēng
 U+8E6C	kJapaneseKun	YOROMEKU
 U+8E6C	kJapaneseOn	TOU DOU
-U+8E6C	kMandarin	dēng
+U+8E6C	kMandarin	dēng dèng
 U+8E6C	kTang	dhə̀ng
 U+8E6C	kXHC1983	0226.030:dēng 0228.040:dèng
 U+8E6D	kCantonese	sang3
@@ -126319,7 +126319,7 @@ U+8E7F	kMandarin	cuān
 U+8E7F	kXHC1983	0181.120:cuān
 U+8E80	kCantonese	gwaan3 kwaang3 kwong3
 U+8E80	kDefinition	(Cant.) to stumble over, to fall
-U+8E80	kMandarin	kuàng
+U+8E80	kMandarin	guàn
 U+8E81	kCantonese	cou3
 U+8E81	kDefinition	tense, excited, irritable
 U+8E81	kHangul	조
@@ -126391,7 +126391,7 @@ U+8E89	kXHC1983	0277.091:dǔn
 U+8E8A	kCantonese	cau4
 U+8E8A	kDefinition	hesitate, falter; smug, self-satisfied
 U+8E8A	kHangul	주
-U+8E8A	kHanyuPinlu	choú(24)
+U+8E8A	kHanyuPinlu	chóu(24)
 U+8E8A	kHanyuPinyin	63745.060:chóu
 U+8E8A	kJapaneseKun	TAMERAU
 U+8E8A	kJapaneseOn	CHUU
@@ -126556,7 +126556,7 @@ U+8EA3	kCantonese	keoi4
 U+8EA3	kHanyuPinyin	63751.010:qú
 U+8EA3	kMandarin	qú
 U+8EA4	kCantonese	zik6
-U+8EA4	kMandarin	jiè
+U+8EA4	kMandarin	jí
 U+8EA5	kCantonese	cyun1
 U+8EA5	kDefinition	leap; to jump; to spurt out
 U+8EA5	kHanyuPinyin	63751.040:cuān
@@ -126622,7 +126622,7 @@ U+8EAD	kJapaneseOn	TAN
 U+8EAD	kMandarin	dān
 U+8EAD	kXHC1983	0209.061:dān
 U+8EAE	kJapaneseKun	SEGARE
-U+8EAE	kMandarin	fen
+U+8EAE	kMandarin	fēn
 U+8EAF	kCantonese	keoi1
 U+8EAF	kDefinition	body
 U+8EAF	kHanyuPinlu	qū(10)
@@ -126664,7 +126664,7 @@ U+8EB4	kDefinition	tall
 U+8EB4	kHanyuPinyin	63811.070:láng
 U+8EB4	kMandarin	láng
 U+8EB5	kJapaneseKun	NERAU SHINOBU
-U+8EB5	kMandarin	ren
+U+8EB5	kMandarin	rěn
 U+8EB6	kCantonese	lo2
 U+8EB6	kDefinition	bare, nude; undress, strip
 U+8EB6	kHanyuPinyin	63811.130:luǒ
@@ -126688,7 +126688,7 @@ U+8EBA	kMandarin	tǎng
 U+8EBA	kVietnamese	thẳng
 U+8EBA	kXHC1983	1120.030:tǎng
 U+8EBB	kJapaneseKun	UTSUKE
-U+8EBB	kMandarin	kong
+U+8EBB	kMandarin	kōng
 U+8EBC	kCantonese	lou6
 U+8EBC	kMandarin	lào
 U+8EBD	kCantonese	jin2 zin2
@@ -126697,7 +126697,7 @@ U+8EBD	kHanyuPinyin	63811.230:yǎn,yàn
 U+8EBD	kMandarin	yǎn
 U+8EBE	kDefinition	to discipline, train, bring up; discipline, training
 U+8EBE	kJapaneseKun	SHITSUKE SHITSUKERU
-U+8EBE	kMandarin	mei
+U+8EBE	kMandarin	měi
 U+8EBF	kDefinition	tall
 U+8EBF	kHanyuPinyin	63813.060:kāng
 U+8EBF	kMandarin	kāng
@@ -126729,7 +126729,7 @@ U+8EC4	kDefinition	to govern, to oversee, to manage, to direct official duty, of
 U+8EC4	kJapaneseOn	SHOKU
 U+8EC4	kMandarin	zhí
 U+8EC5	kJapaneseKun	YAGATE
-U+8EC5	kMandarin	yan
+U+8EC5	kMandarin	yàn
 U+8EC6	kDefinition	body; group, class, body, unit
 U+8EC6	kHangul	체
 U+8EC6	kJapaneseKun	KARADA
@@ -126742,7 +126742,7 @@ U+8EC7	kJapaneseOn	TOU DOU
 U+8EC7	kMandarin	dào
 U+8EC8	kDefinition	soon after, soon; almost; no more than; after all
 U+8EC8	kJapaneseKun	YAGATE
-U+8EC8	kMandarin	ying
+U+8EC8	kMandarin	yīng
 U+8EC9	kHanyuPinyin	63814.220:yù
 U+8EC9	kMandarin	yù
 U+8ECA	kCantonese	ce1 geoi1
@@ -126874,7 +126874,7 @@ U+8EDF	kMandarin	ruǎn
 U+8EDF	kTang	njiuɛ̌n
 U+8EDF	kVietnamese	nhuyễn
 U+8EE0	kJapaneseOn	JIN NIN
-U+8EE0	kMandarin	rèn
+U+8EE0	kMandarin	kuáng
 U+8EE1	kHanyuPinyin	53518.100:qián
 U+8EE1	kMandarin	qián
 U+8EE2	kCantonese	zyun2 zyun3
@@ -126969,7 +126969,7 @@ U+8EF7	kMandarin	bá
 U+8EF8	kCantonese	zuk6
 U+8EF8	kDefinition	axle, axletree; pivot; axis
 U+8EF8	kHangul	축
-U+8EF8	kHanyuPinlu	zhoú(39)
+U+8EF8	kHanyuPinlu	zhóu(39)
 U+8EF8	kHanyuPinyin	53520.120:zhóu,zhú,zhòu
 U+8EF8	kJapaneseKun	SHINGI MAKIMONO
 U+8EF8	kJapaneseOn	JIKU
@@ -127513,7 +127513,7 @@ U+8F4A	kMandarin	wèi
 U+8F4B	kMandarin	hún
 U+8F4C	kDefinition	sled
 U+8F4C	kJapaneseKun	SORI
-U+8F4C	kMandarin	xue
+U+8F4C	kMandarin	xuě
 U+8F4D	kCantonese	cit3
 U+8F4D	kDefinition	wagon ruts, wheel tracks
 U+8F4D	kHangul	철
@@ -127744,7 +127744,7 @@ U+8F73	kMandarin	lú
 U+8F73	kXHC1983	0736.080:lú
 U+8F74	kCantonese	zuk6
 U+8F74	kDefinition	axle, axletree; pivot; axis
-U+8F74	kHanyuPinlu	zhoú(39)
+U+8F74	kHanyuPinlu	zhóu(39)
 U+8F74	kMandarin	zhóu
 U+8F74	kXHC1983	1505.050:zhóu 1506.070:zhòu
 U+8F75	kCantonese	zi2
@@ -128123,7 +128123,7 @@ U+8FB6	kMandarin	chuò
 U+8FB7	kCantonese	jat1
 U+8FB7	kDefinition	smooth, slippery
 U+8FB7	kJapaneseKun	SUBERU
-U+8FB7	kMandarin	yi
+U+8FB7	kMandarin	yī
 U+8FB8	kCantonese	jing4
 U+8FB8	kHanyuPinyin	63815.070:réng
 U+8FB8	kJapaneseKun	YUKU OYOBU
@@ -128154,7 +128154,7 @@ U+8FBC	kCantonese	jap6 jyu1
 U+8FBC	kDefinition	crowd into, go into
 U+8FBC	kJapaneseKun	KOMU KOMI
 U+8FBC	kKorean	IP
-U+8FBC	kMandarin	ru
+U+8FBC	kMandarin	yū
 U+8FBD	kCantonese	liu4
 U+8FBD	kDefinition	distant, far
 U+8FBD	kHanyuPinlu	liáo(32)
@@ -128284,7 +128284,7 @@ U+8FCE	kTang	*ngiæng
 U+8FCE	kVietnamese	nghênh
 U+8FCE	kXHC1983	1387.080:yíng
 U+8FCF	kCantonese	dai3
-U+8FCF	kMandarin	tì
+U+8FCF	kMandarin	dá
 U+8FD0	kCantonese	wan6
 U+8FD0	kDefinition	run; simplified form of 運 luck, fortune; ship, transport
 U+8FD0	kHanyuPinlu	yùn(1192)
@@ -128359,7 +128359,7 @@ U+8FD9	kXHC1983	1464.130:zhè 1466.010:zhèi
 U+8FDA	kCantonese	zung1
 U+8FDA	kDefinition	very; somehow
 U+8FDA	kJapaneseKun	TOTEMO TOTE
-U+8FDA	kMandarin	zhong
+U+8FDA	kMandarin	dá
 U+8FDB	kCantonese	zeon3
 U+8FDB	kDefinition	advance, make progress, enter
 U+8FDB	kHanyuPinlu	jìn(3920)
@@ -128758,7 +128758,7 @@ U+900E	kVietnamese	tùa
 U+900F	kCantonese	tau3
 U+900F	kDefinition	penetrate, pass through
 U+900F	kHangul	투
-U+900F	kHanyuPinlu	toù(316)
+U+900F	kHanyuPinlu	tòu(316)
 U+900F	kHanyuPinyin	63842.010:tòu,shū
 U+900F	kJapaneseKun	SUKU SUKASU TOORU
 U+900F	kJapaneseOn	TOU
@@ -128831,7 +128831,7 @@ U+9016	kXHC1983	1130.120:tì
 U+9017	kCantonese	dau6
 U+9017	kDefinition	tempt, allure, arouse, stir
 U+9017	kHangul	두
-U+9017	kHanyuPinlu	doù(77)
+U+9017	kHanyuPinlu	dòu(77)
 U+9017	kHanyuPinyin	63838.030:dòu,zhù,tóu,qí
 U+9017	kJapaneseKun	TODOMARU
 U+9017	kJapaneseOn	TOU ZU
@@ -128966,7 +128966,7 @@ U+9026	kDefinition	meandering, winding
 U+9026	kMandarin	lǐ
 U+9026	kXHC1983	0693.020:lǐ
 U+9027	kJapaneseKun	SAKO HAZAMA
-U+9027	kMandarin	gu
+U+9027	kMandarin	gǔ
 U+9028	kHanyuPinyin	63848.070:lái,lài
 U+9028	kJapaneseKun	KITARU TSUKU ITARU TSUKARERU
 U+9028	kJapaneseOn	RAI
@@ -129327,7 +129327,7 @@ U+9055	kVietnamese	vi
 U+9055	kXHC1983	1193.051:wéi
 U+9056	kCantonese	laam4 naam4
 U+9056	kJapaneseKun	APPARE
-U+9056	kMandarin	nan
+U+9056	kMandarin	nán
 U+9057	kCantonese	wai4 wai6
 U+9057	kDefinition	lose; articles lost; omit
 U+9057	kHanyuPinlu	yí(101)
@@ -129441,7 +129441,7 @@ U+9063	kTang	*kiɛ̌n
 U+9063	kVietnamese	khiến
 U+9063	kXHC1983	0915.030:qiǎn
 U+9064	kCantonese	maa5
-U+9064	kMandarin	ma
+U+9064	kMandarin	mǎ
 U+9065	kCantonese	jiu4
 U+9065	kDefinition	far away, distant, remote
 U+9065	kHanyuPinlu	yáo(23)
@@ -129621,7 +129621,7 @@ U+907A	kTang	*ui uì
 U+907A	kVietnamese	di
 U+907B	kCantonese	ng6
 U+907B	kDefinition	meet
-U+907B	kMandarin	wù
+U+907B	kMandarin	è
 U+907C	kCantonese	liu4
 U+907C	kDefinition	distant, far
 U+907C	kHangul	료 요
@@ -129865,7 +129865,7 @@ U+909B	kJapaneseOn	KYOU GU
 U+909B	kKorean	KONG
 U+909B	kMandarin	qióng
 U+909B	kXHC1983	0937.100:qióng
-U+909C	kMandarin	wan
+U+909C	kMandarin	xī
 U+909D	kCantonese	kwong3
 U+909D	kDefinition	surname
 U+909D	kMandarin	kuàng
@@ -129965,7 +129965,7 @@ U+90AD	kHanyuPinyin	63764.010:jù
 U+90AD	kMandarin	jù
 U+90AE	kCantonese	jau4
 U+90AE	kDefinition	postal, mail; post office
-U+90AE	kHanyuPinlu	yoú(32)
+U+90AE	kHanyuPinlu	yóu(32)
 U+90AE	kHanyuPinyin	63763.010:yóu
 U+90AE	kMandarin	yóu
 U+90AE	kXHC1983	1400.050:yóu
@@ -130182,7 +130182,7 @@ U+90D1	kMandarin	zhèng
 U+90D1	kXHC1983	1474.020:zhèng
 U+90D2	kJapaneseKun	OTOKO
 U+90D2	kJapaneseOn	ROU
-U+90D2	kMandarin	lang
+U+90D2	kMandarin	láng
 U+90D3	kCantonese	wan6
 U+90D3	kDefinition	surname; an ancient town's name
 U+90D3	kMandarin	yùn
@@ -130246,7 +130246,7 @@ U+90DD	kMandarin	hǎo
 U+90DD	kXHC1983	0446.010:hǎo
 U+90DE	kCantonese	long4
 U+90DE	kDefinition	gentleman
-U+90DE	kHangul	랑
+U+90DE	kHangul	낭 랑
 U+90DE	kJapaneseKun	OTOKO
 U+90DE	kJapaneseOn	ROU
 U+90DE	kKorean	LANG
@@ -130383,7 +130383,7 @@ U+90F4	kXHC1983	0131.030:chēn
 U+90F5	kCantonese	jau4
 U+90F5	kDefinition	postal, mail; post office
 U+90F5	kHangul	우
-U+90F5	kHanyuPinlu	yoú(32)
+U+90F5	kHanyuPinlu	yóu(32)
 U+90F5	kHanyuPinyin	63779.050:yóu,chuí
 U+90F5	kJapaneseKun	SHUKUBA
 U+90F5	kJapaneseOn	YUU
@@ -130414,12 +130414,12 @@ U+90FC	kMandarin	yī
 U+90FD	kCantonese	dou1
 U+90FD	kDefinition	metropolis, capital; all, the whole; elegant, refined
 U+90FD	kHangul	도
-U+90FD	kHanyuPinlu	doū(5680) dū(93)
+U+90FD	kHanyuPinlu	dōu(5680) dū(93)
 U+90FD	kHanyuPinyin	63776.070:dū,dōu
 U+90FD	kJapaneseKun	MIYAKO SUBETE
 U+90FD	kJapaneseOn	TO TSU CHO
 U+90FD	kKorean	TO
-U+90FD	kMandarin	dōu
+U+90FD	kMandarin	dōu dū
 U+90FD	kTang	*do
 U+90FD	kVietnamese	đô
 U+90FD	kXHC1983	0261.110:dōu 0265.050:dū
@@ -130956,7 +130956,7 @@ U+915A	kJapaneseOn	FUN
 U+915A	kMandarin	fēn
 U+915A	kXHC1983	0322.020:fēn
 U+915B	kJapaneseKun	SAKENOMOTO
-U+915B	kMandarin	yuan
+U+915B	kMandarin	yuán
 U+915C	kCantonese	fu1
 U+915C	kMandarin	fu
 U+915D	kCantonese	wan3
@@ -131023,7 +131023,7 @@ U+9166	kDefinition	fermentation, brewing
 U+9166	kJapaneseKun	KAMOSU
 U+9166	kJapaneseOn	HATSU
 U+9166	kKorean	PAL
-U+9166	kMandarin	fā
+U+9166	kMandarin	pò
 U+9166	kXHC1983	0295.010:fā 0884.080:pō
 U+9167	kCantonese	cau4
 U+9167	kDefinition	to pledge with wine
@@ -131512,7 +131512,7 @@ U+91B1	kHanyuPinyin	63599.090:pō,fā
 U+91B1	kJapaneseKun	KAMOSU
 U+91B1	kJapaneseOn	HATSU
 U+91B1	kKorean	PAL
-U+91B1	kMandarin	fā
+U+91B1	kMandarin	fā pò
 U+91B1	kTang	pɑt
 U+91B1	kXHC1983	0295.011:fā 0884.081:pō
 U+91B2	kCantonese	nung4
@@ -131993,7 +131993,7 @@ U+91FA	kHanyuPinyin	64171.100:qiān
 U+91FA	kMandarin	qiān
 U+91FB	kJapaneseKun	ISHIYUMI
 U+91FB	kJapaneseOn	KYUU GU
-U+91FB	kMandarin	qiu
+U+91FB	kMandarin	qiú
 U+91FC	kDefinition	sword, dagger, saber
 U+91FC	kJapaneseKun	TSURUGI
 U+91FC	kJapaneseOn	KEN
@@ -132154,7 +132154,7 @@ U+9217	kMandarin	yǔn
 U+9218	kCantonese	ai5 ngai5
 U+9218	kJapaneseKun	KAMA
 U+9218	kJapaneseOn	GI KI
-U+9218	kMandarin	jǐ
+U+9218	kMandarin	yǐ
 U+9219	kHanyuPinyin	64176.020:qín
 U+9219	kMandarin	qín
 U+9219	kVietnamese	nhặt chìa
@@ -132186,7 +132186,7 @@ U+921E	kMandarin	jūn
 U+921E	kTang	guin
 U+921F	kHangul	조
 U+921F	kKorean	CO
-U+921F	kMandarin	shī
+U+921F	kMandarin	diào
 U+9220	kHanyuPinyin	64179.050:yì
 U+9220	kMandarin	yì
 U+9221	kCantonese	zung1
@@ -132224,16 +132224,16 @@ U+9227	kMandarin	kàng
 U+9228	kCantonese	jyun4
 U+9228	kJapaneseKun	HABAKI
 U+9228	kJapaneseOn	HABAKI
-U+9228	kMandarin	yuan
+U+9228	kMandarin	yuán
 U+9229	kDefinition	fireplace, stove, oven, furnace
 U+9229	kJapaneseKun	IRORI
 U+9229	kJapaneseOn	RO
-U+9229	kMandarin	lu
+U+9229	kMandarin	lú
 U+922A	kCantonese	ngaak3
 U+922A	kDefinition	(Cant.) bracelet; bangle
 U+922A	kMandarin	è
 U+922B	kCantonese	man4
-U+922B	kMandarin	wen
+U+922B	kMandarin	qín
 U+922C	kDefinition	bell; surname
 U+922C	kJapaneseKun	SUZU
 U+922C	kJapaneseOn	TAKU
@@ -132335,7 +132335,7 @@ U+923D	kMandarin	bū
 U+923D	kVietnamese	búa
 U+923E	kCantonese	jau2 jau4
 U+923E	kDefinition	uranium
-U+923E	kHanyuPinlu	yoú(15)
+U+923E	kHanyuPinlu	yóu(15)
 U+923E	kHanyuPinyin	64186.050:zhòu,yóu
 U+923E	kJapaneseKun	URANYUUMU
 U+923E	kJapaneseOn	CHUU YUU
@@ -132560,7 +132560,7 @@ U+9263	kMandarin	jié
 U+9264	kCantonese	au1 gau1 ngau1
 U+9264	kDefinition	hook, barb; sickle; stroke with
 U+9264	kHangul	구
-U+9264	kHanyuPinlu	goū(42)
+U+9264	kHanyuPinlu	gōu(42)
 U+9264	kHanyuPinyin	64188.060:gōu,gòu,qú
 U+9264	kJapaneseKun	KAGI KAKERU
 U+9264	kJapaneseOn	KOU KU
@@ -132953,7 +132953,7 @@ U+92AE	kDefinition	bells hung on horse; bells hung
 U+92AE	kMandarin	luán
 U+92AE	kXHC1983	0744.060:luán
 U+92AF	kJapaneseKun	KASUGAI
-U+92AF	kMandarin	si
+U+92AF	kMandarin	sī
 U+92B0	kMandarin	āi
 U+92B1	kCantonese	diu3
 U+92B1	kHanyuPinyin	64196.110:diào
@@ -133061,7 +133061,7 @@ U+92C3	kHanyuPinyin	64212.090:láng
 U+92C3	kJapaneseOn	ROU
 U+92C3	kMandarin	láng
 U+92C4	kCantonese	faan6
-U+92C4	kMandarin	wǎn
+U+92C4	kMandarin	wàn
 U+92C5	kCantonese	san1
 U+92C5	kDefinition	zincum
 U+92C5	kHanyuPinlu	xīn(13)
@@ -133192,7 +133192,7 @@ U+92DA	kDefinition	iron; bronze decoration on bridle
 U+92DA	kHanyuPinyin	64209.060:tiáo
 U+92DA	kMandarin	tiáo
 U+92DB	kCantonese	kong3 kwong3
-U+92DB	kMandarin	gǒng
+U+92DB	kMandarin	kuàng
 U+92DC	kDefinition	fetters, shackles
 U+92DC	kHanyuPinyin	64208.020:zhuó,chuò
 U+92DC	kJapaneseKun	ASHIKASE KANAHODASHI
@@ -133324,7 +133324,7 @@ U+92F2	kDefinition	rivet
 U+92F2	kHangul	병
 U+92F2	kJapaneseKun	BYOU
 U+92F2	kKorean	PYENG
-U+92F2	kMandarin	bing
+U+92F2	kMandarin	bīng
 U+92F2	kVietnamese	lấp beng
 U+92F3	kCantonese	zyu3
 U+92F3	kDefinition	melt, cast; coin, mint
@@ -133332,7 +133332,7 @@ U+92F3	kJapaneseKun	IRU
 U+92F3	kJapaneseOn	CHUU
 U+92F3	kMandarin	zhù
 U+92F4	kCantonese	hak1
-U+92F4	kMandarin	zhen
+U+92F4	kMandarin	zhèn
 U+92F5	kHanyuPinyin	64208.150:tū
 U+92F5	kMandarin	tū
 U+92F6	kCantonese	lau5
@@ -133405,7 +133405,7 @@ U+9302	kHanyuPinyin	64214.100:líng
 U+9302	kJapaneseOn	RYOU
 U+9302	kMandarin	líng
 U+9303	kCantonese	bei1
-U+9303	kMandarin	bēi
+U+9303	kMandarin	pī
 U+9304	kCantonese	luk6
 U+9304	kDefinition	copy, write down, record
 U+9304	kHangul	녹 록
@@ -133725,7 +133725,7 @@ U+9339	kHanyuPinyin	64218.040:kěn
 U+9339	kMandarin	kěn
 U+933A	kDefinition	metal jewelry
 U+933A	kJapaneseKun	KAZARI
-U+933A	kMandarin	fang
+U+933A	kMandarin	fāng
 U+933B	kDefinition	a tin plate
 U+933B	kJapaneseOn	BU
 U+933B	kMandarin	wu
@@ -133739,7 +133739,7 @@ U+933E	kCantonese	zaam6
 U+933E	kDefinition	engraving tool, chisel
 U+933E	kMandarin	zàn
 U+933E	kXHC1983	1439.120:zàn
-U+933F	kMandarin	hu
+U+933F	kMandarin	hǔ
 U+9340	kCantonese	dak1
 U+9340	kDefinition	technetium
 U+9340	kHanyuPinyin	64218.090:dé
@@ -133759,7 +133759,7 @@ U+9344	kJapaneseOn	KEI
 U+9344	kMandarin	liàng
 U+9344	kVietnamese	dí kiềng
 U+9345	kCantonese	faat3
-U+9345	kMandarin	fa
+U+9345	kMandarin	fǎ
 U+9346	kCantonese	mun4
 U+9346	kDefinition	mendelevium (Md)
 U+9346	kHanyuPinyin	64225.090:mén
@@ -133897,7 +133897,7 @@ U+935E	kJapaneseOn	KOU KYOU TEI
 U+935E	kMandarin	kēng
 U+935F	kCantonese	seng3
 U+935F	kDefinition	(Cant.) rust
-U+935F	kMandarin	xīng
+U+935F	kMandarin	shēng
 U+9360	kCantonese	wong4
 U+9360	kDefinition	weapon
 U+9360	kHanyuPinyin	64233.070:huáng
@@ -134377,16 +134377,16 @@ U+93B8	kDefinition	engraving tool; carve, engrave
 U+93B8	kMandarin	juān
 U+93B9	kDefinition	a clamp
 U+93B9	kJapaneseKun	KASUGAI
-U+93B9	kMandarin	song
+U+93B9	kMandarin	sòng
 U+93BA	kJapaneseKun	HABAKI
-U+93BA	kMandarin	zu
+U+93BA	kMandarin	zǔ
 U+93BB	kCantonese	so2
 U+93BB	kDefinition	lock, padlock; shackles, chains
 U+93BB	kMandarin	suǒ
 U+93BC	kMandarin	xià
 U+93BD	kCantonese	fung1
-U+93BD	kMandarin	feng
-U+93BE	kMandarin	wen
+U+93BD	kMandarin	fēng
+U+93BE	kMandarin	wēn
 U+93BF	kCantonese	laa4 naa4
 U+93BF	kDefinition	neptunium (Np)
 U+93BF	kHanyuPinyin	64242.070:ná
@@ -134650,7 +134650,7 @@ U+93ED	kMandarin	xī
 U+93EE	kCantonese	hong1
 U+93EE	kHanyuPinyin	64250.050:kāng
 U+93EE	kMandarin	kāng
-U+93EF	kMandarin	shuang
+U+93EF	kMandarin	shuǎng
 U+93F0	kCantonese	bang1
 U+93F0	kDefinition	coin, money
 U+93F0	kHanyuPinyin	64249.070:bèng
@@ -134733,7 +134733,7 @@ U+9401	kJapaneseOn	SHI
 U+9401	kMandarin	sī
 U+9402	kJapaneseKun	KOSHIKI KAMA KOROSU
 U+9402	kJapaneseOn	RYUU RU
-U+9402	kMandarin	liù
+U+9402	kMandarin	liú
 U+9403	kCantonese	naau4
 U+9403	kDefinition	cymbals; hand bell; disturb
 U+9403	kHangul	뇨
@@ -134873,7 +134873,7 @@ U+941A	kJapaneseKun	SHIKORO BITA
 U+941A	kJapaneseOn	A
 U+941A	kMandarin	yā
 U+941B	kCantonese	jing2
-U+941B	kMandarin	yìng
+U+941B	kMandarin	yǐng
 U+941C	kHanyuPinyin	64258.040:duī,dūn
 U+941C	kMandarin	duī
 U+941D	kCantonese	kyut3
@@ -134895,7 +134895,7 @@ U+9421	kJapaneseKun	KUROGANE KURO
 U+9421	kJapaneseOn	TETSU TECHI
 U+9421	kMandarin	tiě
 U+9422	kMandarin	fán
-U+9423	kMandarin	zhang
+U+9423	kMandarin	chēng
 U+9424	kCantonese	ding2
 U+9424	kDefinition	huge tripod of bronze with two ears; sacrificial vessel
 U+9424	kMandarin	dǐng
@@ -135137,7 +135137,7 @@ U+9452	kMandarin	jiàn
 U+9452	kXHC1983	0555.071:jiàn
 U+9453	kDefinition	spear, lance, javelin
 U+9453	kJapaneseKun	YARI
-U+9453	kMandarin	qian
+U+9453	kMandarin	qiǎn
 U+9454	kCantonese	caa2 caa4
 U+9454	kDefinition	cymbals
 U+9454	kHanyuPinyin	64269.010:chǎ
@@ -135236,7 +135236,7 @@ U+9465	kHanyuPinyin	64270.110:lǔ
 U+9465	kMandarin	lǔ
 U+9466	kMandarin	xian
 U+9467	kCantonese	jin6
-U+9467	kMandarin	kuan
+U+9467	kMandarin	kuān
 U+9467	kVietnamese	thoa khoan
 U+9468	kCantonese	lung4
 U+9468	kHanyuPinyin	64273.030:lóng
@@ -135403,7 +135403,7 @@ U+9482	kXHC1983	1120.041:tǎng
 U+9483	kCantonese	suk6
 U+9483	kJapaneseKun	SUKI
 U+9483	kJapaneseOn	SHOKU ZOKU CHOKU TOKU
-U+9483	kMandarin	shǔ
+U+9483	kMandarin	zhú
 U+9484	kJapaneseOn	RAN
 U+9484	kMandarin	lán
 U+9485	kDefinition	gold; money; KangXi radical 167
@@ -135456,7 +135456,7 @@ U+9490	kXHC1983	0997.060:shān 1000.070:shàn
 U+9491	kCantonese	zaap6
 U+9491	kDefinition	spear
 U+9491	kKorean	SAP
-U+9491	kMandarin	jí
+U+9491	kMandarin	sà
 U+9492	kCantonese	faan4
 U+9492	kDefinition	vanadium
 U+9492	kMandarin	fán
@@ -135556,7 +135556,7 @@ U+94A8	kMandarin	wū
 U+94A8	kXHC1983	1212.020:wū
 U+94A9	kCantonese	gau1 ngau1
 U+94A9	kDefinition	hook, barb; sickle; stroke with
-U+94A9	kHanyuPinlu	goū(42)
+U+94A9	kHanyuPinlu	gōu(42)
 U+94A9	kMandarin	gōu
 U+94A9	kXHC1983	0390.020:gōu
 U+94AA	kCantonese	kong3
@@ -135612,13 +135612,13 @@ U+94B5	kMandarin	bō
 U+94B5	kXHC1983	0081.010:bō
 U+94B6	kCantonese	o1
 U+94B6	kDefinition	columbium
-U+94B6	kMandarin	ē
+U+94B6	kMandarin	kē
 U+94B7	kDefinition	promethium
 U+94B7	kMandarin	pǒ
 U+94B7	kXHC1983	0885.020:pǒ
 U+94B8	kCantonese	bou3
 U+94B8	kDefinition	plutonium
-U+94B8	kMandarin	bù
+U+94B8	kMandarin	bū
 U+94B9	kCantonese	bat6
 U+94B9	kDefinition	cymbals
 U+94B9	kMandarin	bó
@@ -135650,7 +135650,7 @@ U+94BF	kMandarin	diàn
 U+94BF	kXHC1983	0247.010:diàn 1138.020:tián
 U+94C0	kCantonese	jau4
 U+94C0	kDefinition	uranium
-U+94C0	kHanyuPinlu	yoú(15)
+U+94C0	kHanyuPinlu	yóu(15)
 U+94C0	kMandarin	yóu
 U+94C0	kXHC1983	1400.030:yóu
 U+94C1	kCantonese	tit3
@@ -135738,7 +135738,7 @@ U+94D4	kCantonese	aa3
 U+94D4	kDefinition	soft steel; ammonium
 U+94D4	kJapaneseKun	SHIKORO
 U+94D4	kJapaneseOn	A E
-U+94D4	kMandarin	yà
+U+94D4	kMandarin	yā
 U+94D5	kCantonese	jau5
 U+94D5	kDefinition	europium
 U+94D5	kMandarin	yǒu
@@ -136502,7 +136502,7 @@ U+958A	kDefinition	to be obstructed, blocked; to break down
 U+958A	kHangul	산
 U+958A	kJapaneseKun	TSUKAERU
 U+958A	kKorean	SAN
-U+958A	kMandarin	shan
+U+958A	kMandarin	shān
 U+958B	kCantonese	hoi1
 U+958B	kDefinition	open; initiate, begin, start
 U+958B	kHangul	개
@@ -136832,7 +136832,7 @@ U+95BF	kHanyuPinyin	74305.040:wén
 U+95BF	kJapaneseKun	MIRU
 U+95BF	kJapaneseOn	BUN
 U+95BF	kMandarin	wén
-U+95C0	kMandarin	xiàng
+U+95C0	kMandarin	hòng
 U+95C1	kHanyuPinyin	74306.100:bāo
 U+95C1	kMandarin	bāo
 U+95C2	kHanyuPinyin	74305.020:hòng,xiàng,juǎn
@@ -136917,7 +136917,7 @@ U+95CD	kJapaneseKun	UTENA
 U+95CD	kJapaneseOn	TO JA
 U+95CD	kKorean	TO
 U+95CD	kMandarin	dū
-U+95CE	kMandarin	quan
+U+95CE	kMandarin	quán
 U+95CF	kKorean	PHWUNG
 U+95CF	kMandarin	fēng
 U+95D0	kCantonese	tin4
@@ -137098,7 +137098,7 @@ U+95EA	kMandarin	shǎn
 U+95EA	kXHC1983	0998.050:shǎn
 U+95EB	kCantonese	jim4
 U+95EB	kDefinition	village gate
-U+95EB	kMandarin	yàn
+U+95EB	kMandarin	yán
 U+95EC	kCantonese	hon6
 U+95EC	kDefinition	village
 U+95EC	kMandarin	hàn
@@ -137548,7 +137548,7 @@ U+9642	kHanyuPinyin	64124.050:bēi,bì,pō,pí
 U+9642	kJapaneseKun	TSUTSUMI
 U+9642	kJapaneseOn	HA HI
 U+9642	kKorean	PHI
-U+9642	kMandarin	bēi
+U+9642	kMandarin	bēi pí
 U+9642	kTang	byɛ pɑ
 U+9642	kVietnamese	bê
 U+9642	kXHC1983	0045.040:bēi 0869.060:pí 0884.060:pō
@@ -137596,7 +137596,7 @@ U+964A	kMandarin	duò
 U+964B	kCantonese	lau6
 U+964B	kDefinition	narrow; crude, coarse; ugly
 U+964B	kHangul	누 루
-U+964B	kHanyuPinlu	loù(9)
+U+964B	kHanyuPinlu	lòu(9)
 U+964B	kHanyuPinyin	64125.030:lòu
 U+964B	kJapaneseKun	SEMAI IYASHII
 U+964B	kJapaneseOn	ROU
@@ -137745,7 +137745,7 @@ U+9660	kMandarin	pū
 U+9661	kCantonese	dau2
 U+9661	kDefinition	steep, sloping; abruptly, sudden
 U+9661	kHangul	두
-U+9661	kHanyuPinlu	doǔ(31)
+U+9661	kHanyuPinlu	dǒu(31)
 U+9661	kHanyuPinyin	64129.060:dǒu
 U+9661	kJapaneseKun	SOBADATSU
 U+9661	kJapaneseOn	TOU TSU
@@ -137793,7 +137793,7 @@ U+9665	kJapaneseOn	KAN KEN
 U+9665	kKorean	HAM
 U+9665	kMandarin	xiàn
 U+9666	kJapaneseOn	TOU
-U+9666	kMandarin	dao
+U+9666	kMandarin	dǎo
 U+9667	kCantonese	nip6
 U+9667	kDefinition	in disorder; a dangerous condition of the State
 U+9667	kMandarin	niè
@@ -138004,7 +138004,7 @@ U+9684	kHanyuPinyin	64144.020:dī
 U+9684	kJapaneseKun	TSUTSUMI
 U+9684	kJapaneseOn	TEI TAI SHI JI
 U+9684	kKorean	CEY
-U+9684	kMandarin	dī
+U+9684	kMandarin	dī tí
 U+9684	kTang	*dei dhei
 U+9684	kVietnamese	đê
 U+9684	kXHC1983	0229.051:dī
@@ -138158,7 +138158,7 @@ U+9697	kHanyuPinyin	64147.040:wěi,guī
 U+9697	kJapaneseKun	KEWASHII TAKAI
 U+9697	kJapaneseOn	KAI GAI KI
 U+9697	kKorean	OY
-U+9697	kMandarin	kuí
+U+9697	kMandarin	kuí wěi
 U+9697	kTang	nguə̌i
 U+9697	kXHC1983	0662.100:kuí 1198.050:wěi
 U+9698	kCantonese	aai3
@@ -138230,7 +138230,7 @@ U+96A0	kJapaneseKun	KAKURERU KAKUSU YORU
 U+96A0	kJapaneseOn	IN ON
 U+96A0	kKorean	UN
 U+96A0	kMandarin	yǐn
-U+96A1	kMandarin	sa
+U+96A1	kMandarin	sà
 U+96A2	kHanyuPinyin	64156.090:rǎo
 U+96A2	kMandarin	rǎo
 U+96A3	kCantonese	leon4
@@ -138346,7 +138346,7 @@ U+96B2	kCantonese	zat1
 U+96B2	kDefinition	stallion; promote
 U+96B2	kJapaneseKun	NOBORU
 U+96B2	kJapaneseOn	SHITSU CHOKU
-U+96B2	kMandarin	é
+U+96B2	kMandarin	zhì
 U+96B3	kCantonese	fai1
 U+96B3	kDefinition	to destroy; to overthrow
 U+96B3	kHangul	휴
@@ -138382,7 +138382,7 @@ U+96B6	kMandarin	lì
 U+96B6	kXHC1983	0699.030:lì
 U+96B7	kCantonese	dai6 lai6
 U+96B7	kDefinition	be subservient to; servant
-U+96B7	kHangul	례
+U+96B7	kHangul	례 예
 U+96B7	kJapaneseKun	SHIMOBE SHITAGAU
 U+96B7	kJapaneseOn	REI
 U+96B7	kKorean	LYEY
@@ -138391,7 +138391,7 @@ U+96B7	kTang	lèi
 U+96B7	kXHC1983	0699.032:lì
 U+96B8	kCantonese	dai6 lai6
 U+96B8	kDefinition	be subservient to; servant
-U+96B8	kHangul	예
+U+96B8	kHangul	례
 U+96B8	kHanyuPinlu	lì(73)
 U+96B8	kHanyuPinyin	74323.100:lì
 U+96B8	kJapaneseKun	SHIMOBE SHITAGAU
@@ -139059,7 +139059,7 @@ U+9716	kKorean	LIM
 U+9716	kMandarin	lín
 U+9716	kVietnamese	lâm
 U+9716	kXHC1983	0716.040:lín
-U+9717	kMandarin	ling
+U+9717	kMandarin	líng
 U+9718	kHanyuPinyin	64071.140:dòng
 U+9718	kMandarin	dòng
 U+9719	kCantonese	jing1
@@ -139356,7 +139356,7 @@ U+974B	kMandarin	lì
 U+974C	kHangul	보
 U+974C	kKorean	PO
 U+974C	kMandarin	bǎo
-U+974D	kMandarin	he
+U+974D	kMandarin	hè
 U+974E	kJapaneseKun	TSURU
 U+974E	kJapaneseOn	KAKU
 U+974E	kMandarin	hè
@@ -139689,7 +139689,7 @@ U+9781	kKorean	PHI
 U+9781	kMandarin	bèi
 U+9781	kXHC1983	0049.030:bèi
 U+9782	kCantonese	gaat3
-U+9782	kMandarin	jiá
+U+9782	kMandarin	jiē
 U+9783	kCantonese	wang4
 U+9783	kDefinition	board
 U+9783	kHanyuPinyin	74332.110:hóng
@@ -139714,7 +139714,7 @@ U+9785	kVietnamese	óng
 U+9785	kXHC1983	1333.080:yāng 1339.030:yàng
 U+9786	kDefinition	an archer's arm-protector
 U+9786	kJapaneseKun	TOMO
-U+9786	kMandarin	bing
+U+9786	kMandarin	bǐng
 U+9787	kCantonese	jan1
 U+9787	kHanyuPinyin	74334.070:yīn
 U+9787	kMandarin	yīn
@@ -139769,7 +139769,7 @@ U+978F	kMandarin	gǒng
 U+978F	kVietnamese	củng
 U+978F	kXHC1983	0387.011:gǒng
 U+9790	kJapaneseKun	KOHAZE
-U+9790	kMandarin	qia
+U+9790	kMandarin	qiǎ
 U+9791	kCantonese	taat3
 U+9791	kDefinition	tatars
 U+9791	kMandarin	dá
@@ -139907,7 +139907,7 @@ U+97A8	kJapaneseOn	KATSU GACHI SETSU
 U+97A8	kKorean	KAL
 U+97A8	kMandarin	hé
 U+97A8	kXHC1983	0451.030:hé
-U+97A9	kMandarin	xiào
+U+97A9	kMandarin	qiào
 U+97AA	kCantonese	mau4
 U+97AA	kHanyuPinyin	74345.050:mù,móu
 U+97AA	kMandarin	mù
@@ -140180,7 +140180,7 @@ U+97D4	kJapaneseKun	YUMIBUKURO
 U+97D4	kJapaneseOn	CHOU RYOU
 U+97D4	kMandarin	chàng
 U+97D4	kXHC1983	0125.030*,0125.031:chàng
-U+97D5	kMandarin	kuo
+U+97D5	kMandarin	kuò
 U+97D6	kDefinition	tan, soften
 U+97D6	kHanyuPinyin	74508.150:rǒu
 U+97D6	kMandarin	rǒu
@@ -140622,7 +140622,7 @@ U+9817	kHanyuPinyin	74366.100:pō,pò,pí
 U+9817	kJapaneseKun	KATAYORU SUKOBURU
 U+9817	kJapaneseOn	HA
 U+9817	kKorean	PHA
-U+9817	kMandarin	pō
+U+9817	kMandarin	pō pǒ
 U+9817	kTang	*pɑ pɑ̌
 U+9817	kVietnamese	phở
 U+9818	kCantonese	leng5 ling5
@@ -140706,7 +140706,7 @@ U+9824	kKorean	I
 U+9824	kMandarin	yí
 U+9825	kJapaneseKun	AGO OTOGAI
 U+9825	kJapaneseOn	I
-U+9825	kMandarin	shěn
+U+9825	kMandarin	yí
 U+9826	kCantonese	hoi4 hoi5
 U+9826	kDefinition	chin
 U+9826	kHangul	해
@@ -140741,7 +140741,7 @@ U+982C	kMandarin	jiá
 U+982D	kCantonese	tau4
 U+982D	kDefinition	head; top; chief, first; boss
 U+982D	kHangul	두
-U+982D	kHanyuPinlu	toú(3058) tou(715)
+U+982D	kHanyuPinlu	tóu(3058) tou(715)
 U+982D	kHanyuPinyin	74372.050:tóu,tou
 U+982D	kJapaneseKun	ATAMA KASHIRA KOUBE
 U+982D	kJapaneseOn	TOU ZU TO
@@ -141284,7 +141284,7 @@ U+9886	kXHC1983	0722.050:lǐng
 U+9887	kCantonese	po1 po2
 U+9887	kDefinition	lean one side; very, rather
 U+9887	kHanyuPinlu	pō(55)
-U+9887	kMandarin	pō
+U+9887	kMandarin	pǒ
 U+9887	kXHC1983	0884.050:pō
 U+9888	kCantonese	geng2
 U+9888	kDefinition	neck, throat
@@ -141436,7 +141436,7 @@ U+98A9	kHanyuPinyin	74481.060:biāo,diū
 U+98A9	kMandarin	biāo
 U+98AA	kDefinition	(Japanese) wind blowing down from the mountains
 U+98AA	kJapaneseKun	OROSHI
-U+98AA	kMandarin	gua
+U+98AA	kMandarin	guā
 U+98AB	kCantonese	fu4
 U+98AB	kDefinition	a storm
 U+98AB	kJapaneseOn	FU
@@ -141628,7 +141628,7 @@ U+98C9	kHanyuPinyin	74492.040:liáo
 U+98C9	kKorean	LYO
 U+98C9	kMandarin	liáo
 U+98CA	kCantonese	biu1
-U+98CA	kMandarin	biao
+U+98CA	kMandarin	biāo
 U+98CA	kTang	biɛu
 U+98CB	kHangul	실
 U+98CB	kHanyuPinyin	74492.180:sè
@@ -141891,7 +141891,7 @@ U+98F6	kMandarin	bì
 U+98F7	kHanyuPinyin	74446.180:jiě
 U+98F7	kMandarin	jiě
 U+98F8	kMandarin	tāo
-U+98F9	kMandarin	liǔ
+U+98F9	kMandarin	bǎo
 U+98FA	kCantonese	ci1
 U+98FA	kHanyuPinyin	74450.100:cí
 U+98FA	kMandarin	cí
@@ -142348,7 +142348,7 @@ U+9942	kHangul	온
 U+9942	kJapaneseKun	UDON
 U+9942	kJapaneseOn	UN
 U+9942	kKorean	ON
-U+9942	kMandarin	yún
+U+9942	kMandarin	wēn
 U+9943	kCantonese	mo4
 U+9943	kDefinition	bread
 U+9943	kHanyuPinyin	74467.070:mó
@@ -142762,7 +142762,7 @@ U+9995	kXHC1983	0818.080:náng 0818.100:nǎng
 U+9996	kCantonese	sau2
 U+9996	kDefinition	head; first; leader, chief; a poem
 U+9996	kHangul	수
-U+9996	kHanyuPinlu	shoǔ(492)
+U+9996	kHanyuPinlu	shǒu(492)
 U+9996	kHanyuPinyin	74500.010:shǒu
 U+9996	kJapaneseKun	KUBI KOUBE SHIRUSHI
 U+9996	kJapaneseOn	SHU SHUU
@@ -143285,14 +143285,14 @@ U+99F1	kKorean	LAK
 U+99F1	kMandarin	luò
 U+99F1	kTang	lɑk
 U+99F2	kJapaneseKun	SHUU
-U+99F2	kMandarin	zhou
+U+99F2	kMandarin	zhōu
 U+99F3	kHanyuPinyin	74554.090:dàn
 U+99F3	kMandarin	dàn
 U+99F4	kCantonese	haai5
 U+99F4	kDefinition	drum
 U+99F4	kJapaneseKun	ODOROKU
 U+99F4	kJapaneseOn	KAI GAI AI
-U+99F4	kMandarin	xiè
+U+99F4	kMandarin	hài
 U+99F5	kCantonese	lau4
 U+99F5	kJapaneseKun	KURIGE
 U+99F5	kJapaneseOn	RYUU RU
@@ -143480,7 +143480,7 @@ U+9A13	kDefinition	test, examine, inspect; verify
 U+9A13	kJapaneseKun	SHIRUSHI AKASHI TAMESU
 U+9A13	kJapaneseOn	KEN GEN
 U+9A13	kKorean	HEM
-U+9A13	kMandarin	yǎn
+U+9A13	kMandarin	yàn
 U+9A14	kHanyuPinyin	74565.080:gé
 U+9A14	kMandarin	gé
 U+9A15	kCantonese	jiu5
@@ -143675,7 +143675,7 @@ U+9A38	kJapaneseOn	SEN
 U+9A38	kKorean	SEN
 U+9A38	kMandarin	shàn
 U+9A39	kCantonese	kei4
-U+9A39	kMandarin	lí
+U+9A39	kMandarin	qí
 U+9A3A	kCantonese	zi3
 U+9A3A	kDefinition	heavy horse; horse unable to move because of twisted leg; plodding
 U+9A3A	kHanyuPinyin	74573.110:zhì,chì
@@ -143912,7 +143912,7 @@ U+9A5E	kMandarin	pīn
 U+9A5F	kCantonese	zaau6 zau6
 U+9A5F	kDefinition	procedure; gallop; sudden(ly)
 U+9A5F	kHangul	취
-U+9A5F	kHanyuPinlu	zhoù(20)
+U+9A5F	kHanyuPinlu	zhòu(20)
 U+9A5F	kHanyuPinyin	74581.120:zhòu
 U+9A5F	kJapaneseKun	HASERU NIWAKA
 U+9A5F	kJapaneseOn	SHUU
@@ -144236,7 +144236,7 @@ U+9AA3	kMandarin	chǎn
 U+9AA3	kXHC1983	0119.090:chǎn
 U+9AA4	kCantonese	zaau6 zau6
 U+9AA4	kDefinition	procedure; gallop; sudden(ly)
-U+9AA4	kHanyuPinlu	zhoù(20)
+U+9AA4	kHanyuPinlu	zhòu(20)
 U+9AA4	kMandarin	zhòu
 U+9AA4	kXHC1983	1506.200:zhòu
 U+9AA5	kCantonese	kei3
@@ -144659,7 +144659,7 @@ U+9AE9	kXHC1983	0075.102:bìn
 U+9AEA	kDefinition	hair
 U+9AEA	kJapaneseKun	KAMI
 U+9AEA	kJapaneseOn	HATSU
-U+9AEA	kMandarin	fà
+U+9AEA	kMandarin	fà fǎ
 U+9AEB	kCantonese	tiu4
 U+9AEB	kDefinition	children's hair style; a youngster
 U+9AEB	kHangul	초
@@ -144690,7 +144690,7 @@ U+9AEE	kHanyuPinyin	74521.120:fà
 U+9AEE	kJapaneseKun	KAMI
 U+9AEE	kJapaneseOn	HATSU
 U+9AEE	kKorean	PAL
-U+9AEE	kMandarin	fà
+U+9AEE	kMandarin	fà fǎ
 U+9AEE	kTang	*biæt
 U+9AEE	kXHC1983	0297.041:fà 0297.042:fǎ
 U+9AEF	kCantonese	jim4
@@ -145410,7 +145410,7 @@ U+9B5D	kHanyuPinyin	74674.050:jié,jì
 U+9B5D	kMandarin	jié
 U+9B5E	kDefinition	fish trap
 U+9B5E	kJapaneseKun	ERI
-U+9B5E	kMandarin	ba
+U+9B5E	kMandarin	bā
 U+9B5F	kCantonese	gung1 hung4
 U+9B5F	kDefinition	a ray, skate
 U+9B5F	kHanyuPinyin	74675.070:hóng,gōng
@@ -145527,9 +145527,9 @@ U+9B77	kHanyuPinyin	74676.130:yóu
 U+9B77	kJapaneseOn	YUU
 U+9B77	kMandarin	yóu
 U+9B78	kJapaneseOn	NAMAZU
-U+9B78	kMandarin	pian
+U+9B78	kMandarin	piàn
 U+9B79	kJapaneseKun	TODO
-U+9B79	kMandarin	mo
+U+9B79	kMandarin	mó
 U+9B7A	kHanyuPinyin	74680.060:hé,gě
 U+9B7A	kMandarin	hé
 U+9B7B	kHanyuPinyin	74681.060:xiá,xiā
@@ -145669,12 +145669,12 @@ U+9B94	kMandarin	jù
 U+9B95	kHanyuPinyin	74680.030:gū
 U+9B95	kMandarin	gū
 U+9B96	kJapaneseKun	KAJIKA KAJIKO
-U+9B96	kMandarin	shi
+U+9B96	kMandarin	shí
 U+9B97	kCantonese	dung1
 U+9B97	kHangul	동
 U+9B97	kJapaneseKun	KONOSHIRO
 U+9B97	kKorean	TONG
-U+9B97	kMandarin	dong
+U+9B97	kMandarin	dōng
 U+9B98	kMandarin	dai
 U+9B99	kMandarin	tà
 U+9B9A	kCantonese	git3
@@ -145803,13 +145803,13 @@ U+9BB0	kHanyuPinyin	74686.150:huí
 U+9BB0	kJapaneseOn	KAI GAI
 U+9BB0	kMandarin	huí
 U+9BB1	kJapaneseOn	BORA
-U+9BB1	kMandarin	lao
+U+9BB1	kMandarin	lǎo
 U+9BB2	kJapaneseKun	MATE KOCHI
-U+9BB2	kMandarin	fu
+U+9BB2	kMandarin	fú
 U+9BB3	kHanyuPinyin	74685.020:kào
 U+9BB3	kMandarin	kào
 U+9BB4	kJapaneseKun	GORI MEBARU
-U+9BB4	kMandarin	xiu
+U+9BB4	kMandarin	xiū
 U+9BB5	kHanyuPinyin	74692.080:duó
 U+9BB5	kMandarin	duó
 U+9BB6	kCantonese	gwan1
@@ -145871,7 +145871,7 @@ U+9BC1	kJapaneseOn	KOU KYOU
 U+9BC1	kKorean	KYENG
 U+9BC1	kMandarin	gěng
 U+9BC1	kTang	gæ̌ng
-U+9BC2	kMandarin	su
+U+9BC2	kMandarin	sū
 U+9BC3	kMandarin	wú
 U+9BC4	kHanyuPinyin	74690.050:qiú
 U+9BC4	kMandarin	qiú
@@ -145925,20 +145925,20 @@ U+9BCC	kHanyuPinyin	74691.180:kào
 U+9BCC	kMandarin	kào
 U+9BCD	kMandarin	méng
 U+9BCE	kJapaneseKun	UGUI
-U+9BCE	kMandarin	cheng
+U+9BCE	kMandarin	chéng
 U+9BCF	kCantonese	lei6
 U+9BCF	kDefinition	dialect name for a (bad tasting) blood clam
 U+9BCF	kJapaneseKun	ASARI UGUI
-U+9BCF	kMandarin	li
+U+9BCF	kMandarin	lí
 U+9BD0	kJapaneseKun	SUBASHIRI
-U+9BD0	kMandarin	zou
+U+9BD0	kMandarin	zǒu
 U+9BD1	kJapaneseKun	KAZUNOKO
-U+9BD1	kMandarin	xi
+U+9BD1	kMandarin	xī
 U+9BD2	kDefinition	a flathead (fish)
 U+9BD2	kHanyuPinyin	74694.010:yǒng
 U+9BD2	kJapaneseKun	KOCHI
 U+9BD2	kMandarin	yǒng
-U+9BD3	kMandarin	ní
+U+9BD3	kMandarin	shēn
 U+9BD4	kCantonese	zi1
 U+9BD4	kDefinition	mullet
 U+9BD4	kHangul	치
@@ -146095,11 +146095,11 @@ U+9BF0	kXHC1983	0830.021:nián
 U+9BF1	kCantonese	fu2
 U+9BF1	kDefinition	mythical dolphin-like fish
 U+9BF1	kJapaneseKun	SHACHI
-U+9BF1	kMandarin	hu
+U+9BF1	kMandarin	hǔ
 U+9BF2	kJapaneseKun	DOJOU
-U+9BF2	kMandarin	yu
+U+9BF2	kMandarin	yú
 U+9BF3	kJapaneseKun	SUKESOU
-U+9BF3	kMandarin	di
+U+9BF3	kMandarin	dǐ
 U+9BF4	kCantonese	sat1
 U+9BF4	kDefinition	cat fish
 U+9BF4	kHanyuPinyin	74699.120:shī
@@ -146107,7 +146107,7 @@ U+9BF4	kMandarin	shī
 U+9BF5	kJapaneseKun	AJI
 U+9BF5	kJapaneseOn	SOU
 U+9BF5	kMandarin	shēn
-U+9BF6	kMandarin	hǔn
+U+9BF6	kMandarin	huàn
 U+9BF7	kCantonese	tai4
 U+9BF7	kDefinition	anchovy
 U+9BF7	kHangul	제
@@ -146280,13 +146280,13 @@ U+9C16	kMandarin	tuǒ
 U+9C17	kHanyuPinyin	74700.050:hú
 U+9C17	kMandarin	hú
 U+9C18	kJapaneseKun	MUROAJI
-U+9C18	kMandarin	shi
+U+9C18	kMandarin	shì
 U+9C19	kHanyuPinyin	74699.200:ruò
 U+9C19	kJapaneseKun	WAKASAGI
 U+9C19	kJapaneseOn	HAYA
 U+9C19	kMandarin	ruò
 U+9C1A	kJapaneseKun	HARAKA
-U+9C1A	kMandarin	xuan
+U+9C1A	kMandarin	xuān
 U+9C1B	kCantonese	wan1
 U+9C1B	kDefinition	sardine
 U+9C1B	kHanyuPinyin	74701.070:wēn
@@ -146402,7 +146402,7 @@ U+9C2F	kJapaneseKun	IWASHI
 U+9C2F	kKorean	YAK
 U+9C2F	kMandarin	ruò
 U+9C30	kJapaneseKun	HATAHATA INA
-U+9C30	kMandarin	shen
+U+9C30	kMandarin	shén
 U+9C31	kCantonese	lin4
 U+9C31	kDefinition	silver carp, hypophthalmiathys
 U+9C31	kHangul	련
@@ -146647,9 +146647,9 @@ U+9C5A	kMandarin	xǐ
 U+9C5A	kXHC1983	1234.030*:xǐ
 U+9C5B	kDefinition	fish name
 U+9C5B	kJapaneseKun	ESO
-U+9C5B	kMandarin	zeng
+U+9C5B	kMandarin	zēng
 U+9C5C	kJapaneseOn	KYOU
-U+9C5C	kMandarin	xiang
+U+9C5C	kMandarin	xiāng
 U+9C5D	kCantonese	fan5
 U+9C5D	kDefinition	fish
 U+9C5D	kHanyuPinyin	74712.120:fèn
@@ -146715,12 +146715,12 @@ U+9C68	kJapaneseKun	GIGI
 U+9C68	kJapaneseOn	SHOU JOU
 U+9C68	kMandarin	cháng
 U+9C69	kJapaneseKun	HATAHATA
-U+9C69	kMandarin	lei
+U+9C69	kMandarin	léi
 U+9C6A	kJapaneseKun	SHIIRA
-U+9C6A	kMandarin	shu
+U+9C6A	kMandarin	shǔ
 U+9C6B	kJapaneseKun	MUTSU
 U+9C6B	kJapaneseOn	AI
-U+9C6B	kMandarin	ai
+U+9C6B	kMandarin	ài
 U+9C6C	kHanyuPinyin	74718.170:rú
 U+9C6C	kMandarin	rú
 U+9C6D	kCantonese	cai5
@@ -146739,7 +146739,7 @@ U+9C6E	kXHC1983	1303.051:xù
 U+9C6F	kHanyuPinyin	74716.040:hù
 U+9C6F	kMandarin	hù
 U+9C70	kJapaneseKun	SHIIRA
-U+9C70	kMandarin	shu
+U+9C70	kMandarin	shǔ
 U+9C71	kHanyuPinyin	74719.120:lì
 U+9C71	kMandarin	lì
 U+9C72	kCantonese	laap6 lip6
@@ -146884,7 +146884,7 @@ U+9C92	kCantonese	git3
 U+9C92	kDefinition	clam; oyster
 U+9C92	kMandarin	jié
 U+9C92	kXHC1983	0576.130:jié
-U+9C93	kMandarin	kǎo
+U+9C93	kMandarin	kào
 U+9C94	kCantonese	fui2
 U+9C94	kDefinition	kind of sturgeon, tuna
 U+9C94	kMandarin	wěi
@@ -147255,7 +147255,7 @@ U+9CEF	kJapaneseOn	HOU FUU
 U+9CEF	kKorean	PONG
 U+9CEF	kMandarin	fèng
 U+9CF0	kJapaneseKun	NIO
-U+9CF0	kMandarin	ru
+U+9CF0	kMandarin	rù
 U+9CF1	kCantonese	gon1 hon6
 U+9CF1	kHanyuPinyin	74615.050:gān,hàn,yàn
 U+9CF1	kMandarin	gān
@@ -147523,7 +147523,7 @@ U+9D26	kKorean	ANG
 U+9D26	kMandarin	yāng
 U+9D26	kTang	*qiɑng
 U+9D26	kVietnamese	ương
-U+9D27	kMandarin	ròng
+U+9D27	kMandarin	yù
 U+9D28	kCantonese	aap3 ngaap3
 U+9D28	kDefinition	duck; Anas species (various)
 U+9D28	kHangul	압
@@ -147541,7 +147541,7 @@ U+9D2A	kJapaneseOn	ITSU
 U+9D2A	kMandarin	yù
 U+9D2B	kDefinition	a snipe
 U+9D2B	kJapaneseKun	SHIGI
-U+9D2B	kMandarin	tian
+U+9D2B	kMandarin	tián
 U+9D2C	kDefinition	oriole, green finch
 U+9D2C	kJapaneseKun	UGUISU
 U+9D2C	kJapaneseOn	OU YOU
@@ -147662,16 +147662,16 @@ U+9D44	kHangul	치
 U+9D44	kJapaneseKun	TOBI
 U+9D44	kJapaneseOn	SHI
 U+9D44	kKorean	CHI
-U+9D44	kMandarin	zhī
+U+9D44	kMandarin	chī
 U+9D45	kHanyuPinyin	74631.090:luò,gé
 U+9D45	kJapaneseOn	RAKU KAKU KYAKU
 U+9D45	kMandarin	luò
 U+9D46	kJapaneseKun	CHIDORI
-U+9D46	kMandarin	heng
+U+9D46	kMandarin	héng
 U+9D47	kJapaneseKun	TOKI
-U+9D47	kMandarin	nian
+U+9D47	kMandarin	nián
 U+9D48	kJapaneseKun	TEN
-U+9D48	kMandarin	e
+U+9D48	kMandarin	ě
 U+9D49	kCantonese	lyun4
 U+9D49	kMandarin	luán
 U+9D4A	kCantonese	gaap3
@@ -147727,7 +147727,7 @@ U+9D54	kHanyuPinyin	74638.070:jùn
 U+9D54	kJapaneseOn	SHUN
 U+9D54	kKorean	CWUN
 U+9D54	kMandarin	jùn
-U+9D55	kMandarin	xùn
+U+9D55	kMandarin	jùn
 U+9D56	kCantonese	gip3
 U+9D56	kHanyuPinyin	74636.100:bī
 U+9D56	kMandarin	bī
@@ -147805,7 +147805,7 @@ U+9D63	kMandarin	lài
 U+9D64	kJapaneseKun	IKARUGA
 U+9D64	kMandarin	jiao
 U+9D65	kJapaneseKun	KAKESU
-U+9D65	kMandarin	pan
+U+9D65	kMandarin	pàn
 U+9D66	kHanyuPinyin	74644.010:lù
 U+9D66	kMandarin	lù
 U+9D67	kHanyuPinyin	74640.180:pí
@@ -148001,9 +148001,9 @@ U+9D8C	kCantonese	gwat6
 U+9D8C	kHanyuPinyin	74643.230:jué,qū
 U+9D8C	kMandarin	jué
 U+9D8D	kJapaneseKun	ISUKA
-U+9D8D	kMandarin	yi
+U+9D8D	kMandarin	yì
 U+9D8E	kJapaneseKun	KIKUITADAKI
-U+9D8E	kMandarin	zun
+U+9D8E	kMandarin	zūn
 U+9D8F	kDefinition	chicken
 U+9D8F	kJapaneseKun	NIWATORI TORI
 U+9D8F	kJapaneseOn	KEI
@@ -148124,7 +148124,7 @@ U+9DAA	kMandarin	jú
 U+9DAB	kCantonese	gaan2
 U+9DAB	kDefinition	thrush; Turdus naumanni
 U+9DAB	kJapaneseKun	TSUGUMI
-U+9DAB	kMandarin	dong
+U+9DAB	kMandarin	dōng
 U+9DAC	kCantonese	cong1
 U+9DAC	kDefinition	oriole
 U+9DAC	kHangul	창
@@ -148318,7 +148318,7 @@ U+9DCB	kMandarin	tú
 U+9DCB	kVietnamese	chà
 U+9DCC	kHanyuPinyin	74649.070:mǎ
 U+9DCC	kMandarin	mǎ
-U+9DCD	kMandarin	jiāo
+U+9DCD	kMandarin	xiāo
 U+9DCE	kMandarin	gāo
 U+9DCF	kDefinition	Caprimulgus indicus
 U+9DCF	kJapaneseKun	KASUI
@@ -148364,7 +148364,7 @@ U+9DD6	kMandarin	yī
 U+9DD7	kCantonese	au1
 U+9DD7	kDefinition	seagull, tern; Larus species (various)
 U+9DD7	kHangul	구
-U+9DD7	kHanyuPinlu	oū(13)
+U+9DD7	kHanyuPinlu	ōu(13)
 U+9DD7	kHanyuPinyin	74656.050:ōu
 U+9DD7	kJapaneseKun	KAMOME
 U+9DD7	kJapaneseOn	OU
@@ -148661,7 +148661,7 @@ U+9E12	kMandarin	yù
 U+9E13	kCantonese	leoi5
 U+9E13	kHanyuPinyin	74669.050:lěi
 U+9E13	kMandarin	lěi
-U+9E14	kMandarin	bào
+U+9E14	kMandarin	bǔ
 U+9E15	kCantonese	lou4
 U+9E15	kDefinition	cormorant
 U+9E15	kHangul	로
@@ -148758,7 +148758,7 @@ U+9E24	kMandarin	shī
 U+9E24	kXHC1983	1035.050:shī
 U+9E25	kCantonese	au1
 U+9E25	kDefinition	seagull, tern; Larus species (various)
-U+9E25	kHanyuPinlu	oū(13)
+U+9E25	kHanyuPinlu	ōu(13)
 U+9E25	kMandarin	ōu
 U+9E25	kXHC1983	0845.100:ōu
 U+9E26	kCantonese	aa1
@@ -149191,7 +149191,7 @@ U+9E83	kDefinition	till, plow
 U+9E83	kHanyuPinyin	74728.160:páo,biāo,piǎo
 U+9E83	kJapaneseKun	OOSHIKA
 U+9E83	kJapaneseOn	HOU BYOU
-U+9E83	kMandarin	páo
+U+9E83	kMandarin	páo biāo
 U+9E84	kCantonese	cou1
 U+9E84	kDefinition	coarse, rough, rude
 U+9E84	kHangul	추
@@ -149427,7 +149427,7 @@ U+9EAA	kMandarin	miàn
 U+9EAA	kXHC1983	0786.063:miàn
 U+9EAB	kCantonese	min6
 U+9EAB	kDefinition	flour; vermicelli; dough
-U+9EAB	kMandarin	miǎn
+U+9EAB	kMandarin	miàn
 U+9EAC	kCantonese	fu1
 U+9EAC	kJapaneseKun	FUSUMA
 U+9EAC	kJapaneseOn	FU
@@ -150270,7 +150270,7 @@ U+9F2F	kKorean	O
 U+9F2F	kMandarin	wú
 U+9F2F	kTang	ngo
 U+9F2F	kXHC1983	1218.090:wú
-U+9F30	kMandarin	niàn
+U+9F30	kMandarin	jú
 U+9F31	kCantonese	cing1 zing1
 U+9F31	kHanyuPinyin	74776.030:jīng
 U+9F31	kJapaneseOn	SEI SHOU
@@ -150336,7 +150336,7 @@ U+9F3C	kCantonese	hiu3
 U+9F3C	kDefinition	(Cant.) curving upwards
 U+9F3C	kJapaneseKun	KAGIBANA
 U+9F3C	kJapaneseOn	GYOU KYUU KU KYOU
-U+9F3C	kMandarin	yǎo
+U+9F3C	kMandarin	yào
 U+9F3D	kCantonese	kau4
 U+9F3D	kDefinition	clogged nose
 U+9F3D	kHanyuPinyin	74779.030:qiú
@@ -150621,7 +150621,7 @@ U+9F6A	kKorean	CHAK
 U+9F6A	kMandarin	chuò
 U+9F6B	kHangul	곤
 U+9F6B	kKorean	KON
-U+9F6B	kMandarin	kǔn
+U+9F6B	kMandarin	yǔn
 U+9F6C	kCantonese	jyu5
 U+9F6C	kDefinition	uneven teeth; to disagree
 U+9F6C	kHangul	어
@@ -150912,7 +150912,7 @@ U+9FA1	kDefinition	to blow, exhale
 U+9FA1	kJapaneseKun	FUKU FUKINARASU
 U+9FA1	kJapaneseOn	SUI
 U+9FA1	kKorean	CHWI
-U+9FA1	kMandarin	chuì
+U+9FA1	kMandarin	chuī
 U+9FA2	kCantonese	wo4
 U+9FA2	kDefinition	in harmony; calm, peaceful
 U+9FA2	kHangul	화
@@ -151872,6 +151872,8 @@ U+FA2D	kDefinition	crane
 U+FA2D	kJapaneseKun	TSURU
 U+FA2D	kJapaneseOn	KAKU
 U+FA2D	kKorean	HAK
+U+FA2E	kHangul	낭
+U+FA2F	kHangul	예
 U+20000	kDefinition	the sound made by breathing in; oh! (cf. U+311B BOPOMOFO LETTER O, which is derived from this character)
 U+20000	kHanyuPinyin	10011.010:hē
 U+20000	kMandarin	hē
@@ -187537,6 +187539,10 @@ U+2B6F8	kCantonese	tai4
 U+2B6F8	kDefinition	a kind of hawk; cuckoo
 U+2B6F8	kMandarin	tí
 U+2B6F8	kXHC1983	1128.010:tí
+U+2B851	kMandarin	yīn
+U+2C494	kCantonese	ngang2
+U+2C494	kDefinition	for something hard or bulging to press against the body and cause it discomfort
+U+2CABF	kDefinition	a square meter; one hundredth of a 公畝 
 U+2F825	kCantonese	jung5
 U+2F835	kDefinition	ashes, lime
 U+2F83B	kCantonese	jiu1

@@ -1,10 +1,11 @@
-# BidiTest-8.0.0.txt
-# Date: 2014-12-16, 23:07:28 GMT [MD]
+# BidiTest-9.0.0.txt
+# Date: 2016-03-02, 18:54:52 GMT
+# © 2016 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
 #
 # Unicode Character Database
-# Copyright (c) 1991-2014 Unicode, Inc.
-# For terms of use, see http://www.unicode.org/terms_of_use.html
-# For documentation, see http://www.unicode.org/reports/tr44/
+#   For documentation, see http://www.unicode.org/reports/tr44/
 #
 # This file provides a conformance test for UBA (Unicode Bidi Algorithm) implementations.
 # It is designed to be reasonably compact, and yet provide a thorough test of all cases up to
