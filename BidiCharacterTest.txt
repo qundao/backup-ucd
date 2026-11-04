@@ -1,14 +1,14 @@
-# BidiCharacterTest-14.0.0.txt
-# Date: 2020-03-30, 23:56:00 GMT [LI]
-# © 2020 Unicode®, Inc.
-# For terms of use, see http://www.unicode.org/terms_of_use.html
+# BidiCharacterTest-15.0.0.txt
+# Date: 2022-05-03, 18:46:00 GMT [LI]
+# © 2022 Unicode®, Inc.
+# For terms of use, see https://www.unicode.org/terms_of_use.html
 #
 # Unicode Character Database
-# For documentation, see http://www.unicode.org/reports/tr44/
+# For documentation, see https://www.unicode.org/reports/tr44/
 #
 # This file provides a conformance test for implementations of the
 # Unicode Bidirectional Algorithm, specified in UAX #9: Unicode
-# Bidirectional Algorithm, at http://www.unicode.org/reports/tr9/
+# Bidirectional Algorithm, at https://www.unicode.org/reports/tr9/
 #
 # The test data has been generated with a few constraints. Each test case
 # is a single paragraph, so the test data does not contain any characters
