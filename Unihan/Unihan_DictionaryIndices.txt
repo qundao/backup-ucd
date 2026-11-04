@@ -1,10 +1,11 @@
 #
 # Unihan_DictionaryIndices.txt
-# Date: 2017-05-14 07:01:48 GMT [JHJ]
-# Unicode version: 10.0.0
+# Date: 2018-05-18 02:15:26 GMT [JHJ]
+# Unicode version: 11.0.0
 #
 # Unicode Character Database
-# © 1991-2017 Unicode®, Inc.
+# © 2018 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 # For documentation, see http://www.unicode.org/reports/tr44/
 #
@@ -12866,6 +12867,7 @@ U+4341	kIRGKangXi	0944.251
 U+4342	kHanYu	52935.030
 U+4342	kIRGHanyuDaZidian	52935.030
 U+4342	kIRGKangXi	0944.290
+U+4343	kFennIndex	617.03
 U+4343	kGSR	1144a
 U+4343	kHanYu	52936.010
 U+4343	kIRGHanyuDaZidian	52936.010
@@ -230999,6 +231001,12 @@ U+9FC3	kHanYu	42490.030
 U+9FC3	kIRGHanyuDaZidian	42490.030
 U+9FC3	kIRGKangXi	0809.020
 U+9FC3	kKangXi	0809.020
+U+9FEB	kIRGKangXi	0600.051
+U+9FEB	kKangXi	0600.051
+U+9FEC	kIRGKangXi	0829.331
+U+9FEC	kKangXi	0829.331
+U+9FED	kIRGKangXi	1303.101
+U+9FED	kKangXi	1303.101
 U+F900	kKangXi	0000.900
 U+F900	kMorohashi	00000
 U+F901	kKangXi	0000.901
@@ -300403,6 +300411,7 @@ U+27037	kIRGKangXi	1065.370
 U+27038	kHanYu	53320.080
 U+27038	kIRGHanyuDaZidian	53320.080
 U+27038	kIRGKangXi	1065.380
+U+27039	kFennIndex	21.13
 U+27039	kHanYu	53321.120
 U+27039	kIRGHanyuDaZidian	53321.120
 U+27039	kIRGKangXi	1066.040
@@ -337527,6 +337536,8 @@ U+2BF38	kCowles	5086
 U+2BF38	kMeyerWempe	3799
 U+2BF39	kCheungBauerIndex	409.05
 U+2BF3A	kCheungBauerIndex	411.02
+U+2BF6E	kFennIndex	497.06
+U+2BF6E	kLau	599
 U+2C028	kCheungBauerIndex	429.06
 U+2C037	kFennIndex	437.02
 U+2C037	kMatthews	5665
@@ -337551,6 +337562,7 @@ U+2C415	kCheungBauerIndex	442.04
 U+2C416	kCheungBauerIndex	442.07
 U+2C41A	kMatthews	2011
 U+2C45F	kCheungBauerIndex	445.02
+U+2C461	kFennIndex	92.08
 U+2C494	kCheungBauerIndex	447.04
 U+2C498	kFennIndex	183.04
 U+2C4A1	kCheungBauerIndex	447.10
@@ -337616,6 +337628,7 @@ U+2CDEF	kCowles	380
 U+2CE33	kCowles	1469
 U+2CE33	kMeyerWempe	970
 U+2CE76	kCheungBauerIndex	475.01
+U+2D016	kFennIndex	295.08
 U+2F817	kMeyerWempe	3946a
 U+2F835	kFennIndex	207.06
 U+2F8E0	kCowles	1518
