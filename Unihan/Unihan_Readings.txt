@@ -1,10 +1,10 @@
 #
 # Unihan_Readings.txt
-# Date: 2011-08-08 22:10:53 GMT [JHJ]
-# Unicode version: 6.1.0
+# Date: 2012-08-17 17:13:30 GMT [JHJ]
+# Unicode version: 6.2.0
 #
 # Unicode Character Database
-# Copyright (c) 1991-2011 Unicode, Inc.
+# Copyright (c) 1991-2012 Unicode, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 # For documentation, see http://www.unicode.org/reports/tr44/
 #
@@ -997,7 +997,7 @@ U+355C	kDefinition	(ancient form of 史) history; chronicles; annals
 U+355C	kMandarin	shǐ
 U+355C	kXHC1983	1044.030:shǐ
 U+355E	kCantonese	caat3
-U+355E	kDefinition	(same as U+5237 刷) a brush, to brush; to clean; to scrub, to print, expecially from blocks
+U+355E	kDefinition	(same as U+5237 刷) a brush, to brush; to clean; to scrub, to print, especially from blocks
 U+355E	kHanyuPinyin	10397.020:shuā
 U+355E	kMandarin	shuā
 U+355F	kCantonese	wai2
@@ -1793,8 +1793,7 @@ U+365A	kMandarin	xīng
 U+365B	kCantonese	bou2
 U+365B	kDefinition	a person's name in old times
 U+365B	kHanyuPinyin	10471.010:bǔ
-U+365B	kMandarin	zhuān
-U+365B	kXHC1983	1518.013:zhuān
+U+365B	kMandarin	bǔ
 U+365C	kCantonese	ci4 toi4
 U+365C	kDefinition	(ancient and corrupted form of U+81FA 臺) a lookout, a tower, a terrace, a platform, a stage
 U+365C	kMandarin	chí
@@ -4493,7 +4492,7 @@ U+3987	kDefinition	a peaceful or easy mood; calm at mind, to move; to turn the m
 U+3987	kHanyuPinyin	42347.110:lù
 U+3987	kMandarin	lù
 U+3989	kCantonese	ci2 zi3
-U+3989	kDefinition	(ancient form of 懿) virtuous, expecially women, admirable; esteemed; excellent
+U+3989	kDefinition	(ancient form of 懿) virtuous, especially women, admirable; esteemed; excellent
 U+3989	kMandarin	yì
 U+3989	kVietnamese	nhát
 U+398A	kCantonese	waa4
@@ -11357,7 +11356,7 @@ U+417C	kDefinition	a kind of grains, to plant; to sow; to cultivate
 U+417C	kHanyuPinyin	42628.150:mán,màn
 U+417C	kMandarin	mán
 U+417D	kCantonese	hing1
-U+417D	kDefinition	(same as 馨) fragrance or aroma (expecially that which comes from after), (same as 榖) grains and corns; cereals
+U+417D	kDefinition	(same as 馨) fragrance or aroma (especially that which comes from after), (same as 榖) grains and corns; cereals
 U+417D	kHanyuPinyin	42627.050:xīn,gǔ
 U+417D	kMandarin	xīn
 U+417E	kCantonese	sam4
@@ -19051,7 +19050,7 @@ U+4A5C	kDefinition	(same as 冑) descendants; posterity, a helmet; a head-gear i
 U+4A5C	kHanyuPinyin	74330.110:zhòu
 U+4A5C	kMandarin	zhòu
 U+4A5D	kCantonese	pau4
-U+4A5D	kDefinition	(non-classical form of 鞄) to tan and soften leather, (same as 匏) a bottle-gourd, one of the eight kinds of musical sounds, a kind of musical instrument, (interchangeable 枹) a drum-stick (interchangeable 包) handbag or purse (expecially one made of leather)
+U+4A5D	kDefinition	(non-classical form of 鞄) to tan and soften leather, (same as 匏) a bottle-gourd, one of the eight kinds of musical sounds, a kind of musical instrument, (interchangeable 枹) a drum-stick (interchangeable 包) handbag or purse (especially one made of leather)
 U+4A5D	kHanyuPinyin	74331.040:páo
 U+4A5D	kMandarin	páo
 U+4A5E	kDefinition	a saddle-flap, trappings
@@ -22821,6 +22820,7 @@ U+4E50	kDefinition	happy, glad; enjoyable; music
 U+4E50	kHanyuPinlu	le4(283) yue4(54)
 U+4E50	kMandarin	lè
 U+4E50	kXHC1983	0683.040:lè 1430.060:yuè
+U+4E51	kCantonese	jam4
 U+4E51	kDefinition	stand side by side
 U+4E51	kHanyuPinyin	10038.050:yín,pān,zhòng
 U+4E51	kJapaneseKun	NARABITATSU
@@ -25882,7 +25882,7 @@ U+4FFD	kJapaneseKun	YOROKOBU
 U+4FFD	kJapaneseOn	KIN KON
 U+4FFD	kMandarin	xīn
 U+4FFE	kCantonese	bei2
-U+4FFE	kDefinition	so that, in order that; cause
+U+4FFE	kDefinition	so that, in order that; to cause; (Cant.) to give (synonymous with Mandarin 給)
 U+4FFE	kHangul	비
 U+4FFE	kHanyuPinyin	10180.020:bǐ,bì,bēi,pì
 U+4FFE	kJapaneseKun	SHIMU
@@ -41209,6 +41209,7 @@ U+587C	kJapaneseKun	KAHARA
 U+587C	kJapaneseOn	SEN TAN DAN ZEN
 U+587C	kKorean	CEN
 U+587C	kMandarin	zhuān
+U+587C	kXHC1983	1518.013:zhuān
 U+587D	kCantonese	song2
 U+587D	kDefinition	plateau
 U+587D	kHangul	상
@@ -110667,7 +110668,7 @@ U+849E	kKorean	LI
 U+849E	kMandarin	lì
 U+849E	kXHC1983	0696.021:lì
 U+849F	kCantonese	geoi2 lau1
-U+849F	kDefinition	betel pepper; Amorphaphalus konjac
+U+849F	kDefinition	betel pepper; Amorphophallus konjac
 U+849F	kHangul	구
 U+849F	kHanyuPinyin	53268.100:jǔ
 U+849F	kJapaneseOn	KON KU
@@ -148910,7 +148911,7 @@ U+9F4F	kKorean	CEY
 U+9F4F	kMandarin	jī
 U+9F4F	kXHC1983	0518.011:jī
 U+9F50	kCantonese	cai4
-U+9F50	kDefinition	6576656E2C20756E69666F726D2C206F6620657175616C206C656E677468
+U+9F50	kDefinition	even, uniform, of equal length
 U+9F50	kHanyuPinlu	qi2(190)
 U+9F50	kMandarin	qí
 U+9F50	kXHC1983	0531.120:jì 0894.110:qí
